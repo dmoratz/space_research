@@ -1,0 +1,752 @@
+"""
+analyze_book.py
+---------------
+Sends individual book chapters to Google Gemini and asks a structured set of
+NLP research questions about how space is portrayed. Answers are constrained
+to predefined options loaded from the project's question-answer set.
+
+Supports both .txt and .pdf chapter files.
+
+Usage:
+    # Multiple chapter files (txt or pdf, can mix):
+    python analyze_book.py --book-title "Leviathan Wakes" \
+                           --chapters ch01.txt ch02.pdf ch03.txt \
+                           --output results.csv
+
+    # Single chapter via stdin:
+    cat chapter3.txt | python analyze_book.py --book-title "Dune" \
+                                               --chapter-label "Chapter 3"
+
+    # Resume after a crash (skips already-completed chapters):
+    python analyze_book.py --book-title "Dune" \
+                           --chapters ch*.txt \
+                           --output results.csv --resume
+
+Environment:
+    GEMINI_API_KEY   – required, your Google AI Studio / Vertex API key
+    GEMINI_MODEL     – optional, defaults to gemini-2.0-flash
+"""
+
+import argparse
+import base64
+import csv
+import json
+import os
+import sys
+import time
+from pathlib import Path
+
+from google import genai
+from google.genai import types
+import openpyxl
+
+# ---------------------------------------------------------------------------
+# Configuration
+# ---------------------------------------------------------------------------
+
+DEFAULT_MODEL = "gemini-2.0-flash"
+QUESTIONS_FILE = Path(__file__).parent / "data" / "nlp_question_answer_set.xlsx"
+
+# How long to wait between API calls to avoid rate-limiting (seconds)
+REQUEST_DELAY = 1.0
+
+# Max retries on transient API errors
+MAX_RETRIES = 3
+
+# Rough token estimate: 1 token ≈ 4 characters for English text.
+# Gemini models accept up to ~1M tokens, but we set a conservative
+# per-chapter warning threshold to catch garbage input early.
+CHARS_PER_TOKEN = 4
+TOKEN_WARN_THRESHOLD = 200_000   # warn if a single chapter exceeds this
+TOKEN_HARD_LIMIT = 900_000       # refuse if a chapter would blow the context
+
+
+# ---------------------------------------------------------------------------
+# Chapter content — either plain text or a native PDF blob
+# ---------------------------------------------------------------------------
+
+class ChapterContent:
+    """
+    Wraps a chapter that came from either a .txt or .pdf file.
+    PDFs are kept as raw bytes and sent natively to Gemini (no text
+    extraction), which preserves layout and handles scanned pages.
+    """
+
+    def __init__(self, *, text: str | None = None, pdf_bytes: bytes | None = None):
+        if text is None and pdf_bytes is None:
+            raise ValueError("ChapterContent requires either text or pdf_bytes")
+        self.text = text
+        self.pdf_bytes = pdf_bytes
+
+    @property
+    def is_pdf(self) -> bool:
+        return self.pdf_bytes is not None
+
+    @property
+    def size_estimate_chars(self) -> int:
+        """Rough character count for size-checking purposes."""
+        if self.text:
+            return len(self.text)
+        # For PDFs, use raw byte size as a rough proxy (overestimates,
+        # but that's fine for a safety check).
+        return len(self.pdf_bytes) if self.pdf_bytes else 0
+
+
+def read_chapter_file(path: Path) -> ChapterContent:
+    """
+    Read a chapter file.  Returns a ChapterContent that holds either
+    plain text (.txt) or raw PDF bytes (.pdf).
+    """
+    suffix = path.suffix.lower()
+
+    if suffix == ".txt":
+        return ChapterContent(text=_read_txt(path))
+    elif suffix == ".pdf":
+        pdf_bytes = path.read_bytes()
+        if not pdf_bytes:
+            raise ValueError(f"{path} is an empty file")
+        return ChapterContent(pdf_bytes=pdf_bytes)
+    else:
+        raise ValueError(
+            f"Unsupported file type '{suffix}' for {path}. "
+            f"Use .txt or .pdf files."
+        )
+
+
+def _read_txt(path: Path) -> str:
+    """Read a plain-text file, trying common encodings."""
+    for encoding in ("utf-8", "utf-8-sig", "latin-1", "cp1252"):
+        try:
+            return path.read_text(encoding=encoding)
+        except UnicodeDecodeError:
+            continue
+    # Last resort: read as latin-1 which never fails
+    return path.read_text(encoding="latin-1")
+
+
+# ---------------------------------------------------------------------------
+# Token estimation & guardrails
+# ---------------------------------------------------------------------------
+
+def estimate_tokens(content: ChapterContent) -> int:
+    """Rough token count (1 token ≈ 4 chars for English text)."""
+    return content.size_estimate_chars // CHARS_PER_TOKEN
+
+
+def check_chapter_size(content: ChapterContent, label: str) -> None:
+    """
+    Warn or abort if a chapter is unusually large.
+    This catches cases like accidentally passing an entire book as one chapter.
+    """
+    tokens = estimate_tokens(content)
+    chars = content.size_estimate_chars
+    words = len(content.text.split()) if content.text else chars // 5
+
+    if tokens > TOKEN_HARD_LIMIT:
+        print(
+            f"\nERROR: '{label}' is extremely large "
+            f"(~{words:,} words, ~{tokens:,} est. tokens).\n"
+            f"This likely means a full book was passed as a single chapter.\n"
+            f"Split the text into individual chapters and retry."
+        )
+        sys.exit(1)
+
+    if tokens > TOKEN_WARN_THRESHOLD:
+        print(
+            f"\n  WARNING: '{label}' is very large "
+            f"(~{words:,} words, ~{tokens:,} est. tokens).\n"
+            f"  The analysis will proceed, but results may be less precise\n"
+            f"  for very long inputs. Consider splitting into smaller chunks."
+        )
+
+
+# ---------------------------------------------------------------------------
+# Load questions from the xlsx
+# ---------------------------------------------------------------------------
+
+def load_questions(path: Path = QUESTIONS_FILE) -> list[dict]:
+    """
+    Returns a list of dicts, each with:
+        - number:          int
+        - criteria:        str   (full question text)
+        - criteria_short:  str   (abbreviated label)
+        - answer_options:  list[str]  (valid answer choices)
+    """
+    wb = openpyxl.load_workbook(path)
+    ws = wb.active
+
+    questions = []
+    for row in ws.iter_rows(min_row=4, min_col=1, max_col=5, values_only=True):
+        # Columns: A(skip), B = #, C = Criteria, D = Criteria Short, E = Answer Options
+        _, num, crit, short, opts = row
+
+        if num is None or crit is None:
+            continue
+
+        answer_options = [o.strip() for o in opts.split(";") if o.strip()] if opts else []
+
+        questions.append({
+            "number": int(num),
+            "criteria": crit.strip(),
+            "criteria_short": short.strip() if short else crit.strip(),
+            "answer_options": answer_options,
+        })
+
+    wb.close()
+    return questions
+
+
+# ---------------------------------------------------------------------------
+# Gemini interaction
+# ---------------------------------------------------------------------------
+
+def create_gemini_client(api_key: str | None = None) -> genai.Client:
+    """Create and return a reusable Gemini client."""
+    key = api_key or os.environ.get("GEMINI_API_KEY")
+    if not key:
+        print("ERROR: provide --api-key or set the GEMINI_API_KEY env variable.")
+        sys.exit(1)
+    return genai.Client(api_key=key)
+
+
+def _build_questions_block(questions: list[dict]) -> str:
+    """Format all questions with their options into a text block."""
+    block = ""
+    for q in questions:
+        opts = " | ".join(q["answer_options"])
+        block += f"\nQuestion {q['number']}: {q['criteria']}\n  Options: {opts}\n"
+    return block
+
+
+def build_batched_prompt(content: ChapterContent, questions: list[dict]) -> list:
+    """
+    Constructs the contents list for a batched (all-questions) API call.
+
+    For .txt chapters:  a single text string prompt.
+    For .pdf chapters:  a list of Parts — [PDF blob, text instructions].
+
+    IMPORTANT: Each prompt is self-contained — no conversation history or
+    prior chapter context is carried between calls.
+    """
+    questions_block = _build_questions_block(questions)
+
+    instructions = f"""You are a literary-analysis assistant helping researchers study how
+science-fiction books portray outer space.
+
+The attached document is a chapter from a science-fiction novel.  Read it
+carefully, then answer EVERY research question listed below.  For each
+question you MUST choose exactly ONE answer from its provided options.  If
+you are genuinely unsure about a question, choose "Other / Unsure".
+
+Return your response as a JSON array of objects, one per question, in order.
+Each object must have these keys:
+  "question_number" – the question number (integer)
+  "answer"          – the exact text of the chosen option (copy it verbatim)
+  "justification"   – 1-3 sentences explaining why, citing chapter details.
+
+RESEARCH QUESTIONS:
+{questions_block}
+
+Respond ONLY with the JSON array, no markdown fencing."""
+
+    if content.is_pdf:
+        return [
+            types.Part.from_bytes(data=content.pdf_bytes, mime_type="application/pdf"),
+            instructions,
+        ]
+    else:
+        return f"""---
+CHAPTER TEXT:
+{content.text}
+---
+
+{instructions}"""
+
+
+def build_single_prompt(content: ChapterContent, question: dict) -> list | str:
+    """
+    Constructs the contents for a single-question API call.
+    Used only in --one-by-one fallback mode.
+    """
+    options_str = "\n".join(f"  - {opt}" for opt in question["answer_options"])
+
+    instructions = f"""You are a literary-analysis assistant helping researchers study how
+science-fiction books portray outer space.
+
+The attached document is a chapter from a science-fiction novel.  Read it
+carefully, then answer the research question.  You MUST choose exactly ONE
+answer from the provided options.  If you are genuinely unsure, choose
+"Other / Unsure".
+
+Return your response as JSON with two keys:
+  "answer"       – the exact text of the chosen option (copy it verbatim)
+  "justification" – 1-3 sentences explaining why you chose that answer,
+                    citing specific passages or details from the chapter.
+
+RESEARCH QUESTION:
+{question["criteria"]}
+
+ANSWER OPTIONS:
+{options_str}
+
+Respond ONLY with the JSON object, no markdown fencing."""
+
+    if content.is_pdf:
+        return [
+            types.Part.from_bytes(data=content.pdf_bytes, mime_type="application/pdf"),
+            instructions,
+        ]
+    else:
+        return f"""---
+CHAPTER TEXT:
+{content.text}
+---
+
+{instructions}"""
+
+
+def _parse_json_response(text: str):
+    """
+    Parse a JSON response from the model, stripping markdown fences if
+    present.  Returns a dict or list depending on the prompt mode.
+    """
+    text = text.strip()
+    if text.startswith("```"):
+        text = text.split("\n", 1)[1]   # drop opening fence line
+        text = text.rsplit("```", 1)[0] # drop closing fence
+        text = text.strip()
+    return json.loads(text)
+
+
+def query_gemini(
+    client: genai.Client,
+    prompt: str,
+    model_name: str = DEFAULT_MODEL,
+):
+    """
+    Sends a prompt to Gemini and returns the parsed JSON response
+    (either a dict or a list, depending on the prompt).
+    Retries on transient failures with exponential backoff.
+    """
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            response = client.models.generate_content(
+                model=model_name,
+                contents=prompt,
+            )
+
+            # Handle cases where the model returns nothing
+            if not response.text:
+                return {
+                    "answer": "ERROR",
+                    "justification": "(model returned empty response)",
+                }
+
+            return _parse_json_response(response.text)
+
+        except json.JSONDecodeError:
+            # Model returned non-JSON — wrap it as best-effort
+            return {
+                "answer": response.text.strip(),
+                "justification": "(model did not return valid JSON)",
+            }
+
+        except Exception as e:
+            if attempt < MAX_RETRIES:
+                wait = 2 ** attempt
+                print(f"  [retry {attempt}/{MAX_RETRIES}] {e} — waiting {wait}s")
+                time.sleep(wait)
+            else:
+                # Return an error row instead of crashing the whole run
+                return {
+                    "answer": "API_ERROR",
+                    "justification": f"(failed after {MAX_RETRIES} retries: {e})",
+                }
+
+    return {"answer": "ERROR", "justification": "Max retries exceeded"}
+
+
+# ---------------------------------------------------------------------------
+# Answer validation
+# ---------------------------------------------------------------------------
+
+def validate_answer(answer: str, valid_options: list[str]) -> str:
+    """
+    Check whether the model's answer exactly matches one of the allowed
+    options.  If not, try a fuzzy match (case-insensitive, stripped).
+    Returns the canonical option text, or the original answer prefixed
+    with [UNMATCHED] so the researcher can review it.
+    """
+    # Exact match
+    if answer in valid_options:
+        return answer
+
+    # Case-insensitive / whitespace-insensitive match
+    answer_norm = answer.strip().lower()
+    for opt in valid_options:
+        if opt.strip().lower() == answer_norm:
+            return opt  # return the canonical version
+
+    # Substring containment — model sometimes adds extra words
+    for opt in valid_options:
+        if opt.strip().lower() in answer_norm or answer_norm in opt.strip().lower():
+            return opt
+
+    return f"[UNMATCHED] {answer}"
+
+
+# ---------------------------------------------------------------------------
+# Analyze a single chapter against all questions
+# ---------------------------------------------------------------------------
+
+def analyze_chapter(
+    client: genai.Client,
+    chapter_text: str,
+    chapter_label: str,
+    book_title: str,
+    questions: list[dict],
+    model_name: str = DEFAULT_MODEL,
+    one_by_one: bool = False,
+) -> list[dict]:
+    """
+    Returns one result row per question for this chapter.
+
+    Default (batched) mode:  ONE API call sends the chapter + all 12
+    questions at once.  Cheaper and faster.
+
+    Fallback (--one-by-one):  12 separate API calls, one per question.
+    Useful for debugging or if the batched response is unreliable.
+
+    In both modes, no context carries between chapters.
+    """
+    if one_by_one:
+        return _analyze_one_by_one(
+            client, chapter_text, chapter_label, book_title,
+            questions, model_name,
+        )
+
+    return _analyze_batched(
+        client, chapter_text, chapter_label, book_title,
+        questions, model_name,
+    )
+
+
+def _analyze_batched(
+    client: genai.Client,
+    chapter_text: str,
+    chapter_label: str,
+    book_title: str,
+    questions: list[dict],
+    model_name: str,
+) -> list[dict]:
+    """Send all questions in one API call and parse the array response."""
+    print(f"  Sending all {len(questions)} questions in a single call...")
+    prompt = build_batched_prompt(chapter_text, questions)
+    resp = query_gemini(client, prompt, model_name=model_name)
+
+    # Build a lookup from question number → question dict
+    q_by_num = {q["number"]: q for q in questions}
+
+    results = []
+
+    # If the response is a list (expected), unpack each entry
+    if isinstance(resp, list):
+        for entry in resp:
+            qnum = entry.get("question_number")
+            q = q_by_num.get(qnum)
+            if q is None:
+                print(f"  ⚠ response contained unknown question_number {qnum}, skipping")
+                continue
+
+            raw_answer = entry.get("answer", "")
+            validated = validate_answer(raw_answer, q["answer_options"])
+            if validated.startswith("[UNMATCHED]"):
+                print(f"  ⚠ Q{qnum} answer didn't match options: {raw_answer[:80]}")
+
+            results.append({
+                "book_title": book_title,
+                "chapter": chapter_label,
+                "question_number": qnum,
+                "question": q["criteria_short"],
+                "answer": validated,
+                "raw_answer": raw_answer,
+                "justification": entry.get("justification", ""),
+            })
+
+        # Check for questions that the model skipped
+        answered_nums = {r["question_number"] for r in results}
+        for q in questions:
+            if q["number"] not in answered_nums:
+                print(f"  ⚠ Q{q['number']} was not in the model's response")
+                results.append({
+                    "book_title": book_title,
+                    "chapter": chapter_label,
+                    "question_number": q["number"],
+                    "question": q["criteria_short"],
+                    "answer": "MISSING",
+                    "raw_answer": "",
+                    "justification": "(model did not include this question in its response)",
+                })
+
+    else:
+        # Model returned a dict instead of an array — something went wrong.
+        # Fall back to one-by-one for this chapter.
+        print("  ⚠ batched response was not a JSON array, falling back to one-by-one")
+        return _analyze_one_by_one(
+            client, chapter_text, chapter_label, book_title,
+            questions, model_name,
+        )
+
+    # Sort by question number for consistent ordering
+    results.sort(key=lambda r: r["question_number"])
+    print(f"  ✓ got {len(results)} answers")
+    return results
+
+
+def _analyze_one_by_one(
+    client: genai.Client,
+    chapter_text: str,
+    chapter_label: str,
+    book_title: str,
+    questions: list[dict],
+    model_name: str,
+) -> list[dict]:
+    """Send each question as a separate API call (fallback mode)."""
+    results = []
+
+    for q in questions:
+        print(f"  Q{q['number']:>2}: {q['criteria_short'][:60]}...")
+        prompt = build_single_prompt(chapter_text, q)
+        resp = query_gemini(client, prompt, model_name=model_name)
+
+        raw_answer = resp.get("answer", "") if isinstance(resp, dict) else ""
+        validated_answer = validate_answer(raw_answer, q["answer_options"])
+
+        if validated_answer.startswith("[UNMATCHED]"):
+            print(f"        ⚠ answer did not match options: {raw_answer[:80]}")
+
+        justification = resp.get("justification", "") if isinstance(resp, dict) else ""
+
+        results.append({
+            "book_title": book_title,
+            "chapter": chapter_label,
+            "question_number": q["number"],
+            "question": q["criteria_short"],
+            "answer": validated_answer,
+            "raw_answer": raw_answer,
+            "justification": justification,
+        })
+
+        time.sleep(REQUEST_DELAY)
+
+    return results
+
+
+# ---------------------------------------------------------------------------
+# CSV output
+# ---------------------------------------------------------------------------
+
+CSV_COLUMNS = [
+    "book_title",
+    "chapter",
+    "question_number",
+    "question",
+    "answer",
+    "raw_answer",
+    "justification",
+]
+
+
+def write_csv(rows: list[dict], path: Path, append: bool = False):
+    """Write (or append) result rows to a CSV file."""
+    mode = "a" if append else "w"
+    file_exists = path.exists() and path.stat().st_size > 0
+
+    with open(path, mode, newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=CSV_COLUMNS)
+        if not (append and file_exists):
+            writer.writeheader()
+        writer.writerows(rows)
+
+    print(f"  → wrote {len(rows)} rows to {path}")
+
+
+def load_completed_chapters(path: Path) -> set[str]:
+    """
+    Read an existing results CSV and return the set of chapter labels
+    that already have a full set of results.  Used for --resume.
+    """
+    if not path.exists():
+        return set()
+
+    chapter_counts: dict[str, int] = {}
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                ch = row.get("chapter", "")
+                chapter_counts[ch] = chapter_counts.get(ch, 0) + 1
+    except Exception:
+        return set()
+
+    return set(chapter_counts.keys())
+
+
+# ---------------------------------------------------------------------------
+# CLI
+# ---------------------------------------------------------------------------
+
+def parse_args():
+    p = argparse.ArgumentParser(
+        description="Analyze sci-fi book chapters with Gemini for space-portrayal research."
+    )
+    p.add_argument(
+        "--book-title", required=True,
+        help="Title of the book being analyzed.",
+    )
+    p.add_argument(
+        "--chapters", nargs="+", type=Path,
+        help="Paths to chapter files (.txt or .pdf).",
+    )
+    p.add_argument(
+        "--chapter-label", default="Chapter 1",
+        help="Label for stdin input when --chapters is not used.",
+    )
+    p.add_argument(
+        "--output", type=Path, default=Path("results.csv"),
+        help="Output CSV path (default: results.csv).",
+    )
+    p.add_argument(
+        "--append", action="store_true",
+        help="Append to the output CSV instead of overwriting.",
+    )
+    p.add_argument(
+        "--resume", action="store_true",
+        help="Skip chapters that already appear in the output CSV. "
+             "Useful for resuming after a crash.",
+    )
+    p.add_argument(
+        "--one-by-one", action="store_true",
+        help="Send each question as a separate API call instead of batching "
+             "all 12 into one call per chapter. Slower/costlier but useful "
+             "for debugging.",
+    )
+    p.add_argument(
+        "--model", default=os.environ.get("GEMINI_MODEL", DEFAULT_MODEL),
+        help=f"Gemini model name (default: {DEFAULT_MODEL}).",
+    )
+    p.add_argument(
+        "--api-key",
+        default=os.environ.get("GEMINI_API_KEY"),
+        help="Gemini API key (or set GEMINI_API_KEY env var).",
+    )
+    p.add_argument(
+        "--questions-file", type=Path, default=QUESTIONS_FILE,
+        help="Path to the question-answer xlsx file.",
+    )
+    return p.parse_args()
+
+
+def main():
+    args = parse_args()
+
+    # Create a single reusable client for all API calls
+    client = create_gemini_client(args.api_key)
+
+    # Load questions
+    questions = load_questions(args.questions_file)
+    print(f"Loaded {len(questions)} questions from {args.questions_file}")
+
+    # If resuming, figure out which chapters are already done
+    completed = set()
+    if args.resume:
+        completed = load_completed_chapters(args.output)
+        if completed:
+            print(f"Resume mode: skipping {len(completed)} already-completed chapter(s)")
+
+    all_results = []
+
+    if args.chapters:
+        # Validate all files exist before starting any API calls
+        missing = [p for p in args.chapters if not p.exists()]
+        if missing:
+            print("ERROR: the following chapter files were not found:")
+            for m in missing:
+                print(f"  - {m}")
+            sys.exit(1)
+
+        for i, chap_path in enumerate(args.chapters, 1):
+            label = chap_path.stem  # e.g. "ch01"
+
+            # Skip if already completed (resume mode)
+            if label in completed:
+                print(f"\n[{i}/{len(args.chapters)}] {label} — already done, skipping")
+                continue
+
+            print(f"\n[{i}/{len(args.chapters)}] {label} ({chap_path})")
+
+            # Read the file (txt or pdf)
+            try:
+                text = read_chapter_file(chap_path)
+            except ValueError as e:
+                print(f"  ERROR reading file: {e}")
+                continue
+
+            if not text.strip():
+                print(f"  WARNING: {chap_path} is empty, skipping")
+                continue
+
+            # Size guardrails
+            check_chapter_size(text, label)
+            tokens_est = estimate_tokens(text)
+            words = len(text.split())
+            print(f"  {words:,} words (~{tokens_est:,} tokens)")
+
+            # Analyze
+            rows = analyze_chapter(
+                client, text, label, args.book_title, questions,
+                model_name=args.model, one_by_one=args.one_by_one,
+            )
+            all_results.extend(rows)
+
+            # Checkpoint: write after each chapter so progress isn't lost
+            # on a crash.  First chapter writes header; subsequent append.
+            is_first_write = (i == 1 and not args.resume) or (
+                args.resume and not completed
+            )
+            write_csv(
+                rows, args.output,
+                append=not is_first_write or args.append,
+            )
+
+    else:
+        # Read a single chapter from stdin
+        print(f"\n--- reading chapter from stdin ({args.chapter_label}) ---")
+        text = sys.stdin.read()
+        if not text.strip():
+            print("ERROR: no text received on stdin.")
+            sys.exit(1)
+
+        check_chapter_size(text, args.chapter_label)
+
+        rows = analyze_chapter(
+            client, text, args.chapter_label, args.book_title, questions,
+            model_name=args.model, one_by_one=args.one_by_one,
+        )
+        all_results.extend(rows)
+        write_csv(all_results, args.output, append=args.append)
+
+    # Summary
+    errors = sum(1 for r in all_results if r["answer"].startswith(("API_ERROR", "ERROR")))
+    unmatched = sum(1 for r in all_results if r["answer"].startswith("[UNMATCHED]"))
+    print(f"\n{'='*60}")
+    print(f"Done — {len(all_results)} total rows in {args.output}")
+    if errors:
+        print(f"  ⚠ {errors} question(s) hit API errors")
+    if unmatched:
+        print(f"  ⚠ {unmatched} answer(s) didn't match predefined options")
+    print(f"{'='*60}")
+
+
+if __name__ == "__main__":
+    main()
