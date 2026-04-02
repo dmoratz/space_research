@@ -1,0 +1,63 @@
+CHAPTER 10 
+
+LOG ENTRY: SOL 90 
+
+Seven days since Pathfinder, and seven days closer to home. As I’d hoped, my inbound tracks gave me a path back to Lewis Valley. Then it was four sols of easy driving. The hills to my left made it impossible to get lost, and the terrain was smooth. But all good things come to an end. I’m back in Acidalia Planitia now. My outgoing tracks are long gone. It’s been sixteen days since I was last here. Even timid weather would clear them out in that time. On my way out, I should have made a pile of rocks every time I camped. The land is so flat they’d be visible for kilometers. On second thought, thinking back to making that damn ramp…ugh. So once again I am the desert wanderer, using Phobos to navigate and hoping I don’t stray too far. All I need to do is get within 40 kilometers of the Hab and I’ll pick up the beacon. I’m feeling optimistic. For the first time, I think I might get off this planet alive. With that in mind, I’m taking soil and rock samples every time I do an EVA. At first, I figured it was my duty. If I survive, geologists will love me for it. But then it started to get fun. Now, as I drive, I look forward to that simple act of bagging rocks. 
+
+It just feels nice to be an astronaut again. That’s all it is. Not a reluctant farmer, not an electrical engineer, not a long-haul trucker. An astronaut. I’m doing what astronauts do. I missed it. 
+
+LOG ENTRY: SOL 92 
+
+I got two seconds of signal from the Hab beacon today, then lost it. But it’s a good sign. I’ve been traveling vaguely north-northwest for two days. I must be a good hundred kilometers from the Hab; it’s a miracle I got any signal at all. Must have been a moment of perfect weather conditions. 
+
+During the boring-ass days, I’m working my way through The Six Million Dollar Man from Commander Lewis’s inexhaustible collection of seventies tripe. I just watched an episode where Steve Austin fights a Russian Venus probe that landed on Earth by mistake. As an 
+
+expert in interplanetary travel, I can tell you there are no scientific inaccuracies in the story. It’s quite common for probes to land on the wrong planet. Also, the probe’s large, flat-panel hull is ideal for the high-pressure Venusian atmosphere. And, as we all know, probes often refuse to obey directives, choosing instead to attack humans on sight. So far, Pathfinder 
+
+hasn’t tried to kill me. But I’m keeping an eye on it.
+
+LOG ENTRY: SOL 93 
+
+I found the Hab signal today. No more chance to get lost. According to the computer, I’m 24,718 meters away. I’ll be home tomorrow. Even if the rover has a catastrophic failure, I’ll be fine. I can walk to the Hab from here. I don’t know if I’ve mentioned this before, but I am really fucking sick of being in this rover. I’ve spent so much time seated or lying down, my back is all screwed up. Of all my crewmates, the one I miss most right now is Beck. He’d fix my aching back. 
+
+Though he’d probably give me a bunch of shit about it. “Why didn’t you do stretching exercises? Your body is important! Eat more fiber,” or whatever. At this point, I’d welcome a health lecture. During training, we had to practice the dreaded “Missed Orbit” scenario. In the event of a second-stage failure during MAV ascent, we’d be in orbit, but too low to reach Hermes. We’d be skimming the upper atmosphere, so our orbit would rapidly decay. NASA would remotely operate Hermes and bring it in to pick us up. Then we’d get the hell out of there before Hermes caught too much drag. To drill this, they made us stay in the MAV simulator for three miserable days. Six people in an ascent vehicle originally designed for a twenty-three-minute flight. It got a little cramped. And by 
+
+“a little cramped” I mean “we wanted to kill each other.” I’d give anything to be in that cramped capsule with those guys again. Man, I hope I get Pathfinder working again. 
+
+LOG ENTRY: SOL 94 
+
+Home sweet home! Today I write from my gigantic, cavernous Hab! The first thing I did when I got in was wave my arms wildly while running in circles. Felt great! I was in that damn rover for twenty-two sols and couldn’t even walk without suiting up. I’ll need to endure twice that to get to Ares 4, but that’s a problem for later. After a few celebratory laps around the Hab, it was time to get to work. First, I fired up the oxygenator and atmospheric regulator. Checking the air levels, everything looked good. There was still CO2, so the plants hadn’t suffocated without me exhaling for them. 
+
+Naturally I did an exhaustive check on my crops, and they’re all healthy. I added my bags of shit to the manure pile. Lovely smell, I can tell you. But once I mixed some soil in, it died down to tolerable levels. I dumped my box o’ pee into the water reclaimer. I’d been gone over three weeks and had left the Hab very humid for the sake of the crops. That much water in the air can cause any amount of electrical problems, so I spent the next few hours doing full systems checks on everything. Then I kind of lounged around for a while. I wanted to spend the rest of the day relaxing, but I had more to do. After suiting up, I went out to the rover and dragged the solar cells off the roof. Over the next few hours, I put them back where they belonged, wiring them into the Hab’s power grid.
+
+Getting the lander off the roof was a hell of a lot easier than getting it up there. I detached a strut from the MAV platform and dragged it over to the rover. By leaning it against the hull and digging the other end into the ground for stability, I had a ramp. I should have brought that strut with me to the Pathfinder site. Live and learn. There’s no way to get the lander in the airlock. It’s just too big. I could probably dismantle it and bring it in a piece at a time, but there’s a pretty compelling reason not to. With no magnetic field, Mars has no defense against harsh solar radiation. If I were exposed to it, I’d get so much cancer, the cancer would have cancer. So the Hab canvas shields from electromagnetic waves. This means the Hab itself would block any transmissions if the lander were inside. Speaking of cancer, it was time to get rid of the RTG. It pained me to climb back into the rover, but it had to be done. If the RTG ever broke open, it would kill me to death. 
+
+NASA decided four kilometers was the safe distance, and I wasn’t about to second-guess them. I drove back to where Commander Lewis had originally dumped it, ditched it in the same hole, and drove back to the Hab. I’ll start work on the lander tomorrow. Now to enjoy a good, long sleep in an actual cot. With the comforting knowledge that when I wake, my morning piss will go into a toilet. 
+
+LOG ENTRY: SOL 95 
+
+Today was all about repairs! The Pathfinder mission ended because the lander had an unknown critical failure. Once JPL lost contact with the lander, they had no idea what became of Sojourner. It might be in better shape. Maybe it just needs power. Power it couldn’t get with its solar panels hopelessly caked with dust. 
+
+I set the little rover on my workbench and pried open a panel to peek inside. The battery was a lithium thionyl chloride nonrechargeable. I figured that out from some subtle clues: the shape of the connection points, the thickness of the insulation, and the fact that it had “LiSOCl2 NON-RCHRG” written on it. I cleaned the solar panels thoroughly, then aimed a small, flexible lamp directly at them. The battery’s long dead. But the panels might be okay, and Sojourner can operate directly off them. We’ll see if anything happens. Then it was time to take a look at Sojourner’s daddy. I suited up and headed out. On most landers, the weak point is the battery. It’s the most delicate component, and when it dies, there’s no way to recover. Landers can’t just shut down and wait when they have low batteries. Their electronics won’t work unless they’re at a minimum temperature. So they have heaters to keep the electronics warm. It’s a problem that rarely comes up on Earth, but hey. Mars. 
+
+Over time, the solar panels get covered with dust. Then winter brings colder temperatures and less daylight. This all combines into a big “fuck you” from Mars to your lander. Eventually it’s using more power to keep warm than it’s getting from the meager daylight that makes it
+
+through the dust. Once the battery runs down, the electronics get too cold to operate, and the whole system dies. The solar panels will recharge the battery somewhat, but there’s nothing to tell the system to reboot. Anything that could make that decision would be electronics, which would not be working. Eventually, the now-unused battery will lose its ability to retain charge. That’s the usual cause of death. And I sure hope it’s what killed Pathfinder. I piled some leftover parts of the MDV into a makeshift table and ramp. Then I dragged the lander up to my new outdoor workbench. Working in an EVA suit is annoying enough. Bending over the whole time would have been torture. I got my tool kit and started poking around. Opening the outer panel wasn’t too hard and I identified the battery easily enough. JPL labels everything. It’s a 40 amp-hour Ag-Zn battery with an optimal voltage of 1.5. Wow. They really made those things run on nothin’ back then. I detached the battery and headed back inside. I checked it with my electronics kit, and sure enough it’s dead, dead, dead. I could shuffle across a carpet and hold more charge. 
+
+But I knew what the lander needed: 1.5 volts. Compared to the makeshift crap I’ve been gluing together since Sol 6, this was a breeze. I have voltage controllers in my kit! It only took me fifteen minutes to put a controller on a reserve power line, then another hour to go outside and run the line to where the battery used to be. 
+
+Then there’s the issue of heat. It’s a good idea to keep electronics above −40°C. The temperature today is a brisk −63°C. The battery was big and easy to identify, but I had no clue where the heaters were. Even if I knew, it’d be too risky to hook them directly to power. I could easily fry the whole system. So instead, I went to good old “Spare Parts” Rover 1 and stole its environment heater. I’ve gutted that poor rover so much, it looks like I parked it in a bad part of town. I lugged the heater to my outdoor “workbench,” and hooked it to Hab power. Then I rested it in the lander where the battery used to be. Now I wait. And hope. 
+
+LOG ENTRY: SOL 96 
+
+I was really hoping I’d wake up to a functional lander, but no such luck. Its high-gain antenna is right where I last saw it. Why does that matter? Well, I’ll tell ya… If the lander comes back to life (and that’s a big if), it’ll try to establish contact with Earth. Problem is nobody’s listening. It’s not like the Pathfinder team is hanging around JPL just in case their long-dead probe is repaired by a wayward astronaut. The Deep Space Network and SETI are my best bets for picking up the signal. If either of them caught a blip from Pathfinder, they’d tell JPL. JPL would quickly figure out what was going on, especially when they triangulated the signal to my landing site. They’d tell the lander where Earth is, and it would angle the high-gain antenna appropriately. That there, the angling of the antenna, is how I’ll know if it linked up.
+
+So far, no action. There’s still hope. Any number of reasons could be delaying things. The rover heater is designed to heat air at one atmosphere, and the thin Martian air severely hampers its ability to work. So the electronics might need more time to warm up. 
+
+Also, Earth is only visible during the day. I (hopefully) fixed the lander yesterday evening. It’s morning now, so most of the intervening time has been night. No Earth. Sojourner’s showing no signs of life, either. It’s been in the nice, warm environment of the Hab all night, with plenty of light on its sparkling clean solar cells. Maybe it’s running an extended self-check, or staying still until it hears from the lander or something. I’ll just have to put it out of my mind for now. 
+
+Pathfinder LOG: SOL 0 BOOT SEQUENCE INITIATED TIME 00:00:00 LOSS OF POWER DETECTED, TIME/DATE UNRELIABLE LOADING OS… VXWARE OPERATING SYSTEM (C) WIND RIVER SYSTEMS PERFORMING HARDWARE CHECK: INT. TEMPERATURE: −34°C EXT. TEMPERATURE: NONFUNCTIONAL BATTERY: FULL HIGAIN: OK LOGAIN: OK 
+
+WIND SENSOR: NONFUNCTIONAL METEOROLOGY: NONFUNCTIONAL ASI: NONFUNCTIONAL IMAGER: OK ROVER RAMP: NONFUNCTIONAL SOLAR A: NONFUNCTIONAL SOLAR B: NONFUNCTIONAL SOLAR C: NONFUNCTIONAL HARDWARE CHECK COMPLETE BROADCASTING STATUS LISTENING FOR 
+
+TELEMETRY SIGNAL… LISTENING FOR TELEMETRY SIGNAL… LISTENING FOR TELEMETRY SIGNAL SIGNAL ACQUIRED…

@@ -1,0 +1,165 @@
+CHAPTER 2
+
+LOG ENTRY: SOL 7
+
+Okay, I’ve had a good night’s sleep, and things don’t seem as hopeless as they did yesterday.
+
+Today I took stock of supplies and did a quick EVA to check up on the external equipment. Here’s my situation:
+
+The surface mission was supposed to be thirty-one days. For redundancy, the supply probes had enough food to last the whole crew fifty-six days. That way if one or two probes had problems, we’d still have enough food to complete the mission.
+
+We were six days in when all hell broke loose, so that leaves enough food to feed six people for fifty days. I’m just one guy, so it’ll last me three hundred days. And that’s if I don’t ration it. So I’ve got a fair bit of time.
+
+I’m pretty flush on EVA suits, too. Each crew member had two space suits: a flight spacesuit to wear during descent and ascent, and the much bulkier and more robust EVA suit to wear when doing surface operations. My flight spacesuit has a hole in it, and of course the crew was wearing the other five when they returned to Hermes. But all six EVA suits are still here and in perfect condition.
+
+The Hab stood up to the storm without any problems. Outside, things aren’t so rosy. I can’t find the satellite dish. It probably got blown kilometers away.
+
+The MAV is gone, of course. My crewmates took it up to Hermes. Though the bottom half (the landing stage) is still here. No reason to take that back up when weight is the enemy. It includes the landing gear, the fuel plant, and anything else NASA figured it wouldn’t need for the trip back up to orbit.
+
+The MDV is on its side and there’s a breach in the hull. Looks like the storm ripped the cowling off the reserve chute (which we didn’t have to use on landing). Once the chute was exposed, it dragged the MDV all over the place, smashing it against every rock in the area. Not that the MDV would be much use to me. Its thrusters can’t even lift its own weight. But it might have been valuable for parts. Might still be.
+
+Both rovers are half-buried in sand, but they’re in good shape otherwise. Their pressure seals are intact. Makes sense. Operating procedure when a storm hits is to stop motion and wait for the storm to pass. They’re made to stand up to punishment. I’ll be able to dig them out with a day or so of work.
+
+I’ve lost communication with the weather stations, placed a kilometer away from the Hab in four directions. They might be in perfect working order for all I know. The Hab’s communications are so weak right now it probably can’t even reach a kilometer.
+
+The solar cell array was covered in sand, rendering it useless (hint: solar cells need sunlight to make electricity). But once I swept the cells off, they returned to full efficiency. Whatever I end up doing, I’ll have plenty of power for it. Two hundred square meters of solar cells, with hydrogen fuel cells to store plenty of reserve. All I need to do is sweep them off every few days.
+
+Things indoors are great, thanks to the Hab’s sturdy design.
+
+I ran a full diagnostic on the oxygenator. Twice. It’s perfect. If anything goes wrong with it, there’s a short-term spare I can use. But it’s solely for emergency use while repairing the main one. The spare doesn’t actually pull CO2 apart and recapture the oxygen. It just absorbs the CO2 the same way the space suits do. It’s intended to last five days before it saturates the filters, which means thirty days for me (just one person breathing, instead of six). So there’s some insurance there.
+
+The water reclaimer is working fine, too. The bad news is there’s no backup. If it stops working, I’ll be drinking reserve water while I rig up a primitive distillery to boil piss. Also, I’ll lose half a liter of water per day to breathing until the humidity in the Hab reaches its maximum and water starts condensing on every surface. Then I’ll be licking the walls. Yay. Anyway, for now, no problems with the water reclaimer.
+
+So yeah. Food, water, shelter all taken care of. I’m going to start rationing food right now. Meals are pretty minimal already, but I think I can eat a three-fourths portion per meal and still be all right. That should turn my three hundred days of food into four hundred. Foraging around the medical area, I found the main bottle of vitamins. There’s enough multivitamins there to last years. So I won’t have any nutritional problems (though I’ll still starve to death when I’m out of food, no matter how many vitamins I take).
+
+The medical area has morphine for emergencies. And there’s enough there for a lethal dose. I’m not going to slowly starve to death, I’ll tell you that. If I get to that point, I’ll take an easier way out.
+
+Everyone on the mission had two specialties. I’m a botanist and mechanical engineer; basically, the mission’s fix-it man who played with plants. The mechanical engineering might save my life if something breaks.
+
+I’ve been thinking about how to survive this. It’s not completely hopeless. There’ll be humans back on Mars in about four years when Ares 4 arrives (assuming they didn’t cancel the program in the wake of my “death”).
+
+Ares 4 will be landing at the Schiaparelli crater, which is about 3200 kilometers away from my location here in Acidalia Planitia. No way for me to get there on my own. But if I could communicate, I might be able to get a rescue. Not sure how they’d manage that with the resources on hand, but NASA has a lot of smart people.
+
+So that’s my mission now. Find a way to communicate with Earth. If I can’t manage that, find a way to communicate with Hermes when it returns in four years with the Ares 4 crew.
+
+Of course, I don’t have any plan for surviving four years on one year of food. But one thing at a time here. For now, I’m well fed and have a purpose: Fix the damn radio.
+
+LOG ENTRY: SOL 10
+
+Well, I’ve done three EVAs and haven’t found any hint of the communications dish.
+
+I dug out one of the rovers and had a good drive around, but after days of wandering, I think it’s time to give up. The storm probably blew the dish far away and then erased any drag-marks or scuffs that might have led to a trail. Probably buried it, too.
+
+I spent most of today out at what’s left of the communications array. It’s really a sorry sight. I may as well yell toward Earth for all the good that damned thing will do me.
+
+I could throw together a rudimentary dish out of metal I find around the base, but this isn’t some walkie-talkie I’m working with here. Communicating from Mars to Earth is a pretty big deal, and requires extremely specialized equipment. I won’t be able to whip something up with tinfoil and gum.
+
+I need to ration my EVAs as well as food. The CO2 filters are not cleanable. Once they’re saturated, they’re done. The mission accounted for a four-hour EVA per crew member per day. Fortunately, CO2 filters are light and small, so NASA had the luxury of sending more than we needed. All told, I have about 1500 hours’ worth of CO2 filters. After that, any EVAs I do will have to be managed with bloodletting the air.
+
+Fifteen hundred hours may sound like a lot, but I’m faced with spending at least four years here if I’m going to have any hope of rescue, with a minimum of several hours per week dedicated to sweeping off the solar array. Anyway. No needless EVAs.
+
+In other news, I’m starting to come up with an idea for food. My botany background may come in useful after all.
+
+Why bring a botanist to Mars? After all, it’s famous for not having anything growing there. Well, the idea was to figure out how well things grow in Martian gravity, and see what, if anything, we can do with Martian soil. The short answer is: quite a lot…almost. Martian soil has the basic building blocks needed for plant growth, but there’s a lot of stuff going on in Earth soil that Mars soil doesn’t have, even when it’s placed in an Earth atmosphere and given plenty of water. Bacterial activity, certain nutrients provided by animal life, etc. None of that is happening on Mars. One of my tasks for the mission was to see how plants grow here, in various combinations of Earth and Mars soil and atmosphere.
+
+That’s why I have a small amount of Earth soil and a bunch of plant seeds with me.
+
+I can’t get too excited, however. It’s about the amount of soil you’d put in a window box, and the only seeds I have are a few species of grass and ferns. They’re the most rugged and easily grown plants on Earth, so NASA picked them as the test subjects.
+
+So I have two problems: not enough dirt, and nothing edible to plant in it.
+
+But I’m a botanist, damn it. I should be able to find a way to make this happen. If I don’t, I’ll be a really hungry botanist in about a year.
+
+LOG ENTRY: SOL 11
+
+I wonder how the Cubs are doing.
+
+LOG ENTRY: SOL 14
+
+I got my undergrad degree at the University of Chicago. Half the people who studied botany were hippies who thought they could return to some natural world system. Somehow feeding seven billion people through pure gathering. They spent most of their time working out better ways to grow pot. I didn’t like them. I’ve always been in it for the science, not for any New World Order bullshit.
+
+When they made compost heaps and tried to conserve every little ounce of living matter, I laughed at them. “Look at the silly hippies! Look at their pathetic attempts to simulate a complex global ecosystem in their backyard.”
+
+Of course, now I’m doing exactly that. I’m saving every scrap of biomatter I can find. Every time I finish a meal, the leftovers go to the compost bucket. As for other biological material…
+
+The Hab has sophisticated toilets. Shit is usually vaccum-dried, then accumulated in sealed bags to be discarded on the surface.
+
+Not anymore!
+
+In fact, I even did an EVA to recover the previous bags of shit from before the crew left. Being completely desiccated, this particular shit didn’t have bacteria in it anymore, but it still had complex proteins and would serve as useful manure. Adding it to water and active bacteria would quickly get it inundated, replacing any population killed by the Toilet of Doom.
+
+I found a big container and put a bit of water in it, then added the dried shit. Since then, I’ve added my own shit to it as well. The worse it smells, the better things are going. That’s the bacteria at work!
+
+Once I get some Martian soil in here, I can mix in the shit and spread it out. Then I can sprinkle the Earth soil on top. You might not think that would be an important step, but it is. There are dozens of species of bacteria living in Earth soil, and they’re critical to plant growth. They’ll spread out and breed like…well, like a bacterial infection.
+
+People have been using human waste as fertilizer for centuries. It’s even got a pleasant name: “night soil.” Normally, it’s not an ideal way to grow crops, because it spreads disease: Human waste has pathogens in it that, you guessed it, infect humans. But it’s not a problem for me. The only pathogens in this waste are the ones I already have.
+
+Within a week, the Martian soil will be ready for plants to germinate in. But I won’t plant yet. I’ll bring in more lifeless soil from outside and spread some of the live soil over it. It’ll “infect” the new soil and I’ll have double what I started with. After another week, I’ll double it again. And so on. Of course, all the while, I’ll be adding all new manure to the effort.
+
+My asshole is doing as much to keep me alive as my brain.
+
+This isn’t a new concept I just came up with. People have speculated on how to make crop soil out of Martian dirt for decades. I’ll just be putting it to the test for the first time.
+
+I searched through the food supplies and found all sorts of things that I can plant. Peas, for instance. Plenty of beans, too. I also found several potatoes. If any of them can still germinate after their ordeal, that’ll be great. With a nearly infinite supply of vitamins, all I need are calories of any kind to survive.
+
+The total floor space of the Hab is about 92 square meters. I plan to dedicate all of it to this endeavor. I don’t mind walking on dirt. It’ll be a lot of work, but I’m going to need to cover the entire floor to a depth of 10 centimeters. That means I’ll have to transport 9.2 cubic meters of Martian soil into the Hab. I can get maybe one-tenth of a cubic meter in through the airlock at a time, and it’ll be backbreaking work to collect it. But in the end, if everything goes to plan, I’ll have 92 square meters of crop-able soil.
+
+Hell yeah I’m a botanist! Fear my botany powers!
+
+LOG ENTRY: SOL 15
+
+Ugh! This is backbreaking work!
+
+I spent twelve hours today on EVAs to bring dirt into the Hab. I only managed to cover a small corner of the base, maybe five square meters. At this rate it’ll take me weeks to get all the soil in. But hey, time is one thing I’ve got.
+
+The first few EVAs were pretty inefficient; me filling small containers and bringing them in through the airlock. Then I got wise and just put one big container in the airlock itself and filled that with small containers till it was full. That sped things up a lot because the airlock takes about ten minutes to get through.
+
+I ache all over. And the shovels I have are made for taking samples, not heavy digging. My back is killing me. I foraged in the medical supplies and found some Vicodin. I took it about ten minutes ago. Should be kicking in soon.
+
+Anyway, it’s nice to see progress. Time to start getting the bacteria to work on these minerals. After lunch. No three-fourths ration today. I’ve earned a full meal.
+
+LOG ENTRY: SOL 16
+
+One complication I hadn’t thought of: water.
+
+Turns out being on the surface of Mars for a few million years eliminates all the water in the soil. My master’s degree in botany makes me pretty sure plants need wet dirt to grow in. Not to mention the bacteria that has to live in the dirt first.
+
+Fortunately, I have water. But not as much as I want. To be viable, soil needs 40 liters of water per cubic meter. My overall plan calls for 9.2 cubic meters of soil. So I’ll eventually need 368 liters of water to feed it.
+
+The Hab has an excellent water reclaimer. Best technology available on Earth. So NASA figured, “Why send a lot of water up there? Just send enough for an emergency.” Humans need three liters of water per day to be comfortable. They gave us 50 liters each, making 300 liters total in the Hab.
+
+I’m willing to dedicate all but an emergency 50 liters to the cause. That means I can feed 62.5 square meters at a depth of 10 centimeters. About two-thirds of the Hab’s floor. It’ll have to do. That’s the long-term plan. For today, my goal was five square meters.
+
+I wadded up blankets and uniforms from my departed crewmates to serve as one edge of a planter box with the curved walls of the Hab being the rest of the perimeter. It was as close to five square meters as I could manage. I filled it with sand to a depth of 10 centimeters. Then I sacrificed 20 liters of precious water to the dirt gods.
+
+Then things got disgusting. I dumped my big container o’ shit onto the soil and nearly puked from the smell. I mixed this soil and shit together with a shovel, and spread it out evenly again. Then I sprinkled the Earth soil on top. Get to work, bacteria. I’m counting on you. That smell’s going to stick around for a while, too. It’s not like I can open a window. Still, you get used to it.
+
+In other news, today is Thanksgiving. My family will be gathering in Chicago for the usual feast at my parents’ house. My guess is it won’t be much fun, what with me having died ten days ago. Hell, they probably just got done with my funeral.
+
+I wonder if they’ll ever find out what really happened. I’ve been so busy staying alive I never thought of what this must be like for my parents. Right now, they’re suffering the worst pain anyone can endure. I’d give anything just to let them know I’m still alive.
+
+I’ll just have to survive to make up for it.
+
+LOG ENTRY: SOL 22
+
+Wow. Things really came along.
+
+I got all the sand in and ready to go. Two-thirds of the base is now dirt. And today I executed my first dirt-doubling. It’s been a week, and the former Martian soil is rich and lovely. Two more doublings and I’ll have covered the whole field.
+
+All that work was great for my morale. It gave me something to do. But after things settled down a bit, and I had dinner while listening to Johanssen’s Beatles music collection, I got depressed again.
+
+Doing the math, this won’t keep me from starving.
+
+My best bet for making calories is potatoes. They grow prolifically and have a reasonable caloric content (770 calories per kilogram). I’m pretty sure the ones I have will germinate. Problem is I can’t grow enough of them. In 62 square meters, I could grow maybe 150 kilograms of potatoes in 400 days (the time I have before running out of food). That’s a grand total of 115,500 calories, a sustainable average of 288 calories per day. With my height and weight, if I’m willing to starve a little, I need 1500 calories per day.
+
+Not even close.
+
+So I can’t just live off the land forever. But I can extend my life. The potatoes will last me 76 days.
+
+Potatoes grow continually, so in those 76 days, I can grow another 22,000 calories of potatoes, which will tide me over for another 15 days. After that, it’s kind of pointless to continue the trend. All told it buys me about 90 days.
+
+So now I’ll start starving to death on Sol 490 instead of Sol 400. It’s progress, but any hope of survival rests on me surviving until Sol 1412, when Ares 4 will land.
+
+There’s about a thousand days of food I don’t have. And I don’t have a plan for how to get it.
+
+Shit.

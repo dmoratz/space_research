@@ -1,0 +1,213 @@
+CHAPTER 26 
+
+THEY GATHERED. Everywhere on Earth, they gathered. In Trafalgar Square and Tiananmen Square and Times Square, they watched on giant screens. In offices, they huddled around computer monitors. In bars, they stared silently at the TV in the corner. In homes, they sat breathlessly on their couches, their eyes glued to the story playing out. In Chicago, a middle-aged couple clutched each other’s hands as they watched. The man held his wife gently as she rocked back and forth out of sheer terror. The NASA representative knew not to disturb them, but stood ready to answer any questions, should they ask. “Fuel pressure green,” Johanssen’s voice said from a billion televisions. “Engine alignment perfect. Communications five by five. We are ready for preflight checklist, Commander.” “Copy.” Lewis’s voice. “CAPCOM.” “Go,” Johanssen responded. “Guidance.” “Go,” Johanssen said again. “Remote Command.” “Go,” said Martinez. 
+
+“Pilot.” 
+
+“Go,” said Watney from the MAV. A mild cheer coruscated through the crowds worldwide. ••• 
+
+MITCH SAT at his station in Mission Control. The controllers monitored everything and were ready to help in any way they could, but the communication latency between Hermes and Earth rendered them powerless to do anything but watch. “Telemetry,” Lewis’s voice said over the speakers. “Go,” Johanssen responded. “Recovery,” she continued. “Go,” said Beck from the airlock. “Secondary Recovery.” “Go,” said Vogel from beside Beck. “Mission Control, this is Hermes Actual,” Lewis reported. “We are go for launch and will proceed on schedule. We are T minus four minutes, ten seconds to launch…mark.” “Did you get that, Timekeeper?” Mitch said. “Affirmative, Flight” was the response. “Our clocks are synched with theirs.” “Not that we can do anything,” Mitch mumbled, “but at least we’ll know what’s supposedly happening.” 
+
+••• 
+
+“ABOUT FOUR minutes, Mark,” Lewis said into her mic. “How you doing down there?” “Eager to get up there, Commander,” Watney responded. “We’re going to make that happen,” Lewis said. “Remember, you’ll be pulling some pretty heavy g’s. It’s okay to pass out. You’re in Martinez’s hands.” 
+
+“Tell that asshole no barrel rolls.” “Copy that, MAV,” Lewis said. “Four more minutes,” Martinez said, cracking his knuckles. “You ready for some flying, Beth?” “Yeah,” Johanssen said. “It’ll be strange to sysop a launch and stay in zero-g the whole time.” “I hadn’t thought of it that way,” Martinez said, “but yeah. I’m not going to be squashed against the back of my
+
+seat. Weird.” 
+
+••• 
+
+BECK FLOATED in the airlock, tethered to a wall-mounted spool. Vogel stood beside him, his boots clamped to the floor. Both stared through the open outer door at the red planet below. “Didn’t think I’d be back here again,” Beck said. “Yes,” Vogel said. “We are the first.” “First what?” “We are the first to visit Mars twice.” “Oh yeah. Even Watney can’t say that.” “He cannot.” They looked at Mars in silence for a while. “Vogel,” Beck said. 
+
+“Ja.” “If I can’t reach Mark, I want you to release my tether.” “Dr. Beck,” Vogel said, “the commander has said no to this.” “I know what the commander said, but if I need a few more meters, I want you to cut me loose. I have an MMU, I can get back without a tether.” “I will not do this, Dr. Beck.” “It’s my own life at risk, and I say it’s okay.” 
+
+“You are not the commander.” Beck scowled at Vogel, but with their reflective visors down, the effect was lost. “Fine,” Beck said. “But I bet you’ll change your mind if push comes to shove.” Vogel did not respond. 
+
+••• 
+
+“T-MINUS TEN,” said Johanssen, “nine…eight…” “Main engines start,” said Martinez. “…seven…six…five…Mooring clamps released…” “About five seconds, Watney,” Lewis said to her headset. “Hang on.” “See you in a few, Commander,” Watney radioed back. “…four…three…two…” 
+
+••• 
+
+WATNEY LAY in the acceleration couch as the MAV rumbled in anticipation of liftoff. “Hmm,” he said to nobody. “I wonder how much longer—” The MAV launched with incredible force. More than any manned ship had accelerated in the history of space travel. Watney was shoved back into his couch so hard he couldn’t even grunt. Having anticipated this, he had placed a folded up shirt behind his head in the helmet. As his head drove ever deeper into the makeshift cushion, the edges of his vision became blurry. He could neither breathe nor move. Directly in his field of view, the Hab canvas patch flapped violently as the ship exponentially gained speed. Concentration became difficult, but something in the back of his mind told him that flapping was bad. 
+
+••• 
+
+“VELOCITY SEVEN hundred and forty-one meters per second,” Johanssen called out. “Altitude thirteen hundred and fifty meters.” “Copy,” Martinez said. “That’s low,” Lewis said. “Too low.” “I know,” Martinez said. “It’s sluggish; fighting me. What the fuck is going on?” “Velocity eight hundred and fifty, altitude eighteen hundred and forty-three,” Johanssen said.
+
+“I’m not getting the power I need!” Martinez said. “Engine power at a hundred percent,” Johanssen said. “I’m telling you it’s sluggish,” Martinez insisted. “Watney,” Lewis said to her headset. “Watney, do you read? Can you report?” 
+
+••• 
+
+WATNEY HEARD Lewis’s voice in the distance. Like someone talking to him through a long tunnel. He vaguely wondered what she wanted. His attention was briefly drawn to the fluttering canvas ahead of him. A rip had appeared and was rapidly widening. But then he was distracted by a bolt in one of the bulkheads. It only had five sides. He wondered why NASA decided that bolt needed five sides instead of six. It would require a special wrench to tighten or loosen. 
+
+The canvas tore even further, the tattered material flapping wildly. Through the opening, Watney saw red sky stretching out infinitely ahead. “That’s nice,” he thought. As the MAV flew higher, the atmosphere grew thinner. Soon, the canvas stopped fluttering and simply stretched toward Mark. The sky shifted from red to black. “That’s nice, too,” Mark thought. As consciousness slipped away, he wondered where he could get a cool five-sided bolt like that. 
+
+••• 
+
+“I’M GETTING more response now,” Martinez said. “Back on track with full acceleration,” Johanssen said. “Must have been drag. MAV’s out of the atmosphere now.” “It was like flying a cow,” Martinez grumbled, his hands racing over his controls. “Can you get him up?” Lewis asked. “He’ll get to orbit,” Johanssen said, “but the intercept course may be compromised.” “Get him up first,” Lewis said. “Then we’ll worry about intercept.” “Copy. Main engine cutoff in fifteen seconds.” “Totally smooth now,” Martinez said. “It’s not fighting me at all anymore.” “Well below target altitude,” Johanssen said. “Velocity is good.” 
+
+“How far below?” Lewis said. “Can’t say for sure,” Johanssen said. “All I have is accelerometer data. We’ll need radar pings at intervals to work out his true final orbit.” “Back to automatic guidance,” Martinez said. “Main shutdown in four,” Johanssen said, “…three…two…one…Shutdown.” 
+
+“Confirm shutdown,” Martinez said. “Watney, you there?” Lewis said. “Watney? Watney, do you read?” “Probably passed out, Commander,” Beck said over the radio. “He pulled twelve g’s on the ascent. Give him a few minutes.” “Copy,” Lewis said. “Johanssen, got his orbit yet?” “I have interval pings. Working out our intercept range and velocity…” Martinez and Lewis stared at Johanssen as she brought up the intercept calculation software. Normally, orbits would be worked out by Vogel, but he was otherwise engaged. Johanssen was his backup for orbital dynamics. “Intercept velocity will be eleven meters per second…,” she began. “I can make that work,” Beck said over the radio. “Distance at intercept will be—” Johanssen stopped and choked. Shakily, she continued. “We’ll be sixty-eight kilometers apart.” She
+
+buried her face in her hands. “Did she say sixty-eight kilometers!?” Beck said. “Kilometers!?” “God damn it,” Martinez whispered. “Keep it together,” Lewis said. “Work the problem. Martinez, is there any juice in the MAV?” “Negative, Commander,” Martinez responded. “They ditched the OMS system to lighten the launch weight.” 
+
+“Then we’ll have to go to him. Johanssen, time to intercept?” “Thirty-nine minutes, twelve seconds,” Johanssen said, trying not to quaver. “Vogel,” Lewis continued, “how far can we deflect in thirty-nine minutes with the ion engines?” “Perhaps five kilometers,” he radioed. “Not enough,” Lewis said. “Martinez, what if we point our attitude thrusters all the same direction?” “Depends on how much fuel we want to save for attitude adjustments on the trip home.” 
+
+“How much do you need?” “I could get by with maybe twenty percent of what’s left.” “All right, if you used the other eighty percent—” “Checking,” Martinez said, running the numbers on his console. “We’d get a delta-v of thirty-one meters per second.” “Johanssen,” Lewis said. “Math.” “In thirty-nine minutes we’d deflect…,” Johanssen quickly typed, “seventy-two kilometers!” “There we go,” Lewis said. “How much fuel—” “Use seventy-five point five percent of remaining attitude adjust fuel,” Johanssen said. “That’ll bring the intercept range to zero.” “Do it,” Lewis said. “Aye, Commander,” Martinez said. “Hold on,” Johanssen said. “That’ll get the intercept range to zero, but the intercept velocity will be forty-two meters per second.” “Then we have thirty-nine minutes to figure out how to slow down,” Lewis said. “Martinez, burn the jets.” 
+
+“Aye,” Martinez said. 
+
+••• 
+
+“WHOA,” ANNIE said to Venkat. “A lot of shit just happened really fast. Explain.” Venkat strained to hear the audio feed over the murmur of the VIPs in the observation booth. Through the glass, he saw Mitch throw his hands up in frustration. “The launch missed badly,” Venkat said, looking past Mitch to the screens beyond. “The intercept distance was going to be way too big. So they’re using the attitude adjusters to close the gap.” “What do attitude adjusters usually do?” “They rotate the ship. They’re not made for thrusting it. Hermes doesn’t have quick-reaction engines. Just the slow, steady ion engines.” 
+
+“So…problem solved?” Annie said hopefully. “No,” Venkat said. “They’ll get to him, but they’ll be going forty-two meters per second when they get there.” “How fast is that?” Annie asked. “About ninety miles per hour,” Venkat said. “There’s no hope of Beck grabbing Watney at that speed.” “Can they use the attitude adjusters to slow down?” “They needed a lot of velocity to close the gap in time. They used all the fuel they could spare to get going fast enough. But now they don’t have enough fuel to slow down.” Venkat frowned. “So what can they do?” “I don’t know,” he said. “And even if I did, I couldn’t tell them in time.” “Well fuck,” Annie said. 
+
+“Yeah,” Venkat agreed.
+
+••• 
+
+“WATNEY,” LEWIS said “Do you read?…Watney?” she repeated. “Commander,” Beck radioed. “He’s wearing a surface EVA suit, right?” “Yeah.” “It should have a bio-monitor,” Beck said. “And it’ll be broadcasting. It’s not a strong signal; it’s only designed to go a couple hundred meters to the rover or Hab. But maybe we can pick it up.” “Johanssen,” Lewis said. “On it,” Johanssen said. “I have to look up the frequencies in the tech specs. Gimme a second.” “Martinez,” Lewis continued. “Any idea how to slow down?” He shook his head. “I got nothin’, Commander. We’re just going too damn fast.” “Vogel?” 
+
+“The ion drive is simply not strong enough,” Vogel replied. “There’s got to be something,” Lewis said. “Something we can do. Anything.” “Got his bio-monitor data,” Johanssen said. “Pulse fifty-eight, blood pressure ninety-eight over sixty-one.” “That’s not bad,” Beck said. “Lower than I’d like, but he’s been in Mars gravity for eighteen months, so it’s expected.” “Time to intercept?” Lewis asked. “Thirty-two minutes,” Johanssen replied. 
+
+••• 
+
+BLISSFUL unconsciousness became foggy awareness which transitioned into painful reality. Watney opened his eyes, then winced at the pain in his chest. Little remained of the canvas. Tatters floated along the edge of the hole it once covered. This granted Watney an unobstructed view of Mars from orbit. The red planet’s crater-pocked surface stretched out seemingly forever, its thin atmosphere a slight blur along the edge. Only eighteen people in history had personally seen this view. “Fuck you,” he said to the planet below. Reaching toward the controls on his arm, he winced. Trying again, more slowly this time, he activated his radio. “MAV to Hermes.” “Watney!?” came the reply. “Affirmative. That you, Commander?” Watney said. “Affirmative. What’s your status?” “I’m on a ship with no control panel,” he said. “That’s as much as I can tell you.” “How do you feel?” “My chest hurts. I think I broke a rib. How are you?” 
+
+“We’re working on getting you,” Lewis said. “There was a complication in the launch.” “Yeah,” Watney said, looking out the hole in the ship. “The canvas didn’t hold. I think it ripped early in the ascent.” “That’s consistent with what we saw during the launch.” “How bad is it, Commander?” he asked. “We were able to correct the intercept range with Hermes’s attitude thrusters. But there’s a problem with the intercept velocity.” “How big a problem.” 
+
+“Forty-two meters per second.” “Well shit.” 
+
+••• 
+
+“HEY, AT least he’s okay for the moment,” Martinez said. “Beck,” Lewis said, “I’m coming around to your way of thinking. How fast can you get going if you’re untethered?” “Sorry, Commander,” Beck said. “I already ran the numbers. At best I could get twenty-five meters
+
+per second. Even if I could get to forty-two, I’d need another forty-two to match Hermes when I came back.” “Copy,” Lewis said. “Hey,” Watney said over the radio, “I’ve got an idea.” “Of course you do,” Lewis said. “What do you got?” “I could find something sharp in here and poke a hole in the glove of my EVA suit. I could use the escaping air as a thruster and fly my way to you. The source of thrust would be on my arm, so I’d be able to direct it pretty easily.” “How does he come up with this shit?” Martinez interjected. “Hmm,” Lewis said. “Could you get forty-two meters per second that way?” “No idea,” Watney said. 
+
+“I can’t see you having any control if you did that,” Lewis said. “You’d be eyeballing the intercept and using a thrust vector you can barely control.” “I admit it’s fatally dangerous,” Watney said. “But consider this: I’d get to fly around like Iron Man.” “We’ll keep working on ideas,” Lewis said. 
+
+“Iron Man, Commander. Iron Man.” “Stand by,” Lewis said. She furrowed her brow. “Hmm…Maybe it’s not such a bad idea.…” “You kidding, Commander?” Martinez said. “It’s a terrible idea. He’d shoot off into space—” “Not the whole idea, but part of it,” she said. “Using atmosphere as thrust. Martinez, get Vogel’s station up and running.” “Okay,” Martinez said, typing at his keyboard. The screen changed to Vogel’s workstation. Martinez quickly changed the language from German to English. “It’s up. What do you need?” “Vogel’s got software for calculating course offsets caused by hull breaches, right?” “Yeah,” Martinez said. “It estimates course corrections needed in the event of—” “Yeah, yeah,” Lewis said. “Fire it up. I want to know what happens if we blow the VAL.” Johanssen and Martinez looked at each other. “Um. Yes, Commander,” Martinez said. “The vehicular airlock?” Johanssen said. “You want to…open it?” “Plenty of air in the ship,” Lewis said. “It’d give us a good kick.” “Ye-es…,” Martinez said as he brought up the software. “And it might blow the nose of the ship off in the process.” “Also, all the air would leave,” Johanssen felt compelled to add. “We’ll seal the bridge and reactor room. We can let everywhere else go vacuo, but we don’t want explosive decompression in here or near the reactor.” 
+
+Martinez entered the scenario into the software. “I think we’ll just have the same problem as Watney, but on a larger scale. We can’t direct that thrust.” “We don’t have to,” Lewis said. “The VAL is in the nose. Escaping air would make a thrust vector through our center of mass. We just need to point the ship directly away from where we want to 
+
+go.” “Okay, I have the numbers,” Martinez said. “A breach at the VAL, with the bridge and reactor room sealed off, would accelerate us twenty-nine meters per second.” “We’d have a relative velocity of thirteen meters per second afterward,” Johanssen supplied. “Beck,” Lewis radioed. “Have you been hearing all this?” “Affirmative, Commander,” Beck said. “Can you do thirteen meters per second?” “It’ll be risky,” Beck replied. “Thirteen to match the MAV, then another thirteen to match Hermes. But it’s a hell of a lot better than forty-two.” “Johanssen,” Lewis said. “Time to intercept?” “Eighteen minutes, Commander.” “What kind of jolt will we
+
+feel with that breach?” Lewis asked Martinez. “The air will take four seconds to evacuate,” he said. “We’ll feel a little less than one g.” “Watney,” she said to her headset, “we have a plan.” “Yay! A plan!” Watney replied. 
+
+••• 
+
+“HOUSTON,” LEWIS’S voice rang through Mission Control. “Be advised we are going to deliberately breach the VAL to produce thrust.” “What?” Mitch said. “What!?” 
+
+“Oh…my god,” Venkat said in the observation room. “Fuck me raw,” Annie said, getting up. “I better get to the press room. Any parting knowledge before I go?” 
+
+“They’re going to breach the ship,” Venkat said, still dumbfounded. “They’re going to deliberately breach the ship. Oh my god…” “Got it,” Annie said, jogging to the door. 
+
+••• 
+
+“HOW WILL we open the airlock doors?” Martinez asked. “There’s no way to open them remotely, and if anyone’s nearby when it blows—” “Right,” Lewis said. “We can open one door with the other shut, but how do we open the other?” She thought for a moment. “Vogel,” she radioed. “I need you to come back in and make a bomb.” “Um. Again, please, Commander?” Vogel replied. “A bomb,” Lewis confirmed. “You’re a chemist. Can you make a bomb out of stuff on board?” “Ja,” Vogel said. “We have flammables and pure oxygen.” “Sounds good,” Lewis said. “It is of course dangerous to set off an explosive device on a spacecraft,” Vogel pointed out. “So make it small,” Lewis said. “It just needs to poke a hole in the inner airlock door. Any hole will do. If it blows the door off, that’s fine. If it doesn’t, the air will get out slower, but for longer. The momentum change is the same, and we’ll get the acceleration we need.” “Pressurizing Airlock 2,” Vogel reported. “How will we activate this bomb?” “Johanssen?” Lewis said. 
+
+“Uh…,” Johanssen said. She picked up her headset and quickly put it on. “Vogel, can you run wires into it?” “Ja,” Vogel said. “I will use threaded stopper with a small hole for the wires. It will have little effect on the seal.” 
+
+“We could run the wire to Lighting Panel 41,” Johanssen said. “It’s next to the airlock, and I can turn it on and off from here.” “There’s our remote trigger,” Lewis said. “Johanssen, go set up the lighting panel. Vogel, get in here and make the bomb. Martinez, go close and seal the doors to the reactor room.” “Yes, Commander,” Johanssen said, kicking off her seat toward the hallway. “Commander,” Martinez said, pausing at the exit, “you want me to bring back some space suits?” “No point,” Lewis said. “If the seal on the bridge doesn’t hold, we’ll get sucked out at close to the speed of sound. We’ll be jelly with or without suits on.” “Hey, Martinez,” said Beck over the radio. “Can you move my lab mice somewhere safe? They’re in the bio lab. It’s just one cage.” “Copy, Beck,” said Martinez. “I’ll move them to the reactor
+
+room.” “Are you back in yet, Vogel?” Lewis asked. “I am just reentering now, Commander.” “Beck,” Lewis said to her headset. “I’ll need you back in, too. But don’t take your suit off.” “Okay,” Beck said. “Why?” “We’re going to have to literally blow up one of the doors,” Lewis explained. “I’d rather we kill the inner one. I want the outer door unharmed, so we keep our smooth aerobraking shape.” “Makes sense,” Beck responded as he floated back into the ship. “One problem,” Lewis said. “I want the outer door locked in the fully open position with the mechanical stopper in place to keep it from being trashed by the decompress.” “You have to have someone in the airlock to do that,” Beck said. “And you can’t open the inner door if the outer door is locked open.” 
+
+“Right,” Lewis said. “So I need you to come back inside, depressurize the VAL, and lock the outer door open. Then you’ll need to crawl along the hull to get back to Airlock 2.” 
+
+“Copy, Commander,” Beck said. “There are latch points all over the hull. I’ll move my tether along, mountain climber style.” “Get to it,” Lewis said. “And Vogel, you’re in a hurry. You have to make the bomb, set it up, get back to Airlock 2, suit up, depressurize it, and open the outer door, so Beck can get back in when he’s done.” “He’s taking his suit off right now and can’t reply,” Beck reported, “but he heard the order.” “Watney, how you doing?” Lewis’s voice said in his ear. “Fine so far, Commander,” Watney replied. “You mentioned a plan?” “Affirmative,” she said. “We’re going to vent atmosphere to get thrust.” “How?” “We’re going to blow a hole in the VAL.” “What!?” Watney said. “How!?” “Vogel’s making a bomb.” “I knew that guy was a mad scientist!” Watney said. “I think we should just go with my Iron Man idea.” “That’s too risky, and you know it,” she replied. “Thing is,” Watney said, “I’m selfish. I want the memorials back home to be just for me. I don’t want the rest of you losers in them. I can’t let you guys blow the VAL.” “Oh,” Lewis said, “well if you won’t let us then— Wait…wait a minute.… I’m looking at my shoulder patch and it turns out I’m the commander. Sit tight. We’re coming to get you.” “Smart-ass.” 
+
+••• 
+
+AS A chemist, Vogel knew how to make a bomb. In fact, much of his training was to avoid making them by mistake. The ship had few flammables aboard, due to the fatal danger of fire. But food, by its very nature, contained flammable hydrocarbons. Lacking time to sit down and do the math, he estimated. Sugar has 4000 food-calories per kilogram. One food-calorie is 4184 Joules. Sugar in zero-g will float and the grains will separate, maximizing surface area. In a pure-oxygen environment, 16.7 million joules will be released for every kilogram of sugar used, releasing the explosive force of eight sticks of dynamite. Such is the nature of combustion in pure oxygen. Vogel measured the sugar carefully. He poured it into the strongest container he could find, a thick glass beaker. The strength of the container was as important as the explosive. A weak container would simply cause a fireball without much concussive force. A strong container, however, would contain the pressure until it reached
+
+true destructive potential. He quickly drilled a hole in the beaker’s stopper, then stripped a section of wire. He ran the wire through the hole. “Sehr gefährlich,” he mumbled as he poured liquid oxygen from the ship’s supply into the container, then quickly screwed the stopper on. In just a few minutes, he had made a rudimentary pipe bomb. “Sehr, sehr, gefährlich.” He floated out of the lab and made his way toward the nose of the ship. 
+
+••• 
+
+JOHANSSEN WORKED on the lighting panel as Beck floated toward the VAL. She grabbed his arm. “Be careful crawling along the hull.” 
+
+He turned to face her. “Be careful setting up the bomb.” She kissed his faceplate then looked away, embarrassed. “That was stupid. Don’t tell anyone I did that.” “Don’t tell anyone I liked it.” Beck smiled. 
+
+He entered the airlock and sealed the inner door. After depressurizing, he opened the outer door and locked it in place. Grabbing a handrail on the hull, he pulled himself out. Johanssen watched until he was no longer in view, then returned to the lighting panel. She had deactivated it earlier from her workstation. After pulling a length of the cable out and stripping the ends, she fiddled with a roll of electrical tape until Vogel arrived. He showed up just a minute later, carefully floating down the hall with the bomb held in both hands. “I have used a single wire for igniting,” he explained. “I did not want to risk two wires for a spark. It would be dangerous to us if we had static while setting up.” “How do we set it off?” Johanssen said. “The wire must reach a high temperature. If you short power through it, that will be sufficient.” “I’ll have to pin the breaker,” Johanssen said, “but it’ll work.” She twisted the lighting wires onto the bomb’s and taped them off. “Excuse me,” Vogel said. “I have to return to Airlock 2 to let Dr. Beck back in.” “Mm,” Johanssen said. 
+
+••• 
+
+MARTINEZ FLOATED back into the bridge. “I had a few minutes, so I ran through the aerobrake lockdown checklist for the reactor room. Everything’s ready for acceleration and the compartment’s sealed off.” 
+
+“Good thinking,” Lewis said. “Prep the attitude correction.” “Roger, Commander,” Martinez said, drifting to his station. “The VAL’s propped open,” Beck’s voice said over the comm. “Starting my traverse across the hull.” 
+
+“Copy,” Lewis said. “This calculation is tricky,” Martinez said. “I need to do everything backward. The VAL’s in front, so the source of thrust will be exactly opposite to our engines. Our software wasn’t expecting us to have an engine there. I just need to tell it we plan to thrust toward Mark.” “Take your time and get it right,” Lewis said. “And don’t execute till I give you the word. We’re not spinning the ship around while Beck’s out on the hull.” “Roger,” he
+
+said. After a moment, he added “Okay, the adjustment’s ready to execute.” “Stand by,” Lewis said. 
+
+••• 
+
+VOGEL, BACK in his suit, depressurized Airlock 2 and opened the outer door. “’Bout time,” Beck said, climbing in. “Sorry for the delay,” Vogel said. “I was required to make a bomb.” “This has been kind of a weird day,” Beck said. “Commander, Vogel and I are in position.” “Copy” was Lewis’s response. “Get up against the fore wall of the airlock. It’s going to be about one g for four seconds. Make sure you’re both tethered in.” “Copy,” Beck said as he attached his tether. The two men pressed themselves against the wall. 
+
+••• 
+
+“OKAY, MARTINEZ,” Lewis said, “point us the right direction.” “Copy,” said Martinez, executing the attitude adjustment. Johanssen floated into the bridge as the adjustment was performed. The room rotated around her as she reached for a handhold. “The bomb’s ready, and the breaker’s jammed closed,” she said. “I can set it off by remotely turning on Lighting Panel 41.” 
+
+“Seal the bridge and get to your station,” Lewis said. “Copy,” Johanssen said. Unstowing the emergency seal, she plugged the entrance to the bridge. With a few turns of the crank, the job was done. She returned to her station and ran a quick test. “Increasing bridge pressure to 1.03 atmospheres.… Pressure is steady. We have a good seal.” “Copy,” Lewis said. “Time to intercept?” “Twenty-eight seconds,” Johanssen said. “Wow,” Martinez said. “We cut that pretty close.” “You ready, Johanssen?” Lewis asked. “Yes,” Johanssen said. “All I have to do is hit enter.” “Martinez, how’s our angle?” “Dead-on, Commander,” Martinez reported. “Strap in,” Lewis said. The three of them tightened the restraints of their chairs. “Twenty seconds,” Johanssen said. 
+
+••• 
+
+TEDDY TOOK his seat in the VIP room. “What’s the status?” “Fifteen seconds till they blow the VAL,” Venkat said. “Where have you been?” 
+
+“On the phone with the President,” Teddy said. “Do you think this will work?” “I have no idea,” Venkat said. “I’ve never felt this helpless in my life.” “If it’s any consolation,” Teddy said, “pretty much everyone in the world feels the same way.” 
+
+On the other side of the glass, Mitch paced to and fro. 
+
+••• 
+
+“…FIVE…four…three…,” Johanssen said. “Brace for acceleration,” Lewis said. “…two…one…,” Johanssen continued. “Activating Lighting Panel 41.” She pressed enter.
+
+Inside Vogel’s bomb, the full current of the ship’s internal lighting system flowed through a thin, exposed wire. It quickly reached the ignition temperature of the sugar. What would have been a minor fizzle in Earth’s atmosphere became an uncontrolled conflagration in the container’s pure oxygen environment. In under one hundred milliseconds, the massive combustion pressure burst the container, and the resulting explosion ripped the airlock door to shreds. The internal air of Hermes rushed through the open VAL, blasting Hermes in the other direction. Vogel and Beck were pressed against the wall of Airlock 2. Lewis, Martinez, and Johanssen endured the acceleration in their seats. It was not a dangerous amount of force. In fact it was less than the force of Earth’s surface gravity. But it was inconsistent and jerky. After four seconds, the shaking died down and the ship returned to weightlessness. “Reactor room still pressurized,” Martinez reported. 
+
+“Bridge seal holding,” Johanssen said. “Obviously.” “Damage?” Martinez said. “Not sure yet,” Johanssen said. “I have External Camera 4 pointed along the nose. I don’t see any problems with the hull near the VAL.” “Worry about that later,” Lewis said. “What’s our relative velocity and distance to MAV?” Johanssen typed quickly. “We’ll get within twenty-two meters and we’re at twelve meters per 
+
+second. We actually got better than expected thrust.” “Watney,” Lewis said, “it worked. Beck’s on his way.” “Score!” Watney responded. “Beck,” Lewis said, “you’re up. Twelve meters per second.” “Close enough!” Beck replied. 
+
+••• 
+
+“I’M GOING to jump out,” Beck said. “Should get me another two or three meters per second.” “Understood,” Vogel said, loosely gripping Beck’s tether. “Good luck, Dr. Beck.” Placing his feet on the back wall, Beck coiled and leaped out of the airlock. Once free, he got his bearings. A quick look to his right showed him what he could not see from inside the airlock. “I have visual!” Beck said. “I can see the MAV!” The MAV barely resembled a spacecraft as Beck had come to know them. The once sleek lines were now a jagged mess of missing hull segments and empty anchor points where noncritical components used to be. “Jesus, Mark, what did you do to that thing?” “You should see what I did to the rover,” Watney radioed back. 
+
+Beck thrust on an intercept course. He had practiced this many times. The presumption in those practice sessions was that he’d be rescuing a crewmate whose tether had broken, but the principle was the same. “Johanssen,” he said, “you got me on radar?” “Affirmative,” she replied. 
+
+“Call out my relative velocity to Mark every two seconds or so.” “Copy. Five point two meters per second.” “Hey Beck,” Watney said, “the front’s wide open. I’ll get up there and be ready to grab at you.” “Negative,” interrupted Lewis. “No untethered movement. Stay strapped to your chair until you’re latched to Beck.” “Copy,” Watney said. “Three point one meters per second,”
+
+Johanssen reported. “Going to coast for a bit,” Beck said. “Gotta catch up before I slow it down.” He rotated himself in preparation for the next burn. “Eleven meters to target,” Johanssen said. “Copy.” “Six meters,” Johanssen said. “Aaaaand counter-thrusting,” Beck said, firing the MMU thrusters again. The MAV loomed before him. “Velocity?” he asked. “One point one meters per second,” Johanssen said. “Good enough,” he said, reaching for the ship. “I’m drifting toward it. I think I can get my hand on some of the torn canvas.…” The tattered canvas beckoned as the only handhold on the otherwise smooth ship. Beck reached, extending as best he could, and managed to grab hold. “Contact,” Beck said. Strengthening his grip, he pulled his body forward and lashed out with his other hand to grab more canvas. “Firm contact!” “Dr. Beck,” Vogel said, “we have passed closest approach point and you are now getting further away. You have one hundred and sixty-nine meters of tether left. Enough for fourteen seconds.” “Copy,” Beck said. 
+
+Pulling his head to the opening, he looked inside the compartment to see Watney strapped to his chair. “Visual on Watney!” he reported. “Visual on Beck!” Watney reported. “How ya doin’, man?” Beck said, pulling himself into the ship. “I…I just…” Watney said. “Give me a minute. You’re the first person I’ve seen in eighteen months.” “We don’t have a minute,” Beck said, kicking off the wall. “We’ve got eleven seconds before we run out of tether.” Beck’s course took him to the chair, where he clumsily collided with Watney. The two gripped each other’s arms to keep Beck from bouncing away. “Contact with Watney!” Beck said. “Eight seconds, Dr. Beck,” Vogel radioed. “Copy,” Beck said as he hastily latched the front of his suit to the front of Watney’s with tether clips. “Connected,” he said. Watney released the straps on his chair. “Restraints off.” “We’re outa here,” Beck said, kicking off the chair toward the opening. The two men floated across the MAV cabin to the opening. Beck reached out his arm and pushed off the edge as they passed through. “We’re out,” Beck reported. “Five seconds,” Vogel said. “Relative velocity to Hermes: twelve meters per second,” Johanssen said. “Thrusting,” Beck said, activating his MMU. The two accelerated toward Hermes for a few seconds. Then the MMU controls on Beck’s heads-up display turned red. “That’s it for the fuel,” Beck said. “Velocity?” 
+
+“Five meters per second,” Johanssen replied. “Stand by,” Vogel said. Throughout the process, he had been feeding tether out of the airlock. Now he gripped the ever-shrinking remainder of the rope with both hands. He didn’t clamp down on it; that would pull him out of the airlock. He simply closed his hands over the tether to create friction. 
+
+Hermes was now pulling Beck and Watney along, with Vogel’s use of the tether acting as a shock absorber. If Vogel used too much force, the shock of it would pull the tether free from Beck’s suit clips. If he used too little, the tether would run out before they matched speeds, 
+
+then jerk to a hard stop at the end, which would also rip it out of Beck’s suit clips. Vogel managed to find the balance. After a few seconds of tense, gut-feel physics, he felt the force on the tether abate. “Velocity zero!” Johanssen reported excitedly. “Reel ’em in, Vogel,” Lewis
+
+said. “Copy,” Vogel said. Hand over hand, he slowly pulled his crewmates toward the airlock. After a few seconds, he stopped actively pulling and simply took in the line as they coasted toward him. They floated into the airlock, and Vogel grabbed them. Beck and Watney both reached for handholds on the wall as Vogel worked his way around them and closed the outer door. “Aboard!” Beck said. “Airlock 2 outer door closed,” Vogel said. “Yes!” Martinez yelled. “Copy,” Lewis said. 
+
+••• 
+
+LEWIS’S VOICE echoed across the world: “Houston, this is Hermes Actual. Six crew safely aboard.” The control room exploded with applause. Leaping from their seats, controllers cheered, 
+
+hugged, and cried. The same scene played out all over the world, in parks, bars, civic centers, living rooms, classrooms, and offices. The couple in Chicago clutched each other in sheer relief, then pulled the NASA representative in for a group hug. Mitch slowly pulled off his headset and turned to face the VIP room. Through the glass, he saw various well-suited men and women cheering wildly. He looked at Venkat and let out a heavy sigh of relief. 
+
+Venkat put his head in his hands and whispered, “Thank the gods.” Teddy pulled a blue folder from his briefcase and stood. “Annie will be wanting me in the press room.” “Guess you don’t need the red folder today,” Venkat said. “Honestly, I didn’t make one.” As he walked out he added, “Good work, Venk. Now, get them home.” 
+
+LOG ENTRY: MISSION DAY 687 
+
+That “687” caught me off guard for a minute. On Hermes, we track time by mission days. It may be Sol 549 down on Mars, but it’s Mission Day 687 up here. And you know what? It doesn’t matter what time it is on Mars because I’m not there! Oh my god. I’m really not on Mars anymore. I can tell because there’s no gravity and there are other humans around. I’m still adjusting. If this were a movie, everyone would have been in the airlock, and there would have been high fives all around. But it didn’t pan out that way. I broke two ribs during the MAV ascent. They were sore the whole time, but they really started screaming when Vogel pulled us into the airlock by the tether. I didn’t want to distract the people who were saving my life, so I muted my mic and screamed like a little girl. It’s true, you know. In space, no one can hear you scream like a little girl. 
+
+Once they got me into Airlock 2, they opened the inner door and I was finally aboard again. Hermes was still in vacuo, so we didn’t have to cycle the airlock. 
+
+Beck told me to go limp and pushed me down the corridor toward his quarters (which serve as the ship’s “sick bay” when needed). Vogel went the other direction and closed the outer VAL
+
+door. Once Beck and I got to his quarters, we waited for the ship to repressurize. Hermes had enough spare air to refill the ship two more times if needed. It’d be a pretty shitty long-range ship if it couldn’t recover from a decompression. After Johanssen gave us the all clear, Dr. Bossy-Beck made me wait while he first took off his suit, then took off mine. After he pulled my helmet off, he looked shocked. I thought maybe I had a major head wound or something, but it turns out it was the smell. It’s been a while since I washed…anything. After that, it was X-rays and chest bandages while the rest of the crew checked the ship for damage. Then came the (painful) high fives, followed by people staying as far away from my stench as possible. We had a few minutes of reunion before Beck shuttled everyone out. He gave me painkillers and told me to shower as soon as I could move my arms. So now I’m waiting for the drugs to kick in. I think about the sheer number of people who pulled together just to save my sorry ass, and I can barely comprehend it. My crewmates sacrificed a year of their lives to come back for me. Countless people at NASA worked day and night to invent rover and MAV modifications. All of JPL busted their asses to make a probe that was destroyed on launch. Then, instead of giving up, they made another probe to resupply Hermes. The China National Space Administration abandoned a project they’d worked on for years just to provide a booster. The cost for my survival must have been hundreds of millions of dollars. All to save one dorky botanist. Why bother? Well, okay. I know the answer to that. Part of it might be what I represent: progress, science, and the interplanetary future we’ve dreamed of for centuries. But really, they did it because every human being has a basic instinct to help each other out. It might not seem that way sometimes, but it’s true. 
+
+If a hiker gets lost in the mountains, people will coordinate a search. If a train crashes, people will line up to give blood. If an earthquake levels a city, people all over the world will send emergency supplies. This is so fundamentally human that it’s found in every culture without exception. Yes, there are assholes who just don’t care, but they’re massively outnumbered by the people who do. And because of that, I had billions of people on my side. Pretty cool, eh? Anyway, my ribs hurt like hell, my vision is still blurry from acceleration sickness, I’m really hungry, it’ll be another 211 days before I’m back on Earth, and, apparently, I smell like a skunk took a shit on some sweat socks. This is the happiest day of my life.
