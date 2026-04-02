@@ -45,7 +45,9 @@ import openpyxl
 # ---------------------------------------------------------------------------
 
 DEFAULT_MODEL = "gemini-2.0-flash"
-QUESTIONS_FILE = Path(__file__).parent / "data" / "nlp_question_answer_set.xlsx"
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+QUESTIONS_FILE = PROJECT_ROOT / "data" / "nlp_question_answer_set.xlsx"
+API_KEY_FILE = PROJECT_ROOT / "api" / "api_key.txt"
 
 # How long to wait between API calls to avoid rate-limiting (seconds)
 REQUEST_DELAY = 1.0
@@ -200,12 +202,33 @@ def load_questions(path: Path = QUESTIONS_FILE) -> list[dict]:
 # Gemini interaction
 # ---------------------------------------------------------------------------
 
+def load_api_key(api_key: str | None = None) -> str:
+    """
+    Resolve the Gemini API key from (in priority order):
+      1. Explicit argument
+      2. GEMINI_API_KEY environment variable
+      3. api/api_key.txt file in the project root
+    """
+    if api_key:
+        return api_key
+
+    env_key = os.environ.get("GEMINI_API_KEY")
+    if env_key:
+        return env_key
+
+    if API_KEY_FILE.exists():
+        key = API_KEY_FILE.read_text(encoding="utf-8").strip()
+        if key:
+            return key
+
+    print("ERROR: no API key found. Provide --api-key, set GEMINI_API_KEY,")
+    print(f"       or place your key in {API_KEY_FILE}")
+    sys.exit(1)
+
+
 def create_gemini_client(api_key: str | None = None) -> genai.Client:
     """Create and return a reusable Gemini client."""
-    key = api_key or os.environ.get("GEMINI_API_KEY")
-    if not key:
-        print("ERROR: provide --api-key or set the GEMINI_API_KEY env variable.")
-        sys.exit(1)
+    key = load_api_key(api_key)
     return genai.Client(api_key=key)
 
 
@@ -558,7 +581,7 @@ def build_csv_columns(questions: list[dict]) -> list[str]:
     """
     Build the ordered list of CSV column headers from the question set.
     """
-    cols = ["book", "chapter"]
+    cols = ["country", "book", "chapter"]
     for q in questions:
         cols.append(f"q{q['number']}")
     for q in questions:
@@ -568,6 +591,7 @@ def build_csv_columns(questions: list[dict]) -> list[str]:
 
 def chapter_rows_to_wide(
     chapter_results: list[dict],
+    country: str,
     book_title: str,
     chapter_label: str,
     questions: list[dict],
@@ -576,7 +600,7 @@ def chapter_rows_to_wide(
     Convert the list of per-question result dicts (from analyze_chapter)
     into a single wide-format dict suitable for csv.DictWriter.
     """
-    wide = {"book": book_title, "chapter": chapter_label}
+    wide = {"country": country, "book": book_title, "chapter": chapter_label}
 
     # Index results by question number for fast lookup
     by_num = {r["question_number"]: r for r in chapter_results}
@@ -607,9 +631,9 @@ def write_wide_csv(
         writer.writerow(wide_row)
 
 
-def load_completed_chapters(path: Path) -> set[tuple[str, str]]:
+def load_completed_chapters(path: Path) -> set[tuple[str, str, str]]:
     """
-    Read an existing results CSV and return a set of (book, chapter)
+    Read an existing results CSV and return a set of (country, book, chapter)
     tuples that are already present.  Used for --resume.
     """
     if not path.exists():
@@ -620,9 +644,10 @@ def load_completed_chapters(path: Path) -> set[tuple[str, str]]:
         with open(path, "r", encoding="utf-8") as f:
             reader = csv.DictReader(f)
             for row in reader:
+                country = row.get("country", "")
                 book = row.get("book", "")
                 ch = row.get("chapter", "")
-                done.add((book, ch))
+                done.add((country, book, ch))
     except Exception:
         return set()
 
@@ -638,6 +663,10 @@ def parse_args():
         description="Analyze sci-fi book chapters with Gemini for space-portrayal research."
     )
     p.add_argument(
+        "--country", required=True,
+        help="Country label for this book (e.g. 'US', 'UK').",
+    )
+    p.add_argument(
         "--book-title", required=True,
         help="Title of the book being analyzed.",
     )
@@ -650,10 +679,9 @@ def parse_args():
         help="Label for stdin input when --chapters is not used.",
     )
     p.add_argument(
-        "--output", type=Path, default=Path("results.csv"),
-        help="Output CSV path (default: results.csv). New chapters are "
-             "always appended — run the script once per book and they all "
-             "accumulate in the same file.",
+        "--output", type=Path, default=PROJECT_ROOT / "data" / "nlp_analysis_results.csv",
+        help="Output CSV path (default: data/nlp_analysis_results.csv). "
+             "New chapters are always appended.",
     )
     p.add_argument(
         "--resume", action="store_true",
@@ -693,8 +721,8 @@ def main():
     csv_columns = build_csv_columns(questions)
     print(f"Loaded {len(questions)} questions from {args.questions_file}")
 
-    # If resuming, figure out which (book, chapter) pairs are done
-    completed: set[tuple[str, str]] = set()
+    # If resuming, figure out which (country, book, chapter) triples are done
+    completed: set[tuple[str, str, str]] = set()
     if args.resume:
         completed = load_completed_chapters(args.output)
         if completed:
@@ -717,7 +745,7 @@ def main():
             label = chap_path.stem  # e.g. "ch01"
 
             # Skip if already completed (resume mode)
-            if (args.book_title, label) in completed:
+            if (args.country, args.book_title, label) in completed:
                 print(f"\n[{i}/{len(args.chapters)}] {label} — already done, skipping")
                 continue
 
@@ -752,7 +780,7 @@ def main():
 
             # Convert to wide format and checkpoint to disk immediately
             wide_row = chapter_rows_to_wide(
-                chapter_results, args.book_title, label, questions,
+                chapter_results, args.country, args.book_title, label, questions,
             )
             write_wide_csv(wide_row, args.output, csv_columns)
             chapters_written += 1
@@ -781,7 +809,7 @@ def main():
         )
 
         wide_row = chapter_rows_to_wide(
-            chapter_results, args.book_title, args.chapter_label, questions,
+            chapter_results, args.country, args.book_title, args.chapter_label, questions,
         )
         write_wide_csv(wide_row, args.output, csv_columns)
         chapters_written += 1
