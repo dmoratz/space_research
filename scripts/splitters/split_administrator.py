@@ -14,7 +14,7 @@ import re
 import sys
 from pathlib import Path
 
-PROJECT_ROOT = Path(__file__).resolve().parent.parent
+PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
 BOOK_PATH = PROJECT_ROOT / "data" / "books" / "Japan" / "Administrator by Taku Mayumura.txt"
 OUTPUT_DIR = PROJECT_ROOT / "data" / "books" / "Japan" / "Administrator by Taku Mayumura"
 

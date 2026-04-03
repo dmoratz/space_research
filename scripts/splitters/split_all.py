@@ -6,10 +6,10 @@ and all dedicated book-specific splitters in one go.
 
 Usage:
     # Dry run — show what would be split, don't write anything:
-    python scripts/split_all.py --dry-run
+    python scripts/splitters/split_all.py --dry-run
 
     # Split everything:
-    python scripts/split_all.py
+    python scripts/splitters/split_all.py
 """
 
 import argparse
@@ -64,7 +64,7 @@ def main():
         if args.dry_run:
             cmd.append("--dry-run")
 
-        result = subprocess.run(cmd, cwd=str(SCRIPTS_DIR.parent))
+        result = subprocess.run(cmd, cwd=str(SCRIPTS_DIR.parent.parent))
 
         if result.returncode != 0:
             print(f"  FAILED: {script_name} (exit code {result.returncode})")

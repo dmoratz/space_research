@@ -23,7 +23,7 @@ import re
 import sys
 from pathlib import Path
 
-PROJECT_ROOT = Path(__file__).resolve().parent.parent
+PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
 BOOK_PATH = PROJECT_ROOT / "data" / "books" / "Russia" / "Roadside Picnic.txt"
 OUTPUT_DIR = PROJECT_ROOT / "data" / "books" / "Russia" / "Roadside Picnic"
 

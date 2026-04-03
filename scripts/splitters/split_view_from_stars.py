@@ -19,7 +19,7 @@ import re
 import sys
 from pathlib import Path
 
-PROJECT_ROOT = Path(__file__).resolve().parent.parent
+PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
 BOOK_PATH = PROJECT_ROOT / "data" / "books" / "China" / "A View from the Stars.txt"
 OUTPUT_DIR = PROJECT_ROOT / "data" / "books" / "China" / "A View from the Stars"
 
