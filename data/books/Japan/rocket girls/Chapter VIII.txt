@@ -1,0 +1,440 @@
+CHAPTER VIII
+
+
+
+
+
+
+MEDDLING SPIRITS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[ACT 1]
+
+
+
+
+
+
+
+
+IN THE DARKENED cockpit, Yukari stared at the projection on the screen, a distorted image of the earth captured through the spacecraft’s fish-eye lens. Far below her, the shadow of dusk settled over the earth.
+Arcs of giant clouds burned red along a front, their peaks casting long shadows behind them. A thin layer of clouds drifted below like delicate crepes. Beyond the borders of the clouds extended a vast expanse of indigo ocean. White dots peppered the water, but Yukari couldn’t be sure whether they were clouds or the caps of the waves.
+“The water looks cold,” muttered Yukari. These were not the warm waters of the atolls she had grown accustomed to. In the course of the twenty-five minutes she had been traveling over the South Pacific, the color of the water beneath her had steadily changed.
+“You have an altitude reading for us yet?” asked Kinoshita. He had asked Yukari to measure her altitude using an onboard visual navigation system.
+Yukari snapped out of her reverie. “Getting to it now.” She aligned her scope with the curve of the horizon and read the measurements on the screen. It was a process one might have found on an ancient seafaring ship, only earth and sky were reversed. “Altitude 194 kilometers. Speed…7.8 kilometers per second.”
+“Sounds like you’re in a stable orbit,” said Kinoshita, the relief plain in his voice. Since Tampopo had reached orbital velocity, at least they didn’t need to worry about her dropping out of the sky anytime soon.
+“I’m approaching land now. South America, I think.”
+“Let’s see if we can narrow that down. Check it against your map.” Yukari turned to the map in her operations manual and compared it with
+the image on the screen. An intricate coastline rolled toward her. Tendrils of murky water snaked their way toward a shore tinged with reddish brown.
+“Hmm. I think I’m at fifty-one degrees south latitude—Puerto Montt in Chile. Passing over it now, MET reads twenty-seven minutes, fourteen
+
+
+seconds.”
+“Copy that. We’ll start working on a plan to get you back.”
+“Have you figured out what went wrong yet? I’m dying to find out how I ended up in this whacked-out orbit.”
+“We’re not sure yet,” answered Kinoshita. There was a one-second interval between transmission and reception now. “Even if there was a problem with the gyroscope, that doesn’t explain why our optical tracking lost you. As for why you’re off course—and where the energy to make up for the energy lost putting you in an inclined orbit came from—we don’t know. For now it’s best to accept the fact and move on.”
+“Oh, I’ve accepted it.” Yukari pursed her lips but said nothing more. What more could she say? After all, she was the one who had insisted on launching. If the problem during the launch was still a mystery, she had no one to blame but herself.
+As far as Yukari was concerned, the entire program was dangerous, wasteful, self-serving—in general, a blight on the Solomon Islands. Nevertheless, she would feel bad if it were canceled because of her. At least they had put someone in orbit before the Department of Economic Planning’s deadline expired. If Yukari could manage a safe splashdown, the base on the Solomons and the program would continue.
+Since 70 percent of the earth was covered in water, the odds were on her side.
+
+
+
+
+
+
+The main screen in the control room displayed a Mercator projection of the earth overlaid with a plot of Tampopo’s orbit. In the next hour, it would pass over the Brazilian highlands and the Atlantic, North Africa and Europe, Moscow and China, and finally the Philippines.
+“I don’t believe it—80 percent of this orbit takes her over land,” said Director Nasuda with a tired sigh.
+“This pass is no good,” agreed Kinoshita. “The Philippines and New Guinea have too many islands, and after that we’re into the Gold Coast. One mistake and we’d bring her down on land.”
+“And if our timing is off, she could end up below the fortieth parallel. She wouldn’t last long in water that cold.”
+“Then we have to bring her down on her third orbit. Do a re-entry burn over Sri Lanka for a splashdown to the south of the Cocos Islands.”
+
+
+Nasuda nodded. “It’s an Australian territory, so there should be a naval base. We can probably get them to assemble a recovery team.” Director Nasuda lifted a phone and started speaking to someone in English.
+Kinoshita turned to Matsuri. “Tell Yukari we’re planning on bringing her back on the third orbit.”
+“Hoi. Mission control to Tampopo. Yukari, we have a new reentry plan for you.”
+“When and where?”
+“On your third orbit, with reentry over Sri Lanka and splashdown near the Cocos Islands in the Indian Ocean.”
+“The Cocos Islands? Never heard of ’em.”
+“It’s a nice place. When I was little, the whole village went there by canoe.”
+“You’re pulling my leg.” “The Taliho don’t pull legs.”
+“All right, if you say so. Now what? I have three hours to kill.”
+“Don’t worry, Yukari. We’re going to be busy checking systems and practicing your attitude maneuvers. And since your gyroscopes are unreliable, we’ll need you to make some navigational observations too.”
+“Roger that.”
+
+
+
+
+
+
+
+
+[ACT 2]
+
+
+
+
+
+
+
+
+YUKARI CHECKED THE cabin pressure and carefully lifted the visor on her helmet. The cockpit smelled of rubber insulation. The whir of the ventilation fan and the hum of the electrical inverter were the only sounds that intruded on the eerie silence in the capsule.
+“Mission control, this is Tampopo. I’m preparing to engage manual attitude control.”
+“Hoi. Copy that.”
+Yukari flipped the switch to enable manual control, grasped the control stick with her right hand, and released the safety.
+“Starboard roll.”
+
+
+Yukari tilted the stick gently to the right. Click.
+A magnetic valve behind her opened. The thruster itself made no sound. The attitude indicator on the control panel began to spin.
+“Roll rate, twenty degrees per second.”
+There was another click as Yukari returned the stick to the neutral position. The capsule stopped moving at once.
+“Roll rate, zero. Easier than a video game.”
+“We want you to look outside to confirm you’ve stopped moving, Yukari.”
+“I can see the moon through the window. As steady as if it was hanging on a wall. It looks like a shining silver platter.”
+“It must be beautiful.”
+“You can see for yourself on the next flight.” “That’s right!”
+Yukari proceeded to test the manual controls on each of the three major axes of the ship. Everything checked out.
+“Looks like the onboard gyroscopes are working fine. The jinx must have been on the booster,” remarked Yukari.
+“Oh no!” screamed Matsuri. “What? What is it?”
+“I’m so sorry, Yukari. I did something really, really stupid.” “What?”
+“I forgot to tell Mom and Dad that the launch was delayed. I told them not to put a curse on the rockets going up on the twenty-seventh, but I never said anything about the launch today.”
+“That’s it?” Yukari breathed a sigh of relief.
+“What do you mean, ‘that’s it’? This is terrible! You don’t know how powerful evil spirits can be.” There was dead certainty in Matsuri’s voice.
+“But the rocket didn’t blow up or anything. The orbit’s just a little off, that’s all.”
+“We can’t let down our guard, Yukari. There are still evil spirits with you. It will only get worse from—”
+A voice in the control room cut her off. “That’s enough of that, Matsuri.” The transmission went silent.
+Yukari smiled to herself. “Believe in spirits all you want. I’m putting my faith in science. The attitude controls are working, so if we can do the
+
+
+deorbit burn and the parachutes open like they’re supposed to, we’re home free. Trust me, everything is going to be just fi—”
+A violent jolt rocked the ship. Yukari screamed. She opened her eyes and saw the attitude indicator spinning wildly.
+“Mission control, Tampopo.” Yukari’s voice was shaking. “We have a situation up here. Something shook the ship, and the capsule is spinning out of control. I’ve got an alarm on oxidation tank two—it’s leaking. Other systems are—”
+Kinoshita’s voice came over the radio. “Close your visor and check the cabin pressure.”
+“Roger that. My visor is closed. Cabin pressure is normal. The B-39 control valve is lighting up red.”
+“Check your oxygen supply. If there’s a problem, I want you to put on your emergency backpack.”
+“Oxygen supply reads normal.” Yukari forced herself to breathe normally as she checked her instruments. “Cabin temperature and electric voltage are nominal. Life support systems all check out. Roll rate 314 degrees per second. Pitch rate 140 degrees.”
+“How’s that oxidation tank?” “Pressure is at zero. Must be empty.”
+“I don’t want you to touch the attitude controls yet—it might trigger an explosion. As long as you have your number one tank, you’re not in any danger. We can still bring you home.”
+“Copy that—Aiieee!” “What is it?”
+Yukari was about to report seeing sparks dancing outside the ship, but then she stopped herself. She had seen this in the videos they watched in class.
+“I see ‘fireflies’ outside the window. Thousands of particles sparkling outside the ship. They’re thinning out now.”
+“Probably the fluid from the oxidation tank. Do you see anything else?” Yukari peered out the window. The capsule was still spinning, making it
+difficult.
+“Uh-oh. I see something—something big. It looks like debris.” “Describe it.”
+“There’s a long white piece—like tape or a cable or something. There’s also something square, like a brick. It’s black—I can’t see it anymore.”
+
+
+“Continue your observations of the craft, inside and out. We’ll be analyzing the telemetry.”
+“Um, Kinoshita? That black thing…” Fear had crept into Yukari’s voice. “It looked like a heat shield tile.”
+It was three seconds before Kinoshita replied. “The tiles are diamond shaped, with a slight curve.”
+“That sounds right, but I didn’t get a good look. I can’t think of anything else it might have been.”
+If even one of the reinforced carbon tiles had become dislodged, reentry would be impossible—a simple fact known to everyone in the program, Yukari included.
+“This doesn’t look good…Do you know what happened?”
+“That’s what we’re going to figure out. We have to take this one step at a time.”
+“I know, it’s just…” “Stay calm, Yukari.” “I am calm!”
+“Oh? Your vital signs tell a different story.”
+“Huh?” Yukari’s eyes went immediately to the heart-rate monitor. It was over 120 beats per minute. “Did Satsuki put the medical feed up on the screen?”
+“I did,” said Satsuki, her voice filling Yukari’s helmet. “And if you want me to pull it down, you need to take some nice, deep breaths and relax.” It was the first time Yukari had heard Satsuki’s voice since the launch.
+“I will, just shut it down! Or else I’m gonna rip the cables off myself.” “There, that’s better.” There was a smile behind Satsuki’s words. “I think
+your body likes being angry, Yukari.”
+Yukari had played right into Satsuki’s hands, which only upset her more. “When you have some answers down there, I want to hear them. I’m the
+captain, remember? This whole thing caught me a little off guard, but I’ve got it together now. I can handle this. Tampopo, over and out.”
+
+
+
+
+
+
+Despite her brave words, the realization that she might not live through this had been kindled in the back of her mind. She would have to will herself to overcome her fear. It was the only way, and she knew it.
+
+
+[ACT 3]
+
+
+
+
+
+
+
+
+“IMPOSSIBLE!” SHOUTED MUKAI. They had woken him after four hours of sleep to break the news to him. “The designers would have taken the possibility of a tank overload into consideration. This isn’t Apollo or Mars Observer—there’s no way that tank could have ruptured on its own.”
+“All right,” said Director Nasuda, folding his arms. “Space debris then.” There were countless pieces of trash in orbit around the earth, most of
+them little larger than specks of dust. But all of them traveled at speeds faster than a bullet fired from a rifle, each one a small, man-made satellite.
+“The odds of an on-orbit impact with debris capable of crippling the ship are practically zero. Unless…” Matsuri’s evil spirits came unbidden to Director Nasuda’s thoughts, but he stopped short of blaming them.
+Matsuri sat at her station, mouth agape, eyes vacant.
+“Tank number two is here.” Mukai indicated the tank on a diagram of the spacecraft. “This sausage-shaped object wrapped around the outside of the engine. Based on the location of the damaged valve, the debris must have impacted the side at an angle, piercing the tank and the heat shield.”
+“How do we fix it?” asked Director Nasuda.
+Mukai started to speak, then paused again before answering. “I don’t know if we can. Even assuming we could recover the tile, there’s no way to reattach it to the hull.”
+“We might be able to use the adhesive in the space suit’s repair kit,” interjected Motoko. “It’s good up to three hundred degrees.”
+“No, if the damage was bad enough to rip off a tile, the surface underneath will be a mess. Like a piece of paper with a hole punched through it.”
+“In light of the circumstances, I think it’s worth a look,” said Kinoshita. “We have to send Yukari out there to see what we’re dealing with.”
+“In that suit? It’s too dangerous,” said Satsuki. “It was designed for use inside a spacecraft. It may be airtight, but it doesn’t afford any protection against space debris or solar radiation.”
+“Then we’ll only send her out while she’s on the night side of the earth. And if somehow she does get caught on the day side, she can take shelter in the shade of the spacecraft. We can make this work.”
+
+
+“This is what manned spaceflight is all about!” crowed Director Nasuda. “We have eight hours. Time to pull out all the stops.”
+“You’re enjoying this,” said Satsuki.
+The public relations officer entered the control room and approached Director Nasuda. “The press is going crazy. They want to know why the spacecraft is off its orbital flight plan and what we plan to do about it.”
+“We have nothing to hide,” said Director Nasuda. “Get back out there and tell them the truth—all of it.”
+A minute later, it was headline news throughout the world.
+
+
+
+
+
+
+
+
+[ACT 4]
+
+
+
+
+
+
+
+
+“OUTSIDE? REALLY?”
+“That’s right. I know we didn’t plan for an EVA, and your training for this is inadequate, but—”
+“No, I’m in!” Yukari jumped at the opportunity. It beat twiddling her thumbs waiting for something to happen.
+Yukari removed the emergency backpack from its storage place behind the seat and checked the airtight seal on her helmet. The backpack would provide an independent source of oxygen and power for up to an hour.
+Next order of business was stopping the capsule from spinning. Yukari switched attitude control to manual and grasped the stick in her right hand. “Don’t blow up…” she muttered. Watching the attitude indicator as she worked, she fired reaction thrusters to stabilize the capsule one axis at a time. The capsule handled as it had before, flawlessly.
+With the capsule’s spinning under control, Yukari followed instructions from the ground to reorient the spacecraft.
+“Mission control, Tampopo. The capsule is in position.”
+“All right, now we want you to depressurize the cabin. Look for a handle on your right. It should have a red tag on it.”
+“I have it.”
+“Is your visor secured?” “Affirmative.”
+
+
+Yukari removed the tag and rotated the handle. There was no sound, but the needle on the cabin-pressure dial began to move.
+“Cabin depressurizing—it’s getting cold.”
+“That should pass in a moment. Why don’t you go ahead and attach your tether.”
+“Roger that.”
+A few minutes later, the interior of the ship was a vacuum. Yukari fired the thrusters again to compensate for the spin generated by the release of the air.
+“Mission control, Tampopo. I’m preparing to open the hatch.”
+“Copy that. You are on the night side of the earth and will remain there for the next twenty minutes. Make sure you’re back inside that capsule by then.”
+Yukari reached up and opened the hatch. A black square like the maw of a cave loomed above her. She released her harness and pulled on the edge of the hatch with her right hand. Yukari drifted upward.
+A moment later, her upper body was outside the capsule. Her eyes went immediately to what appeared to be gas leaking from the bow of the spacecraft.
+“There’s something coming from the nose—” Yukari began, before realizing what it was she was seeing. It was the Milky Way, and for the first time she understood how it had earned the name.
+A ruby red star glowed beside the Milky Way, and nearby was a tidy row of three brilliant stars.
+“Orion…When was the last time I saw that?”
+Seen from Maltide, Orion lay in the northern sky, just past the zenith, only inverted left to right from the way Yukari had grown up seeing it. The orientation of the capsule just happened to mimic the horizon near Japan, making Orion appear as Yukari remembered.
+The stars were huge, brilliant—and none of them twinkled as they did on Earth. Yukari decided to test her knowledge of the constellations she had been taught. Looking from Orion to the far bank of the Milky Way, she found the twin stars Castor and Pollux that dominated Gemini. A little farther away she spotted Procyon in Canis Minor. Sirius should lie just beyond, but the bow of the ship hid it from view.
+“Tampopo, this is mission control. What is your status?” Kinoshita sounded impatient.
+
+
+“Oh, sorry. The stars are just so beautiful.” “You only have fifteen minutes till dawn.”
+“Roger that.” Yukari turned slowly until she was facing the tail of the ship. The engine was two meters to the aft behind the hatch, which rose from the ship like a sail. “My entire body is outside now. I’m holding on to the hatch. This feels a lot like the underwater training actually. I’m looking down at the earth—it’s pitch black. Wait, I think I see some lights. Where am I?”
+“You’re over the top of the Italian peninsula. You’re about to pass to the south of Moscow, and then you’ll be over the Tian Shan Mountains.” Kinoshita stopped himself. “You need to be working on getting that floodlight turned on so you can examine the ship.”
+“Roger that, I’m on it.”
+Yukari switched on the light attached to her shoulder harness. The familiar surface of the capsule drifted in the circle of light.
+“I don’t see any problems—Wait!” “What is it?”
+“There’s a hole on the starboard aft, just beneath the doors for the floats. It’s about ten centimeters in diameter, with jagged edges.”
+“That’s pretty much what we expected. Try and get a closer look at the heat shield. Be careful not to let your suit or the tether brush up against any of the damaged areas.”
+“Roger.”
+Grabbing on to projections on the surface of the ship, Yukari propelled herself forward using only her arms. It looked as though she were doing a handstand, but of course she was lighter than a feather.
+Yukari reached the rear of the ship. The heat shield covering the tail was composed of neat rows of tiles arranged into a curved pancake shape. At its center was a small hole, out of which protruded the orbital maneuvering system engine nozzle and its protective door. Yukari maneuvered herself to the edge of the heat shield and directed her light on the tiles—and there it was.
+“I’ve located the damage to the heat shield. It’s by the OMS. There are two tiles missing, and the surrounding area is raised.”
+“What does it look like underneath the tiles?” “The honeycomb mesh is torn to bits.”
+
+
+“Copy.” A short pause. “If you had the tiles, do you think you could get them back in place?”
+“Negative. The base is too uneven. It’s about three centimeters higher than the surrounding surface, and there are cracks radiating from the center.” Yukari reported her observations without emotion.
+The damage she was seeing meant death for her, but somehow she remained calm—the fear would come later.
+“Understood,” said Kinoshita. “Go on and get back inside.” His voice betrayed no trace of emotion.
+
+
+
+
+
+
+
+
+[ACT 5]
+
+
+
+
+
+
+
+
+DIRECTOR NASUDA HUNG up the phone. “The soonest they can have a shuttle up is four days—two weeks for a Soyuz. Nothing but inflexible, hulking leviathans.”
+Matsuri sprang to her feet. “Hoi, Mukai. How soon can our third rocket fly?”
+“That’s right—we have another rocket!”
+The SSA had prepared three LS-5A boosters for this mission: Pathfinder, Tampopo, and a third still on its side in the VAB waiting to be assembled.
+Mukai ran the numbers through his head. “Forty…no, twenty-four hours should do it.”
+“But the capsule will only hold one person,” said Director Nasuda. “We can’t use it to perform a rescue.”
+“Sure we can,” said Matsuri. “We just have to launch it empty for a rendezvous with Yukari.”
+“It might work, but we don’t have twenty-four hours. Yukari’s life support will only last another eight—maybe twelve if we’re careful.”
+“But she could use the liquid oxygen for the fuel. She can do another space walk and—”
+“Matsuri, even if Yukari had enough oxygen, we would need some way to scrub the carbon dioxide out of the air,” said Satsuki.
+Matsuri fell silent, her eyes filling with tears.
+
+
+Kinoshita, who up until now had been staring at his terminal, raised his voice. “These spirits of yours, Matsuri. They enjoy playing pranks, do they?”
+“Hoi. Evils spirits love pranks. Sometimes they can even kill people.” Everyone turned toward Kinoshita to see where he was going with this. “Well, I don’t know whether to call this coincidence or what, but—look
+at the screen.”
+The screen displayed Tampopo’s orbit, and beside it, a second sine wave. “Kinoshita, is that what I think it is?” asked Director Nasuda.
+“That’s the Russian space station—Mir. Its orbit is going to cross Tampopo’s at almost the exact same time. It should pass about two hundred kilometers above Tampopo on the next orbit. We couldn’t have matched up the orbits better if we tried.”
+“Maybe things are finally turning our way. But climbing another two hundred kilometers isn’t going to be easy.”
+“I ran the calculations, and if we jettison the parachute system, it can be done. The capsule will be stranded in orbit, but we can save Yukari. Mir has a three-man Soyuz docked that can bring her home.”
+“It’s all coming together,” said Director Nasuda with a pump of his fist. This would add an unscheduled orbital rendezvous to the unscheduled
+EVA they had just completed. It would be difficult for people outside of the aerospace community to understand, but to accomplish so much on their first manned flight would be nothing short of a miracle.
+“But we can’t bring her home in a Ruskie ship—that would label the whole mission a failure. Mukai, I want that third ship on a rendezvous with Mir, and I want it yesterday.”
+“You don’t have to ask twice.”
+
+
+
+
+
+
+
+
+[ACT 6]
+
+
+
+
+
+
+
+
+PROFITABILITY IN THE space business took more than the ability to reach orbit—you had to be able to make your way to a satellite or ship once you got there. Tampopo may have been small, but it could execute dramatic orbital
+
+
+changes, and that was its great advantage. Any number of Tampopo’s features had been pared back to reduce size and weight, but not her OMS engine— the engine that was going to boost her to Mir.
+Yukari listened as Kinoshita went over the steps they were about to take. “We only get one shot at this. Your first burn will be at perigee in thirty-
+seven minutes—that will put you in a Hohmann transfer orbit. Forty-four minutes later you’ll perform another burn to align your vector with Mir. Do you copy?”
+“Roger. Just like we learned in class.”
+“That’s right. Things are going to get a little hectic. Matsuri’s back with us. She’ll be providing your ground support again.”
+“Copy that. You there, Matsuri? Everything’s going okay up here.” “Hoi, I’m here. We still need to be careful, Yukari. Stay sharp.”
+“I know, I know. So, where do you wanna start?”
+“First we’re going to jettison the parachute system, then we’re going to program the sequencer. We need to check the clock and the engine too. It’s a pretty long list.”
+“Copy that.”
+
+
+
+
+
+
+An hour and twenty minutes passed. The first burn came and went without incident. Tampopo had entered an elliptical orbit that would bring it within striking distance of Mir’s own. Mir would be approaching from behind, and when it was just about to overtake Tampopo, Yukari would perform an apogee burn to match speed.
+For now, Mir was nowhere in sight.
+“So…what’s going on? Should I radio to let them know I’m coming?” “Actually, Yukari, the talks with the Russians are still a work in progress.
+They’re worried about the possibility of a collision, so they haven’t given Tampopo permission to approach yet.”
+“They…what?”
+Yukari couldn’t believe what she was hearing. Were they really going to negotiate over her life?
+The idea wasn’t as absurd as it first sounded. Granting docking rights to a foreign country was a big deal; if something went wrong, astronomical sums of money were on the line, not to mention lives. They only had one chance for Tampopo to make the rendezvous with Mir, so they had taken it,
+
+
+a leap of faith that she would be welcome when she got there. But there was a real possibility that she would be turned away at the door.
+“You’re approaching Mir according to plan,” said Matsuri. “U.S. Space Command is tracking your position for us. You’re currently seventy-four kilometers from Mir, and nine kilometers below.”
+“I should be in ship-to-ship communications range by now.” “Hoi, affirmative. Want to give it a try?”
+“They speak English, don’t they?” “Only one way to find out.”
+“Here goes. Let’s see if they’re willing to sit on their hands while a teenage girl dies.”
+Yukari flipped through the operations manual and tuned her radio to the common frequency used by international spacecraft.
+“Um, hello, Mir?” Yukari spoke in English. “This is Tampopo from SSA, Yukari Morita speaking. Over.”
+On her second attempt, a reply came in English. “This is Mir. We hear you loud and clear, SSA Tampopo.” It was a man’s voice, deep and resonating.
+Yukari was ecstatic as she pressed the talk button. “This is Tampopo. I hear you loud and clear too. Tampopo can’t make reentry. I was hoping you’d let me stay with you. Over.”
+“Mir to SSA Tampopo. TsUP mission control has informed us of your situation, but we have not yet received permission for you to dock.”
+Yukari realized it was now or never.
+“So the Russians are just going to let a young girl die with the whole world watching?”
+The Russian response came almost immediately. “Mir to SSA Tampopo. I want you to listen carefully to what I am going to tell you, Yukari. Cosmonauts, astronauts—we have all answered the same noble calling. As far as we are concerned, everyone on the ground can piss off.”
+Yukari couldn’t have been more thrilled by what she had heard if it had been in her own native Japanese. In a place lonelier than any on Earth, she had forged a bond with another human being.
+“Thank you, Mir. I’m glad we had the chance to meet like this. Oh, I still don’t know your name, do I?”
+“I am Oleg Kamanin. With me is my commander, Nikolai Belyayev.” “Just two of you?”
+
+
+“Correct. We have been here six months. Nikolai is depressurizing and prebreathing to prepare so he can meet you outside the station. It will be two hours before he can go out. Can you wait until then?”
+“Two hours is no problem. Life support should last another four.”
+“Copy that. TsUP told us your suit does not require prebreathing. This is true?”
+“Of course. I thought that’s how they all were.”
+“An amazing technology. This is good, but there will be other difficulties with docking. We will need to moor your vessel to the station with tethers, and our air lock is only large enough for one person at a time. Nikolai will help you tie up your ship and show you to the air lock.”
+“Roger. First I need to get there though. I still have seventy kilometers to go. How am I going to find you? I don’t have much fuel, so I need to get it right the first time.”
+“This concerned us too, Yukari. That is why we already track you on radar. We have a good fix on your position. We will guide you to us.”
+“You’re a lifesaver, Oleg.”
+
+
+
+
+
+
+Yukari didn’t waste any time reporting her conversation with Mir to SSA mission control in the Solomons.
+“I don’t know what kind of progress you’re making down there, but we have a game plan ready up here. I’m currently approaching Mir under their guidance. I’m at a relative distance of sixty-three kilometers, elevation minus four kilometers. I should reach Mir in twenty-four minutes.”
+Yukari spoke with absolute confidence. Oleg had said that astronauts of all nations answered to a noble calling, and she liked the sound of that. To this point, she had dutifully followed whatever instructions the ground had given her, but real astronauts relied on their own judgment, made their own decisions, and carried them out. It felt good to be in control.
+“Mir is directly ahead—bright, it looks like Venus. I hope they have a shower onboard. I wouldn’t mind a bite to eat either.”
+“Nice going, Yukari. Everybody’s celebrating down here.” Even Matsuri was having trouble containing her excitement.
+“They should be. An astronaut who’s never flown before doing an EVA and an on-orbit rendezvous in a one-manned spacecraft? This has to be some sort of record.”
+
+
+“Hoi. Director Nasuda’s beside himself.”
+“NASA only lets their top astronauts do EVAs. When I get back, maybe I’ll pay a visit to Houston and say hi.”
+
+
+
+
+
+
+
+
+[ACT 7]
+
+
+
+
+
+
+
+
+FROM A DISTANCE of a few kilometers, Mir looked like a white cross. It was impossible to gauge distance in the vacuum of space, so it appeared to hang there like a key chain dangling just outside the window.
+Tampopo performed her apogee burn and made her final approach, coming in one hundred meters above Mir.
+As Yukari oriented the capsule vertically above the station, the earth swung into view, its orb dusted with snow-white clouds, followed by Mir itself, which had been hidden during the final leg of the approach.
+“Wow, it’s big.” Yukari was awestruck.
+Mir had grown considerably in the ten years since its launch. With its two Kvant modules, Kristall modules, and docked Soyuz, it was a massive structure reaching over forty meters in length.
+Yukari wrung the last bit of thrust out of Tampopo’s engine to maneuver toward the end of Mir’s Kristall-2 module, bringing the ship to a stop a few meters from the air lock.
+“Mir, Tampopo. I’m in position.”
+“Beautiful approach, Yukari. You are a natural.”
+“Just doing my best.” Yukari felt her cheeks redden. “Mir is pretty big. I feel like a fly on an elephant’s tail.”
+Oleg laughed. “I like this expression. Let me tell you about our home while Nikolai prepares to go out. Can you see the window I am in?”
+“Um, where?”
+“Two meters past the air lock, in the middle of a tangle of equipment.” Yukari peered eagerly out of her capsule. She spotted a small round
+window surrounded by pipes and handholds—and in the window she saw Oleg. He was younger than she expected. His hair was wavy and blond. He had a slender face with chiseled features. In short, he was quite handsome.
+
+
+“Do you see me?” asked Oleg. “Yes, I see you. Can you see me?”
+“Unfortunately it is too dark. I will have to wait.” “What about Nikolai? Can he talk with us?”
+“He is prebreathing in his space suit now.” “You don’t have radios in your space suits?” “No, it is not that. He is a little quiet, that’s all.”
+Yukari cocked her head. She had never heard of a quiet astronaut. If anything, the ability to communicate and work together was something to be prized in the space program.
+“Well, he is Russian,” Yukari said to herself. She had always harbored a little prejudice against Russians. “But he’s also a professional astronaut—I guess I can trust him.”
+
+
+
+
+
+
+Two hours later, the round door of the air lock swung open to reveal a figure in a bulky space suit.
+“This is Commander Nikolai Belyayev. I have exited the air lock. Do you read me, Tampopo?” He spoke in a husky baritone. Whatever his reason for not joining in their conversation sooner, it wasn’t for a lack of English ability.
+“I hear you loud and clear, Commander Belyayev.” “I’m going to throw you a tether. Get out of your ship.” “Roger.”
+Yukari opened the hatch and boosted herself halfway out of the ship. A gold visor concealed Nikolai’s face. He tied a wrench to one end of the tether and threw it to Yukari. It sailed magically through the gap separating them, the tether trailing in an undulating wave. She caught the wrench and tied the tether to a handle on her now derelict craft.
+“First we will take care of you. Oleg explained the workings of the air lock to you, yes?”
+“He did.”
+“Pull yourself here along the tether. Once you are in the air lock, I will finish securing your ship.”
+“You don’t need me to help?” “It is a one-man job.” “Understood.”
+
+
+Nikolai was not the friendliest of people.
+A little nervous, Yukari headed for the air lock.

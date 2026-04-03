@@ -1,0 +1,406 @@
+7
+
+
+WATCHING GENERAL LINNEBERG tilt back the tiny demitasse cup in his large hand, Lydia Cooley made her decision.
+There was no need to wait any longer. The time was ripe. The best defense was a good oﬀense. She’d show the JAM her determination. That would draw them out.
+“Major Booker, break time’s over. Get the command center staﬀ back in here. Captain Foss, bring Captain Fukai back here. Have all personnel report for combat duty. We’re accepting the JAM’s declaration of war. I’m declaring war on them right back. Yukikaze is cleared to attack. Execute it immediately.”
+The command center suddenly grew tense. The clink of General Linneberg returning the cup to its saucer echoed loudly through the room.
+“Yes, Ma’am,” replied Major Booker. “Initiating combat against the JAM.”
+Captain Pivot recalled the command center staﬀ on the comm system while Lieutenant Eco contacted Yukikaze in
+
+
+the repair bay.
+“Inform our alert ﬁghters that the attack has begun,” said the general. “Maintain watch on all approaches. There’s no telling what’s going to happen, so stay sharp. Record all data. Initiate tactical combat reconnaissance.”
+“Roger.”
+General Cooley launched all ﬁghters except for Yukikaze, dividing them into four groups of three planes each. Two were dispatched toward the JAM bases Rakugan and Kanworm, a third toward Banshee III, while the last ﬂew a CAP in the skies over Faery base.
+The general had decided against adopting Captain Fukai’s proposal to seize Banshee III. Putting that much of a strain on the SAF’s computers might have played into the JAM’s own strategy, so after ﬁnishing the strategy session she’d held with Major Booker and the others while Rei was asleep, the general had practically had a discussion with the strategic computer before arriving at the correct decision.
+The strategic computer claimed that the easiest action would be to defend Faery base to the bitter end. Put another way, the general thought, it’s afraid we’re going to leave it behind. Unlike Yukikaze, this computer wouldn’t be able to transfer itself into a new body from its old one. Banshee’s central computer lacked the capacity to transmit its entire database in toto.
+To defend SAF headquarters and Faery base to the end, the strategic computer insisted that they’d need support from ground forces. They also needed to know what Colonel Rombert was up to. The quickest way to do that would be to take control of the Intelligence Forces, or at the very least work out an agreement. However, I can’t do that, the computer had said to General Cooley. For that, I need your help.
+She’d agreed, knowing that the Intelligence Forces weren’t going to fall for any cheap tricks. No, she thought,
+
+
+rather than try and take them with a roundabout plan, I’ll attack them head on. That was her way of doing things, and so she’d do just that.
+Meanwhile, the more combat-oriented tactical computer contended that Captain Fukai’s proposal still bore some consideration.
+Like its strategic mate, transfer of the tactical computer’s central functions it performed for the SAF to either Banshee or any other front-line base was eﬀectively impossible, so seizing one of the bases was a nonstarter. However, making it appear that the SAF were doing just that would be to their advantage, it had said. The general wondered if such a half-assed measure would work on the JAM, but Major Booker had agreed with the computer’s opinion. The computers understood the JAM better than the humans did, so the tactics they oﬀered couldn’t be worthless. Besides, he went on, if Rei had thought of it, then it was likely the JAM had thought of it too. This would be a good way to outsmart them.
+Working from that, they’d quickly drawn up a mission plan. Then, with the exception of Captain Fukai, General Cooley gathered all SAF personnel, including the maintenance team repairing Yukikaze, in the command center. She brought them up to speed on what was happening, telling them that this could be the end of the SAF before laying out the plan. Each man and woman prepared for combat, and even oﬀ-duty personnel were issued weapons to carry. In the end, she had told them this:
+“This is a major operation, but fundamentally, the mission is just the same as it always is. The means each ﬁghter uses is up to them, but get back here alive. That’s not a request. It’s an order. The same order I always give. That is all.”
+The JAM were coming. They might be standing at the doorway right now, like the Grim Reaper. Major Booker had
+
+
+been ﬁlled with dread as he rushed to throw together a sortie schedule for the twelve ﬁghter planes faster than anyone had ever attempted, but hearing the general say that the mission was the same as it had ever been was like taking aspirin for a fever. He grew aware of how calming Cooley’s words were.
+The general, after considering that the prediction Captain Foss had been willing to bet her life on might be incorrect, had chosen the optimal strategy and then made her ﬁnal decision. Maybe that was only natural, but Major Booker’s thoughts were so feverish from planning sorties that he hadn’t even considered the possibility that Foss was wrong. The general was even cooler-headed than he expected. Booker suddenly realized that Cooley’s decision was informed by both possibilites; whether the JAM were launching their ﬁnal attack against them or the prediction had been completely wrong, the SAF would not be left at a disadvantage. General Laitume couldn’t attack, and no deals had been struck with General Linneberg. Whatever the JAM did now, the SAF would be free to concentrate on them and them alone.
+Only General Cooley could have moved the SAF like this, he thought. Whether it was thanks to God-given talent or the results of her eﬀorts, this woman, Lydia Cooley, was potentially the ultimate communicator with the JAM. General Linneberg must also see her value in that regard. There was no need to ask the Intelligence Forces for help. He would act by himself to protect Lydia and her Special Air Force. She didn’t have a thing to worry about…
+This is STC. Warning.
+A red warning display scrolled onto the big screen.
+I have detected a signal directed to the outside with instructions from Colonel Rombert.
+A coded order to “capture lost sheep” was dispatched to the six main FAF bases. That too scrolled onto the screen,
+
+
+seeming to trigger a ﬂurry of activity on the display. Unauthorized use of BAX-4 units. Thirty-four in
+total. Four two-seater Fand-type ﬁghters from the Systems Corps with weaponry loaded are preparing for an unauthorized sortie.
+“Okay, don’t panic,” said Major Booker. “Here it comes. The ghost unit’s making its move. STC, this is Major Booker. Initiate jamming of Faery base internal navigation systems.”
+STC, Roger. Executing.
+“After conﬁrmation of the success of Yukikaze’s attack, initiate counterintelligence operations against all FAF computers.”
+Conﬁrming complete destruction of Yukikaze’s attack target. Erroneous data within the Systems Corps has been deleted. Yukikaze also conﬁrms. Captain Fukai is calling.
+“Where is he?”
+Standing by in his quarters.
+“Link the terminal there with Yukikaze. There’s no need to monitor what they talk about, just initiate counterintelligence operations at once.”
+ROGER. Initiating counterintelligence operation against all FAF computer systems.
+General Cooley answered General Linneberg’s request for an explanation.
+She’d been able to predict that the ghost unit would use the BAX-4 armor, but it was worn and operated by humans and thus couldn’t be shut down from there in the command center. The SAF could, however, disrupt the armor’s internal navigation system by jamming Faery base’s internal navigation system. The base was a huge, labyrinthine underground complex, and most of the men in the ghost unit wouldn’t be intimately familiar with its layout. Without
+
+
+the navigation system, they’d have to waste time looking for their targets, which would greatly restrict their mobility.
+Yukikaze’s attack had been a countermeasure against the JAM’s own data-attack against her. As the strategic computer had contended, the JAM had attempted to overload Yukikaze’s processing capabilities. Had Captain Fukai not instructed her to attack, it was possible that it might have destroyed Yukikaze’s central computer. It was the sort of situation for which the strategic computer knew humans were still necessary.
+The counterintelligence operations the SAF were undertaking against all the computer systems of the FAF were to prevent any of them from accessing local networks, in order to secure the SAF’s data. This wasn’t just through passive means like cutting the circuits, but also by actively manipulating the external computers to keep them from detecting the very existence of the SAF.
+“In short, General Linneberg, we’ve also made ourselves into a ghost unit.”
+“Can orders be issued to my forces?” “It’s possible.”
+“Have them mop up the JAM ghost unit. Do you know what their position is? I want it done before the targets split up.”
+“We’re tracking them,” said Major Booker. “We can see them, but they can’t see us.”
+“I’ve prepared a mop-up team for this situation,” Linneberg said. “Guide them to the target from here.” The Intelligence Forces unit knew the subterranean maze well and wouldn’t need to use the navigation system if they knew where their target was, he explained. They were guided by spoken command, and hand-to-hand combat in the subterranean maze had begun.
+Four Systems Corps aircraft have taken oﬀ —enemies.
+
+
+“Carmilla team, target the four aircraft and shoot them down.”
+Flying patrol in the skies over Faery were units B-2, B-3, and B-4: Carmilla, Chun-Yan, and Zouk. Major Booker ordered them to attack.
+“Ignore the IFF response,” said General Cooley. “They’re being piloted by JAM duplicates. The target aircraft are armed. They may be old planes, but they’re armed with state-of-the-art         high-velocity         missiles.         Make         visual conﬁrmation of the targets, then shoot them down. Don’t worry about ID’ing them; the paint job on Systems Corps trainers is hard to miss.”
+Each plane acknowledged by voice response.
+The weather was clear over Faery base. A line of red—the Bloody Road, the jet of incandescent gas that swirled
+out from Faery’s twin suns—rose over the predawn horizon. Thick, red, and lurid. It’s a warning, thought Lieutenant Zubrowski, Carmilla’s pilot. This isn’t Earth. These are not Earth’s skies.
+“Targets are taking oﬀ in formation,” his ﬂight oﬃcer reported. “We aren’t too late,” Zubrowski replied. “I wanted to take them out before they got in the air.”
+Lieutenant Zubrowski silently locked on to the targets. There was a warning alarm. The lieutenant responded immediately, jinking the plane higher while keeping it level. A shock struck the rear of the plane with a loud bang.
+“We’re hit,” said the ﬂight oﬃcer.
+He banked sharply, falling, then rising. Faery base’s automatic air defense Phalanx guns were shooting at them. There were three turrets. With Chun-Yan and Zouk backing him up, they eliminated the guns without a moment’s hesitation.
+“Short-range missiles, four, closing fast.”
+
+
+Lieutenant Zubrowski accelerated at maximum thrust, climbing toward Skymark I, an AWACS plane ﬂown by Faery base’s defense forces. Nothing felt abnormal in the plane. The missiles launched from the target aircraft were closing in fast from the rear.
+Carmilla tore toward the surveillance plane, not even trying to shake them oﬀ. He ﬂew on a collision course, but the lieutenant hadn’t made a piloting error. In a moment, he’d swept past it. The swarm of missiles were locked onto Carmilla, but now the huge AWACS plane was in the way. There was no time to change course, and the missiles slammed into engine exhaust ports. The AWACS plane exploded.
+“Picking up a second wave.”
+“They’re not headed this way,” said the ﬂight oﬃcer. “All targets have been downed by Chun-Yan.”
+True to its Chinese name, Chun-Yan had soared like a hungry spring swallow, greedily taking all the targets for herself, devouring them in a twinkling.
+“Shit,” swore Lieutenant Zubrowski. “I wasn’t expecting the defense system to react to us.”
+“Nothing we could do about it. We were ordered to attack ﬁrst. Well, we managed to evade it. Damage is minimal. We just took a round in the starboard vertical stabilizer.”
+The moment they attacked, he’d expected the FAF computers to treat them like unidentiﬁed aircraft. What Lieutenant Zubrowski hadn’t ﬁgured on was their shooting ﬁrst without even trying to conﬁrm who they were. The automated base defense system was either being controlled by the JAM, or else its AI now simply categorized all
+unidentiﬁed craft as JAM. The AWACS plane had also been coordinating the attack. That was unprecedented. Looks like the danger General Cooley sensed was for real, the lieutenant thought as he and the other two planes reformed
+
+
+their combat formation and returned to their patrol course. It really felt like the JAM were going all-out on this oﬀensive.
+As the voice report that all target aircraft had been shot down echoed through the command center, General Linneberg voiced his hope that this would settle things.
+“Much as I’d like to get drunk and sleep in this morning,” Major Booker replied, “it doesn’t look like that’ll be happening. We’ve lost track of Colonel Rombert.”
+While it had been tracking him on the internal base surveillance monitors, the colonel was now gone and couldn’t be located anywhere, the tactical computer reported on the screen.
+In addition, they had received an emergency call from the Rafe team headed to Banshee III. Text scrolled across the screen as the voice echoed through the command center.
+“There are indications that Banshee III might self-destruct. Dangerous to approach. Withdrawing. Sending the unmanned Rafe in closer to gather intel.”
+“Have the Rafe transmit real-time video,” General Cooley ordered.
+“Self-destruct?” said Major Booker.
+“I’m not sure why, but Banshee’s core temperature is unusually high,” said Captain Sashlin, the pilot of Unit B-12, Onyx. “I think the nuclear reactor’s overloading. All hands seem to be abandoning ship. They’ve already launched dozens of ﬁghters, but…”
+“They’re painting us with their targeting radar,” said Second Lieutenant Bausch, pilot of Unit B-11, Gattare. “They’re coming to ﬁght.”
+“Bogeys, approaching from D zone. JAM. A lot of them. Closing in. Banshee should be picking them up as well, but
+they’re not responding. They’re probably recognizing them as friendly aircraft. It looks like they see us as JAM.”
+
+
+“Withdraw. Set the Rafe to automaneuver mode. B-11, B-12, RTB,” General Cooley ordered. “You’re authorized to attack without warning to protect yourselves, even FAF planes.”
+“Roger,” they replied. The real-time video came in from the Rafe. It was unusual for the SAF to do this, but General Cooley wanted real-time data.
+The area around Banshee glowed in the dawn’s light as it met the bright red rising sun. The Rafe caught sight of the huge black ﬂying carrier. The central part glowed faintly red, as though bathed in colors of the sunrise. The redness rapidly increased, until a bright line of light, like molten iron pouring from a blast furnace, began to fall from the center. An instant later, the enormous ﬂying aircraft carrier known as Banshee III exploded. The video abruptly ended.
+“It wasn’t a nuclear explosion,” said Major Booker, “but the Rafe’s gone.”
+The strategic computer displayed an alert.
+JAM aircraft are appearing simultaneously from multiple directions. Extremely large numbers of them. It is possible that this data is being falsely generated         by         the         JAM.         Requesting         visual conﬁrmation from the humans in each aircraft, ASAP.
+“Roger,” said Major Booker. Captain Pivot displayed all combat theater maps on the big screen. The presence of JAM was indicated by red, and starting with the front-line bases, their entire surroundings were now stained red. And that red stain was moving toward Faery base.
+“If this is real,” said General Linneberg, “then there’s no way we can resist. But Colonel Rombert will survive. We can’t let him escape from here.”
+“Can he ﬂy a ﬁghter?” asked General Cooley. “Yes, he can,” said General Linneberg.
+
+
+“Major Booker, don’t let a single aircraft leave Faery base. Stop all ﬁghter squadrons from launching. STC, send cancellation orders to all computer systems.”
+STC, roger. However, it’s diﬃcult to say if all systems are currently operating normally. They’ve fallen into a panic, unable to judge the situation. In this state, either way, they won’t be able to cope with normal troop management.
+“Even so, if anyone takes oﬀ, shoot them down—”
+“No! Don’t shoot them down,” said General Linneberg. “We need the colonel taken alive.”
+“General—”
+“General Cooley. Lydia, the world doesn’t belong just to you.”
+“I’m aware of that.”
+“If the colonel leaves the base, we can track him and know what he’s doing. Shooting him down would be simple. You’ve shown me just what your people are capable of. But what will we gain by killing the colonel now?”
+“Then please ﬁnd him,” Cooley said.
+“I have all my people giving it their full attention. Trust me.”
+“This is Minx.” A message was coming in from Captain Kozlov, B-6’s ﬂight oﬃcer. “Currently conducting tactical recon of JAM air superiority zone at Rakugan. The FAF aircraft gathered here have begun attacking each other.”
+“What?” said Major Booker. “Our forces are ﬁring on each other?”
+“I don’t think this is an exercise, so yes, that’s what they’re doing. They’re using live ordnance.”
+“They might be causing the crews to hallucinate, or they’re disrupting the planes’ electronic warfare systems. Check it out!”
+
+
+“That’s going to be diﬃcult, sir. Both sides in this ﬁght are targeting me as an enemy, and we’ve got real JAM forces closing in as well. Let’s get back to base and analyze the data we’ve gathered. Captain, prepare to break to portside…NOW!”
+Transmitting the sign that they were engaged in combat reconnaissance, the comm chatter from Minx continued.
+“These guys look like they’re trying to settle a whole bunch of old scores.”
+Major Booker turned at the sound of the voice, Generals Cooley and Linneberg following suit.
+“They never liked how callous the SAF acts. That goes for the JAM too.”
+“Rei…it took you long enough. What have you been up to?”
+“Looking carefully into the mirror, shaving. For the ﬁrst time, I wished I had a better one,” Rei said.
+“I assume Captain Foss has briefed you on the mission.” Captain Foss stood silently at Rei’s side.
+“Yukikaze isn’t ready to sortie yet. You can ask Lieutenant Eco for the details. Captain Pivot, send out Llanfabon. Have them tell us what the situation is at Kanworm.”
+“Send out Yukikaze too,” said Rei.
+“Sending you out now would be suicide. Yukikaze’s the last ace the SAF has up its sleeve.”
+“Which is why you need to send us out now.” “What do you mean?”
+“The JAM are waiting for me and Yukikaze,” Rei said. “As long as we stay hunkered down, the attacks will continue.”
+“What, are you the Messiah or something?” Booker asked, incredulous.
+“What happens to the people of Earth or the FAF isn’t my problem. I don’t really care. I just want to do what I want
+
+
+to do.”
+“Oh, spare me the heroic bullshit. And just what do you want to do? Kill yourself?”
+“Jack, a strategy where only one person survives would still be acceptable to the JAM. As long as one survives, you haven’t lost.”
+“And you’re going to be that one person, is that it?”
+“It could be anyone. You, Colonel Rombert, General Cooley. That’s not what I’m interested in. I want to be with Yukikaze, that’s all.”
+“I think that Rei’s—that Captain Fukai’s belief that the JAM are waiting for Yukikaze is the vital point here,” Captain Foss said. “It’s not that they won’t attack Yukikaze, but as long as we don’t send her out, they’ll keep pressing this attack.”
+“This is Lieutenant Bruys in Unit B-7, Llanfabon. Engaging JAM. Six hundred units have been wiped out. Shit, it’s not just the JAM. The FAF guys are targeting me too! Cutting my drop tanks. I need to lighten my load, or I’m dead. Won’t be able to make a direct RTB. Direct me to a refueling point.”
+“Head for TAB-16,” Major Booker instructed. “After you neutralize its air defense and radar system, work something
+out with the people there. Is that clear? With the humans, not the base computer. I’ll send over the data the SAF is collecting on the overall combat theater. Analyze it yourself and work out a survival strategy.”
+“Understood.”
+“Pass it along to the other two planes.”
+“No response. I guess they’ve been shot down. I don’t have time to conﬁrm the collected data. Okay, I’m receiving it. Once it’s downloaded, I’m switching on my jammers. Just wanted to warn you in advance that I’ll be going dark for a while.”
+
+
+“Roger.”
+“Over and out.”
+Two SAF planes had been shot down at the same time, and Llanfabon was left on her own and in danger. The command center fell silent, but only for a moment.
+“This is Carmilla. Control, please respond.” “Control, Major Booker here. What’s up?”
+“Skymarks III and IV are designating tactical ﬁghter groups approaching from Troll base as enemies. We’re conﬁrming that the approaching planes are FAF, but Skymark’s still judging them to be enemies.”
+“This is Lieutenant Tang aboard Chun-Yan. Control, the approaching aircraft aren’t just ﬁghters from Troll. They’re coming in from the other main bases. They must be coming to attack Faery base, sir. It looks like they think that we’ve been taken over by the JAM.”
+“This is Zouk. Dozens of alert ﬁghters launched from Faery base to mop us up are moving to intercept them. We’re saved.”
+The strategic computer cut in on the display.
+This is a war between the computer systems of the FAF. It’s possible the bases surrounding Faery base think a coup has occurred. The FAF humans are getting caught in the middle.
+“You could describe it as a panic from false rumors,” General Linneberg said. “A common tactic in an information war is to exploit normal fears and frustrations to produce a state of panic. Now it’s been done to our computers. This must have been exactly what Colonel Rombert was trying to achieve.”
+This is SSC. Carmilla team, I am also recognizing the approaching planes as JAM. I believe this is the result of a JAM deception. Will correct error based on
+
+
+your data. Send data. If possible, visual conﬁrmation by onboard crewmen is preferred.
+“This is Carmilla, roger that.”
+This is STC. I anticipate actual JAM forces will be closing from behind. Do not overlook this.
+“Kill or be killed,” said General Cooley. “Carmilla team, keep watch on the other planes taking oﬀ from Faery base and divert them. We’re sending out Yukikaze now. Cover her takeoﬀ. If anything tries to stop her, even an FAF plane, destroy it.”
+“General, you’re sending him out?”
+“Go, Captain Fukai,” she said. “Find the real JAM out there, then report back to me in real time. We have to keep the SAF from falling into a panic as well.”
+“We need accurate information inside and out in order to stop this panic,” said General Linneberg. “The SAF are the only ones who can stop this.”
+Rei nodded as he entered the ﬂight plan from Major Booker into Yukikaze, then left the command center to suit up in his ﬂight gear.
+“Rei, look at this,” said Major Booker, stopping him in his tracks. “You’re going out, even now? If you jump into that, you won’t be coming back alive.”
+The tactical display was stained bright red showing the enemy oﬀensive under way.
+“Why? Because you’re ordered to?” Booker said.
+“You always ask me that, even when you already know the answer, Jack. See you. I’m borrowing your watch, though. Don’t worry. I’ll return it.”
+He raised his arm lightly in a rough salute, just as he always did. And then Rei headed for Yukikaze. Her repairs complete, she’d been moved to the armament loading area for her ﬁnal inspection. Wearing his ﬂight suit, helmet in hand, Rei walked in to see the normally unmanned area
+
+
+crowded with maintenance personnel hanging all over Yukikaze, making their ﬁnal checks on her. Some of them were carrying machine guns. Then Captain Foss approached.
+“Edith. What are you doing here?”
+“I came to check on your state of mind.”
+“Don’t tell me you’re planning to come along with me.” “I honestly wanted to, but General Cooley won’t allow it.
+But I think being aboard Yukikaze is the safest place to be at the moment.”
+“So do I.”
+“Or, rather than safe, maybe I should say it’s the most comforting place to be. I’m sure that’s how you feel. But it would be wrong for me. I shouldn’t come between you and Yukikaze.”
+“I still don’t like you,” Rei said to Captain Foss. “You’re an annoying tag-along who just makes my life diﬃcult. But I have to admit that you’re good at what you do. There’s one thing I have to ask you, though.”
+“What’s that?”
+“My relationship with Yukikaze. You said that simultaneously viewing her as a separate person while also acknowledging her as a part of me wasn’t that rare in people, that people have that ability. You said that it wasn’t an illness.”
+“Yeah, exactly.”
+“What does that mean, speciﬁcally?”
+“You know perfectly well. Isn’t that what you said to Major Booker before? You ask even when you know the answer. Still, I can understand why you might be shy about saying it, so I’ll lay it out for you,” Captain Foss said. “It’s what happens when you love someone. It’s an ability that’s been born of the love between you and Yukikaze, between a
+
+
+human being and the artiﬁcial intelligence of an SAF ﬁghter plane.”
+“It’s ridiculous, isn’t it?” Rei said.
+“Yes. When I take a step back and think about it, the truth is that I want to laugh. But it’s the truth. Love can take this form. It’s the ability to feel as though another person is a part of you. It’s not the transient passion of infatuation, but the intense love that would drive you to willingly sacriﬁce yourself for their survival. We need to teach the JAM about that. The JAM don’t know love. If you wanted to express what the JAM don’t understand about the SAF in a literary way, that’s how I’d put it.”
+“There’s no need to teach them.”
+Rei put on his helmet and switched places with the maintenance man running the preﬂight checks in Yukikaze’s cockpit.
+“Why not?” Captain Foss asked Rei as she clung to the side of the plane on the ladder. “Are you afraid that the JAM might love you back?”
+“Maybe I am. Once the JAM understand that, the war will bog down into a quagmire. We’ll be reduced to a nasty mudslinging contest, and an even stronger hatred will be born of it.”
+“Better to keep things as they are, is that it?” “Yeah,” Rei said.
+“Such a typical answer from you. But I predict that the JAM will evolve to understand it in order to match us. I’d even go so far as to say it would make them even more powerful.”
+“And us too?”
+“The two sides will continue to change. Assuming you live through this, I’m interested in seeing how you’ll continue to change. Be sure to make it back.”
+
+
+“I was planning to, even without your asking me. Now, if you don’t mind, get out of the way. And have them pull all the safety pins out of the missiles. I’m taking oﬀ as soon as I’m topside.”
+Captain Foss silently climbed down from the ladder. As Rei watched her, he thought that surviving the JAM wouldn’t necessarily mean he’d return home. But he didn’t say that. Instead, he felt for Major Booker’s watch on his left arm and took it oﬀ. And then, after telling Captain Foss to catch it, tossed it to her.
+“Give that back to Major Booker for me, will you?” Rei said. “Good luck, Edith. You ﬁxed me up well.”
+Captain Foss nodded. “Like you guys ﬁxed me.”
+And, as if answering him, Yukikaze scrolled a message onto the main display.
+Everything is ready… Capt.
+As they began towing Yukikaze toward the elevator, Rei was no longer aware of Captain Foss as an individual. She, the maintenance teams, the humans and the AIs of the SAF…the SAF had tuned both himself and Yukikaze to perfection, and as they sent him out, all he felt now was satisfaction.
+He started the engines as soon as they’d exited the elevator. This was already a battleﬁeld. On the runway, several FAF planes were burning. Three Super Sylphs, Carmilla, Chun-Yan, and Zouk, were speeding low, barely skimming the ground.
+“This is Yukikaze. Taking oﬀ.”
+Night had given way fully to dawn. The crimson jet of the Bloody Road could no longer be seen from ground level.
+Yukikaze shot away from the ground at maximum thrust, zooming upward in a combat climb. She soared high, aiming for altitudes where the Bloody Road could be clearly seen,
+
+
+even at noon. The soaring fairy. The queen of the wind. Maeve. Yukikaze.
+
+
+OceanofPDF.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I Am That I Am
+
+
+Commentary by Maki Ohno SF Critic, Translator
+
+
+
+
+THIS BOOK, A sequel to the 1984 release Yukikaze, was originally serialized between 1992 and 1999 in SF Magazine. It was later revised and corrected before being released in hard cover form in 1999 as Good Luck, Yukikaze. It is truly worthy of the title of author Chōhei Kambayashi’s lifework.
+It’s the story of a ﬁghter plane and its pilot and their battle with an enemy on an alien world. But that mainly serves as a specialized stage, merely a background for a drama of society and humans. Amidst the extreme circumstances of war, it paints a picture of a hero joined to a cool piece of mecha and destiny in a symbiotic relationship that could almost be called fetishistic. However, what’s depicted here isn’t a war in the usual sense. (The book itself refers to it as a “struggle for existence.”) It’s full of detailed descriptions of the mecha served to wow the fans, but that’s not the sole source of this book’s appeal. Herein lie the major themes of what is intelligence? What is communication? And the author pursues those themes repeatedly. It’s loaded with deep speculation about the perception of the self and others, an ultimate example of SF as speculative ﬁction.
+
+
+WARNING! The following contains spoilers about the previous work, Yukikaze. Those who have not read it yet, beware. As this book is a sequel, you are strongly urged to read Yukikaze before proceeding.
+
+
+A THREE-KILOMETER-WIDE COLUMN of mist appears on a point on the Ross Ice Shelf in Antarctica. This is the “Passageway,” and through this hyperspace corridor ﬂy an alien intelligence known as the JAM to invade Earth. However, the human race form an Earth Defense Organization and begin their counterattack. On the other side of the Passageway lies the mysterious planet Faery. Humanity establishes bases there, and this begins a long war with the JAM that is to last thirty years.
+The main actor in the war is the Faery Air Force (FAF). Evolving from our current jet ﬁghter planes, the Sylphid ﬁghter with an advanced electronic brain is deployed at the bases on Faery. In addition, an organization charged with reconnaissance and intelligence gathering is established within the FAF: the Special Air Force (SAF), who deploy an improved version of the Sylphid with more powerful computers known as the Super Sylph. The Super Sylph’s artiﬁcial intelligence, along with the base’s tactical and strategic computers, possess individual consciousness, making them sapient life-forms that exist along with the humans.
+The SAF’s mission is to survive and bring their data back to base, and they are prepared to let their comrades die if necessary to achieve that end. For that reason, the pilots must be callous and coldhearted. In a sense, they require personalities that put them at odds with most ordinary human beings. Rather than human beings, they are more like parts of their ﬁghter planes, organic combat computers that are a part of the Super Sylph.
+The previous novel told the story of an SAF Super Sylph named Yukikaze and her pilot, Rei Fukai. As beﬁtting an SAF member, he has trouble communicating with people, only really able to relate to his commander, Major Booker, and Yukikaze. But as he ﬁghts, he gradually begins to face the meaning of the war he’s ﬁghting. Quite simply, he comes to
+
+
+believe that the war isn’t a battle between mankind and the JAM, but one between the aliens and the computers that mankind has built. What meaning could human existence have in such a war?
+This question also seems to be an important issue for the JAM. They seem unable to understand what humans are, and subtly change their tactics in order to determine the answer to that question. The previous novel showed that they’d reached the point of being able to duplicate human beings. Rei is captured by them, and from this vital story point, the sequel develops.
+At the end of the previous novel, Yukikaze is destroyed, and her core data that could be called her consciousness is then transferred into a state-of-the-art ﬁghter plane called the FRX00. And so begins this book, the story of a reborn Yukikaze and Rei Fukai.
+There is a debate about whether planes should be manned or unmanned. On the one hand is the argument that the human element is wasteful and unnecessary in extreme situations. A manned ﬁghter requires all sorts of limitations and equipment to preserve the life of the human, preventing the machine from achieving maximum performance. In terms of cost-eﬀectiveness, it’s a disadvantage. For example, for the scientiﬁc investigation of space, it’s much more eﬃcient to send out lots of unmanned space probes than to send one manned spacecraft. On the other hand, there’s the argument that, when things go wrong, there’s ultimately no substitute for human judgment. This is acknowledged as a realistic point of view, based on the current limitations of robots and computers. However, our current feeling that we can’t just leave things to machines is very likely born of a desire by humans (which is to say ourselves) to be involved with things. So, even assuming that artiﬁcial intelligence is developed to a very advanced level, this argument will most
+
+
+likely continue to be made. In this book, Rei Fukai argues that “humans are necessary in this war.” But it isn’t because human judgment is more correct than the machines, but because they can behave illogically in a way that the JAM can’t understand. Once the enemy JAM are able to understand them, the humans will be defeated. That’s because this war is essentially about information. Information, communication, interfaces. Those are the central themes of this story.
+
+
+THE JAM MAY be what Philip K. Dick called androids, or simulacra. Although very similar, they are fundamentally alien. Humans and machine intelligences like Yukikaze are alien to each other, but there is the possibility of understanding and comprehension between them (though this may actually just be an illusion on the part of the humans. Still, Rei is able to trust Yukikaze). However, the JAM are unable to understand our hearts. If they took a Turing Test, they’d likely be disqualiﬁed at some point. That’s because the nature of their existence makes communication with them impossible. From their statement “I am that I am,” you get the feeling that they are hopelessly alien. Even if they are able to simulate humans, they are beings who have no way to comprehend them.
+Stanislaw Lem’s The Invincible presents a battle with an alien enemy that humans are unable to communicate with. Yet Lem’s enemies are so alien that communication is unthinkable from the very start. In Chōhei Kambayashi’s work, as alien as these beings are, there still exists a type of interface between them. Namely, the interface of words. Machine intelligences like Yukikaze straddle the gap between the humans and the JAM, able to translate between them at some level (a level just short of mutual understanding, but not overly emphasizing the alienness of the JAM either). And in Kambayashi’s work, even as you realize you can’t understand the enemy just when you think
+
+
+you have a handle on them, there also exists a sense of humor. Even the characters aren’t ﬂustered by the one-sided relationship with their opponents (though to be fair, you can’t call them normal people).
+Despite being a story that deals with deep themes, presents characters lacking in humanity, and is written in sparse prose drained of emotion, when you read this book as entertainment, seeing these sorts of characters being able to deal with their world with a vague sense of humor is a major point. We’re able to empathize with them and with Yukikaze. Hurtling through the skies of planet Faery, reading Yukikaze’s thoughts as a brief string of characters on the cockpit display, we can feel the tension of the ﬁerce battle she ﬁghts. It is the act of communication we call “reading.”
+As I write this sentence now, a real war is going on in a diﬀerent reality separated from our day-to-day life. It is accompanied by a feeling of unreality, like the war on the planet Faery. We can’t treat the terrorists of reality like the JAM. However, looking at the root of this war as a failure of communication, I can’t help but think about the relationship between it and this book. Though Rei Fukai would likely look at this war between his fellow humans and simply say, “Not my problem.”
+
+
+OceanofPDF.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ABOUT THE AUTHOR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chōhei Kambayashi was born in 1953. In 1979 he won the 5th Hayakawa SF Contest with his debut work, Kitsune to Odore (Dance with a Fox), and followed that with his ﬁrst long series, Anata no Tamashii ni Yasuragiare (May Peace Be on Your Soul). His distinctive style and approach, and his thematic focus on the power of language and humanity’s relationship with machines, quickly made him a fan favorite. His numerous long and short series have won him the prestigious Seiun Award four times, and in 1999 he won the 16th Japan SF award.
+
+
+OceanofPDF.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OceanofPDF.com

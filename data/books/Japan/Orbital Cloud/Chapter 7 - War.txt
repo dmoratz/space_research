@@ -1,0 +1,523 @@
+7 War
+
+
+
+
+                        Tue, 15 Dec 2020, 01:17 (2020-12-14T16:17 GMT)
+
+
+International Terminal, Haneda Airport, Tokyo
+
+
+
+
+                        Once Kurosaki had watched Kazumi and Akari disappear into the full-body scanner, he stopped waving and dragged his hand down his face. In twelve hours, the two of them would arrive in Seattle, where Sergeant Daryl Freeman, a subordinate of Colonel Claude Lintz, would pick them up at the airport. The body odor that came with old age wafting from Kurosaki’s wrist reminded him of how stressful the day had been. Only twelve hours had passed since their visit to Fool’s Launchpad, and already so much had happened.
+
+
+                        Sekiguchi, who’d been looking out behind them, leaned his back on a barrier and slid down into a crouch.
+
+
+                        “Are they gone?” he asked.
+
+
+                        “Yeah. Anyone look like they’re tailing us?”
+
+
+                        “No one was paying special attention to those two. I think we’re okay.”
+
+
+                        “Good work. You did a great job today. I’m scared to think of tomorrow though …” Kurosaki said, feeling overwhelmed as he went over all the things they had to do the next day in his head. He would have to report to his superiors about the North Korean plot as well as the space tether that he was still trying to wrap his mind around, and explain the expenses that Sekiguchi had been putting up for them. He could justify the change of clothes and the suitcases they’d given to Akari and Kazumi, but the cost of the chartered helicopter to Haneda and the suite in the Nippon Grand Hotel went way beyond their allowance for entertaining important guests.
+
+
+                        “You did a great job yourself, Kurosaki-san. This is far from over, so I’m sure we’ll be relying on each other more from here on out. All right. So let’s go back. The train to Iidabashi should still be running.”
+
+
+                        Kurosaki nodded. Thanks to the Olympics, the trains now ran late into the night. Nonetheless, to get back to his home, he was going to have to take a taxi from Nakano Station. Kurosaki was just pulling out his smartphone to call his family when Sekiguchi waved at him to stop.
+
+
+                        “Please don’t turn on any smartphone provided by JAXA,” said Sekiguchi.
+
+
+                        Kurosaki remembered how Sekiguchi had had everyone turn off their smartphones before boarding the helicopter from the Korakuen Building. He’d thought that this was to prevent any interference with the vehicle’s instruments, but perhaps not.
+
+
+                        “We can turn our phones on when we get back to the hotel,” Sekiguchi continued.
+
+
+                        “What are you talking about? I’m going home.”
+
+
+                        “After we have a nap at the hotel, we’ve got to get moving right away. Our flight to Turkey tomorrow leaves at noon. Since we’re taking economy, we’ve got to be at Narita by 9:00 a.m.”
+
+
+                        “Hold on, there. Turkey?”
+
+
+                        “Yes. There’s no direct flight from Japan to Tehran, so we’re getting a connecting flight from Istanbul. At 5:00 p.m. … This itinerary is going to be rough.” Sekiguchi put his hand on the barrier to push himself to his feet and bowed his head to Kurosaki. “I’m very sorry. There was no time to explain. We’re going to Tehran.”
+
+
+                        “Tehran …” muttered Kurosaki and stared at Sekiguchi.
+
+
+                        “Yes. We have to find Jahanshah. I promised Kazumi.”
+
+
+                        Sekiguchi explained that they would bring satellite phones and other devices to create a network-connection environment that would allow them to communicate with Seattle. “This is going to be my first official trip abroad since I started working for JAXA,” said Sekiguchi, doing a big stretch.
+
+
+                        “You … you think they’re actually going to approve this trip?”
+
+
+                        “What better time than this for me to throw my weight around?”
+
+
+                        Within a few years, a career bureaucrat like Sekiguchi would rise up the ranks in the Ministry of Science and Education and might even enter the department that controlled JAXA.
+
+
+                        “I used your stamp to approve the application for our trip and included your portion on— What? You said I could use your stamp ‘when necessary.’ I also took the liberty of bringing your passport from inside your desk.”
+
+
+                        “You fu— That’s not what I meant! What—”
+
+
+                        “Kurosaki-san, I apologize for arranging all this without consulting you. But it’s of the utmost importance that we go. If Kazumi-san has a chance to speak with Dr. Jahanshah, the man who came up with the concept, our insight into the situation will only deepen further. And most importantly, this is what Kazumi-san wants.”
+
+
+                        “… Well, that may be so. But there’s absolutely no need for us to go.”
+
+
+                        “No, there is. We need to go into hiding.”
+
+
+                        “What’s this?”
+
+
+                        Sekiguchi lowered his voice and leaned in close to Kurosaki. “North Korea has us in their sights too.”
+
+
+                        Sekiguchi took out his powered-off smartphone.
+
+
+                        “I had to go to Ochanomizu to pick up your stamp so we could approve the trip, but when I got there, our IT team was in a frenzy. Apparently they’ve detected the unauthorized use of MDM.”
+
+
+                        “MD what?”
+
+
+                        “Mobile device management.” The moment Sekiguchi said this, Kurosaki recalled that JAXA had adopted a system to centrally administer the smartphones and tablets used in their operations. In case any of them were lost or stolen, the IT department was set up to wipe out all its information. They could also check how many times certain apps were activated, where phone calls were made, and each device’s current location. Employees of the device manufacturer on temporary transfer from its systems integrator were in charge of running this system, and Kurosaki supposed that Sekiguchi had heard about the misuse of MDM from them.
+
+
+                        “There was a record of someone checking the location of our smartphones right when we were in the Nippon Grand Hotel.” Pausing for a moment, Sekiguchi looked around and dropped his voice even further. “The account used to manipulate the MDM was Shiraishi’s. A disgruntled ex-employee’s account, still active. The password hadn’t even been changed. Once this is all over, we’ve got to let human resources and IT know how badly they screwed up.”
+
+
+                        “Shiraishi’s account?” Kurosaki was surprised that it hadn’t been deleted.
+
+
+                        “We still haven’t determined 100 percent that it was Shiraishi who did it,” said Sekiguchi, apparently noticing the look of dismay on Kurosaki’s face. Kurosaki was having serious trouble telling anymore which one of them was older and had seniority.
+
+
+                        “I put off dealing with the problem because I didn’t want whoever it was to know we’re onto them,” continued Sekiguchi, “but we can’t use JAXA’s infrastructure until this all settles down. That’s why I submitted our application to travel on paper. It’ll be input into the system eventually, but this will at least buy us some time.”
+
+
+                        Kurosaki was grateful for Sekiguchi’s quick thinking. “Ah … So that’s why you had us turn off our smartphones before boarding the helicopter.”
+
+
+                        “Exactly. If they knew we were at Haneda now, there would be no doubt that our two engineers escaped abroad.”
+
+
+                        “Sorry for being so slow on the uptake.”
+
+
+                        “Don’t worry about it. Let’s just stay focused on what we’re going to do next,” said Sekiguchi, scanning the lobby. “If we rush off to one of our domestic institutions like the NPSC or NSC, they might offer us protection from the North Korean operatives. But is that what we really want? A chain of interviews, reports, questioning? We’ll lose days to all that. That will mean leaving Kazumi and Akari unassisted in Seattle.”
+
+
+                        Sekiguchi lifted his hand as if to grab something and then placed it on Kurosaki’s shoulder. “Kurosaki-san, listen. If we lay low at the Nippon Grand Hotel until tomorrow morning and then fly off to Turkey, we can enter a country in which not even NORAD or the CIA can move freely. And we can bring the man who came up with the space tether on to our team.”
+
+
+                        Kurosaki felt Sekiguchi’s fingers bite into his shoulder. Clearly the man wasn’t playing around. “Sekiguchi, that hurts.”
+
+
+                        “Oh … I’m very sorry,” said Sekiguchi, removing his hand and retreating a step. “Whether you join me or not, I’m going. If you’re going to stay, please get in a taxi now and go to the NSC in Kasumigaseki to ask for protection. I’ll arrange everything for you.”
+
+
+                        With shaking hands, Sekiguchi lined up his lapels and stared at Kurosaki.
+
+
+                        Kurosaki thought of Kazumi and Akari. They were heading to a foreign land to work with strangers on verifying their hypothesis while hidden operatives hunted them. Sekiguchi would be leaving, too, for Tehran. With faith in their as-yet-uncertain guess about the tethercraft, the three of them were plunging into deep water.
+
+
+                        The pain lingering in Kurosaki’s shoulder gradually turned to numbness. But Kurosaki could sense that the heat transferred from Sekiguchi’s trembling hands had sparked some new feeling in his chest.
+
+
+                        “All right, then,” he said. “Let’s go back to the hotel. It would be great if we could head off to Narita by helicopter too.”
+
+
+                        A flash of white peeked from between Sekiguchi’s thin lips as he smiled. “Don’t tease me with your jokes. We’ve got to cut costs, so we’re going by bus.”
+
+
+
+
+
+
+
+
+
+
+Mon, 14 Dec 2020, 10:22 -0700 (2020-12-14T17:22 GMT)
+
+
+Peterson Air Force Base, Colorado Springs
+
+
+
+
+                        Major Sylvester Fernendez stretched out his long arm and pointed at some ugly orange clothes hanging in a locker. “Hey, Ricky! You really won’t wear this for me?”
+
+
+                        Straddling a bench, Captain Ricky McGillis shrugged slightly in response, keeping the gesture small enough so as not to appear rude. When he had first heard the story from Fernendez’s subordinate, Sergeant Daryl Freeman, last weekend, he’d thought it was a joke. But this was the third time he had been asked.
+
+
+                        “Just take it already! Don’t you think it’ll be cool to become a legendary test pilot?” Watching this exchange from where she stood in front of the lockers, Second Lieutenant Madu Abbot laughed. This Indian American woman might have been highly capable flying an F-22 Raptor, thought Ricky, but she simply didn’t understand the tact required of a pilot.
+
+
+                        “Lieutenant Abbot. Can you please be quiet?” said Sylvester, and Madu shrugged, shifting her weight from one foot to the other. She had been acting cheeky like this since the moment she had learned that Sylvester’s visit was not on official orders. She was an excellent pilot but didn’t understand how important personal bonds within the organization were when it came to an experiment in which life was on the line. In other words, she wasn’t exactly someone who inspired solidarity.
+
+
+                        “Come on, Ricky!” Sylvester casually puffed out the right side of his chest. The silver wings of the emblem that indicated he was an air force pilot gleamed dully under the fluorescent lights. “I’m a pilot too. I understand better than anyone that a pressure suit gets in the way when you’re driving the Eagle, feeling its incredible power, but—”
+
+
+                        “That’s not it at all, Major,” interrupted Ricky, looking flustered. “That suit was worn by the crew of a bomber, right? That’s no pilot suit!”
+
+
+                        Sylvester’s eyes went wide and he said with a laugh, “Oh boy. You’ve got it all wrong. This uniform was used on the Streak Eagle.”
+
+
+                        “… The one with the world record?” asked Ricky, and Sylvester glanced at him with a snort, as if to say, “This isn’t something a little whippersnapper like you would understand.” And Madu agreed completely. Any pilot who truly loved the Eagle would pump a fist with excitement the moment they heard the words Streak Eagle.
+
+
+                        In February of 1975, a Streak Eagle, stripped bare of paint and gutted of weaponry, radars, fire control systems, and most other avionics, had reached an altitude of one hundred thousand feet in just 207 seconds, setting the world record at the time. The old-fashioned orange jumpsuit in the locker had in fact facilitated a historic achievement and deserved to be commemorated as prize memorabilia.
+
+
+                        Sylvester stood up before the pressure suit, looked back, and said, “It’s been forty years since Captain Smith set his record, so most of the parts have been refitted.” Sylvester ran his bony finger over the components as he explained its history. The high-altitude pressure suit had been designed for the Streak Eagle. It had then been stored in the back of the warehouse, going ragged over the decades, but they had fixed it up. Though there was no time to redesign it, the rubber inner lining had been replaced with Gore-Tex, and the duralumin helmet had been data modeled with a 3-D scanner so that a mold could be 3-D printed and it could be remade in polycarbonate. As a result, the suit was lighter and more comfortable than the original.
+
+
+                        “A transparent material was used for the helmet, so the view should be much better than with the original. Sounds like the ultimate Eagle experience to me, wouldn’t you say?”
+
+
+                        As Ricky listened to this, an idea reared its head. “… The ASM-140 was launched over fifty thousand feet, right?” he said.
+
+
+                        “That’s exactly right. You’ve really done your homework,” said Sylvester with a satisfied smile, as though self-assured that his invitation had been a success.
+
+
+                        “Seventy thousand feet,” said Ricky. “We could try to send the launch to about that altitude, couldn’t we?”
+
+
+                        Sylvester frowned.
+
+
+                        I’m going to pull it off, thought Ricky. I’m going to show you all.
+
+
+                        “Request permission to top the Eagle’s strategic altitude record,” said Ricky. “That should set a record for the F-15C with regular equipment. Does that sound acceptable, sir?”
+
+
+                        Sylvester gave a conspiratorial grin. “That sounds fun.”
+
+
+                        “I’m out of my depths here,” said Madu, who’d been listening quietly. She let down her hair and shook her head.
+
+
+                        “Hey,” said Ricky. “Wanna do it together? You can set a record for the F-22 too.”
+
+
+                        “Not my sort of thing,” said Abbot. “You go for it. I’ll be down here taking pictures of the ASM’s takeoff.”
+
+
+                        “ ‘Takeoff’? This is a ‘blastoff,’ baby!”
+
+
+                        Sylvester brushed Ricky’s shoulder as he passed between him and Madu. “Technically, we’re planning to call it a ‘launch,’ ” he said. “In my letter to NORAD, I’ll be sure to strongly emphasize your seventy thousand–feet request.”
+
+
+                        “Thank you, sir.”
+
+
+                        At the entrance to the locker room, Sylvester turned around as though he’d just remembered something.
+
+
+                        “There was a message from Colonel Lintz,” he said. “Even fifty thousand feet is well into the stratosphere. That means you might be able to see the stars even during the day. Have a ball up there, Captain.”
+
+
+                        “Understood.”
+
+
+                        Ricky brought his fist and palm together and smiled at Madu. Ho yeah!
+
+
+
+
+
+
+
+
+
+
+Mon, 14 Dec 19:42 2020, -0700 (2020-12-15T03:42 GMT)
+
+
+Interstate 5, Seattle
+
+
+
+
+                        When the car went over a hill coated pure white with snow, the bright red lines of tail lamps leaped into Kazumi’s view. Before he could mention the traffic jam, Freeman smoothly slowed the car. The lane to the left painted with white diamonds was open, but few cars were taking advantage, and Kazumi supposed it was reserved for something.
+
+
+                        Earlier that evening, Freeman had come to the Seattle-Tacoma International Airport to pick up Kazumi and Akari. He was a short man with somewhat dark skin whose youthful face made Kazumi think he might be younger than him. But he held his back straight and carried out tasks efficiently, making Kazumi think of an organization with which he had little familiarity: the military.
+
+
+                        Kazumi searched for the right words and at last squeezed out an English sentence. “It is a traffic jam,” he said.
+
+
+                        “Yeah, this is terrible,” said Daryl, tapping the steering wheel with his fingers. “At this rate we won’t be there for about forty minutes.”
+
+
+                        As Kazumi stared at the rows of cars ahead, a silver passenger plane in position for takeoff flashed into view, and turning his head, he could see a runway stretching to the left.
+
+
+                        “Sea-Tac is really spread out,” said Kazumi.
+
+
+                        “Um, actually,” said Akari from the backseat, patting Kazumi’s headrest, “that’s Boeing Field. On Google it’s labeled King County International Airport.”
+
+
+                        Akari’s English was far from fluent, but she spoke up without any hesitation, and Kazumi resolved to follow her example.
+
+
+                        “That was King County? I see. It has an official airport name. Thank you, Akari.”
+
+
+                        Kazumi looked into the backseat. Akari’s face was hidden by the brim of the Seattle Mariners cap that Sekiguchi had given her. She was just in the middle of inserting the SIM card she had bought at the airport into the Raspberry Pi resting on her lap. This reminded Kazumi of the SIMs he had in his wallet. Akari had bought them for him when they had arrived at the airport. Raising the eyebrows of the mobile counter staff by buying ten of them, she had given three to Kazumi and told him to change them every day. It seemed unlikely that the North Korean agents would be able to monitor their communications in America, but she wanted to reduce the risk, and Kazumi had no qualms with that.
+
+
+                        Kazumi heard the sound of another jet firing up. The silver passenger plane was just lifting off.
+
+
+                        “Is that a domestic flight?” asked Kazumi. “I can’t see any airline logos.”
+
+
+                        Daryl glanced to the side and tapped the steering wheel as though satisfied with what he’d seen. “They just haven’t finished painting it,” he said. “The Boeing factory is doing the flight check and paint job before delivering it somewhere. That’s why it’s called Boeing Field. Is this the first time in America for you guys?”
+
+
+                        “Yes, first time,” said Kazumi, and Akari said, “Me too.”
+
+
+                        Kazumi smiled, feeling disappointed with himself. He couldn’t speak English fluently, so he found himself repeating whatever Daryl said. He felt like a parrot.
+
+
+                        “While we’re investigating, I’ll show you around Seattle. I’ve heard the collections at the Museum of Flight in the back of the airport are just incredible. They even have a Concorde on display. I bet you’d really enjoy the orbiter simulator, Kazumi.”
+
+
+                        “An orbiter … That is a space shuttle, right? Thanks.”
+
+
+                        “You’re welcome,” said Daryl and tapped the wheel again. The Boeing Field runways kept sending silver passenger planes into the air in a flurry of motion. Kazumi took another look at Daryl’s face and felt amazed that this man with whom he was chatting casually was a serviceman for NORAD, a military organization with a tradition of monitoring orbital objects for as long as forty years.
+
+
+                        Here he was in America, the mecca of space development. As Kazumi took a deep breath to absorb the air of this exciting place he found himself in, he began to choke on the fragrance of a strong perfume.
+
+
+                        “You okay?” asked Daryl. “Before we go to the hotel, I’d like to stop by a shopping center. We’ve still got to build an operations center for you two to perform your analysis, and I brought almost nothing with me from Seattle—oops!” Daryl smacked his forehead. “There’s three of us in the car. I forgot. That means we can use the car pool lane.” Pointing to the lane with the diamonds, Daryl checked behind them and turned into it with brisk motions. The powder snow that had been accumulating on the windshield puffed up.
+
+
+                        “I’m always alone, so I forgot,” said Daryl. “It’s nice to be on a team for a change.”
+
+
+                        “Nice to be working on a team,” said Kazumi, parroting what he had heard again. He tried to think of other words he might have used: colleague? friend? budd— He felt a smack on his headrest. Looking back, he saw Akari smiling at him with the brim of her cap pushed back by her Raspberry.
+
+
+                        “A team! Nice!”
+
+
+
+
+
+
+
+
+
+
+                        Pushing a shopping cart, Kazumi followed Daryl as he cut through the high-ceilinged lanes of the store. From a rack, Daryl took out six feet of aluminum, bent it to test its strength, and turned around. “It seems fine. Let’s use this for the girders. I want to get a dozen—can you help me?”
+
+
+                        Apparently Daryl was planning to use the aluminum as the base for a grid of LCD monitors in front of their desks. The cart, which looked big enough for someone to stretch out and sleep in, was chock-full of things Daryl had picked out: power tools, bolts, VESA-compliant LCDs. Kazumi was getting tired of Daryl’s shopping style—he merely glanced at the packages before tossing them in, as though anything would do so long as it was compatible.
+
+
+                        “Will that fit in the car, all that?” asked Kazumi. The English that slipped from his mouth wasn’t yet natural, but as he walked around the massive Costco behind Daryl, he found the words beginning to come to his lips.
+
+
+                        “Just barely, maybe,” said Daryl. “It should be all right.”
+
+
+                        Kazumi retrieved the aluminum and glanced casually at the ceiling. Hanging there was an antenna that looked to be ten meters long. He guessed it must be used for ham radio.
+
+
+                        “Americans really like to make everything themselves.”
+
+
+                        The store that Daryl had brought them to was an enormous warehouse of a giant mall, completely unlike the Japanese electronics mass retailer he had vaguely imagined it would be. The variety of computer accessories was somewhat limited, but they were well stocked with items seen less in Japan of late, such as hard disks and wired mouses. In the automotive zone, they had everything from car bodies to engines to maintenance cranes. Then there were the DIY items: chainsaws, wooden logs, unit baths, household power generators … Amazingly, they even sold helicopter blades and nuclear shelters for domestic use.
+
+
+                        “It’s surprising isn’t it? I felt the same way the first time I saw one of these stores too. There are lots of people in this country who live isolated from urban infrastructure like sewers and base stations for television or cell phones, and it seems like doing things for yourself is considered a virtue.”
+
+
+                        “You were not born in America?”
+
+
+                        Daryl let out a white-toothed laugh and said, “I’m from Indonesia. I came over here for school and then went straight into the air force. I wanted to get a green card and build up a career in the space industry.”
+
+
+                        “Sorry. I wasn’t thinking.”
+
+
+                        Kazumi was reminded of what Kurosaki had said at the Nippon Grand Hotel about the engineers whose abilities weren’t recognized in America and so went over to China instead. But without any career, skills, or connections to rely on, Daryl had made the leap into America from Indonesia.
+
+
+                        “I’d like to say that it doesn’t matter where you’re born …” said Daryl. “But I feel like the people who were raised here are just different somehow. It’s not like I’ve met all that many people, but I can tell we’re not the same.”
+
+
+                        “Is it difficult to do space work? Back in your hometown.”
+
+
+                        Daryl scrunched up his face, bringing his thick eyebrows together. The expression could have been one of regret or mirth.
+
+
+                        “There is some work there,” he said. “When I was a child, I used to watch in awe every time we launched a rocket. When I saw one of them shooting straight up into the sky dragging a tail of light, that was when I made my decision. I was going to space!”
+
+
+                        Kazumi tried to remember what he knew about Indonesia. He seemed to recall there had been the Pameungpeuk spaceport on the island of Java, but after a few tests they had stopped carrying out any launches to speak of.
+
+
+                        “You might even remember it, Kazumi,” said Daryl, and went on to explain that the rocket that inspired him was a sounding rocket. Used for meteorological observation, it hadn’t even reached fifty kilometers in altitude. “I can’t tell you how depressing it was when I learned that. Fifty kilometers is almost within arm’s reach. I mean, even a balloon can rise that high. How about you, Kazumi? Have you seen a rocket before?”
+
+
+                        Kazumi shook his head. “The launch sites in Japan are on the southern edge,” he said, and then realized that he hadn’t really answered the question.
+
+
+                        “That’s true of all countries in the Northern Hemisphere,” said Daryl. “You’re talking about the sites in Tanegashima and Uchinoura, right? Didn’t they send up an H-II Transfer Vehicle last month? A spaceship with 1 atm pressure that can also double as a manned vehicle. I think that’s pretty impressive. If we had anything like the space industry that you have in Japan on Java, I wouldn’t have had to become a soldier twice.”
+
+
+                        Daryl raised two fingers as though giving the peace sign and laughed. He explained that his first time in the service was when he had been drafted for two years in Indonesia, one of several countries in Southeast Asia to revive conscription after rumors began to spread that China would make incursions into the Pacific.
+
+
+                        “After my mandatory period was over, I came to America. But I didn’t have any connections here, so I decided to enter the military again.”
+
+
+                        Daryl continued to toss bolts, screws, and various other items into the shopping cart as he spoke.
+
+
+                        “Have you ever been in the military, Kazumi? I see your hair is long and you’ve got a slight slouch. If you’d served, you would’ve turned out like me. Worrying about your hair just becomes too much of a nuisance.”
+
+
+                        Kazumi was shocked. He had no idea he had a slouch. He decided to puff out his chest.
+
+
+                        “My shoulders …” he said, but couldn’t think of the right word in English. “They harden.”
+
+
+                        “Sorry, did I make you self-conscious? I only meant if I pay really close attention—” Daryl cut off what he was saying and cast his gaze to the end of the lane. “That’s Akari, isn’t it?”
+
+
+                        Kazumi followed Daryl’s gaze. In front of the register, clinging to a massive cart, was a small figure in khaki cargoes, her shaved head conspicuous as her hat seemed to have fallen off somewhere. The cart was piled full of equipment.
+
+
+                        Seeing her pull a credit card from her wallet, Daryl shouted, “Akari! Stop!” and began to jog toward her. Kazumi followed behind him pushing the cart.
+
+
+                        “Obviously that stuff isn’t for your daily personal use. I’ve got it.”
+
+
+                        “Really? That would be great. I was really worried because it looked like this was going to go over my limit.”
+
+
+                        Daryl began to push Akari’s cart for her and waved over Kazumi, saying, “I’ll pay for it all together.”
+
+
+                        “Wow, this is a lot,” he continued. “Amazing that they had this many Raspberries in stock. And LAN cables too. But what’s with this tarp and Nichrome wire?”
+
+
+                        Daryl lined up the items in the carts on the checkout counter. The amount of merchandise Akari had piled in hers was stunning. There were three cables wrapped around drums with LAN and USB connectors. A heap of antistatic bags and cardboard boxes containing various electronic devices in the dozens. Overwhelmed by the quantity, the cashier called over help, and three staff began to beep them through. One of them, a black man close to Daryl, said “Oh Jesus” in a fed-up tone as he scanned the bar codes. “What are you getting yourselves into with all this stuff? Hey! Isn’t that a display item?”
+
+
+                        The hands of the cashiers stopped and Daryl, who had put down the object in question on the counter, shrugged. On the yellow frame above bristly tires was the brand name “Cannondale.” A mountain bike.
+
+
+                        Passing through the checkout gate. Akari, who suddenly had her Mariners cap on again, turned around. She had the tips of her fingers up on the brim and was smiling. From her upraised, unlipsticked lips came some badass words.
+
+
+                        “We’re getting ourselves into war.”
+
+
+
+
+
+
+
+
+
+
+2020-12-15T04:00 GMT
+
+
+Project Wyvern
+
+
+
+
+                        Have you ever seen a light when your eyes were closed? Here, 350 km above the surface of the Earth, in the vacuum of orbit, I had just such a strange experience.
+
+
+                        Burrowing into bed after turning off the lights and tightening the Velcro straps around my blanket, I suddenly felt the sandman dragging me down to sleep. I could be indulging in a bit of hyperbole here.
+
+
+                        Then, just when I closed my eyes, it happened. Behind my eyelids, a pure “light” flashed.
+
+
+                        I should have been more careful how I worded this. The networks will probably just quote my introduction and broadcast it all over the news. But to all my spiritual ladies out there, this is not the guiding force of the élan vital or even an angel. Nor did an alien enter into my consciousness on its way back to retrieve its corpse from Area 51.
+
+
+                        The true nature of this light is cosmic radiation. One cosmic ray out of the many emitted unceasingly by the sun, black holes, and the stars of the galaxy passed through the bulkhead of the Wyvern Orbital Hotel and my eyelid to strike my retina.
+
+
+                        I experienced this as light.
+
+
+                        In other words, I was irradiated. Most likely this radiation came in the form of gamma rays.
+
+
+                        It has been almost two full days since we blasted off, and during that period I have absorbed two microsieverts of cosmic radiation. That’s an exposure 150 times greater than on the surface of the Earth. Just like an X-ray technician, I have a dosimeter badge strapped on.
+
+
+                        I’m going to be honest here. Oh, I really don’t want to tell you how old I actually am … but this is for science. If a twenty-eight-year-old like me stays on the Wyvern for a week, the chances that they will die of cancer increase by approximately 0.02 percent.
+
+
+                        Of course, all measures have been taken to protect this hotel from cosmic radiation. I’ve blogged about this several times already—to block it out, the space between the exterior and interior wall is full of water, and a faint electrical current is passed through a fine metallic mesh. It’s even safer here than on the ISS. If someone were to step outside of the hotel, they would be exposed to hundreds of times more radiation.
+
+
+                        The reason this radiation isn’t a problem on the surface of the Earth is that the atmosphere and magnetism protect us from it. Magnetic fields are invisible to the eye, but you can see the atmosphere clearly from this hotel.
+
+
+                        The Earth is too big to view all at once from the window, but around its outline lit up by the sun I can see a shell the thickness of a fingernail. This thin, gleaming blue thing is what protects terrestrial life.
+
+
+                        And I’m able to be up here because the efforts of science and technology have managed to re-create a fraction of that mystical protective power. We could go so much further.
+
+
+                        But it looks like my writing won’t be going any further this time because Ronny has just ordered me to go to sleep. Until next time.
+
+
+                        Coddled-in-a-giant-cocoon-feeling-protectedly yours,
+
+
+                        Judy Smark

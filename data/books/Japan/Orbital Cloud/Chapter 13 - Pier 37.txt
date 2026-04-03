@@ -1,0 +1,1074 @@
+13 Pier 37
+
+
+
+
+                        Wed, 16 Dec 2020, 12:15 -0800 (2020-12-16T20:15 GMT)
+
+
+Alaskan Way, Seattle
+
+
+
+
+                        A mass of snow flew at Akari’s face. She ducked and tried to dodge but lost her balance. The rear wheel of her mountain bike skidded out of control. She squeezed both brakes frantically but finally went down, leaving two long tracks in the surface of the road.
+
+
+                        Alaskan Way was covered in snow. This was Akari’s third fall since speeding past the sign declaring the highway closed. Snow filled the pockets of her cargo pants. She pushed herself up from the ground, burying her hands in white to her wrists. Her fingers were as cold as ice.
+
+
+                        Akari checked the map on the smartphone attached to her handlebars.
+
+
+                        “Just five hundred more meters.”
+
+
+                        She was almost at the warehouse … but then what? Akari wasn’t sure herself. Hearing the CIA agents accuse her uncle of being some sort of terrorist mastermind had enraged her so much that she had simply run out of the room, with no particular long-term plan.
+
+
+                        Straightening up, Akari yelled into the snow that beat at her face.
+
+
+                        “It’s impossible!”
+
+
+                        She knew this wasn’t true, of course. She didn’t even believe what she was shouting. The CIA’s deduction that Shiraishi had masterminded the Cloud fit perfectly with what she knew.
+
+
+                        The technique for corrupting the online translation engine. The shadow-ware hidden in advertisements. The rose-scented D-Fi audio cables. The SIM card switching. And the program specifically written to view the Earth … She had not found these things by accident. She was chasing her uncle’s shadow.
+
+
+                        He was enjoying running the Cloud. He wouldn’t be using up his bag of tricks on it otherwise. Asking herself what her uncle would do had always led her to the answer before. Even back when he had happily taught her how to program.
+
+
+                        By the time he had left Japan, Shiraishi had changed. He allowed his irritation with companies who refused to take his security warnings seriously to show clearly, speaking with undisguised contempt. His geyser of ideas, once so abundant, dried up. “No one cares what an engineer has to say,” he would say bitterly. Akari had distanced herself from him after he became like that. Even hearing that he had left Japan had meant little to her.
+
+
+                        Not wanting to end up like him was the main reason she had come to Fool’s Launchpad after finishing school. People there let her make full use of the skills she had cultivated. Especially Kazumi. Even minor refinements and tricks delighted him. She felt that this helped her stay focused on what lay ahead, even though her skills far exceeded her experience.
+
+
+                        Akari forced herself to her feet. She heard the snow that had fallen on her head slide onto her shoulders. To the right, through the gaps in the line of trees by the side of the road, she could dimly see the cluster of snow-covered warehouses at Pier 37. Shiraishi had long sought a role that would recognize his talents, and he had found it in the field. He had to be in one of those warehouses.
+
+
+                        She heard a metallic squeal behind her and saw a black Mustang stop on the rails under the Alaskan Way Viaduct. The passenger-side window opened.
+
+
+                        “Akari! Get in!” called Bruce.
+
+
+                        “I’m going to see Uncle Ageha!”
+
+
+                        Bruce leaned across the passenger’s seat and opened the door. “Yeah, I know!” he said. “Me too, so get in!”
+
+
+                        Akari shook her head and righted the mountain bike, swinging her leg over the seat.
+
+
+                        She was almost there. She didn’t know what the CIA planned to do with Shiraishi, but she had some questions she wanted to ask him herself. Why had he abandoned Japan? Why was he involved in some North Korean scheme that amounted to terrorism?
+
+
+                        Bruce spun the wheel to steer the Mustang off the tracks and into the street. Its once-shiny bumpers were cracked now, covered in snow and scratches.
+
+
+                        “Just tell me one thing,” he said. “If that’s really Shiraishi in that warehouse, will he have realized that we’ve found him?”
+
+
+                        Akari nodded. Her uncle would have noticed as soon as his new SIM card connected to the fake China Mobility hotspot, quickly ascertaining that the hotspot was actually a honeypot running on a Raspberry Pi.
+
+
+                        “Better hurry, then,” Bruce muttered to himself, then leaned toward her again. “I’m going to drop by the coast guard on the way to the warehouse,” he said. “If you find Shiraishi, don’t try anything. Just sit tight and wait.”
+
+
+                        The Mustang tore down Alaskan Way, half-skidding rear wheels kicking up flurries of snow in its wake.
+
+
+
+
+
+
+
+
+
+
+Wed, 16 Dec 2020, 12:17 -0800 (2020-12-16T20:17 GMT)
+
+
+Pier 37 Warehouse, Seattle
+
+
+
+
+                        Shiraishi stepped out onto the external staircase on the north side of the building only to be forced back behind the door by Chance, who had gone ahead of him to check their surroundings. A black Mustang was tearing down Alaskan Way toward them, clouds of snow in its wake.
+
+
+                        “The driver looked at me,” she said.
+
+
+                        “Sure you didn’t imagine it?” he replied.
+
+
+                        “No, he turned his head. Look how fast he’s going. No one would take their eyes off the road in weather like this without a good reason. He knows we’re here and he’s coming for us.”
+
+
+                        “You worry too much.”
+
+
+                        Chance pointed to the stairs. “Move,” she said. The snow had been falling since the night before and was now ankle-deep. Shiraishi held his blueprint case in one hand and gripped the railing with the other.
+
+
+                        “Wait!” Chance said, then changed her mind. “No, hurry! A bike’s coming.”
+
+
+                        Shiraishi craned his neck. Through the line of trees swaying as one in the blizzard, by the side of the road he saw a green mountain bike approaching. The woman riding it had Asian features and a shaved head, and didn’t appear to be wearing anything warmer than a long-sleeved shirt.
+
+
+                        “Shiraishi,” Chance said. “Down.”
+
+
+                        Chance’s arm emerged from her coat pocket. Shiraishi saw a red dot appear on the step below him. The laser scope on the gun that was now fused with her hand.
+
+
+                        “Think of it as encouragement,” Chance said, noticing Shiraishi’s nervous reaction.
+
+
+                        The mountain bike attempted to make it over the planter at the rear of the warehouse and failed spectacularly, throwing its rider into a snowdrift. The woman got to her feet immediately and brushed the snow off her face. The red dot slipped off the staircase and darted across the ground toward her, crimson flickers appearing here and there in the falling snow. Finally reaching her, it drew a line across her path.
+
+
+                        The woman froze for an instant, then began to run again.
+
+
+                        “Uncle Ageha!” she called.
+
+
+                        Akari?
+
+
+                        Shiraishi tried to rise from his crouch, but Chance held his head down.
+
+
+                        “The laser scope’s not scaring her off,” she said. “Japanese, I presume? Who is she?”
+
+
+                        What was Akari doing in a place like this? As he watched her approach, Shiraishi suddenly realized why Meteor News had been so overengineered—and why he had been tracked down so quickly. He had been up against a former coconspirator, a hacker he himself had shown the ropes to.
+
+
+                        “Akari! Stay out of this!” Ageha called.
+
+
+                        The red dot moved from Akari’s feet to her thighs.
+
+
+                        “Don’t shoot her,” he said to Chance. “Please.”
+
+
+                        Shiraishi reached above his head to grip Chance’s arm. For a moment, his vision blurred white, and he felt a series of blows to his back. His ankle made an awful sound as it caught on one of the stairs.
+
+
+                        He turned his head to look at Chance, now upside-down from his perspective. She had kicked him down the stairs. Without lowering her gun, she descended the snow-thick stairs after him, surprisingly agile for a woman in heels.
+
+
+                        Shiraishi saw the blueprint case lying nearby and pulled it toward him. He raised his head. Akari was already close enough for him to read her face clearly.
+
+
+                        The gun rang out: a small, dry sound. Chance had fired it into the warehouse wall. A large piece of the snow-caked exterior fell away, sending up a plume of sparks and snow right before Akari’s eyes.
+
+
+                        Surprised, Akari came to a halt. The red dot moved to her chest.
+
+
+                        “Freeze!”
+
+
+                        Chance grabbed Shiraishi by the collar and dragged him to his feet. Shiraishi cried out in pain as his ankle twisted.
+
+
+                        “An associate of yours, I gather,” Chance said. “If she doesn’t get in our way, I won’t have to kill her. Consider this the last favor I grant you.” Chance glanced down at Shiraishi’s twisted ankle. “Can’t run?”
+
+
+                        Shiraishi shook his head.
+
+
+                        Chance tsked. Seeing Akari approach, she shouted, “Don’t move!” and fired into the ground at Akari’s feet before opening the warehouse door. The stink of gasoline came from within.
+
+
+                        “Wait until the service entrance at the far end opens,” she said to Ageha. “Then come out that way. I’ll bring the car around. Meanwhile, no open flames of any kind inside the warehouse. The sprinkler system is full of gasoline, and I’m going to activate it just before I open the shutters at the service entrance. A moment after that, I’ll be lighting it up. If you’d rather not burn to a cinder, wait inside the container.”
+
+
+                        Chance turned her gaze to the blueprint case under Shiraishi’s arm.
+
+
+                        “I’d appreciate it if you could arrange for that case to be lost in the fire, too,” she said.
+
+
+                        Shiraishi clung to the case tightly. Losing it would leave him with no other reason to keep running.
+
+
+                        Chance wrapped her arm around his head and pulled him toward her. Her strength was startling. He smelled the familiar scent of her perfume blended with sweat.
+
+
+                        “If Akari’s lucky, she’ll survive. Understood?”
+
+
+                        Shiraishi nodded.
+
+
+                        He turned and hobbled back inside the warehouse, dragging his injured foot. Chance closed the door behind him. The warehouse was illuminated only by what little sunlight fell through the skylight. Shiraishi headed for the container located in the middle of the echoing space.
+
+
+                        If Akari was here, that meant that Kazumi had informed NORAD, too. No doubt the CIA would soon be along as well. If Shiraishi was captured, the space tether technology he had brought into being would be picked apart and then put to some practical use by the US—or, worse yet, by some US corporation. People like Ronnie Smark would adopt the new technology greedily. His daughter’s blog had made that much clear just the other day.
+
+
+                        The rest of the world would be forgotten, left to fall even further behind.
+
+
+                        Shiraishi crawled into the windowless container as Chance had ordered and sat on a D-Fi package with his sketch case on his lap. The slogan written in white marker leaped out at him as his eyes adjusted to the dark:
+
+
+                        great leap for the rest of the world
+
+
+                        He had to succeed.
+
+
+                        “If even someone like me can reach out and touch space, anything’s possible.”
+
+
+                        He needed to prepare the way for someone else to take control of the Cloud. Just in case.
+
+
+                        Shiraishi searched his memory for a certain email address and began to compose a message.
+
+
+
+
+
+
+
+
+
+
+Chahar-shambeh, 26 Azar 1399, 23:52 +0330
+
+
+(2020-12-16T20:22 GMT)
+
+
+Esperanto Hotel, Tehran
+
+
+
+
+                        There was a muffled buzzing and a faint but familiar melody. An angular xylophone tune. The ringtone heard around the world.
+
+
+                        Kurosaki felt his unshaven cheek scrape the pillow as he moved his head. He frowned and forced open his gummed-shut eyes. He saw raised embroidery on the wallpaper, which looked unnaturally thick in the warm light of the floor lamp. He tried to open his mouth, but his lips were stuck together as well. By his bedside he saw a glass of water. That was something to be grateful for.
+
+
+                        Kurosaki reached for the glass and drank the water down in one gulp. That was when he noticed the neatly handwritten note:
+
+
+                        unboiled water to keep air from drying out—do not drink!
+
+
+                        The handwriting was Sekiguchi’s.
+
+
+                        “Idiot … Of course I was going to drink it. Use mineral water next time, would you?”
+
+
+                        Kurosaki’s head still felt fuzzy. He needed more sleep. What had woken him up this time?
+
+
+                        “Oh, right. The phone.”
+
+
+                        The ringtone just now had been his.
+
+
+                        Kurosaki sat up and looked around the room again. The wallpaper was covered in ethnic embroidery, but it was a perfectly modern hotel room. Beside the desk he saw Sekiguchi’s suit and the field coat he had worn in the van yesterday. Both hung from clothes hangers, looking like servants standing at attention.
+
+
+                        At some point Kurosaki himself had been changed into some kind of hotel nightgown. His skin was clean. Someone must have given him a sponge bath and put him to bed. In the bed alongside his own he saw Sekiguchi, lying with his face to the wall.
+
+
+                        Kurosaki had fallen asleep while talking to Sekiguchi in the van after folding the flag and putting it in a bag. He could still feel how rough those Iranian cigarettes had been on his throat—uh-oh. Now he desperately wanted one. There was an ashtray on the desk. Must be a smoking room. Didn’t see many of those in Japan these days.
+
+
+                        “Pay you back later, Sekiguchi,” Kurosaki muttered. As he recalled, those Iranian cigarettes had gone back into Sekiguchi’s pocket. He slid his feet into a pair of soft leather slippers complete with heels and padded over to Sekiguchi’s suit.
+
+
+                        Reaching into the pocket, his fingertips brushed a scrap of thin paper. The cigarettes must be in the field coat.
+
+
+                        For no reason in particular, he snagged the scrap of paper with his fingers and pulled it out. What he saw made him draw in his breath sharply.
+
+
+                        中华人民共和国外交行李票
+
+
+                        They were somewhat different from the Chinese characters used in Japan but were similar enough to be legible:
+
+
+                        People’s Republic of China - Baggage Tag
+
+
+                        A red rectangle with yellow stars was printed in the top-right corner—the national flag of China. This must be what Sekiguchi had torn off the duralumin cases and stuffed into his pocket after picking up the Iridiums at the airport.
+
+
+                        “Diplomatic privilege,” Kurosaki murmured. “So that’s how you got them into Iran.”
+
+
+                        The way Sekiguchi had detected and outsmarted the spy at Fool’s Launchpad. The suite at the Nippon Grand. The chartered helicopter, the fluent Persian, the advance knowledge of an attempted takeover by antigovernment groups of a student demonstration in Tehran … It was just too much to accept as the work of a mere bureaucrat, no matter how elite.
+
+
+                        Sekiguchi was a Chinese spy.
+
+
+                        He heard the xylophone tune again. His phone.
+
+
+                        Sekiguchi sat up. “Good morning. Did you sleep well? Ah—your phone’s ringing. It’s in the pocket of your suit, in the closet.”
+
+
+                        “Forget the phone,” Kurosaki said. “You—you’re …” He unfolded the baggage tag again and held it up.
+
+
+                        “Busted!” Sekiguchi said, slapping his forehead and falling back onto the bed. “You’ve got me. I was planning to tell you on the way home. Anyway, go ahead and take that call. It’s probably urgent.”
+
+
+                        “We’ll be having a long talk about this later,” Kurosaki said. He opened the black lacquered doors of the closet to reveal his wrinkled suit. Rummaging through the pockets, he produced his cigarettes and lighter first, then his phone, which had already stopped ringing. He unlocked the screen and checked the call history. Two calls from Kazumi in Seattle.
+
+
+                        “Kazumi,” he said. “Want to hear the voice message?”
+
+
+                        Sekiguchi nodded. Kurosaki set the phone to speaker and played back the message from Kazumi.
+
+
+                        “Kurosaki-san! I’m looking at Shiraishi right now. You have to help persuade him to cut his ties with North Korea. Please call me back on video.”
+
+
+                        Kurosaki stared at the screen. With Shiraishi? Wasn’t he supposed to be in China?
+
+
+                        He was about to tap the button to call Kazumi back when Sekiguchi leaped to his feet.
+
+
+                        “Not a voice call!” Sekiguchi said. “It has to be video, or we won’t be able to see what’s going on over there.”
+
+
+                        Kurosaki tapped the video-call button instead. After the whistle announcing the connection, the screen showed a mass of white. Snow.
+
+
+                        “Shirashi-san!” they heard Kazumi yell in Japanese. “Open the door!”
+
+
+                        “Step aside, Kazumi.” A man’s voice they didn’t recognize, speaking in English. “I’ll break us in.”
+
+
+                        There was a sharp, metallic report, and after some confusion a dim room appeared on-screen. A woman in cargo pants with a shaved head—Akari—ran across their field of view.
+
+
+                        “Uncle Ageha!”
+
+
+                        “Please come out, Shiraishi-san. We just want to talk.”
+
+
+                        The picture shook again. They saw a carelessly stacked pile of boxes. Containers, a crane. Kazumi was in a warehouse.
+
+
+                        “Looks like things are heating up there,” Sekiguchi said. He stripped off his own hotel nightgown and grabbed his coat from the hanger rack. “Let’s put it up on the TV. I’ll turn the lights on.”
+
+
+                        Sekiguchi picked up Kurosaki’s smartphone and connected it to the television with a cable he pulled from his suitcase. He then carefully set the phone at the right angle for the two of them to appear in the video call.
+
+
+                        Kurosaki watched impatiently. “We don’t have time for—”
+
+
+                        “It won’t do any good to get excited,” Sekiguchi said. “Our job right now is to stay calm and back Kazumi up.” He zipped up his coat and dragged the sofa over in front of the television. “Unlike them, we aren’t in any danger of getting shot. So let’s stay calm.”
+
+
+                        “Shot?”
+
+
+                        “We don’t know if Shiraishi has a gun or not. Either way, though, there’s bound to be someone with a gun watching over him. You’d better get dressed. There’s probably time for a cigarette too.”
+
+
+                        Sekiguchi took another coat from the hanger rack and tossed it to Kurosaki.
+
+
+                        “The battlefield’s over there now.”
+
+
+
+
+
+
+
+
+
+
+Wed, 16 Dec 2020, 12:23 -0800 (2020-12-16T20:23 GMT)
+
+
+Pier 37 Warehouse, Seattle
+
+
+
+
+                        Chance raised her collar to protect her eyes from the pelting snow and crouched behind the planter. She looked back and forth between the service entrance Shiraishi was supposed to emerge from and the parking lot in front of the building that she had just circled back around. The falling snow began accumulating on her right side almost immediately.
+
+
+                        The Porsche Cayenne they would use to make their escape was parked beyond the two trucks in front of the service entrance. Shifting her position, Chance noticed an air force–blue Chevy wagon stopped next to the Cayenne. Tsk. It must have rolled up just moments before. There was no snow covering the white star painted on its hood yet. NORAD, then.
+
+
+                        That woman who had arrived by bicycle—Akari—was no longer the sole obstacle to their escape. Chance searched her memory map for Akari’s full name. There it was: Akari Numata. Quite a coincidence. How unlucky could one man be? Chased down in a foreign country by someone who knew him personally!
+
+
+                        Not that Chance was doing much better in the luck department. If a man was in the picture as well now, he might be able to break the door to the warehouse she’d stowed Shiraishi in.
+
+
+                        Chance went over the escape plan in her head once more. She would use the smartphone in her left hand to activate the service entrance shutter and the ignition inside the warehouse. When the building caught fire and Shiraishi came hobbling out on his bad leg, she would pull him to the Cayenne by his left arm. Akari and whoever was here from NORAD would be sure to give chase. If she used her gun to keep them at bay, she would run out of free hands. That meant that she needed to unlock the Cayenne now, while she still could.
+
+
+                        As Chance rummaged in her pocket for the remote control, another problem occurred to her: that black man who had been flying down Alaskan Way at ridiculous speeds in his Mustang. There was no question that he had looked directly at her. He must have been headed for the coast guard base between this pier and the next one.
+
+
+                        Chance rose slightly and turned her head from side to side. She was just in time to see two figures running toward the warehouse from Alaskan Way. Both were carrying M4 carbines.
+
+
+                        The black man was in the lead, still wearing the same inappropriate suit but with a helmet on now too. Probably a CIA agent, Chance surmised, but she did note that the brisk pace he kept up through the snow in his combat boots suggested some experience under fire.
+
+
+                        The other man followed closely behind. He was wearing body armor and a fluorescent harness. This was the coast guard, then. He was just as sure on his feet as the other. The two of them exchanged hand signals and dropped into crouches, advancing in alternation toward the warehouse a few yards at a time to minimize the amount of time each of them was exposed.
+
+
+                        “Just great,” Chance murmured.
+
+
+                        Both men were armed professionals. Even one of them would have posed a threat to Chance, who was carrying only a pistol.
+
+
+                        Squinting against the snow, Chance watched their route and hand signals closely. The CIA agent pointed at the trucks in front of the warehouse’s service entrance and raised two fingers. They would split up and go around the vehicles separately.
+
+
+                        The trucks were ten meters away. If Chance ran, she would get there first. If she could put one of them out of action, her escape would be certain. Both, and she could take Shiraishi with her.
+
+
+                        Chance waited for the exact moment that the two men disappeared behind the trucks, then leaped out from behind the planter.
+
+
+                        Her target was the coast guard sailor bringing up the rear. She opened the front of her coat and tore open her shirt, letting the buttons pop off. Snowflakes fell on her chest.
+
+
+                        “Help!” she cried.
+
+
+                        Carefully timing her move, Chance ran around the corner and threw herself on the coast guard sailor’s chest. She quickly read his name tag: a. nash.
+
+
+                        “Nash, look! Over there!”
+
+
+                        Nash was so taken aback that he turned unthinkingly to look where Chance was pointing.
+
+
+                        Chance darted around behind him as if cowering from some enemy. As she clung to him with her left arm, she searched the nape of his neck, his shoulders, and his lower back for seams in his body armor.
+
+
+                        Nash tilted his head back, still looking where she’d pointed, and asked, “What am I looking at?”
+
+
+                        “Inside the shutters! Look!”
+
+
+                        Nash looked at the service entrance again. Chance jammed her pistol into his side and pulled the trigger.
+
+
+                        There was a muffled crack, and Nash’s whole body shook. The reduced-powder hollow-point .45 round had made mincemeat of his insides, then hit his body armor and stopped, just as Chance had planned. On a snowy battlefield, a spurt of enemy blood could be the giveaway that ended your own life. She didn’t want the CIA agent in the suit to realize that his companion from the coast guard was dead. When pressed directly against a human target, her SIG with its resinous modifications was even quieter than it would have been with a silencer. Out in the open during a snowstorm, the noise was unlikely to have carried to the far side of the trucks.
+
+
+                        She reached from behind to grasp Nash’s neck warmer and pulled it up to cover the bloody foam coming from his mouth. Then she lowered his body to the ground and leaned him against one of the truck’s tires, carefully arranging him on one knee to look as though he were still providing covering fire. Finally, she hid behind him and waited.
+
+
+                        No sooner had she concealed herself than the CIA agent appeared at the other end of the truck. He flattened his back against the wall of the warehouse and gestured: Come. Chance carefully took hold of Nash’s sleeve and raised his arm. This was the army hand signal for Understood. The snow was falling thick and fierce in front of the warehouse where the agent stood; at a glance, he would not notice her lurking behind his companion.
+
+
+                        Chance shook Nash’s body, stabilizing him in his kneeling stance.
+
+
+                        Nash was carrying only the equipment ready at hand. He didn’t even have a radio. The agent must have been requisitioned in a hurry, just moments earlier. So it would not be unusual for the two of them to miscommunicate occasionally.
+
+
+                        The agent kicked the snow in apparent frustration, then crawled through the gap in the shutters into the warehouse. That suit of his probably meant that he was more of an investigator than a soldier. He would be no match for her in a game of cat and mouse.
+
+
+                        She would have preferred to kill him while he was still outside the warehouse, but if she missed and he fired back, a round from his M4 would go right through Nash’s body and into hers. Going up against his rifle with only a pistol would be foolish.
+
+
+                        Chance produced her smartphone and pressed a white app icon that read simply “Fire.”
+
+
+                        The app came up on the screen. Inside the warehouse, if all had gone well, a lightbulb hanging just beside the fire alarm had just lit up. The surface of the bulb had been scored with a file in a crosshatch pattern and covered in tar. Within minutes, the tar would start to vaporize from the heat. The fire alarm would interpret the smoking tar as a fire and trigger the sprinkler system, the tanks of which had been emptied of water and filled with gasoline instead. After the sprinklers had had a chance to spray the warehouse full of gasoline, the lightbulb would break and its exposed filament would set the whole thing alight.
+
+
+                        That moment would be Shiraishi’s only chance to escape.
+
+
+                        After watching to make sure that the CIA agent wasn’t coming back out of the warehouse, Chance took Nash’s M4. She knelt, using the slowly stiffening body as a shooting bench to aim the rifle at the service entrance.
+
+
+                        She licked the resin cover on her left index finger and touched it to the trigger. A red dot flickered on the shutters of the service entrance. Using the laser scope, even firing with her left hand she should have no trouble hitting whatever came out of the door.
+
+
+                        When the fire alarm went off, the shutters would rise. If she could shoot everyone except Shiraishi then, the two of them could escape. As long as that CIA agent didn’t try to shield him …
+
+
+                        “Better make your way out,” she muttered. “I’d rather not have to kill you.”
+
+
+                        She let her index finger move off the trigger and dug her knees into the snow, stabilizing the gun’s barrel. Her back caught the worst of the pelting snow, inadvertently sheltering Nash’s body below her.
+
+
+
+
+
+
+
+
+
+
+Wed, 16 Dec 2020, 12:24 -0800 (2020-12-16T20:24 GMT)
+
+
+Pier 37 Warehouse, Seattle
+
+
+
+
+                        Stepping inside the warehouse with Daryl following closely behind, Kazumi covered his face against the pungent smell. The smell of gasoline, blended with the rose perfume of the D-Fi cables, filled the air. A container sat square in the middle of the dim warehouse, with a bed, a television, and other furnishings piled up beside it. The far wall had what looked like a service entrance set in it, with external shutters that were currently raised just enough to allow the wind and snow into the room.
+
+
+                        “Why did you leave Japan, Uncle Ageha?” Akari screamed, shaking the snow off her clothes.
+
+
+                        “Go home, Akari. You’re going to get yourself killed this time.”
+
+
+                        The voice carried surprisingly well from inside the container.
+
+
+                        Daryl tapped Kazumi on the shoulder and pointed with his hatchet at the right side of the container, suggesting that they split up and approach the container from both sides at once.
+
+
+                        Kazumi waved at Akari and pointed at Daryl’s back. If something went wrong, the soldier would be the one they looked to for help. Akari nodded and stepped behind Daryl.
+
+
+                        “Shiraishi-san, please hand over control of the space tethers,” Kazumi said in Japanese.
+
+
+                        Daryl glanced his way. He probably would have preferred that Kazumi use English. But Shiraishi was Japanese, as were Akari and Kurosaki. Daryl and the CIA agents would just have to watch a recording of the video call later to catch up.
+
+
+                        Kazumi slowly walked toward the left side of the container.
+
+
+                        “I’ve got Kurosaki-san on a video call,” he said. “You can talk to him. We’ve been watching those space tethers you have up there, Shiraishi-san. We know …” He caught himself before he said “almost.” There was no need to underplay their hand here. “We know everything about them.”
+
+
+                        Akari turned toward Kazumi, wide-eyed.
+
+
+                        “No one’s been harmed in orbit yet,” Kazumi continued. “It’s not too late. Come out of hiding. Join Dr. Jahanshah and make the space tether system public.”
+
+
+                        Daryl and Akari disappeared around the side of the container.
+
+
+                        “The picture of the Earth you took from orbit gave me chills, Shiraishi-san. An eighty thousand–camera light-field image of our planet—one look at that is all the proof anyone would need that the space tethers are going to change everything. Spacecraft that can orbit forever without even needing any fuel! The whole world will have ideas about how to use them.”
+
+
+                        Kazumi paused. There was no sign of movement.
+
+
+                        “Please, Shiraishi-san—”
+
+
+                        There was a rustle from inside the container and then a man’s voice said, “That’s far enough. Stop where you are.”
+
+
+                        Kazumi froze in place.
+
+
+                        A man wearing a coat emerged from the container carrying a black blueprint case. He pushed his glasses up the bridge of his nose with his middle finger.
+
+
+                        “Kazumi, was it? Not bad. Only a couple of days and you got as far as the light field?”
+
+
+                        “Yes. We’re eavesdropping on all of the telemetry the tethercraft send back. Akari stitched the images together.”
+
+
+                        “Eavesdropping? So the CIA is working with you? Maybe the NSA? Not bad at all!”
+
+
+                        Shiraishi put his hand in his pocket. Kazumi suddenly realized how vulnerable he was. Did Shiraishi have a gun?
+
+
+                        As if sensing Kazumi’s unease, Shiraishi took a step toward him. “This isn’t the sort of party you should come to empty-handed,” he said.
+
+
+                        “I came here to talk,” said Kazumi. “That’s all. Stop the tethercraft and come out of the shadows.”
+
+
+                        “I’ll pass on that one,” said Shiraishi. “I took out the Wyvern’s reentry vessel and Japan’s entire IGS fleet. I’m a wanted man.”
+
+
+                        “Kazumi, let me talk to him,” came Sekiguchi’s voice. Kazumi held his phone up. “Shiraishi-san, can you hear me?” Sekiguchi said. “This is Sekiguchi from JAXA. Please do as Kazumi says. It’s not too late. Seek asylum in America. The Japanese government won’t go after you there.”
+
+
+                        “And then?”
+
+
+                        “The space tether plus some intelligence on the North Koreans should be enough to get you a place on the Witness Protection Program.”
+
+
+                        “I’m not talking about me. If I give up now, what happens to the people cut off from space altogether?” Shiraishi took another step forward. He held up the black case he was holding, showing the white lettering: great leap for the rest of the world. “Can you read that, Sekiguchi? As I recall, JAXA was just a stepping-stone for you—you’re really more the international type. You should know as well as anyone how fortunate Japan is.”
+
+
+                        Lips curling into a sneer, Shiraishi pointed his finger at the phone.
+
+
+                        “Is that Kurosaki there with you? You’ve put on a few, Kurosaki. But if you leave Japan and its wealth behind, you start to notice things. The rocket men in North Korea know that whatever they manage to put into orbit will be labeled a weapon or a missile, but they keep clawing for the stars anyway. What little pay they do receive all goes to bribes to keep them on the space program. But do they give up? “
+
+
+                        Shiraishi’s finger began to tremble.
+
+
+                        “There’s a man out there doing cutting-edge research without even an Internet connection. Kazumi, you know him too, right? I’m talking about Jamshed. He’d do anything to get his spacecraft off the ground. It’s my job to make that happen.”
+
+
+                        Kurosaki coughed. “You haven’t changed a bit, Shiraishi,” he said. “Can’t bear to see a technician in trouble.”
+
+
+                        “That’s not what this is about.”
+
+
+                        “But you can’t sacrifice yourself for their sake. It starts to go to your head. Are you serious about what’s written on that case?”
+
+
+                        Shiraishi glanced down at the lettering on his black blueprint case.
+
+
+                        “Neil Armstrong meets Apple,” Kurosaki continued. “I like it. You always did have a way with words. Almost enough to take me in as well.”
+
+
+                        Shiraishi turned the case around and hugged it to his chest.
+
+
+                        “Shiraishi-san,” Kurosaki said. “Please. Stop doing this to yourself. There are people here right now who need your help. Give Kazumi what he wants. He’s got a knack for this stuff. He can help you.”
+
+
+                        There was a brief pause.
+
+
+                        “No,” said Shiraishi finally. “I don’t need anyone’s help. I mobilized a nation all by myself to get those forty thousand tethers up there. No one else could have done that.”
+
+
+                        “You’re wrong, Shiraishi,” said Kazumi, stamping his foot. “Your Cloud is just a bunch of debris boosted into low Earth orbit.”
+
+
+                        “You think that’s what the Cloud’s for too? Don’t move!” Shiraishi glared at where Daryl and Akari were standing beyond the container, then turned back to Kazumi. “The Cloud is the first step in freeing all the countries denied access to space. Developed countries will be forced to withdraw their satellites from orbit, and launching new ones will be pointless. With tens of thousands of tethers up there, we’ll be able to knock their satellites down as fast as they can send them up.”
+
+
+                        “You want to close off orbit altogether?” Kazumi said.
+
+
+                        “That’s right. Not forever. A few years should do it. That’ll be enough time for North Korea, Iran, Pakistan, and the countries of Africa to advance their space-development programs. Engineers will flock to them from all over the world. Orbit doesn’t belong to America and Europe. We’re going to clear the decks and start again. That’s the Great Leap.”
+
+
+                        A slightly overdramatic sigh came from Sekiguchi over the speaker. “Is that what the Great Leap was all about?” he asked.
+
+
+                        “You’d heard of it already?”
+
+
+                        “Only the name. I didn’t know the details until now. Sounds pretty stupid, to be honest.”
+
+
+                        “What did you say?”
+
+
+                        “He said it was stupid!” shouted Akari from behind the container. “Uncle Ageha, what’s happened to you? You always hated enclosure and monopolies. The greater the flow of information, the better, you said. What are you going to achieve by shutting out the people making the most effort?”
+
+
+                        “Space development isn’t like the IT industry,” Shiraishi said. “You think someone like Ronnie Smark could come out of Ethiopia or Iran?”
+
+
+                        “That’s not what I mean! No one’s saying that where Ronnie was born or where he grew up doesn’t mean anything. You know this, Uncle Ageha!”
+
+
+                        “Shiraishi-san, I can tell you exactly what the Great Leap will achieve,” Sekiguchi said coldly. “Most of the new projects will just be poor imitations of what the developed countries are already doing. The engineers you’ll ‘save’ will be stuck reinventing the wheel with fewer resources and worse technology.”
+
+
+                        “You’re wrong,” Shiraishi snarled. “I’ll feed them fresh ideas, better ones. The space tether is just the beginning.”
+
+
+                        “Come out of hiding and do it, then!” Kazumi cried. “The space tether is enough to excite anybody. It’s a dream come true. It deserves to be used for more than orbital terrorism.” He reached out to Shiraishi with one hand. “Shiraishi-san, come with me. I want the whole world to learn what you can do.”
+
+
+                        “Please, Uncle Ageha,” said Akari. “It’s not too late.”
+
+
+                        Shiraishi knocked Kazumi’s hand back and turned away from them.
+
+
+                        There was a screech as the shutters across the warehouse began to move. Shiraishi smiled.
+
+
+                        “I always enjoy catching up with old friends,” he said. “But I’m afraid my ride is here.”
+
+
+                        “Isn’t there anything I can say to convince you, Uncle Ageha?” pleaded Akari.
+
+
+                        Shiraishi glanced up at the roof with a look of concern but continued to retreat toward the service entrance. “Take care of yourself, Akari,” he said. “Don’t try to follow me. The woman I’m seeing wouldn’t like that very much.”
+
+
+                        Turning toward the exit, Shiraishi froze. A figure was crouching before him.
+
+
+                        Bruce was down on one knee with his M4 at the ready.
+
+
+
+
+
+
+
+
+
+
+                        “So you’re Shiraishi,” Bruce said. “CIA. Take that hand out of your pocket and put both hands above your head.”
+
+
+                        Shiraishi withdrew one hand from his pocket, still gripping his phone. He raised both hands high, holding his phone in one and his blueprint case in the other.
+
+
+                        “Where’s your minder?” asked Bruce.
+
+
+                        Shiraishi shook his head. Bruce rose to his feet, drew a pistol with his left hand, and slid it across the ground to Daryl.
+
+
+                        Akari pointed at the service entrance. “A woman just ran past there,” she said.
+
+
+                        “So she’s circling around to the front,” Bruce said.
+
+
+                        That was where Nash was. Bruce wished he’d joined them in the warehouse, but at least this way the front was secure. They should be able to capture Shiraishi safely.
+
+
+                        “I didn’t catch everything you said in Japanese, but I advise you to take Kazumi up on his offer,” Bruce said. “Tell us what you know and seek asylum in the States. I’ll get you into Witness Protection. You can continue your research—just not in public. Daryl, search him.”
+
+
+                        Daryl jogged over to Shiraishi and patted him down. He was as unarmed as he looked.
+
+
+                        “Think about it,” Bruce said. “You say no, we’ll still get the information out of you one way or another. The only difference is whether or not you go to prison. Now slowly crouch down and put what you’re holding on the floor.”
+
+
+                        “You think about it,” Shiraishi sneered. “If you shoot me, your only hope of stopping the space tethers vanishes too.”
+
+
+                        Bruce slammed the stock of his M4 into Shiraishi’s abdomen.
+
+
+                        “Bruce, stop it!” cried Akari.
+
+
+                        Shiraishi’s glasses went flying. He fell to his knees.
+
+
+                        Bruce grabbed a fistful of Shiraishi’s hair and forced his head down to the floor before pinning him down with one knee in his back.
+
+
+                        “Don’t get cocky,” Bruce said. “Kazumi will take care of the space tethers for us. What’s that?”
+
+
+                        The warehouse was suddenly bathed in flashing red light. The fire alarm. Bruce looked around but saw no sign of smoke or flames.
+
+
+                        “So this is it,” Shiraishi groaned under Bruce’s knee. “About time, Chance.”
+
+
+                        “What are you talking about?”
+
+
+                        “Run, you idiot,” Shiraishi said. “Unless you’d rather burn.”
+
+
+                        There was a hollow thunk and the groan of a motor. The sprinkler system sprang into life, spraying the warehouse with a foul-smelling liquid.
+
+
+                        “Gasoline! Everybody out. Daryl, open the shutters.”
+
+
+                        “They’re opening on their own!”
+
+
+                        Daryl was right. The shutters were rising, letting in ever more of the howling wind and snow.
+
+
+                        “It’s a trap! Run toward the service entrance and stick to the wall close by. Scatter!”
+
+
+                        Bruce dragged Shiraishi to one side of the entrance, Kazumi following closely behind. Looking back, Bruce saw Akari still standing in the middle of the warehouse, apparently dazed.
+
+
+                        “Daryl! Get Akari down!”
+
+
+                        A bright-red dot had appeared on Akari’s lower back. An M4’s laser scope. Nash?
+
+
+                        Looking out through the service entrance, Bruce thrust out his open palm, the signal for Stop. Next he raised his head and brought his hand to his throat: Civilian/Hostage. Outside he could see Nash still leaning against the tire, his hands dangling at his sides. The red gleam of the laser scope was coming from just above his shoulder.
+
+
+                        Not Nash. Someone behind him.
+
+
+                        “Wai—”
+
+
+                        Shiraishi shoved Bruce aside midword, running past him. “Chance!” he screamed. “Don’t shoot!”
+
+
+                        He had just passed Akari when there was a sudden cloud of red mist.
+
+
+                        Bruce leveled his M4 at Nash and fired a hail of bullets in that direction. A figure holding an M4 slipped out from behind the jerking corpse and ran for cover behind the truck.
+
+
+                        Kazumi tried to push past Bruce. “Shiraishi!” he cried.
+
+
+                        Bruce caught Kazumi by the belt and pulled him back. Shiraishi was lying on the floor, neck bent at an impossible angle and blood pouring from a throat wound.
+
+
+                        They heard a burst of gunfire. Sparks fell on the container.
+
+
+                        “Daryl! Three shots out through the door!”
+
+
+                        Bruce moved his M4’s selector to burst. Daryl fell back, supporting Akari as he fired his pistol. Three, two, one. Now it was Bruce’s turn. He leaned out and checked for any sign of another person behind Nash. Nothing. Whoever it was didn’t even seem to be behind the truck.
+
+
+                        Bruce burst out of the service entrance and dropped to his stomach to survey the parking lot from between the wheels of the truck.
+
+
+                        A woman in high heels was running through the snow.
+
+
+                        Bruce fired a controlled burst of three rounds at her. She stumbled in a spray of snow and red mist. He caught one glimpse of her bright-red lips in the white flurry as she glanced his way before rising to her feet again and firing a burst into the tires of Daryl’s Chevy. Then she leaped into a Porsche Cayenne, gunned the engine, and sped away.
+
+
+                        “… Ageha. Uncle Ageha! Somebody, stop the bleeding!”
+
+
+                        Bruce turned his head at the sound of Akari screaming and saw heat haze rising from the haphazard pile of D-Fi boxes in the container. Gasoline—sparks—
+
+
+                        “Everybody out!” Bruce yelled. “Away from the warehouse!”
+
+
+                        Akari clung to Shiraishi’s neck, pressing at the wound with her hand.
+
+
+                        “Daryl!” Bruce called. “Pull Akari away! We have to run—this place is gonna blow!”
+
+
+                        With Kazumi’s help, Daryl peeled Akari off Shiraishi as Bruce ran toward them.
+
+
+                        “No!” Akari cried. “We can’t just leave him!”
+
+
+                        Bruce swung the struggling Akari over one shoulder and began running toward the pier.
+
+
+                        “Uncle Ageha!” she cried. “Bruce, let me go!”
+
+
+                        Bruce kept running. When that explosion came, he planned to be as far away as possible. Akari stopped struggling and went limp over his shoulder. The case in her hand bounced against his lower back as they ran.
+
+
+                        “Why?” she wailed. “Why would they shoot him? Was what he did so wrong? He could still have called it off …”
+
+
+                        Bruce was beginning to wish that he’d never learned Japanese. Then a brilliant light shone behind them, followed by a wave of unnatural warmth that washed past them a moment later. The explosion. Thermite?
+
+
+                        Bruce tossed Akari into a drift of snow and flung himself to the ground. Looking back he saw the warehouse engulfed in flames, rocked by the occasional smaller blast here and there. Buffeted by the blast wind, Nash’s still-kneeling body swayed before slowly toppling over.
+
+
+                        Sorry, Nash. You answered my call for help, and this is how I repaid you.
+
+
+                        Kazumi and Daryl caught up with them.
+
+
+                        “Are you two okay?” Bruce asked. “No burns? If you got any gas on your skin, rub it off with snow. You’ll get a rash otherwise. Akari—”
+
+
+                        Akari was still on her knees, watching the warehouse burn to the ground. Shaking, she hugged Shiraishi’s case to her chest with arms that were still red with blood. She was in shock. She might understand that Shiraishi was dead, but it was unlikely that she had processed everything else that had happened that night.
+
+
+                        Shiraishi, dead. All at once, Bruce felt the weight of the loss.
+
+
+                        A man who had realized one unique idea after another, culminating in a scheme that turned a far-fetched concept for a new type of spacecraft into a reality orbiting the planet right now. And all he had left behind was the case in Akari’s arms—which, Bruce knew from the way it had bounced against his back, contained nothing but paper.
+
+
+                        Shiraishi had schemed on a scale that approached the absurd. But he had kept it all in his head and taken it with him when he died.
+
+
+                        Bruce threw his helmet into the snow and pulled his smartphone from his pocket.
+
+
+                        How was he going to report this to Chris?
+
+
+
+
+
+
+
+
+
+
+Wed, 16 Dec 2020, 13:02 -0800 (2020-12-16T21:02 GMT)
+
+
+Western Days Hotel
+
+
+
+
+                        The glass screen of the phone Chris held to her cheek had warmed above body temperature. She seldom received reports this long by phone.
+
+
+                        “Ah,” she said. “I see. I’ll get on that right away.”
+
+
+                        “What happened?” came Jamshed’s composed voice from the video-call speaker.
+
+
+                        “Sorry to keep you waiting at this time of night,” Chris said.
+
+
+                        “It is no problem. I have too much data analysis to finish for sleep anyway. Is something wrong?”
+
+
+                        Chris had placed a video call to Jamshed to check whether he had made up his mind about their offer of refuge, only to be interrupted by a phone call from Bruce.
+
+
+                        She debated for a moment whether she could tell Jamshed what Bruce had reported. But the demonstration today of the damage that hiding things could do was too fresh in her mind. If everyone had been sharing the same information, Shiraishi and Nash might both still be alive. In any case, it would all be public knowledge soon.
+
+
+                        “Shiraishi is dead,” she said.
+
+
+                        Jamshed was silent for a moment. “I see,” he said. “This is unfortunate. Did the CIA kill him?”
+
+
+                        “No. It seems that he was shot by his North Korean handler.”
+
+
+                        “Nations … I am not sure how to say this. They are … a problematic framework. I see. It was because he died, then.”
+
+
+                        “What was?”
+
+
+                        “I received a message. From Shiraishi.”
+
+
+                        “Will you tell me what it said?”
+
+
+                        Chris double-checked that the conversation was being recorded.
+
+
+                        “Was very simple,” Jamshed said. “His goals for swarm of space tethers, which he calls a Cloud. His plans for the future. Also, controller and account for space tethers. He was perhaps expecting that he is killed or captured one day.”
+
+
+                        Chris felt a wave of relief. Now they could learn what the North Koreans planned to do with the Cloud and also seize control of it. The final pieces of the puzzle had come together.
+
+
+                        “So you can stop the space tethers now?”
+
+
+                        “Yes, that would be possible.” Jamshed’s gaze did not meet the camera as he spoke. He was looking at another screen. He stroked his beard and rocked his head slowly from side to side. “This control panel is very interesting. Everything I proposed in my paper is realized perfectly. It seems Shiraishi understood my space tethers completely. I wish we could have talked just once.”
+
+
+                        Through the speakers, Chris heard the sound of Jamshed’s mouse clicking.
+
+
+                        “So Shiraishi was a compatriot of Kazumi’s. A wonderful country, Japan. It reminds me of when I was first learning about tether propulsion with Lorentz force from an illustration by Japanese space agency. Spacecraft that use only electricity—no need to make engines. Iran could research this, develop it. So I thought.”
+
+
+                        “And you were right. Your paper was the starting point for those space tethers flying around up there right now.”
+
+
+                        “Thank you, Chris. But for real development I needed an environment with interest in technology and engineering. Tehran is not such an environment. I had no way to share these ideas.” Jamshed was still looking at the other screen. “Hmm. This is quite brilliant too.” His mouse clicked. “I will read from Shiraishi’s notes, yes? He planned to use the space tethers to cause accidents of unknown origin in low Earth orbit. Many times, hundreds of times more accidents than orbital-debris density suggests, sparking uncertainty and fear of space. This creates opportunity for countries that know of space tethers and where they are to attract workers from all through the world and take the lead in space development. He calls this plan the ‘Great Leap for the Rest of the World.’ Very well named.”
+
+
+                        “He planned to … to close orbit off entirely, then,” Chris said. “But the space tethers have been discovered. Even if there are accidents, they won’t be mysterious.”
+
+
+                        “This is true. Kazumi saw through to the truth. Brilliant work. With someone like that, you may even think of a way to stop the space tethers.”
+
+
+                        “I’m sure we will. But he’ll need your help too.”
+
+
+                        Jamshed’s hand stopped moving. His gaze returned to the camera, meeting Chris’s eyes across the connection.
+
+
+                        “He does not need someone like me.”
+
+
+                        “That isn’t true. Kazumi’s an amateur.”
+
+
+                        “An amateur who is more than a match for me, Chris.” Jamshed laughed, giving Chris goose bumps. “It is I who am ‘the rest of the world,’ as Shiraishi says. I am the left behind. So I shall see that the Great Leap becomes reality. Even if space tethers are known to exist, there is a way to break the will of developed country to go into space. This is Shiraishi’s final message to me.”
+
+
+                        “What is?” Chris demanded. “Tell me what you’re going to do!”
+
+
+                        “Kazumi might know. Ask him. I must be going. My workload has just increased significantly.”
+
+
+                        The video call was disconnected. Chris tried to reconnect but received only a “User unknown” message. Jamshed had deleted his account.
+
+
+                        Chris’s goose bumps had spread across her entire body.
+
+
+                        They had lost Jamshed.
+
+
+                        Shiraishi was gone, but his forty thousand space tethers were still up there in orbit. The threat had not been reduced at all. On the contrary—it had grown. Jamshed would surely take measures more extreme than anything Shiraishi had done.
+
+
+                        Chris glanced at her watch.
+
+
+                        She had to get the team back on track and start working on countermeasures. And she had to do it before Jamshed made his own move.

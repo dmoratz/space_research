@@ -1,0 +1,254 @@
+﻿Begin Reading
+
+
+Table of Contents
+
+
+About the Author and Translator
+
+
+Copyright Page
+
+
+
+
+
+
+Thank you for buying this
+
+
+A Tom Doherty ebook.
+
+
+
+
+
+
+To receive special offers, bonus content,
+
+
+and info on new releases and other great reads,
+
+
+sign up for our newsletters.
+
+
+
+
+
+
+
+
+
+
+Or visit us online at
+
+
+us.macmillan.com/newslettersignup
+
+
+
+
+
+
+For email updates on the Baoshu, click here.
+
+
+For email updates on the Ken Liu, click here.
+
+
+
+
+
+
+
+
+
+
+The author and publisher have provided this e-book to you without Digital Rights Management software (DRM) applied so that you can enjoy reading it on your personal devices. This e-book is for your personal use only. You may not print or post this e-book, or make this e-book publicly available in any way. You may not copy, reproduce, or upload this e-book, other than to read it on one of your personal devices.
+
+
+Copyright infringement is against the law. If you believe the copy of this e-book you are reading infringes on the author’s copyright, please notify the publisher at: us.macmillanusa.com/piracy.
+
+
+
+
+
+
+
+
+
+
+This book is dedicated to Mr. Liu Cixin.
+
+
+
+
+
+
+
+
+
+
+PREFACE TO THE ENGLISH EDITION
+
+
+
+
+Writing The Redemption of Time is one of the most remarkable events of my life.
+
+
+Like many others, I became a loyal fan of Liu Cixin at the beginning of the twenty-first century, when Liu was just starting to make his mark as a science fiction author. We called ourselves cítiě (meaning “magnets,” which is a pun for the Chinese abbreviation of “die-hard fans of Liu Cixin”) and passionately discussed his stories on internet forums. As each of his stories was published, the news spread among us like wildfire and we rushed out to buy the magazine issue. In 2006, when Science Fiction World serialized The Three-Body Problem, the first book in his magnificent Remembrance of Earth’s Past trilogy (also known as the “Three-Body” trilogy), I devoured each installment and hungered for the next, utterly entranced.
+
+
+The stand-alone edition of The Three-Body Problem was published at the beginning of 2008, and the first sequel, The Dark Forest, came out about six months later. Although the books hadn’t yet penetrated mainstream literary conversation, science fiction fans enjoyed the rich imaginative feast presented by these two books. However, after those first two books, I and the other cítiě had to resign ourselves to a long wait for the next installment.
+
+
+Two and a half years later, in November of 2010, the last volume of the trilogy, Death’s End, finally went on sale in China. At the time, I was in graduate school in Belgium and could not get my hands on the book. I seriously considered flying back to China just to buy it. In the end, my friend Gao Xiang helped me out by photographing every page of the book and emailing the pictures to me.
+
+
+I was deeply touched by my friend’s gesture, but it wasn’t until much later that I understood the full significance of the publication of this novel for me. After I finished Death’s End, along with fans in China who had bought the book as soon as it came out, we debated and explored every detail in the book over the internet. But no matter how many posts we wrote, the magnificent, grand arc of the trilogy was at an end, and we felt ourselves drifting away from the story day by day. The melancholy that seized us made me decide to write separate stories for a few of the characters in the trilogy and extend the epic tale a little longer. Two days later, I wrote down a dialogue between Yun Tianming and 艾 AA on Planet Blue and posted it on the Web under the title Three-Body X. “X” didn’t mean “ten”; rather, it stood for “uncertain.”
+
+
+This wasn’t the first time I wrote Liu Cixin fanfiction, and I certainly wasn’t the first to do so. But before my tale, most such efforts were written by fans for a small group of other hardcore fans. I had no idea that the context for Three-Body X was entirely different. What I wrote was exactly what tens of thousands of readers needed at that moment: more stories from the “Three-Body” universe. Its timely appearance (barely a week after the publication of Death’s End) allowed it to receive far more attention than could be justified by its inherent quality, and the praise encouraged me to continue writing, developing, and growing the story line I had in mind until it gradually took on a shape of its own. Three weeks later, before Christmas 2010, I completed my novel.
+
+
+By then, Three-Body X had spread to every corner of the Chinese Web, and received almost as much discussion and attention as Death’s End itself. Mr. Yao Haijun, Liu Cixin’s good friend, who is nicknamed “the Chinese Campbell” for his role in developing new writers as the executive editor of Science Fiction World, contacted me to ask if he could publish it as a stand-alone book. A few months later, as “Three-Body” fever continued to sweep Chinese SF fandom, more fanfiction appeared. But the brief window of opportunity was gone, and these new works did not receive nearly as much attention as mine. I knew that I was lucky.
+
+
+When I first posted my story online, I wasn’t thinking much about copyright; of course, once a formal offer of publication came from Mr. Yao, I was faced with a complicated set of issues. But Liu Cixin displayed incredible generosity and kindness toward new writers by giving me permission to publish, and I cannot express the full extent of my deep gratitude. As soon as the book came off the presses, I sent a copy to Liu Cixin. A few years later, after I’d published some original stories and become a regular member of the small circle of Chinese science fiction writers, Liu and I became friends and often met at fandom events. He told me that he enjoyed Three-Body X, and indeed, had even voted for it at Chinese science fiction awards. The book didn’t win, but Liu’s encouragement and approval were better than winning ten such awards.
+
+
+The subtitle for the paraquel, “The Redemption of Time,” and some other names in the novel have special meanings for fans, though few now probably remember the sources of the allusions. Between 2008 and 2010, while fans impatiently waited for the arrival of the last volume of the trilogy, many speculated on potential directions the plot could take and spread various rumors centered around supposed “leaks” from Liu Cixin’s draft-in-progress. Of course, all of these rumors turned out to be hoaxes, and not a single one matched the published book. But even such rumors brought eager fans some joy in imagining the conclusion of Liu Cixin’s masterpiece, and so I referenced some keywords from those rumors as a memorial to that innocent time when “Three-Body” was still a relatively obscure playground known to only the most dedicated fans.
+
+
+To be sure, my paraquel did not receive and could not have received the sort of plaudits that accompanied the “Three-Body” series proper, but it was also true that many readers enjoyed it greatly. I certainly make no claim that Three-Body X constitutes a part of the “Three-Body” canon, though it was published by the same publisher as the original trilogy and sold together with Liu Cixin’s books. I view it as a dedicated fan’s attempt to explain and fill out some of the gaps in the original trilogy, one of countless possible developments of the “Three-Body” universe. Any fans of the trilogy proper could reject it as incompatible with their vision, or could enjoy it without treating it as part of the universe. I think these are all perfectly reasonable responses.
+
+
+Four years after the publication of Three-Body X, China Educational Publications Import & Export Corporation, Ltd., decided to introduce this book to Anglophone readers after the publication of the English edition of the “Three-Body” trilogy. I feel both anxiety and trepidation at this prospect. There certainly have been some notable works of fanfiction in the history of English science fiction, such as the Second Foundation trilogy, by Gregory Benford, Greg Bear, and David Brin, as well as Stephen Baxter’s epic The Time Ships, a continuation of H. G. Wells’s The Time Machine. And I haven’t even mentioned shared universes like Doctor Who and Star Trek, which have provided fertile ground for the creativity of many other authors. I don’t pretend to claim that my novel is the equal of these successful classics, but there is something that unites all of them: Great works of uncommon genius will call for us to return to their worlds again and again, enticing us to pour our passion and enthusiasm into them so that time may continue to cycle and progress, beloved characters may return to life, and the universes may continue to evolve and develop, without cease.
+
+
+—Baoshu, August 30, 2015
+
+
+
+
+
+
+
+
+
+
+CALENDAR ERAS
+
+
+
+
+Crisis Era
+
+
+201X–2208
+
+
+
+
+
+
+Deterrence Era
+
+
+2208–2270
+
+
+
+
+
+
+Post-Deterrence Era
+
+
+2270–2272
+
+
+
+
+
+
+Broadcast Era
+
+
+2272–2332
+
+
+
+
+
+
+Bunker Era
+
+
+2333–2400
+
+
+
+
+
+
+Galaxy Era
+
+
+2273–unknown
+
+
+
+
+
+
+Planet Blue Era
+
+
+2687–2731
+
+
+
+
+
+
+Timeline for Preparation of Universe 647
+
+
+
+
+
+
+2731–18906416
+
+
+
+
+
+
+Timeline for Universe 647
+
+
+18906416–11245632151
+
+
+
+
+
+
+Terminal Era
+
+
+11245632142–11245632207
+
+
+
+
+
+
+New Universe Timeline
+
+
+11245632207– …

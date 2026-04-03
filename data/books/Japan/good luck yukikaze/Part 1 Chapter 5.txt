@@ -1,0 +1,144 @@
+5
+
+
+DEEP BELOW FAERY base, under the protection of SAF headquarters, the command center had gone silent.
+The center’s huge main display screen had suddenly lit up with icons showing the positions of the returning ﬁghters of the 505th. B-3, Yukikaze, was now transmitting strange data during the mission.
+While SAF planes did track the positions of every plane in their assigned reconnaissance area during a mission, they normally wouldn’t transmit that data in real time, and were they to do so, it would only be to track enemy planes; for example, if the JAM did something unexpected that clearly put the FAF at a disadvantage. Normally, the only readout that would appear on the main screen would be the signs marking each phase of the mission as it progressed.
+If all went well, it would end with a display from the operation command plane reporting Mission complete, returning to base.
+All data, such as enemy and allied plane movements, electronic warfare intel, data on enemy and allied gains, and the like would be stored in the data ﬁle of the operation command plane and carried back to base. Watching the battle from on high without joining in was the SAF’s duty, and without the data they gathered, no one would even know how many JAM ﬁghters had been shot down. This was
+
+
+because the pilots locked in combat didn’t even have enough time to verify if one of their companions had been shot down or not.
+So usually all Major Booker had to do during a mission was look at the main screen display as it displayed the phrase GATHERING DATA and tick oﬀ each point on the attack schedule, while praying that no major abnormalities were reported and that the operation command plane made it back to base in one piece. As much as he’d like to know how the battle was progressing in real time, all he could do was wait. If he didn’t, the JAM could very well steal the information the SAF were gathering.
+If they were seeing concrete data on the movements of an operation command plane, then something had gone wrong. A problem had cropped up in the plane, for example, or the JAM were directly targeting it. But neither of those were happening now. What they were seeing now had never happened before, ever. Yukikaze was transmitting data showing the exact position, speed, and acceleration of the 505th TFS as it was returning to base. As though it were absolutely vital data. Furthermore, it was identifying the planes of the 505th as FRIEND/FOE UNKNOWN.
+Unknown planes were colored yellow on the main screen. Bogeys that couldn’t be identiﬁed as friend or foe had to be treated as enemies, since they were most likely threats. However, the planes Yukikaze was treating as such were very clearly those of the 505th. The ﬁve JAM ﬁghters pursuing them to the rear were colored red, marking them as hostiles, with Yukikaze identifying them as short-range high-speed interceptors, possibly of an improved type.
+The SAF battle-monitoring personnel couldn’t decide what was going on. The JAM themselves ﬂying into the room wouldn’t have caused a bigger shock than what was happening now, and as everyone there sat in stupeﬁed silence, the three planes bringing up the rear of the 505th
+
+
+were shot down simultaneously. Several Sylphids, which should have been light and nimble after completing their ground attack, had picked up pursuers they couldn’t shake oﬀ and been blown apart.
+Sylphids were designed for hit-and-away combat, built for speed. There was no way that they could have been caught by JAM interceptors.
+On a raised platform at the far end of the center, looking out over the backs of the personnel working there, sat General Cooley at the main command desk with Major Booker at an identical desk next to her. Rei sat next to him in his wheelchair, but the incomprehensible situation had the major’s eyes glued to the main screen and his breath caught in his throat.
+“Why aren’t they accelerating?” he asked. “A Sylph should be able to shake oﬀ those JAM easily. Why are they just poking along like that?”
+“Conﬁrm the position of the 515th TFS,” General Cooley said, her voice calm. “Have them cover the 505th. Display courses for Yukikaze and the 515th. Show Yukikaze’s position as well.”
+Major Booker relayed General Cooley’s commands via his headset mic to the tactical computer in headquarters. The text ORDERS EXECUTED was displayed. Yukikaze broke away from her preplanned reconnaissance air space and began closing on the 505th at high speed.
+“What’s Yukikaze doing?” General Cooley asked.
+As she was saying this, three more of the 505th’s ﬁghters were shot down. While the Fand IIs of the 515th TFS managed to shoot down one JAM, the other four enemies pursuing the 505th shook them oﬀ.
+“Yukikaze’s trying to ﬁnd the cause of what’s destroying our Sylphs,” replied Major Booker. “I think she anticipated this.”
+
+
+Having targeted the 505th TFS, the JAM ﬁghters avoided engaging the Fand IIs in the 515th, dodging them at high speed. The truth was that their tactics suggested that they didn’t care if one or two of their ﬁghters were lost. All that seemed to matter to the JAM was shaking the Fand IIs loose so that they could target the Sylphids ahead and eliminate them. Looking at the 515th, they were keeping a bit of distance from the 505th TFS in order to intercept the JAM ﬁghters. If the JAM were, by some chance, able to break through, the 505th were expected to adopt the tactic of shaking them oﬀ. Nobody expected the JAM to chase them so far, since approaching TAB-15 would take the ﬁght inside the base’s air defense perimeter.
+However, the JAM had caught up with the 505th before they’d gotten close to the defense line—there was something wrong. And not just one or two planes, but all of the planes of the 505th had slowed down rather than accelerated, as though waiting to be shot down. It was being charitable to call the situation abnormal.
+Yukikaze relayed the situation to headquarters via real-time data link.
+The four pursuing JAM ﬁghters had easily closed in on the 505th and began picking them oﬀ, attacking with air-to-air missiles and cannon ﬁre. Unable to escape, by the time the 505th engaged the JAM, there were only three planes left: the formation led by Lieutenant Mayle’s plane. The other two planes had no chance in the dogﬁght that followed. Both were destroyed.
+Yukikaze had dived from high altitude at supersonic speed, taking out a JAM ﬁghter with a medium-range missile. She took out two more with short-range missiles as she passed them, then slammed into a steep banking turn to pursue the remaining JAM ﬁghter as it attempted to ﬂee. She blasted it from the sky with her cannon.
+
+
+Not even three minutes had passed since the 515th detected the approaching JAM ﬁghters. In that short time, the 505th Tactical Fighter Squadron had been wiped out. Only Lieutenant Mayle’s plane survived.
+Yukikaze reported her battle with the JAM. Even though all JAM in the vicinity had been wiped out and the threat extinguished, she continued to display that she was actively engaging them and did not secure from attack mode. She continued to display Lieutenant Mayle’s plane as “unknown.”
+Yukikaze, seemingly about to turn her anger on the Sylphid for having been so easily destroyed by the JAM, wheeled around to pursue Mayle’s plane. Then, as though suddenly headed back to base, she assumed a course for TAB-15, closing fast and ﬂying low. Upon reaching it, she opened ﬁre with her cannon in ground attack mode.
+On screen, the indicator continued to show that she was engaging the enemy.
+“Abort the attack,” General Cooley said. “Order Yukikaze to return to base. Cancel its mission.”
+She certainly sounds calm, Major Booker thought, then answered her in a tone as equally businesslike. “We can’t issue an abort order. She won’t accept it.”
+If the JAM ever decrypted an abort attack order, they could render Yukikaze powerless. To avoid this danger, she’d been designed from the start not to accept such orders. They were going to have to leave the decision to Yukikaze to the very end. If Yukikaze had decided that humans were her enemy, nobody would be able to stop her. The major had considered the possibility, but as he confronted the reality of the situation, a shiver ran through his body.
+“Yukikaze, what are you doing?” Major Booker asked. “What is your target? Tell us your target. Do you read, Yukikaze?”
+
+
+The tactical computer translated Major Booker’s spoken commands and relayed them to Yukikaze. It then translated Yukikaze’s response back to him. Yukikaze climbed into a turn, ﬂying slowly above TAB-15. She remained in ground search mode.
+Yukikaze’s response was displayed on the main screen. Precise detection impossible.
+The icon indicating TAB-15’s position on screen changed from blue to yellow. A red circle was drawn in the center. Red, indicating an enemy.
+“What’s going on here?” asked General Cooley.
+The red mark that indicated the enemy was blinking on and oﬀ. It meant that the target was there, but the position was unknown, visual contact lost.
+“Bring it home, Major. There’s a chance that Yukikaze may be attacked by TAB-15.”
+“Yes, General.”
+The general was right. Yukikaze’s communication hinted at a potential disaster the seriousness of which was impossible to convey. It might have simply been due to an abnormality in her decision-making functions, but if they didn’t get her back to base safely, they’d never understand why she had done what she’d done. Common sense would say that Yukikaze had turned against the FAF and TAB-15. As you might expect, the idea that anything that attacked you was the enemy ran very strong on the front-line bases. FAF ﬁghters would most likely try to intercept her.
+Major Booker was reaching for the control panel to issue an emergency recall order when he heard the voice.
+“It’s the JAM.”
+The voice was faint. The major suddenly froze, wondering for a moment if a ghost had called out to him, then whirled in the direction from which the voice had come.
+
+
+There, in the wheelchair, was Lieutenant Rei Fukai. Rei, with his brain wave sensor and transmitter aﬃxed to his head.
+“The JAM…are there…”
+“Major, hurry!” exclaimed General Cooley. The major held up his hand for her to be quiet. Then General Cooley noticed the strange change in Rei’s condition.
+“Look closely,” Rei murmured. “The JAM are there. I see them.”
+Rei’s voice was barely a whisper, but he had deﬁnitely spoken. The tone of his voice told them that he understood everything. It was the ﬁrst time in three months they had heard a word come from his mouth.
+“Rei…” the major said. “Do you hear Yukikaze’s voice? Inside your head?”
+It was impossible, and yet the voice Rei was speaking with seemed to be Yukikaze’s.
+The control center erupted into pandemonium.
+The major’s eyes leapt to the main screen. The red circle had stopped blinking and gone to a steady red. The screen subdivided and brought up a transmission of Yukikaze’s ﬁeld of view. They could see an image of TAB-15, Yukikaze’s ﬁre control system overlaying a targeting reticle on it. A text readout appeared.
+Precise detection impossible. Cannot identify friend or foe. Probability of new type of JAM: high.
+The shock of Yukikaze’s claim hit the major even harder than the fact that Rei had regained consciousness.
+“What? Where?” he shouted. The JAM’s true form was a mystery, but it was possible that the JAM were some sort of artiﬁcial life-form. Had Yukikaze detected an unknown machine creature somewhere in TAB-15?
+“Attacking all moving things,” Rei whispered.
+The major turned. Rei’s eyes were open. He might have been looking at the main screen since Yukikaze’s
+
+
+transmission.
+Rei raised his right hand, which until now hadn’t moved under his own power. The position it took… as if he were holding a ﬂight controller. His index ﬁnger moved, and the major instinctively recognized it. He was using the weapon selector. Then Rei pressed his thumb down.
+Yukikaze responded to his movements. Ready gun. Gun attack mode. Resume ground attack.
+The major couldn’t believe what he was seeing. All he could think was that Rei’s will was somehow tied to Yukikaze. Either by brain waves or electrical current, she was sensing his actions and carrying them out. It was true that Rei was wearing monitoring sensors designed to detect his own brain activity, but there wasn’t any sort of system that could translate his thoughts into commands.
+No, the major corrected himself. There was the tactical computer. What the humans may not have been able to do, the SAF’s computers may have achieved.
+“Stop him,” General Cooley said sharply.
+Yukikaze was targeting TAB-15’s ground personnel. The major suddenly grabbed the transmitter aﬃxed to Rei’s head and physically pulled the energy pack from it.
+Inside the center, Yukikaze sounded an alarm. A readout informed the center staﬀ that the target had been lost. In the major’s place, General Cooley ordered Yukikaze to resume normal reconnaissance duty.
+“Rei, what did you see? Can you hear me?” The major shook Rei’s body as he spoke. Rei didn’t answer. Yukikaze was climbing again. Slowly, though. Almost as if she didn’t understand what she’d been doing until then.
+The major had seen the strength in Rei’s right hand as it moved. He had been piloting Yukikaze right up to the very end. The major touched Rei’s hand. It felt ﬁrm as steel. A warning sounded from the control panel. A message from the tactical computer.
+
+
+Malfunction in Lieutenant Fukai’s communications system. Restore normal function and redesignate target.
+Communications system?
+Major Booker read the text again, and then he knew for sure. Under his very nose, a communications system was being constructed, linking Rei with the tactical computer and Yukikaze.
+Just as he had so fervently wished for Rei to awaken, so too had the SAF’s machine intelligences sought the information Rei carried in his head. It wasn’t an emotional wish. Perhaps a more direct desire. “Wake up,” the machines and Yukikaze were saying to Rei. And Rei had responded to them where he hadn’t for the doctors or even his friend.
+But was he really awake now? Major Booker wondered. It was just another nightmare where he fought the JAM inside of his own head, wasn’t it? In short, it was possible that the tactical computer had merely coaxed him into a state of semi-consciousness.
+“What was the target? What were you going to attack?” the major asked Rei. But Rei didn’t answer, just sat stiﬄy looking at the main screen. No use, the major thought. Rei hadn’t been fully awakened.
+An unknown JAM, the SAF headquarters’ tactical computer replied. Conjecture that threat to TAB-15 exists from unknown JAM. Form, abilities, and function: unknown.
+“And you think that Rei—that Lieutenant Fukai knows the details of this threat?”
+Lieutenant Fukai’s order to B-3 to attack indicates high probability that he senses unknown JAM threat. B-3 determined abnormality in 505th TFS to be the work of the JAM and opened an emergency transmission line. Lieutenant Fukai sensed this and
+
+
+judged the cause to be JAM presence at TAB-15. However, I cannot directly perceive this enemy by myself. Lieutenant Fukai’s instructions are necessary. I detect an abnormality in the communications system connecting Lieutenant Fukai to me. Inform me of the cause.
+Yukikaze’s advanced reconnaissance technology—electronic sensors that could detect information no human could and optical sensors which could resolve details beyond the ability of the human eye—hadn’t been able to ﬁnd the answer. And so she’d opened a real-time link to Rei in order to tell him that. Even if Rei knew what this unknown JAM was, there’d be no way he could directly sense it at TAB-15. While this battle had elicited a response from Rei, it hadn’t brought him back to normal consciousness. It was a kind of half-sleep, like sleepwalking. All he could think was to attack indiscriminately.
+Even knowing this, Major Booker ﬁgured that it might be better to reconnect Rei to the tactical computer and plug the transmitter’s energy pack back in. The fault in the communications system the tactical computer had asked about was caused by his disconnecting the pack. If he put it back, perhaps they’d know what it was that Rei was aiming at.
+But the major also remembered Rei’s words: shoot everything that moves. He paused. That might as well constitute an order for Yukikaze to kill every human at TAB-15.
+“Lieutenant Fukai has blacked out. He cannot indicate the target. Inform Yukikaze.”
+Roger. B-3 will continue to investigate abnormal deceleration of 505th TFS.
+There’d been a slight pause before the tactical computer had printed Roger out on the screen. To be fair, while the tactical computer might have been slightly
+
+
+obsessive about calling Rei back to consciousness, its desire was no more intense than that of Major Booker. He wanted to have a deliberate talk with the tactical computer, to ask it just how much it, a representative of the SAF’s machine intelligences, had learned about what had arisen between Rei and Yukikaze.
+It seemed that Yukikaze’s attack on TAB-15 had been Rei’s idea, but the inability to identify the 505th TFS as friend or foe had been Yukikaze’s own problem. Seeing that, Rei had reacted, taking over her operations. If his actions didn’t have a rational motivation, then all Booker could say was that Rei had lost his mind. That was what a human would think. But neither the tactical computer, nor Yukikaze, thought that Rei was insane.
+Major Booker realized that a discrepancy had developed between the humans and their combat machine intelligences. During the short conversation he’d had with the tactical computer, the situation had changed bewilderingly, leaving the major with no time to worry about Rei. The tactical computer was in a similar position.
+TAB-15 radioed, demanding an explanation for why Yukikaze had strafed them twice. As the ranking oﬃcer, General Cooley had to answer. She paused a few moments, pressing her lips together, then told the major to report it as an accidental weapons discharge. The major, concentrating on his conversation with the tactical computer, didn’t hear her at ﬁrst. The general got his attention, and just as he was realizing what was happening, TAB-15 replied.
+This is TAB-15. Roger, scrolled out onto the screen. However, an actual human voice that sounded like one
+of TAB-15’s comm oﬃcers radioed in, asking what they were talking about and demanding to know who had sent the transmission and what exactly they meant when they broadcast that the JAM were present at TAB-15. The tactical computer at SAF headquarters had digitally transmitted the
+
+
+message to TAB-15’s central tactical computer, and it was the computer that had sent the acknowledgement. The humans of TAB-15 hadn’t done so.
+“We’ve got casualties in our ground crew,” the comm oﬃcer shouted. “SAF, are you trying to kill us?”
+Before Major Booker could explain that it was accidental ﬁre, the tactical computer sent a command to cut voice transmissions, but no one paid any attention to the readout showing this. This was because Lieutenant Mayle’s plane, the lone survivor of the 505th, had judged Yukikaze to be an enemy and was engaging her.
+Detecting attack targeting waves from Alpha-1, Yukikaze reported, identifying Mayle’s plane by its code number.
+Roger, the tactical computer responded. Investigate Alpha-1’s mobility performance. Initiate mock combat.
+This is B-3. Roger.
+General Cooley clasped her hands together as she glared angrily at the main screen. She seemed to be saying something under her breath, but the major couldn’t make it out. It might have been “God,” but it could easily have been “fuck” or “shit” or any number of expletives. And they weren’t directed at Lieutenant Mayle’s plane. Major Booker thought she was swearing at Yukikaze and the tactical computer as they chatted back and forth without acknowledging her.
+Even so, she didn’t command them to stand down. The voice comm line was cut and the radio on Lieutenant Mayle’s plane was being jammed by Yukikaze. Even if the general had issued an order, there was no way for her words to reach anyone.
+“Keep an eye on the 515th’s movements,” General Cooley quickly said. “Get Yukikaze back to base before they show up.”
+
+
+“This won’t be long, General,” Major Booker replied. “Alpha-1’s practically at bingo fuel.”
+Either way, Yukikaze and Alpha-1’s dogﬁght wasn’t going to last long. Victory or defeat would come in the next thirty to sixty seconds. They might be equally matched in a dogﬁght, but the plane with the most fuel remaining to get home would win. A plane with no fuel was going down, whether it was shot down or not. The two things a pilot was always ﬁghting were enemy planes and how fast his plane burned through its fuel.
+Yukikaze had jettisoned her huge auxiliary fuel tanks before engaging the JAM. She just barely had enough to return to base, but the major decided that she had more than enough to reach the emergency in-air refueling point they’d prepared.
+If nothing went wrong, there’d be no need for an in-air refueling. That was one of the things Yukikaze had gained from her new airframe that made her superior to the Sylphid and Super Sylph. Her greater cruising range might be said to be more important than her weapons and maneuverability. Fuel to an airplane was as vital as oxygen to a deep-sea diver. If it ran out, the plane was dead. The constant need for the pilot to be aware of his remaining fuel was a major cause of stress.
+“This is quite a show.”
+Once again hearing a strange voice, Major Booker turned. There stood a lone SAF pilot, arms folded as he watched the screen. A Boomerang soldier. The newest member of the SAF and pilot of Unit 13: Second Lieutenant Yagashira.
+The soldiers of the SAF needed no special permission to enter the command center, but none of them ever did unless ordered. Major Booker couldn’t recall any ﬂight personnel ever entering the center of their own volition. To
+
+
+the major, Yagashira was an incongruous presence in the room.
+Maybe he wanted to get a feel for the atmosphere of the SAF, being a new arrival and all. Certainly seemed like the sort of guy General Cooley would like, the major thought as he turned to ignore the pilot and focus his attention back on Yukikaze.
+“Lieutenant Mayle won’t win, will he?”
+From behind him, Lieutenant Yagashira had spoken again.
+“His fuel’s critical. Typical how Lieutenant Mayle is engaging anyway. Good guy, but his combat reactions are slow.” Yagashira sounded like he was gossiping as he spoke. “There’s no way he can beat the latest and greatest unmanned ﬁghter. Now, if it were me—”
+“Shut up,” said Major Booker.
+Lieutenant Yagashira hadn’t said anything out of line, but his chatter was irritating Booker, like ﬁngernails on a chalkboard. He didn’t have time to wonder why. Yukikaze had just initiated combat maneuvers against Lieutenant Mayle’s ﬁghter.
+“Why isn’t the SAF stopping Yukikaze?” Yagashira went on. “Are you trying to goad Lieutenant Mayle into ﬁghting? Is that why you had Yukikaze attack TAB-15? Mayle’s not the sort of guy who’d take that quietly. I know what he’s like—”
+At that point, Major Booker faced Lieutenant Yagashira and ordered him to get the hell out of there. Yagashira seemed shocked. “Either go to your quarters or to the stockade. Your choice!” the major told him.
+The FAF didn’t have an oﬃcial stockade, but Yagashira seemed to get the point, although he looked bewildered as to why he’d been spoken to like that. Red-faced, he saluted silently and left the command center.

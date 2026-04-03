@@ -1,0 +1,863 @@
+10 Riot
+
+
+
+
+                        Tue, 15 Dec 2020, 15:10 -08:00 (2020-12-15T23:10 GMT)
+
+
+Western Days Hotel
+
+
+
+
+                        “It’s been a long day, my Right Stuff crew,” said Chris. “You’re all doing great.”
+
+
+                        Kazumi stopped rubbing his eyes and hurriedly sat up in his chair. It was eight in the morning, Japan time.
+
+
+                        “But please hang in there for another two hours. Then we’ll have something to eat, and Kazumi and Akari can get some sleep. I imagine your sleepiness is peaking right now, but just hang in there a short while longer, please. A workout at the gym tomorrow morning will work wonders for your jet leg.”
+
+
+                        “These two aren’t as, ahem, mature as you, Chris,” said Bruce, who was sitting at the edge of the table. “They’re still young. A quick shower should do the trick.” He winked at Kazumi. This black CIA agent was already fitting into the team nicely.
+
+
+                        “Who are you calling ‘mature’?” said Chris with a laugh. She wrote a short list on the whiteboard.
+
+
+                        1) Analysis of space tether observational information
+
+
+                        2) Discussion/information exchange: space tether
+
+
+                        3) Op. Seed Pod
+
+
+                        4) North Korean spies
+
+
+                        “What’s Seed Pod?” Kazumi asked, before Chris had even finished writing.
+
+
+                        “I’ll explain later,” said Chris. “Is the analysis of Cunningham’s observational data complete?”
+
+
+                        Akari nodded. Kazumi noticed that she had faint circles under her eyes, though they were difficult to spot behind her display glasses. It was no surprise she was tired. Being the only programmer on their team, she had put together everything by herself, from the observational data and wardriving system to the operations center structure.
+
+
+                        “You want to see it now?” asked Akari. “This is the data captured from the observation point on Desnoeufs Island two hours ago.”
+
+
+                        When Akari tapped at the keyboard on her left arm, a projector lit up and an ocean horizon appeared on the whiteboard. A single streak of cloud floated in a sky that darkened from light green to dark blue, and near the center of the image was a white dot labeled SAFIR 3. Akari’s planetarium had been modified since Kazumi had seen it in Tokyo. The sky now had gradations, and the ocean was covered in ripples. Daryl and Bruce both let out a sigh of admiration. The game engine Akari was using endowed the planetarium with a certain aesthetic appeal that Kazumi supposed was missing from the schematic representations space professionals were used to seeing.
+
+
+                        “Akari, that’s beautiful,” said Bruce pointing to the whiteboard. “You even drew in the clouds.”
+
+
+                        “Clouds?”
+
+
+                        “Yeah, the streaks overlaid on SAFIR 3.”
+
+
+                        “Those aren’t clouds.”
+
+
+                        Akari stretched her arms out in front of her, lined up her index fingers, and spread out her arms, making the display zoom in on SAFIR 3. Kazumi noticed a strange camera attached above the whiteboard: a mounted motion sensor for gesture control. He supposed being able to enter commands without bringing any unnecessary devices into this already equipment-filled room was handy, but there was no denying that Akari was taking the opportunity to indulge her eccentric tastes to the hilt.
+
+
+                        “That’s a point cloud representing the space tethers,” she explained.
+
+
+                        “What?” cried Daryl, standing up to go around the table to examine the whiteboard.
+
+
+                        SAFIR 3 had been enlarged on the screen. Around it were faint dots indicating space tethers that were concentrated within a diameter of five … no, a range of about ten kilometers. These were the ones being used to kick SAFIR 3 along.
+
+
+                        “The hell …” said Daryl. “How many of those things are there?”
+
+
+                        “Only counting the ones revolving around SAFIR 3’s location,” said Akari, “Twenty thousand tether pairs.”
+
+
+                        “Twenty thousand?!” Daryl exclaimed.
+
+
+                        Kazumi gasped in surprise. When Akari had analyzed Ozzy’s data in Tokyo, she’d estimated ten thousand, but now she was saying double that number. Pointing to the brain of their operations center piled by the window, the mountain of self-assembly Raspberry Pi computers, Akari explained that it was counting the number of objects that were revolving, as this was the distinctive behavior of the space tethers. The Pis performed this task using the observational data from the Sampson-5, which was noise filled and only able to record 1,024 objects at a time.
+
+
+                        “Akari,” said Kazumi. “Did you just say something weird like ‘only counting the ones around SAFIR 3’?”
+
+
+                        “Yes. There are others.”
+
+
+                        “So there’s another group?”
+
+
+                        “Two other groups of about ten thousand each. Should I superimpose them on the globe? I saved the orbital information from when they passed over Desneoufs Island.”
+
+
+                        With her index fingers sticking up, Akari brought her hands closer together and then pointed downwards, making the sky zoom out rapidly until it became a 3-D globe. She then rotated the Earth so that Europe was in the center. There appeared three cloud-like streaks, two running east-west and one tilted on a sharp angle. Kazumi couldn’t take his eyes off it, now that he finally grasped the true scale of the space tether phenomenon.
+
+
+                        “Forty thousand space tethers …” said Chris, shaking her head slowly from side to side. “It’s like an orbital cloud.”
+
+
+                        Daryl and Bruce, who were frozen gazing at the projected globe, both echoed Chris: “Orbital cloud …”
+
+
+                        Akari look toward Chris and said, “Does this count as proof that the tethercraft exists?”
+
+
+                        “Almost there.”
+
+
+                        Kazumi tried to get up, but Daryl stopped him. “Kazumi,” he said. “This is still just unofficial data. We need some observations made using government radars from at least one more location. Don’t you think, Chris?”
+
+
+                        Chris gave a wry smile and said, “To the United States, this team’s conclusions are still just one opinion among many about what’s going on up there. However, we’ve taken the first step toward credibility with Akari’s analysis. So I’d like us to keep operating under the assumption that the tethercraft and the orbital cloud exist. Does that sound good, Daryl?”
+
+
+                        “Yes. I’ll make a request to Colonel Lintz to verify the existence of these Clouds using NORAD’s air defense radar. It would be great if the CIA gave him a little nudge too.”
+
+
+                        “Okay. Will do.”
+
+
+                        Kazumi sunk into his chair and watched the Clouds float around the globe. It was inevitable, he thought, that the team would prove the existence of the tethercraft. Clearly those three Clouds were being operated for some distinct purpose.
+
+
+                        “Akari, can you throw up some numbers? Like altitude and so on … Whatever you have.” Sticking out his index finger, Kazumi imagined the movements of the Clouds, entering into his visualization ritual.
+
+
+                        Cloud streak number one. Stretching in an east-westerly direction, it was kicking along the second stage of SAFIR 3, thought to be the Rod from God, to bring it into rendezvous with the Wyvern Orbital Hotel. The two Smarks and their associates probably felt like a weapon was at their throats. There was no guarantee that this diversion to hide the presence of the Clouds would not serve some other purpose as well.
+
+
+                        Cloud streak number two. Raising its altitude as it headed in a north-southerly direction, it was trying to enter a sun-synchronous orbit passing vertically across the Earth. Countless Earth-observation satellites followed such orbits. Half-closing his eyes, Kazumi picked out several candidates from the TLEs in his memory and overlaid his visualization on the projected Earth and predicted path of the Clouds. If this streak continued to change its path as expected, it would rendezvous with a satellite Kazumi knew all too well.
+
+
+                        The third orbit was vaguely familiar. Was it the ISS? No. An object he’d mentioned recently on Meteor News. Enveloped by the Clouds he imagined. That’s it, he—
+
+
+                        “… umi? Kazumi?”
+
+
+                        Hearing someone calling him, Kazumi opened his eyes. Chris was in front of him with her hands on his desk. “The two remaining Clouds,” she said. “Have you figured out what they’re headed for?”
+
+
+                        Kazumi was about to reflexively preface his answer with “This could be wrong, but …” but stopped himself. If he held himself to such high standards of proof, they’d have to investigate thousands of orbital objects, which would make it impossible to keep up with the movements of the Clouds. Kazumi took a deep breath and opened his mouth. “Japan’s Information Gathering Satellites and the Wyvern’s return vehicle.”
+
+
+                        Bruce raised an eyebrow, smiled at Kazumi, and said, “Whoa. How thrilling. I’d better warn the ISS while we’re—”
+
+
+                        “Quiet a second,” said Chris, interrupting Bruce’s wisecracking. “Daryl, verification.”
+
+
+                        Daryl’s hands went at his keyboard in a flurry of movement. Akari and Kazumi peered at the screen of his console.
+
+
+                        “What’s the matter, y’all?” said Bruce in a silly tone of voice, apparently confused by the sudden shift in the room. “Orbital calculations can’t be that easy. Chris, remember when we asked those NASA guys where the Rod from God was going, and they kept us waiting for hours? There’s no way his guess is going to hit the mark just like—”
+
+
+                        Saying nothing, Daryl pulled up the globe on the screen. The predicted orbit of the Wyvern’s return craft overlapped with the orbit of the third Cloud.
+
+
+                        “Come on …” muttered Bruce, half-standing with his butt hovering above his seat. “How’d you guess that?”
+
+
+                        “I’m really sorry,” said Kazumi. “I just know.”
+
+
+                        “Kazumi. There’s no need to apologize,” said Chris, taking out her BlackBerry and dialing a number.
+
+
+
+
+
+
+
+
+
+
+Chaharshanbe, 26 Azar 1399, 03:53 +0330 (2020-12-16T00:23 GMT)
+
+
+Imam Khomeini International Airport, Tehran
+
+
+
+
+                        “I’m going to pick up our bags. Just hold on a second.”
+
+
+                        Without a moment’s hesitation, Sekiguchi rushed straight for the blue counter. Kurosaki could make neither heads nor tails of its bilingual Arabic and Persian sign, but Sekiguchi seemed to have deciphered it immediately.
+
+
+                        Watching him arrive at the counter and begin to gesticulate energetically as he spoke to the attendant, Kurosaki thought how well the man blended in with the environment. Sekiguchi could speak Persian. Very well, apparently. The woman at the counter casually brushed off Sekiguchi’s jokes. All in black, with a hijab covering her hair, the sight of her keenly reminded Kurosaki of the fact that he had arrived in a foreign country. He hadn’t seen anyone like her at the Ataturk Airport in Istanbul that they had departed just three hours ago. Across the counter, Sekiguchi accepted luggage wrapped in white plastic.
+
+
+                        Kurosaki noticed that an error message had appeared on all the liquid crystal displays placed here and there throughout the lounge. Though he couldn’t read the words, he could tell what kind of error it was by the shape of the dialogue box: a server could not be found notification. Apparently, Internet connections to foreign countries had been cut off, and Kurosaki supposed it had had an impact on domestic service as well. Sekiguchi had told him that foreigners could use the Internet as usual on their smartphones, but Kurosaki had lost all desire to even check his emails when he’d heard they were being censored.
+
+
+                        “So this is Tehran.” Kurosaki cast his gaze around and looked up at the ceiling supported by thin trusses curving gently like wings in profile, a design seen in airports around the world. Such massive spaces lit up with white LED lights said nothing of religion or country. Remembering the cramped hallways of Narita Airport, Kurosaki smiled bitterly. There was something so definitively Japanese about it.
+
+
+                        “Sorry to keep you waiting,” said Sekiguchi.
+
+
+                        “What the heck is that?”
+
+
+                        On the cart Sekiguchi was pushing was a pile of small duralumin cases so high it looked ready to topple. Scraps of the plastic sheet covering the cases dangled off the edges of the cart.
+
+
+                        “These are Iridiums. I had twenty-one of them delivered.”
+
+
+                        “Satellite phones?”
+
+
+                        “Yes. I also had them send data-transmission modules to connect to the Internet,” Sekiguchi said, patting the cases with the flat of his hand. He explained that he would hand out Iridiums to students seeking unimpeded Internet access and give the campus network an uncensored connection to the Internet. Before leaving Japan, he’d arranged to have them sent from Singapore.
+
+
+                        “… We’re not meeting Jahanshah?”
+
+
+                        “That’s the plan, but we might not be able to get into the campus.”
+
+
+                        “What’s this?”
+
+
+                        “There’s a demonstration happening at the institute tomorrow.”
+
+
+                        Sekiguchi explained that his friend at the NSC had told him about it. The demonstration in support of azadi interanet, Internet freedom, was being organized mainly by students of the Tehran Institute of Technology.
+
+
+                        “So you knew about the demonstration already?”
+
+
+                        “Yes. Which is exactly why I decided to come to Tehran. Oh, the receipt—” Sekiguchi peeled a strip of paper with a red mark printed on it from the plastic sheet and tucked it in his pocket.
+
+
+                        “Make sure not to lose it if you’re going to keep it in there.”
+
+
+                        “Don’t lump me in with you,” said Sekiguchi, stroking his smooth, stubble-free chin with a laugh. Kurosaki was tongue-tied, having rummaged through his pockets numerous times in search of his ticket on the way here from Narita. He felt utterly outmatched by Sekiguchi, not just in terms of his language ability and initiative, but also with little things like the way he organized his belongings.
+
+
+                        “Let’s go,” said Sekiguchi. “I’ve hired a car with a driver. Once we’ve had a nap, we’re heading off to the institute.”
+
+
+
+
+
+
+
+
+
+
+Tue, 15 Dec 2020, 16:53 -0800 (2020-12-16T00:53 GMT)
+
+
+Pike Place Market, Seattle
+
+
+
+
+                        Sliding off the upper crust of the French bread, Chance smelled shellfish and potatoes as steam rose from inside the bread bowl. Though the clam chowder was technically Boston-style, it was a popular dish in Seattle as well.
+
+
+                        Chance had brought Shiraishi here to Pike Street to eat out. Though nothing fancy, this soup was made with plenty of fresh ingredients and would give them more energy than the meals Chance had always brought to the warehouse—just “dead calories,” as Shiraishi called them.
+
+
+                        Watching snow blow against the window, she felt relieved that they had managed to get out of the warehouse. The weather report called for the snowfall to get heavier. Chance wondered if they would move from the warehouse control room to their hideout in the city during a blizzard. Disappearing under cover of snow would be perfect.
+
+
+                        “A hit,” said Shiraishi, extending his smartphone upside down to Chance.
+
+
+                        “What?”
+
+
+                        “I took out Information Gathering Satellite 2 of group 1. The recording’s right here.” Shiraishi pointed to the screen where a video on repeat showed a cylindrical satellite approaching rapidly before the screen blacked out. Chance guessed that this was the moment of impact recorded by a tether.
+
+
+                        “That’s another hard hit. You don’t think there will be debris?”
+
+
+                        “Don’t worry. When the tether struck, it was moving at five hundred meters per second, about equivalent to a full swing from a metal bat. Now the satellite is just scrap metal.”
+
+
+                        The impact might have torn off a solar panel, but it had not added to the satellite’s orbital velocity, so it would likely continue following the same orbit for some time, Shiraishi explained with a laugh. Now that the satellite had suddenly become inoperative, the team that managed it would likely be in a panic. Even if they were lucky enough to receive its telemetric data when its antenna pointed toward the base station, all they would record was senseless spinning. According to Shiraishi, the remaining six Information Gathering Satellites would be rendered useless as soon as that very day. Since the Japanese government had no backups, this would leave it blind.
+
+
+                        “Our second objective, hitting the Wyvern’s return craft, will be complete in two hours. This one I’m planning to strike at high velocity to open up a hole.”
+
+
+                        “You’re sure no one will suspect the North in either case?”
+
+
+                        “There’s no way the Japanese government will publicly announce that there was an ‘accident’ with their military satellites. As long as the Supreme Leader doesn’t let anything slip, no one will ever guess what caused it. That girl will probably blog about the Wyvern’s return craft, but that won’t cast any light on why it happened. All nine targets will become orbital debris, though, so we should probably change our method in future.”
+
+
+                        On the screen, a notification popped up that read takanori hashimoto: nagatacho.
+
+
+                        “The head of the Satellite Intelligence Center has been summoned to Nagatacho,” said Shiraishi, flicking the notification to the side to make it disappear. “Poor guy’s been working his butt off since bright and early.”
+
+
+                        Shiraishi’s expression showed none of his usual disdain. Chance wondered if he was feeling nostalgic about JAXA. She knew that his first post after entering JAXA was head of the Satellite Intelligence Center. Afterwards he’d been demoted to busywork for fouling up his duties, and in the end he’d decided to leave Japan.
+
+
+                        Seeing the notification from the MDM system pop up, Chance remembered one of her concerns. Kazumi and the JAXA staff holed up in the Nippon Grand Hotel. “What’s happening in Iidabashi?” she asked.
+
+
+                        “Can’t you remember anything? JAXA is in Ochanomizu, not Iidabashi. I bet they’re having a fit. Their pride and joy, a bunch of spy satellites that eat up a third of their budget, are all dead!”
+
+
+                        “That’s not what I mean,” said Chance, pointing to his smartphone. “I’m talking about the man under JAXA’s protection, Kazumi Kimura. He hasn’t gone anywhere yet? It’s been two whole days since they went into hiding at the Nippon Grand.”
+
+
+                        Shiraishi was about to say something, but then he took a breath, took back his smartphone, and moved his fingers quickly over the screen.
+
+
+                        “… They haven’t moved at all.”
+
+
+                        “You mean they’re still hunkered down there?”
+
+
+                        Glowering at the screen, Shiraishi pushed back his glasses as he raised his head. Then he looked down at the smartphone again and said in a pinched voice, “We’ve been had. That bastard Sekiguchi fooled us. His phone kept transmitting messages, so I thought he was contacting people, but the screen hasn’t been unlocked once this whole time.”
+
+
+                        What was more, Shiraishi explained, none of the apps on Kurosaki’s phone had been activated, the battery level hadn’t changed, and there were no signs that he had checked his email or social media. Sekiguchi’s smartphone had been equipped with a utility that made it appear to be constantly in use.
+
+
+                        “They left their MDM-controlled devices behind at the Nippon Grand. So most likely … they’re not there.”
+
+
+                        “Are you serious? You don’t know where they went?”
+
+
+                        “I’ll track them down.”
+
+
+                        “So you don’t know, then.”
+
+
+                        Shiraishi pounded the table with the hand holding the smartphone. “I told you! I’m going to track them down!” he shouted.
+
+
+                        Chance felt regret well up in her chest. Entrusting intelligence to Shiraishi while his hands were already full operating the Clouds had been a mistake.
+
+
+                        “I’ll sic the Cyber Front on them. Give me all your accounts that can break into JAXA. I’m going to dig up information about Sekiguchi and Kurosaki.”
+
+
+                        “No. I’ll take care of that. I’m the one who kept these accounts going, after all.”
+
+
+                        “Give them to me! I’m going to turn JAXA upside down and ransack it from top to bottom!” Chance snapped. She held out her hand toward him with the palm facing up.
+
+
+                        With Shiraishi’s accounts, she would use the globally dispersed Sleeping Gun computers to infiltrate JAXA’s servers and dredge up all of its data. In the process, the JAXA IT system would take devastating damage. There was a good chance that everything would crash, from their websites to their office system. However incompetent JAXA might be, they would know immediately that Shiraishi’s accounts left on the servers, whether out of kindness or negligence, had been used for the attack.
+
+
+                        “There’s no time. Give them to me now!”
+
+
+                        With forty-eight hours, they could be anywhere on earth by now. Looking at her own palm as she held it in front of her, she felt the flesh of her ring finger and pinky that had been sanded off when she was tortured twitching along with the resinous cover around them. This was an indelible mark of her failure.
+
+
+                        “Shiraishi. There’s no place for you at JAXA anymore. You threw all that away.” Chance was surprised at how cold her own voice sounded and immediately regretted it. Still, she couldn’t think of any other way to deal with her irritation. “You’ll never be on center stage again. You know that. So please give over the JAXA accounts.”
+
+
+                        Shiraishi pushed his tilted glasses back up into place and let out a deep sigh that disturbed the steam rising from his soup-filled bread.
+
+
+                        Chance squeezed her outstretched hand until the resin covers rubbed together and made a creaking sound.
+
+
+                        The steam settled, and Shiraishi raised his head. “Do whatever you like.”
+
+
+
+
+
+
+
+
+
+
+Tue, 15 Dec 2020, 21:29 -0800 (2020-12-16T05:29 GMT)
+
+
+Western Days Hotel
+
+
+
+
+                        Daryl ran the meeting, which was interrupted by several breaks and meals. Bruce had ordered a pizza, claiming it was Seattle’s best, and Kazumi watched as it cooled and congealed before his eyes.
+
+
+                        On the whiteboard was a diagram of a space tether. Illustrated there were the two terminating apparatuses, the cable that joined them, and the moving ballast in the middle that Dr. Jahanshah (Bruce had looked into it and confirmed that he had indeed earned his PhD) had conceived. It had been a simple diagram when Daryl had first sketched it that evening, but now, after three hours, it was scrawled all over with notes.
+
+
+                        “Can I ask something?” said Bruce, pointing at the whiteboard. Throughout the meeting, he had assumed the role of questioner. “How long can the Clouds remain in orbit?”
+
+
+                        “Unlike objects in LEO, those space tethers are not going to fall down naturally due to air resistance,” said Daryl. “Even one of Dr. Jahanshah’s rather primitive models can maintain its orbit with a thrust of 0.2 newtons per minute.”
+
+
+                        Without missing a beat, Bruce moved on to his next question. “Where does it get its energy from?”
+
+
+                        “Inside a magnetic field—in other words, while in orbit, it can produce energy with its tether alone, which means it can remain up there indefinitely.”
+
+
+                        “I see.”
+
+
+                        “A perpetual motion machine?” chimed in Chris.
+
+
+                        “It relies on the magnetic field of the Earth,” said Daryl. “Also, the battery will eventually wear out.”
+
+
+                        “I hope we’re not talking about atomic batteries or something here,” said Bruce. “Those last for decades.”
+
+
+                        “Isn’t the question of whether they could have gathered forty thousand tethers’ worth of atomic fuels like plutonium or polonium a matter for the CIA?”
+
+
+                        Kazumi grunted in admiration at Daryl’s reply. Even if I knew what atomic batteries were made of, Kazumi thought, there’s no way I’d have the nerve to make such a deft retort.
+
+
+                        “That’s enough about batteries,” said Chris. “So, to summarize, these things won’t fall out of orbit for years. Daryl, please add ‘Cannot be left in orbit’ to our list of actions.”
+
+
+                        Bruce threw his legs up on top of the table. The shiny toes of his shoes reflected the silver-sheet-covered interior of the room like a mirror.
+
+
+                        “These space tether things are maddeningly well thought out,” said Bruce. “All right, then, let’s move on to their size.”
+
+
+                        “This is an estimate based on the fact that they were unobservable with defense radars,” Daryl said immediately. “The longest dimension of the space tethers’ terminal apparatuses is one to two inches if they have metal cases, and about four inches if they’re plastic. These are the smallest sizes that Cunningham’s radar can detect. If they were more than twice this size, NORAD’s radar should have been able to pick them up.”
+
+
+                        “Smaller than I thought,” said Bruce. “How long are the cables?”
+
+
+                        Daryl looked to Kazumi as if to pass him a relay baton.
+
+
+                        “About two kilometers,” said Kazumi.
+
+
+                        “The material?”
+
+
+                        “I can’t guess.”
+
+
+                        “What if it were Nichrome wire like this?” said Bruce, pointing at the ceiling.
+
+
+                        “The centrifugal force would sever it.”
+
+
+                        “If we’re talking a strong and light material, it could be carbon nanotubes,” said Daryl, looking quizzical. “Its conductivity would make it perfect for the tethers.”
+
+
+                        “Impossible,” said Chris immediately. “CNT is a strategic material. If the technology to make something two kilometers long out of it had been developed, the CIA would definitely have heard of it.”
+
+
+                        Kazumi found the way that Chris and Bruce asked sharp questions one after the other stimulating. Quickly pointing out contradictions and raising concerns, they systematically built up their information about the space tethers. As the one in charge, Chris was maintaining a particularly strong grip on the team. When Daryl or Kazumi began to wander off into discussions of the future possibilities for this unprecedented spacecraft, she would gently guide them back on track and incorporate their thoughts into the task at hand: stopping the Clouds.
+
+
+                        “It’s difficult to say anything definitive about the material,” said Daryl. “There’s another carbon material called graphene that’s been made into ribbons, though it doesn’t compare to CNT in terms of strength. As far as the space tether itself, that’s all I have at the moment.”
+
+
+                        When Daryl had finished writing notes on the whiteboard and put down his marker, Akari raised her hand. “Can we talk about signal transmission now?” she asked. “How do you think the tethers receive commands?”
+
+
+                        “The tethers themselves can be used as antennas …” said Daryl. “That’s what it said in Dr. Jahanshah’s paper.”
+
+
+                        “That’s not what I mean. Um …”
+
+
+                        “Akari,” cut in Bruce, seeing her at a loss for words. “Let us sort out the technological issues first. Kazumi, wouldn’t the sensitivity of a single line, a dipole antenna, be too low?”
+
+
+                        Kazumi nodded. Jamshed had touched on this problem in his paper. But Kazumi wasn’t well versed in engineering and worried whether he could convey the ideas accurately. “In Jamshed’s paper,” Kazumi explained, “it said that if the tethers are flying as a swarm, there will be parallel tethers in the vicinity, which means they can be used as a device that reflects radio waves.”
+
+
+                        Bruce licked his lips and closed his eyes. Here was a CIA agent so highly capable, thought Kazumi, that he had a good grounding in electrical and electronic engineering in addition to everything else. He would never stop being amazed at the talent of the people he met in America.
+
+
+                        “I see what you’re getting at,” said Bruce. “Antennas arranged in parallel. If you fiddled with the polarity of the tethers, they would become reflectors and might work together like a yagi antenna. This would allow transmissions with a decent amount of directionality. Most likely the signals could be exchanged with terrestrial base stations.”
+
+
+                        Chris looked concerned about what Bruce had said. “These base stations, where would they be?”
+
+
+                        “Yeah,” said Akari. “That’s exactly what I was trying to ask.” She walked over to the front of the whiteboard and drew a big arc beneath the diagram. This represented the Earth. Then she drew a symbol for an antenna on the surface of it and labeled it “Location?”
+
+
+                        “Where on the Earth’s surface are the base stations?” she asked. “The space tethers are exchanging signals with the ground, right?”
+
+
+                        “Right!” said Daryl, slapping himself on the forehead. “Akari, that’s exactly it!” Taking the marker from her, Daryl drew a small space tether on top of the arc and another line approaching it. “From an altitude of 350 km, the line of sight only extends a distance of 2,000 km. I have no idea what kind of radio wave they’re sending, but base stations in only one or two locations would be insufficient.”
+
+
+                        “Oh, I see,” said Kazumi. “The range that they can communicate is restricted.” Kazumi finally understood the problem that Akari had raised. The Clouds could only be viewed from the Earth’s surface in specific places at specific times. They didn’t appear on NORAD’s defense radars, but whoever was operating them had to have some sort of method for obtaining telemetric data, including present location, from each of the space tethers and sending them updated commands to transfer between orbits.
+
+
+                        Daryl wrote a simple formula on the whiteboard. “Even if we ignore attenuation caused by the atmosphere and topography, forty locations would be required. That’s just dividing the surface area of the Earth by the area of a circle with a radius of 2,000 km, though.”
+
+
+                        Akari tapped on her arm keyboard and said, “That’s 42.5. The circles overlap. You need to fill it with hexagons.”
+
+
+                        “Good point,” said Daryl with a nod. “You’re exactly right. Depending on the type of signal and output strength, they might allow them a bit more distance, but without twice, no, three times as many base stations, I doubt that communications would work.”
+
+
+                        “Couldn’t the tethers just have commands sent from some single location stored inside them?” asked Bruce.
+
+
+                        “No, because the Clouds are controlled in real time,” said Kazumi. “It would be impossible for them to kick along the SAFIR 3 while following after the self-propelled orbital hotel using a stored command.” Kazumi explained that the space tethers would cross the sky over a base station in midlatitudes no more frequently than every ninety minutes. In some cases, they might have to wait as long as fifteen hours before returning. With such a large gap between velocity-adjustment commands from the ground, it would be impossible for the space tethers to catch up to the Wyvern Orbital Hotel with their weak thrusters as it steadily changed orbit. “There should be base stations for the Clouds all over the world.”
+
+
+                        “Bruce, add the task ‘Investigate Cloud base stations,’ ” said Chris. “This is a matter for the CIA.”
+
+
+                        “Yes, ma’am,” said Bruce in a low voice and turned toward Kazumi questioningly. “You’re totally certain those things need multiple base stations, right? If you can tell me the format of the telemetric data they’re transmitting, I can use ECHELON to extract the transmissions between the base stations. What do you think?”
+
+
+                        “Impossible,” said Akari, shaking her head. Daryl frowned. Without knowing the format of the data they were searching for, not even an organization like the CIA that intercepted all communications could find it.
+
+
+                        Everyone gazed at Kazumi, seeking answers. He shook his head to indicate he didn’t know. “I think Dr. Jahanshah could make a pretty good guess. In the table of contents for his paper, there was a section entitled ‘Robust Transmission of Device Information.’ ”
+
+
+                        “Ah, that guy from Iran,” said Chris. “I’m currently arranging to acquire a copy of the paper he wrote. But it’s going to take some time.”
+
+
+                        Research and development in fields related to national defense were strictly controlled. This, Chris explained, extended from biological engineering to astronautics, and of course included weapons development. She was urging CIA headquarters to hurry up but expected it to take several days before they would reach the list of references at the end.
+
+
+                        “How did North Korea get its hands on such a highly classified paper?” asked Kazumi.
+
+
+                        “Technological exchange,” Bruce replied. “The two countries are allies, after all.” Since North Korea and Iran had almost no interaction with developed countries, he explained, they often swapped human resources and technology in various fields. The central pillars of the program were astronautics and nuclear development, since these contributed directly to their deterrence capabilities. Every year, numerous scientists and technicians went back and forth between the two countries sharing information. It was most likely in this way that Jamshed’s paper had made its way to North Korea. “The CIA eats up a huge amount of resources just analyzing all the communications it collects. The reality is that we often don’t get around to dealing with actual people and paper. Hey, why don’t we try a random guess? We could try searching with whatever telemetric format Kazumi hits on.”
+
+
+                        Kazumi shook his head again. Most likely the transmissions were only made up of a few different kinds of data, but the combinations were endless if you considered all the different standards for numerals and ordering.
+
+
+                        “You really think the professor would know?” asked Akari, who had been quietly scanning text on her display glasses. “We might be able to have a videoconference with him soon. I just got a message from Kurosaki and Sekiguchi that they’ll be heading for the Tehran Institute of Technology.”
+
+
+                        “Eh? Sekiguchi-san ha naikaku no dareka ni tanomu tte ittenakatta?” Kazumi asked in Japanese without thinking, and everyone stared at him. Flustered, he immediately repeated himself in English. “Didn’t Sekiguchi say he’d ask someone in the cabinet to take care of that?”
+
+
+                        “From Tehran?” Bruce asked Akari, peering at her in apparent perplexity. “Kurosaki and Sekiguchi? Who are they?”
+
+
+                        “Two JAXA staff,” said Kazumi. “The ones who helped us escape, though I have no idea what they’re doing in Tehran either.”
+
+
+                        “I got an email from them,” Akari cut in. “About how they got there.” Akari projected the email from Sekiguchi onto the whiteboard and lined up a machine-translated English version beside it.
+
+
+                        “Wha …” Bruce grunted. “Is this for real?”
+
+
+                        According to the email, Sekiguchi had failed to get the NSC moving and so had gone to the Tehran Institute of Technology himself, taking Kurosaki with him. There, they planned to give Iridiums to Jamshed and have him connect them to the Internet. Apparently, they had received the phones and transmission modules at the airport.
+
+
+                        “Bruce!” Chris called out sharply. “Look into the JAXA employee named Sekiguchi and the situation in Tehran. Pronto!”
+
+
+                        Bruce straightened his posture, pulled up the CIA workspace on his desktop display, and began typing.
+
+
+                        Watching Bruce, Chris muttered as though speaking to herself. “Amazing that they brought telecommunication devices that can bypass Iran’s censorship. That would be difficult to arrange even for the CIA. They picked them up at the airport, did they? Hardly an amateur move.”
+
+
+                        Kazumi was rendered speechless by the sudden transformation in Chris and Bruce. Their cheerfulness had vanished, and they now began to converse faster in English than Kazumi had ever heard. Here, the true character of these two CIA agents was on full display, and he suddenly realized how much effort they had been making to keep up the team’s spirits.
+
+
+                        “Akari, when did this email arrive?” asked Bruce, paling somewhat with concern. “And when was it written?”
+
+
+                        “Most likely just now.”
+
+
+                        “So the ‘today’ in the text is today today … Why does the timing have to work out like this? Akari, please pull up my screen.”
+
+
+                        Akari manipulated her keyboard, and Bruce’s desktop appeared on the screen in place of the email. It showed a simple one-page report with the title “Possibility of Civilian Death and Injury: Riot at Tehran Institute of Technology.”
+
+
+                        “The source for this report is an email exchange between Al Jazeera staff on the ground. The probability as verified by Viper is class A. Iran’s regular forces are going to dispatch a unit of armed troops in front of Tehran IT. Also drones, two attack aircraft, and one spotter plane. What the heck is going on here?” Realizing that Akari and Kazumi were staring at them, Bruce returned his voice to a more relaxed tone and said, “Does this guy Sekiguchi know that Tehran is going to be a battlefield?”
+
+
+
+
+
+
+
+
+
+
+Chaharshambe, 26 Azar 1399, 11:28 +0430 (2020-12-16T07:58 GMT)
+
+
+Student Center, Tehran Institute of Technology
+
+
+
+
+                        This is going to be a day to remember, thought Alef. No—I’ll make it one.
+
+
+                        Having sent his student supporters out of the hall, Alef was inside his office cubicle set up along the wall reading over a printout of a paper with the title “Azadi Interanet: A Lecture on Internet Freedom,” by Alef Kadiba. He’d rehearsed his speech many times and was looking it over one last time, awaiting his moment.
+
+
+                        “ ‘Thank you to all my brethren assembled here. And thank you to Allah for this land, Iran.’ Pretty good, I’d say. Sounds good too.”
+
+
+                        We just want to use the Internet without hindrance, he thought. That’s not so much to ask.
+
+
+                        It was a moderate request that the government should have been able to accept easily. He had carefully removed all passages and phrases that suggested democratization or seemed critical of the president. It wasn’t as if they were rejecting censorship or demanding unrestricted access to foreign social networks. They fully understood that Iran faced difficult challenges concerning security. They just wanted permission to use inside the country even half of the information that Western nations like America soaked up like warm sunlight. Foreign companies operating in Iran had a certain degree of access, and Iranians deserved the same. True freedom would follow. In the meantime, they had to avoid bringing about in Tehran that state of anarchy called the “Arab Spring” that the sudden rush onto the Internet and social networks had wrought.
+
+
+                        Alef put the sheet of paper down and imagined the streams of thousands of students that were set to gather that day. In front of the main gate, they would erect a stage approximately 30 cm tall. After Alef climbed up there and seized the gaze of the students, he would make a fist, look to the sky, and say, “ ‘Thank you to all my brethren assembled he—’ ”
+
+
+                        Hearing a rattling sound, Alef swept his gaze around.
+
+
+                        “Nice pose, Leader,” said a man peeking his head out from the top of the cubicle wall. Wearing a green scarf that covered his mouth, he spoke Persian fluently but with a terrible accent. On his shoulder he carried a Kalashnikov rifle.
+
+
+                        “… Who are you?”
+
+
+                        When the man shook his head, two other men dressed identically slipped in through the gaps in the cubicle. The first to enter pointed his Kalashnikov at Alef and jerked the barrel of the gun to indicate that Alef was to approach the wall. The man who came in next took the paper from Alef’s hand and passed it to a man standing outside the partition.
+
+
+                        “Mr. Kadiba. I’m relieved to see that you’re even more handsome than in photographs. However, we cannot tolerate your speech.” The man who spoke twisted himself into the gap that Alef had retreated to, pulled down his scarf, and brought his scarred face close. “You’re going to begin your speech with Allahu Akbar. God is great.”
+
+
+                        “This country is one of the nations of Islam too, so saying this is fitting, don’t you think?” The man continued, narrowing his eyes and repeating a prayer quickly three times. His accent was hard to follow, but no Muslim could fail to recognize that this was the adhan, the call to worship. This man’s adhan had an unfamiliar tone to it, and Alef noticed that “Ḥayya ʿala khayr al ʿamal. The time for the best of deeds has come!” had been omitted. This was a sign that this man’s adhan was not that of Iran’s national religion, Shia.
+
+
+                        “… What are you Sunnis doing?”
+
+
+                        “I’m just chanting it in its original form. It’s no big deal.”
+
+
+                        Alef sat down hard on the floor. The demonstration, thousands of students strong, was being surveilled by the government authorities, so at the very least, the police would come to prevent the demonstration from spreading. If he said the Sunni adhan, it would be seen as a proclamation from Alef and all the students that they were antinationalists.
+
+
+                        “Afterwards, read this to them.” The man bent his arm to reach into an inner pocket from the side of his cape. Seeing this awkward motion, Alef realized that the men were encumbered with body armor. These were armed activists. Members of Hamas who’d entered the country—no, more likely they were from God’s Warriors, a group that had been gaining influence recently. A piece of torn-out notepaper was raised in front of Alef, reading, “Dissolve the cabinet. Islamic law demands freedom.”
+
+
+                        “N-no way. If I do that—”
+
+
+                        “Have you memorized it?” asked the man, seeming oblivious to his reaction, and withdrew the paper. “The rest you can make up as you go long. Demand Internet access as you planned or whatever you like. The arrival of another Arab Spring in Tehran is desirable for us too.”
+
+
+                        The man reached out his hand to Alef and said, “All right, let’s go, shall we? A crowd of ten thousand is assembled outside. There are no television cameras with them, but we’ll make sure that everyone knows the name of the man who gave his life to advocate a noble cause, the great Alef Kadiba.”
+
+
+                        Alef pulled his arms away, but the man grabbed him by his shirt around the chest, stood him up, and kicked over the cubicle wall. From beyond the open doors of the front entrance came a chill draft along with the voices of the crowd. It was just as the man had said. There were far more than the one thousand or so people Alef had been expecting. The brick road that ran from the student center to the main gate was thronged with people. Men with black faces who didn’t look like students were waving their dusty hands toward the student center.
+
+
+                        The man pulled out a handgun from his waist, stuck it to Alef’s back, and urged him toward the entrance. “There’s another welcome party for you outside the gate. Can you see them? It’s the Iranian army.”
+
+
+
+
+
+
+
+
+
+
+                        Alef was forced to stand on the roof of a red Peugeot parked in front of the main gate. Behind him stood the scarf-masked man holding a handgun to his back.
+
+
+                        In the rotary in front of the main gate, the crowd jostled. Wrapped in dust-covered capes, these were laborers with their families. One of Alef’s student comrades looked up at him with concern, but when Alef turned to meet his gaze, he faded into the crowd. On the far side of the rotary, a unit of maybe one hundred soldiers were lined up in formation behind a barricade. A man standing in the center of the unit raised his right hand. Immediately, the soldiers removed the cartridges from their guns, checked that there were bullets inside, and reinserted them, sending the sound of metal against metal across the rotary. The soldiers carried the same weapon as the man behind Alef—Kalashnikovs. They were not equipped for riot control. The bullets were real.
+
+
+                        “Kadiba, can you see them?” asked the man standing behind Alef as he pointed over his shoulder at the sky. In the clear blue above there were two—no, three—sparkling dots. “A few drones have joined the fun. Anjians and—how unusual. They’ve even brought along Fengren observation drones.”
+
+
+                        It was at this moment that Alef realized that the Azadi Interanet demonstration he had planned was being co-opted not only by antigovernment groups but by the government as well. The government knew that insurgents had mixed themselves in with the protesters in order to mobilize Tehran’s malcontents and cause a disturbance and was planning to wipe them out along with all the students. Alef could sense no signs that the man holding him hostage was dismayed by any of this. Most likely he and his fellows were hoping that today’s unrest would only spark more.
+
+
+                        The crowd swayed with Alef’s slightest movement. Everyone was waiting for his opening words.
+
+
+                        “You couldn’t hope for a better place to speak. So let’s get on with it. Starting with the adhan. Allahu Akbar. God is grea—hey! What’s …” The barrel on Alef’s back shook, and the man holding it said in Arabic, “Mahiza?” What the?
+
+
+                        Standing between the crowd and the soldiers aiming their guns to the sky were two men wearing suits. One was middle-aged and had a cart stacked with dully gleaming metal cases. The other had a youthful face with smooth, healthy skin. Beneath the wintry sky, they were spreading out a piece of white fabric.
+
+
+                        “A white flag?” said the man behind Alef.
+
+
+                        “The Red Cro—no, it’s the flag of a country,” said another.
+
+
+                        When the two suited men stepped away from each other holding the upper corners of the cloth, an unmistakable flag unfurled, with a bright-red disk dyed straight through: the flag of Japan. Silence fell on the whole rotary as all eyes focused on these two men. The Anjians and Fengrens stood out clearly in the light brownish-gray sky, and the faintest sound of their engines could be heard. The two men began to walk toward Alef with long, slow strides as they held the sun disc between them. The young one took a megaphone from where it hung around his neck and put it to his mouth. Howling feedback echoed through the rotary. What in the name of God are they doing? Alef wondered.
+
+
+                        “I’d like to express my gratitude to all my brethren who have assembled here today.” Fluent Persian came pouring from the speaker. Alef was astounded to find that this one sentence was almost identical to the manuscript he had planned to use for his speech.
+
+
+
+
+
+
+
+
+
+
+                        Kurosaki pushed along the cart fully loaded with Iridiums and glanced at Sekiguchi striding forward on the other side of the Japanese flag. Shaking the flag vigorously, he spoke in Persian with a dignified air. Though Kurosaki couldn’t understand the words, he could hear Sekiguchi’s megaphoned voice reverberating sonorously through the rotary. Not once did he falter or repeat himself.
+
+
+                        Their objective was the red Peugeot and the man standing atop it. When he and Sekiguchi were still standing in the narrow alley outside the rotary waiting for the right moment, Sekiguchi had identified him as Alef Kadiba. The dangerous-looking man standing behind him was either a member of Hamas or an extremist group connected to them. Remembering when Sekiguchi had said, “They’re definitely armed,” Kurosaki shuddered.
+
+
+                        They continued to take slow steps toward the Peugeot straight ahead. Their frustratingly drawn-out pace reminded Kurosaki of the stabbing cold, but they couldn’t allow themselves to move too fast and get apprehended by the soldiers behind them. At the same time, they’d be in even worse trouble if the man behind Alef clued into Sekiguchi’s intentions and sparked up a riot. If that happened, the soldiers behind them and the drones overhead would surely transform the demonstration into a massacre without hesitation. So, as quickly as they could, but not so rushed as to raise anyone’s guard, they continued forward.
+
+
+                        From behind, Kurosaki could sense a stir among the soldiers and heard more metallic clacks. Most likely they were struggling to decide what to do with these two out-of-place men holding aloft the flag of a country that had diplomatic relations with Iran. Rotating his body from side to side, Sekiguchi continued speaking to the people gathered in the rotary. Kurosaki just shook his hand holding the flag and forced himself to smile. Everything they did was to appear incongruous and ensure that they could make contact with Alef. Kurosaki noticed that mixed in with the crowd around them were those who gave off the same vibe as the man behind Alef. They all had sturdy builds, had wrapped green scarves around their faces, and glowered at the two of them. Were they going to succeed?
+
+
+                        Kurosaki’s eyes met with those of an old man with a bent back. In his whitish, clouded pupils appeared the clear signs of confusion. Kurosaki forced his tense cheeks into the shape of a smile and moved his head around, looking from face to face in the crowd. A scrawny youth wrapped in a dusty cloth. A man who looked like a laborer, gap-toothed mouth agape. An old woman carrying a grandchild. All of them squinted as they stared at Kurosaki and Sekiguchi.
+
+
+                        “Ooyomidouni Amazon.”
+
+
+                        Finally Sekiguchi said something that Kurosaki could catch: Amazon. This was the part where he lectured them on how Internet shopping had transformed daily life. The manuscript for the speech that Sekiguchi was giving had been written as if they were an NPO from Japan come to support Alef’s demo. By the way the crowd breathed, Kurosaki could tell that Sekiguchi’s Persian was getting through to them as words. But there seemed little chance that these people would understand the convenience of the Internet, struggling as they were to maintain basic necessities. In all likelihood, they had never even seen a credit card, and Kurosaki could only wonder how this foreigner in a tidy suit speaking empty words might appear to them.
+
+
+                        Looking straight ahead again, Kurosaki was surprised to see the Peugeot already almost right in front of them. The two of them had crossed the rotary before he’d even realized it. Surrounding them, a group of people were gathered who seemed somehow different from those before. Young people wearing modern clothes, their faces blushing in the hot air: students. Their eyes sparkled with excitement at the words of support that had come to them from a distant country.
+
+
+                        Sekiguchi stopped and turned around as he spread out his arms, gestured for them to approach. Kurosaki imitated him, looking all around as he held the flag. Cutting through a wall of exhausted-looking laborer types, the students charged over. Alef, still standing on top of the car, broke into a smile. The man who had been standing behind him was suddenly nowhere to be seen. Sekiguchi raised his arm holding the megaphone and pointed it to the sky.
+
+
+                        “Azadi interanet!”
+
+
+                        “Azadi interanet!” Alef echoed, projecting his voice as he raised his fist toward the heavens.
+
+
+                        Then he reached his arms out toward the students thronging around the Peugeot, beckoning for them to join in.
+
+
+                        “Azadi interanet!” Countless fists went to the sky, as yellow confetti rained down.
+
+
+                        Sekiguchi and Kurosaki edged over to the Peugeot through the pandemonium. Hopping down from the roof, Alef gave Sekiguchi a hug. Sekiguchi brought his lips near to Alef’s ear and said in English, “Mr. Alef Kadiba, I presume? I’m glad you’re safe.”
+
+
+                        Alef nodded again and again, shaking his trim mustache.
+
+
+                        Sekiguchi grabbed Alef’s shoulders and pulled him even closer. “I’m giving you these twenty Internet access modules and satellite phones. Please connect the access kit’s local area network to the campus network. This will enable uncensored access to the network.”
+
+
+                        “Who are you two? Why …”
+
+
+                        Sekiguchi yanked Alef in so close that their cheeks touched. “Mr. Kadiba. I have one condition,” he said. “We’re hoping that all of the students of this institute of technology will have free access to the Internet. Please connect all of the campus networks, including those in the dorms, to the Internet. I would really appreciate it.”
+
+
+                        “That’s all you need from me?”
+
+
+                        Sekiguchi nodded. “I’ve given you a voice that can reach the world. Only you can decide how to use it.”
+
+
+                        Yellow confetti was cast about from atop the gate. Kurosaki brushed pieces of the paper off him and looked through the gate to what was beyond it. Somewhere inside one of those dusty buildings was the scientist who had first conceived of the tethercraft, Dr. Jamshed Jahanshah.
+
+
+                        One of the students who took the Iridium cases from Kurosaki shouted, “Free Internet!” and dashed into the campus.
+
+
+
+
+
+
+
+
+
+
+2020-12-16T08:00 GMT
+
+
+Project Wyvern
+
+
+
+
+                        People of Earth, good morning! Our current orbital altitude is 370 km. The orbital hotel is operating as usual. There seems to have been a slight problem with the Wyvern return vehicle that was to serve as our backup spacecraft to go back to Earth, and we’re currently investigating the cause. It’s just one thing after another. Still, I’m not worried because our plan was to return from the ISS on the Soyuz to begin with. I’m sooo grateful for all your support!
+
+
+                        There’s something I’ve wanted to write about for a while but couldn’t get to because of all the commotion about the Rod from God, so heere we go: food. I bet you’re all curious to know what sorts of dishes are on offer in the microgravity environment of the orbital hotel. And since the first stage of the space tour is $50,000 for eight days, I’m sure everyone will want to be eating proper meals.
+
+
+                        So I was preparing several drafts … But here’s the problem. We have as much food as we could want, and it tastes delicious! I think most of you have seen the video of me and Ronnie having a meal, but the truth is, we had no trouble at all behind the scenes.
+
+
+                        All we had to do was pull a tray out of one of the pantries embedded in the wall and put it in the microwave. The salad comes out fresh, the sushi rice comes out at body temperature, the soup and pasta come out at sixty-eight degrees Celsius, and the grilled fish comes out sizzling, all in their individual little bowls.
+
+
+                        This is a triumph of molecular gastronomy. The hotel doesn’t carry frozen dishes that have been preprepared, but dishes that are designed to come out of the microwave just perfect. I’m telling you, it’s simply amazing.
+
+
+                        The Project Wyvern chefs are stunningly talented.
+
+
+                        I guess the only difference from Earth is the precautions taken to ensure that the food doesn’t come apart and scatter about. Drinks would be a real hassle if they did that too, so they’re kept in plastic containers. That’s about the worst you have to put up with. I don’t even want to think what it would be like to have raw hot pepper come flying into your nostrils while you were sleeping. Ronnie, I can put up with your energetic nibbling, but please pay attention when you’re eating!
+
+
+                        Let’s not forget the part everyone looks forward to: dessert. Today, it’s … wait for it … “magnetoberry kiwitron wrap”! Don’t get it? Neither do I! That’s because this dessert doesn’t exist on Earth. The slightly sour juice of berries is sealed inside a red, gelatinous nugget and wrapped in kiwi-flavored dough, kind of like pasta. Made with a pure molecular-synthesis recipe, there’s no dish like it anywhere. Totally, utterly original.
+
+
+                        Every day, Ronnie and I get to sample one of these creations.
+
+
+                        On Earth, as we all know, many people are unable to eat as much as they need. Every day when we fly even ten degrees over Africa, there’s no ignoring the parched, reddish-brown ground that we see. I hate to remember that the fish in the filet we’re eating polluted the environment when it was farmed in Lake Victoria. When I see a clear pattern on the surface of vast plains, I’m aware that those are agricultural fields, and when we pass on to the night side of the Earth, I can sometimes see the glow of squid farms.
+
+
+                        People have eaten up the Earth.
+
+
+                        I wonder what kind of food we’ll survive on when we leave Earth. We hope to make molecular-synthesis recipes the first step.
+
+
+                        But, Head Chef Casper, please let me say just one thing. I’ve had more than enough of your magnetoberry kiwitron wrap!
+
+
+                        Guinea Pig Smark

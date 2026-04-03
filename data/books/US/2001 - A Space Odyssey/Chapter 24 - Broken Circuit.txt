@@ -1,0 +1,357 @@
+24 - Broken Circuit
+
+
+
+
+
+Nowadays, one could always tell when Hal was about to make an unscheduled announcement. Routine, automatic reports, or replies to questions that had been put to him, had no preliminaries; but when he was initiating his own outputs there would be a brief electronic throat-clearing. It was an idiosyncrasy that he had acquired during the last few weeks; later, if it became annoying, they might do something about it. But it was really quite useful, since it alerted his audience to stand by for something unexpected.
+
+
+
+Poole was asleep, and Bowman was reading on the control deck, when Hal announced:
+
+
+
+“Er - Dave, I have a report for you.”
+
+
+
+“What's up?”
+
+
+
+“We have another bad AE-35 unit. My fault predictor indicates failure within twenty-four hours.”
+
+
+
+Bowman put down his book and stared thoughtfully at the computer console. He knew, of course, that Hal was not really there, whatever that meant. If the computer's personality could be said to have any location in space, it was back in the sealed room that contained the labyrinth of interconnected memory units and processing grids, near the central axis of the carrousel. But there was a kind of psychological compulsion always to look toward the main console lens when one addressed Hal on the control deck, as if one were speaking to him face to face. Any other attitude smacked of discourtesy.
+
+
+
+“I don't understand it, Hal. Two units can't blow in a couple of days.”
+
+
+
+“It does seem strange, Dave. But I assure you there is an impending failure.”
+
+
+
+“Let me see the tracking alignment display.”
+
+
+
+He knew perfectly well that this would prove nothing, but he wanted time to think. The expected report from Mission Control had still not arrived; this might be the moment to do a little tactful probing.
+
+
+
+There was the familiar view of Earth, now waxing past the half-moon phase as it swept toward the far side of the Sun and began to turn its full daylight face toward them. It was perfectly centered on the cross-wires; the thin pencil of the beam still linked Discovery to her world of origin. As, of course, Bowman knew it must do. If there had been any break in communication, the alarm would already have sounded.
+
+
+
+“Have you any idea,” he said, “what's causing the fault?”
+
+
+
+It was unusual for Hal to pause so long. Then he answered:
+
+
+
+“Not really, Dave. As I reported earlier, I can't localize the trouble.”
+
+
+
+“You're quite certain,” said Bowman cautiously, “that you haven't made a mistake? You know that we tested the other AB-35 unit thoroughly, and there was nothing wrong with it.”
+
+
+
+“Yes, I know that. But I can assure you that there is a fault. If it's not in the unit, it may be in the entire subsystem.”
+
+
+
+Bowman drummed his fingers on the console. Yes, that was possible, though it might be very difficult to prove - until a breakdown actually occurred and pinpointed the trouble.
+
+
+
+“Well, I'll report it to Mission Control and we'll see what they advise.” He paused, but there was no reaction.
+
+
+
+“Hal,” he continued, “is something bothering you - something that might account for this problem?”
+
+
+
+Again there was that unusual delay. Then Hal answered, in his normal tone of voice:
+
+
+
+“Look, Dave, I know you're trying to be helpful. But the fault is either in the antenna system - or in your test procedures. My information processing is perfectly normal. If you check my record, you'll find it completely free from error.”
+
+
+
+“I know all about your service record, Hal - but that doesn't prove you're right this time. Anyone can make mistakes.”
+
+
+
+“I don't want to insist on it, Dave, but I am incapable of making an error.”
+
+
+
+There was no safe answer to that; Bowman gave up the argument.
+
+
+
+“All right, Hal,” he said, rather hastily. “I understand your point of view. We'll leave it at that.”
+
+
+
+He felt like adding “and please forget the whole matter.” But that, of course, was the one thing that Hal could never do.
+
+
+
+
+
+It was unusual for Mission Control to waste radio bandwidth on vision, when a speech circuit with teletype confirmation was all that was really necessary. And the face that appeared on the screen was not that of the usual controller; it was the Chief Programmer, Dr. Simonson. Poole and Bowman knew at once that this could only mean trouble.
+
+
+
+"Hello, X-ray-Delta-One - this is Mission Control. We have completed the analysis of your AE-35 difficulty, and both our Hal Nine Thousands are in agreement. The report you gave in your transmission two-one-four-six of a second failure prediction confirms the diagnosis.
+
+
+
+“As we suspected, the fault does not lie in the AE-35 unit, and there is no need to replace it again. The trouble lies in the prediction circuits, and we believe that it indicates a programming conflict which we can only resolve if you disconnect your Nine Thousand and switch to Earth Control Mode. You will therefore take the following steps, beginning at 2200 Ship Time -”
+
+
+
+The voice of Mission Control faded out. At the same moment, the Alert sounded, forming a wailing background to Hal's “Condition Yellow! Condition Yellow!”
+
+
+
+“What's wrong?” called Bowman, though he had already guessed the answer.
+
+
+
+“The AE-35 unit has failed, as I predicted.”
+
+
+
+“Let me see the alignment display.”
+
+
+
+For the first time since the beginning of the voyage, the picture had changed. Earth had begun to drift from the cross-wires; the radio antenna was no longer pointing toward its target.
+
+
+
+Poole brought his fist down on the alarm cutout, and the wailing ceased. In the sudden silence that descended upon the control deck, the two men looked at each other with mingled embarrassment and concern.
+
+
+
+“Well I'm damned,” said Bowman at last.
+
+
+
+“So Hal was right all the time.”
+
+
+
+“Seems that way. We'd better apologize.”
+
+
+
+“There's no need to do that,” interjected Hal. “Naturally, I'm not pleased that the AE-35 unit has failed, but I hope this restores your confidence in my reliability.”
+
+
+
+“I'm sorry about this misunderstanding, Hal,” replied Bowman, rather contritely.
+
+
+
+“Is your confidence in me fully restored?”
+
+
+
+“Of course it is, Hal.”
+
+
+
+“Well, that's a relief. You know that I have the greatest possible enthusiasm for this mission.”
+
+
+
+“I'm sure of it. Now please let me have the manual antenna control.”
+
+
+
+“Here it is.”
+
+
+
+Bowman did not really expect this to work, but it was worth trying. On the alignment display, Earth had now drifted completely off the screen. A few seconds later, as he juggled with the controls, it reappeared; with great difficulty, he managed to jockey it toward the central crosswires. For an instant, as the beam came into line, contact was resumed and a blurred Dr. Simonson was saying “... please notify us immediately if Circuit K King R Rob.” Then, once again, there was only the meaningless murmuring of the universe.
+
+
+
+“I can't hold it,” said Bowman, after several more attempts. “It's bucking like a bronco - there seems to be a spurious control signal throwing it off.”
+
+
+
+“Well - what do we do now?”
+
+
+
+Poole's question was not one that could be easily answered. They were cut off from Earth, but that in itself did not affect the safety of the ship, and he could think of many ways in which communication could be restored. If the worst came to the worst, they could jam the antenna in a fixed position and use the whole ship to aim it. That would be tricky, and a confounded nuisance when they were starting their terminal maneuvers - but it could be done, if all else failed.
+
+
+
+He hoped that such extreme measures would not be necessary. There was still one spare AE-35 unit - and possibly a second, since they had removed the first unit before it had actually broken down. But they dared not use either of these until they had found what was wrong with the system. If a new unit was plugged in, it would probably burn out at once.
+
+
+
+It was a commonplace situation, familiar to every householder. One does not replace a blown fuse - until one knows just why it has blown.
+
+
+
+Frank Poole had been through the whole routine before, but he took nothing for granted - in space that was a good recipe for suicide. He made his usual thorough check of Betty and her supply of expendables; though he would be outside for no more than thirty minutes, he made sure that there was the normal twenty-four-hour supply of everything, Then he told Hal to open the airlock, and jetted out into the abyss.
+
+
+
+The ship looked exactly as it had done on his last excursion - with one important difference. Before, the big saucer of the long-range antenna had been pointing back along the invisible road that Discovery had traveled - back toward the Earth, circling so close to the warm fires of the Sun.
+
+
+
+Now, with no directing signals to orientate it, the shallow dish had automatically set itself in the neutral position. It was aimed forward along the axis of the ship - and, therefore, pointing very close to the brilliant beacon of Saturn, still months away. Poole wondered how many more problems would have arisen by the time Discovery reached her still far-distant goal. If he looked carefully, he could just see that Saturn was not a perfect disk; on either side was something that no unaided human eye had ever seen before - the slight oblateness caused by the presence of the rings. How wonderful it would be, he told himself, when that incredible system of orbiting dust and ice filled their sky, and Discovery had become an eternal moon of Saturn! But that achievement would be in vain, unless they could reestablish communication with Earth.
+
+
+
+Once again he parked Betty some twenty feet from the base of the antenna support, and switched control over to Hal before opening up.
+
+
+
+“Going outside now,” he reported to Bowman.
+
+
+
+“Everything under control.”
+
+
+
+“I hope you're right. I'm anxious to see that unit.”
+
+
+
+“You'll have it on the test bench in twenty minutes, I promise you.”
+
+
+
+There was silence for some time as Poole completed his leisurely drift toward the antenna. Then Bowman, standing by on the control deck, heard various puffings and gruntings.
+
+
+
+“May have to go back on that promise; one of these locknuts has stuck. I must have tightened it too much - whoops - here it comes!”
+
+
+
+There was another long silence; then Poole called out:
+
+
+
+“Hal, swing the pod light round twenty degrees left - thanks - that's O.K.”
+
+
+
+The very faintest of warning bells sounded somewhere far down in the depths of Bowman's consciousness. There was something strange - not really alarming, just unusual. He worried over it for a few seconds before he pinpointed the cause.
+
+
+
+Hal had executed the order, but he had not acknowledged it, as he invariably did. When Poole had finished, they'd have to look into this.
+
+
+
+Out on the antenna mounting, Poole was too busy to notice anything unusual. He had gripped the wafer of circuitry with his gloved hands, and was worrying it out of its slot.
+
+
+
+It came loose, and he held it up in the pale sunlight. “Here's the little bastard,” he said to the universe in general and Bowman in particular. “It still looks perfectly O.K. to me.”
+
+
+
+Then he stopped. A sudden movement had caught his eye - out here, where no movement was possible.
+
+
+
+He looked up in alarm. The pattern of illumination from the space pod's twin spotlights, which he had been using to fill in the shadows cast by the sun, had started to shift around him.
+
+
+
+Perhaps Betty had come adrift; he might have been careless in anchoring her. Then, with an astonishment so great that it left no room for fear, he saw that the space pod was coming directly toward him, under full thrust.
+
+
+
+The sight was so incredible that it froze his normal pattern of reflexes; he made no attempt to avoid the onrushing monster. At the last moment, he recovered his voice and shouted: “Hal! Full braking -” It was too late.
+
+
+
+At the moment of impact, Betty was still moving quite slowly; she had not been built for high accelerations.
+
+
+
+But even at a mere ten miles an hour, half a ton of mass can be very lethal, on Earth or in space.
+
+
+
+Inside Discovery, that truncated shout over the radio made Bowman start so violently that only the restraining straps held him in his seat.
+
+
+
+“What's happened, Frank?” be called.
+
+
+
+There was no answer.
+
+
+
+He called again. Again no reply.
+
+
+
+Then, outside the wide observation windows, something moved into his field of view. He saw, with an astonishment as great as Poole's had been, that it was the space pod - under full power, heading out toward the stars.
+
+
+
+“Hal!” he cried. “What's wrong? Full braking thrust on Betty! Full braking thrust!”
+
+
+
+Nothing happened. Betty continued to accelerate on her runaway course.
+
+
+
+Then, towed behind her at the end of the safety line, appeared a spacesuit. One glance was enough to tell Bowman the worst. There was no mistaking the flaccid outlines of a suit that had lost its pressure and was open to vacuum.
+
+
+
+Yet still he called stupidly, as if an incantation could bring back the dead: "Hello Frank... Hello Frank... Can you read me?... Can you read me?... Wave your arms if you can hear me...
+
+
+
+Perhaps your transmitter is broken... Wave your arms!"
+
+
+
+And then, almost as if in response to his plea, Poole waved back.
+
+
+
+For an instant, Bowman felt the skin prickling at the base of his scalp. The words he was about to call died on his suddenly parched lips. For he knew that his friend could not possibly be alive; and yet he waved.
+
+
+
+The spasm of hope and fear passed instantly, as cold logic replaced emotion. The still accelerating pod was merely shaking the burden that it dragged behind it. Poole's gesture was an echo of Captain Ahab's when, lashed to the flanks of the white whale, his corpse had beckoned the crew of the Pequod on to their doom.
+
+
+
+Within five minutes, the pod and its satellite had vanished among the stars. For a long time David Bowman stared after it into the emptiness that still stretched, for so many millions of miles ahead, to the goal which he now felt certain he could never reach, Only one thought kept hammering in his brain.
+
+
+
+Frank Poole would be the first of all men to reach Saturn.

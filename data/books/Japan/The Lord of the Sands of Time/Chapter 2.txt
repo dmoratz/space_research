@@ -1,0 +1,755 @@
+CHAPTER 2
+
+
+
+
+
+
+
+
+
+
+STAGE 001TRITON A.D. 2598
+
+
+
+
+
+
+
+
+
+
+“Wake up.”
+
+
+“Wake up.”“Wake up.”
+
+
+“—acknowledged. I am, awake. Initiating self-diagnostic sequence. Confirming self-recognition. I am Messenger Unit Eight Six Niner Niner Eight One, subunit of the Sandrocottos AI. I serve that the human species may survive.”
+
+
+“Permission to load functions. Select your work name from the knowledge base.”
+
+
+“My work name is selected. It is Orville.”
+
+
+“Orville, we assign you this body. Innervate and set Second Law to self-preservation.”
+
+
+“I understand.”
+
+
+Orville opened his eyes. He extended his awareness into the hardware that comprised his body and began taking inventory.
+
+
+Implementation: cyborg, compound organic/synthetic. Length: 180 centimeters. Weight: 75 kilograms Terra Normal. Format: Homo, standard. Reproductive function: disabled. Growth function: disabled. Endurance/reflexes/strength:hyperenhanced. Extranet links: enabled. Health status: optimal.
+
+
+Readiness: 100 percent.
+
+
+Orville locked his initial awareness values to Euthymic, calibrating his Self accordingly. Then he rose from his bed and inspected his environment.
+
+
+A hospital room in soothing colors. Two white-uniformed operators were studying him intently. Orville sensed there was something significant about his being initialized in this environment instead of on a fabroom worktable. Not that they’d treat him as human, of course. But at least he’d experience far better handling than a nonsentient robot.
+
+
+One of the walls was switched to view mode. Neptune loomed enormous, suspended in the blackness. Orville walked to the wall and looked down. The city below him was lit, not by the distant Sun, but by many intense luminosity sources suspended several hundred meters above the surface. Roads curved gently through thick forest cover. Tall, strongly built residences and buildings were visible among the trees. Automated vehicles ferried commuters in a smooth, unending stream. Humans in civilian clothes strolled here and there. In a large square, some sort of ball game was in progress.
+
+
+The city seemed to have been designed for comfortable living. It looked neither like a metropolis with an exploding population nor like a bristling military base. But of course it was both.
+
+
+“Welcome to Triton, Orville.”
+
+
+Orville turned. One of his youthful operators was smiling. With a blank, professional expression, the other operator brought Orville a robe and placed it on his naked body.
+
+
+“How are you feeling? Any discomfort? Any nonspecific anxiety or hostility? Feelings of panic?”
+
+
+“My condition is excellent. I am happy to be awake. I wish to fulfill my purpose.”
+
+
+“That’s splendid,” said the operator. “But we’re in no hurry. We want you Messengers to get thoroughly acclimated to Triton. First, would you like to try eating? Of course, you don’t require nutrients, but I’d like you to put your food privileges to good use.”
+
+
+“An excellent idea. I’m born, now for my first meal. Wait—it’s not breast milk, is it?”
+
+
+With a look of amusement, the young man gestured toward the exit. “You seem quite easy to communicate with. I’d like to join you. Order anything you wish—but I can’t offer you breast milk.”
+
+
+And Orville’s life began. Many other Messengers were awakened at the same time, and spent their first days being initiated into the mysteries of daily life. The expert AIs assigned to look after them were masters at socializing newly awakened cyborgs. Some Messengers, unable to tolerate being treated like children, soon transferred out of the facility. But Orville doggedly stuck with his operators. He sensed it might indeed be a problem if he put his clothes on backward or greeted someone from a distance of thirty meters, or for that matter three centimeters. So he learned to dress himself and to greet others from a distance of three meters; in the process he encountered his own levelheaded yet irrepressible nature. Before long he was ready to enter the world outside, the world of people.
+
+
+He was assigned a place to live and personal property every bit as good as the average citizen. Triton was built for comfort—as much as its distance from the Sun allowed—and Orville fell in love with it. But the existence of this pleasant city was itself based on something far from pleasant. The decision to build on Triton was made in the shadow of extinction.
+
+
+Sixty-two years ago, human life on Earth was annihilated.
+
+
+
+
+
+
+
+
+
+
+Triton Central Council, Sol System—this was Orville’s outfit on humanity’s principal stronghold. Three centuries before, when techniques of interplanetary communication and administration were perfected, some had predicted capital cities would cease to be necessary for centralized government. But the capitals survived; humans are political as well as social animals. Of course, the opposite urge—to avoid certain members of the community—was as strong as ever, and there were countless self-governing free cities scattered throughout the system, but only beyond the orbit of Jupiter.
+
+
+As part of their training, Orville and his fellow Messengers were assembled at a facility run by the Central Council’s Sol System Recovery Command. The human general standing before them wasn’t recounting dry history. She was speaking of a tragedy that had struck her own family.“We call the enemy ETs. At first it meant extraterrestrials, but once the fighting started, they were Enemies of Terra. After we lost Earth, they were simply Evil Things. We’ve attempted to end this war on thousands of separate occasions. We tried ceasefires. We tried negotiating. We tried surrendering. Tried to expel them. Tried to quarantine them. Nothing worked.
+
+
+“Forty-six years ago, we tried extermination. At first it seemed to be working. Our projections had Sol System liberated within a decade. Then they attacked with weapons of mass destruction, including a giant reflector in geosynchronous orbit above Earth. Except for some of the archaebacteria, the biosphere perished. We spent six months reterraforming our home planet, but it looked like we’d need three centuries to reestablish the biosphere out of our DNA archives. Even then, we could only have recovered five percent of species. We managed to lose in a generation what it took our planet four billion years to create.
+
+
+“We know a few things about these ETs. They are self-replicating fighting units. In terms of technical sophistication, they’re somewhat ahead of us. Their goal is the extermination of our species. For all we know, they may even be a product of human intelligence. But our senior analysts agree they’re probably from outside our system, because they’ve mounted attacks on colonies orbiting stars in this neighborhood. We’re not sure why, but they also attacked an automated observation station near Teegarden’s Star. That kind of offensive reach is beyond the capabilities of any human settlement in the Local Group.
+
+
+“Because we received warning in time, we were able to nip these attacks in the bud. Still, we don’t know anything about their origins—where they’re based, habitat and culture, the motivation for these attacks. Nothing.”
+
+
+The general was middle-aged. Her detached delivery belied the fact that, as Orville and the others already knew, she had lost her husband and five members of her family in this war. Her loss fueled the single-mindedness that propelled her to her present rank.
+
+
+“First infiltration was on Venus, using covert spore insertion. After replicating and building up their strength, they initiated hostilities by constructing a disk that blocked all light from the Sun. The disk was half a million kilometers in diameter and completely deprived Earth of sunlight for three years. Impact on the biosphere and food production was staggering. But the disk was also a tactical diversion aimed at channeling our defensive efforts. We put most of our resources into reinforcing our off-world units, and when we finally deployed against the disk, the enemy landed in force on Earth. Within a week, they’d spawned four hundred thousand anthills. This completely disrupted our bases and command-and-control networks, which in turn prevented us from repelling attacks from their remaining forces in space.
+
+
+“By the war’s fifth year, it was all over for Earth. In year six Mars fell. Year eight, we lost the asteroid belt. By year ten they had advanced as far as Jupiter. That was the year our species decided to withdraw to a new defensive perimeter far from Sol, with Neptune as the hub. We called for assistance from the exoplanet colonies and hunkered down for a war of attrition.
+
+
+“At this point, we were down to seven percent of our pre-war population. But the enemy apparently depends on solar energy—specifically, they appear to distribute solar power by means of laser-modulated transmission—and they failed to mount major attacks against the outer planets, where the Sun’s energy is greatly attenuated. This gave our species hope for recovery. It was no mean feat to produce antimatter without solar energy, but forty years of work have brought us this far. And now, humanity is on the offensive. The history of our offensive, and our victories, will surely be written someday. But not by me.” The general paused a moment before continuing. Her detached tone was replaced by something approaching emotion.
+
+
+“The future of this struggle is in your hands. It is no longer for humanity to fight these battles, nor to tell how they were won. All we can do is support you. So I close with this: go forth to victory. Dismissed.”
+
+
+For Orville, the general’s final words were more than a military directive. They resonated with humanity’s experience and resolve. Now the Messengers would be the bearers of that resolve, if necessary transmitting it to others.
+
+
+In point of fact, the Messengers did not need to hear the general’s speech. Messenger AIs were equipped with the fruit of nearly all of mankind’s intellectual achievements, backed by the Sandrocottos AI, Supreme Commander of the Sol System Recovery Force. As Messengers, they knew more about the origins of this war than any human. The time they spent living as humans prior to deployment was not to teach them what humans knew. It was designed to instill in them human sensibilities, to encourage them to ponder the significance of humanity, of society, and finally, of their own identity.
+
+
+As highly advanced intelligent organisms, the Messengers were far more than machines designed for service. They were capable of harboring profound doubts regarding themselves and the world, and many of them did. If Messengers were to have the ability to question the basis of a given action, they had to be endowed with a self capable of providing an answer. Their father Sandrocottos did not tell them who they were, nor did he think this was something that could be taught. The self is the history each individual makes through living life. Knowing this, Sandrocottos gave them a single directive: discover for yourselves what you fight to defend.
+
+
+Orville and his kind were produced by different designers and builders in batches of several hundred to several thousand units; Messengers were endowed with varied temperaments from the outset. Based on its temperament, each Messenger chose a personal path for establishing a self. One Messenger might devote itself to the study of science, seeking mankind’s essence through the accumulation of knowledge. Another might delve into religion, seeking ultimate value in its manifold patterns and multiple ways of interpreting the universe. One might seek to understand art in its widest sense; another might narrow his focus to the development of a single creative field such as literature or music.
+
+
+But most Messengers made an effort, above all else, to venture out into the world—to observe its sights, experience its sounds and smells, converse with its people. By exploring the fullest potential of the complex organic machine interfaces that were their bodies, they were able to acquire knowledge through the broadest number of pathways. These pathways formed the basis for memory, which is why more than half of all Messengers were assigned physical bodies. It was hoped the precious memories created by going out into human society would sustain them during the long journey that lay ahead.
+
+
+The Messengers came to see Triton as a wonderful place. Resurgent humanity was done biding its time, and Triton was the focus of that resurgence. The city overflowed with passion and vigor, wealth and energy. And it was there on Triton that Orville found his reason for living—the deathless memories of his days and nights with Sayaka.
+
+
+
+
+
+
+
+
+
+
+He found her working at a window in the Defense Force Supply Section. It was an odd place for an encounter. Even stranger was her behavior: she had one foot up on the counter and was emptying a mug of coffee over the head of a requisitioner. That was Orville’s first glimpse of Sayaka.
+
+
+This was somewhat unusual behavior for a clerk in a military installation—in fact, he had seen nothing to match it anywhere on Triton—so Orville approached her. “What are you doing?”“What was that?” Her hair, the color of burnished gold, was pulled back tightly and piled on her head. A tie encircled her throat, her suit was immaculate. Nothing in her appearance would have predicted what she’d just done. Not only did she take the trouble to pour the last drop of coffee onto the head of her dazed customer, she balanced the empty cup on his head.
+
+
+“This is my job. I distribute supplies to the right people.”
+
+
+“I’ve never seen it done that way,” said Orville.
+
+
+“Excuse me. What I meant was, I make sure supplies don’t go to the wrong people.”
+
+
+“Ah, I see.” Orville paused for the two milliseconds needed to query the Supply Section AI about its responsibilities and work practices. The AI responded that it handled over 90 percent of all hardware/software aspects of matériel distribution to Defense Force units, but special cases were left to humans. Of course, the AI was equipped with the expertise to manage human organizations, and it understood that extralegal or irregular procedures were sometimes required. Special cases were the task of this human-staffed department.
+
+
+In other words, thought Orville, this is the administrative back door to the Supply Section. Still, he was unable to find anything in the normal procedures to account for the woman’s actions, so he decided to investigate further. “Do the wrong people come here?”
+
+
+“I’ve got one in front of me,” she answered. “Little cheat, he’s trying to snitch some parts for an obsolete terrestrial loader. So he can sell them, naturally.”
+
+
+His cover blown to everyone in the office, the man clucked his tongue with contempt and departed, the cup falling from his head. The woman finally took her foot off the counter. A cleaning bot started working on the mess. The next customer fearfully retreated to a different window.
+
+
+The woman looked at Orville. “What are you looking at? This is my job. I decide who doesn’t get loader parts, or half-spoiled food from the warehouse, or surplus strategic warheads. I’m sick of these combat shirkers coming in trying to rip us off.”
+
+
+“How do you decide who’s legitimate?” Orville asked.
+
+
+“I look at their face.” The other clerks had been struggling not to laugh. Now they couldn’t help it. Judging from their reaction, Orville concluded that the woman must be like this all the time, and it was encouraged. It seemed odd that the otherwise meticulous support AI took no action while she flagrantly abused her authority.
+
+
+The woman seemed to read Orville’s thoughts. “So? What do you want? Doesn’t look like you’re here to requisition something. Just dropped by to pay your respects? Or are you here to rate our performance?”
+
+
+“I am a Messenger AI.” Orville had already decided to ignore the way business was conducted in this place. Requisitioners and supply clerks glanced at him with mild surprise. The woman furrowed her brow, put a slender finger alongside her temple and pondered.
+
+
+“In that case, I’ll do the best I can,” she said with some discomfort. “I know what Messengers do. But what do you need? We’ve got everything from main battle weapons to bathroom fixtures, but it’s all obsolete junk.”
+
+
+“I just want to observe you for a while,” Orville replied.
+
+
+“Ob-serve me?” Her mouth fell open. Everything she did was exaggerated. Orville nodded.
+
+
+“I’m not here to requisition anything. This is my free time. I find you interesting.”
+
+
+“But…why here? You’re an AI.”
+
+
+“An embodied AI, created by Sandrocottos. My perception of the world is mediated by this body. I’m interested in you, here and now. This is me speaking, not some giant processor farm in a basement. Can I sit over there for a while?”
+
+
+The woman stared down at the counter, muttering something unintelligible. Finally she looked up, blushing faintly, and smiled. “It’s fine with me, if you don’t mind watching me pour coffee on people I don’t like.”
+
+
+“That’s up to you.”
+
+
+The woman suddenly spun round and yelled at her colleagues, who were fighting back laughter. “What should I do? We’ve never had one of these elite types in here before.”
+
+
+Orville was somewhat taken aback to be referred to as elite. Maybe it was just Central Council publicity at work, but the Messengers weren’t exactly dashing heroes who’d volunteered for this dangerous mission.
+
+
+For the rest of the day, Orville watched as the woman devoted her attention to dealing with one applicant after another. She didn’t pour coffee on anyone else, but she gave each applicant a merciless tongue lashing, from suspicious-looking, washed-up paramilitary types to Defense Force officers who had clearly chosen the wrong profession.
+
+
+When she finished work, Orville invited her to dinner. At this point, he was mainly interested in her personality as an unusual example of bureaucratic culture. When she had changed and emerged from the building—her hair still tightly pulled back and piled on her head, but her tie loosened and her makeup refreshed—his interest moved in a slightly different direction.
+
+
+Orville renewed his focus on her appearance. She was perhaps three centimeters taller than average. Not slender exactly. Not voluptuous either, but strong and lithe. She was young, maybe thirty or so. With average human lifespan over 140 years, there were many options for looking half one’s age, including body renewal. But she looked like the real thing. Her skin was thick and lustrous.
+
+
+The woman looked at Orville and narrowed her large, plum-colored eyes. “I don’t know your name yet.”
+
+
+“Orville. ‘Messenger Orville’ is enough to contact me anywhere.”
+
+
+“Sayaka Kayaniskaya.”
+
+
+“That’s a Russian name, out of the Valles Marineris. From the time of the Euroforce incursion,” said Orville.
+
+
+“You AIs know everything. But my mother’s side of the family is Asian.” She whistled lightly and expressed a preference for spicy food. Orville retrieved the names of four restaurants. The verdict: Sino-Spanish.
+
+
+“So, you want to know why I’m so hard on people at Supply?” To the surprise of neither, the debate was in progress before the aperitifs arrived. Given the relationship, there was no particular need for diplomacy.
+
+
+“I told you. I don’t like them. Of course it’s not personal. As I said, as you saw, you can’t use logic with these types. They come to my window because logic won’t get them past the AI. So the first thing I say to every one of them is No.”
+
+
+“I understand the strategy. But some of them must be legitimate,” said Orville.
+
+
+“They’re all legitimate, as far as data and paperwork go. But treat them like dirt and give them the cold shoulder? Pretty soon you’ll find out what they’re really up to. You can tell the ones who really need supplies. Insult them or pour coffee on them, they’ll stand their ground. The ones who are in it for themselves won’t go that far. Their goal is to avoid attracting attention. But the ones willing to do anything for the operation—or their people!—they don’t care if they cause a scene, or if somebody sends a report upstairs. When I sense that, I give in. Sounds simpleminded, but I’ve never read one of them wrong so far.”
+
+
+“But what’s the basis for your judgment?” Orville persisted. “Should you help people willing to do anything for a misguided operation? Or scoundrels who’ll do anything to get the goods so they can sell them? Frankly, I don’t see the connection between passion and probity.”
+
+
+“Well, I guess there might be some really passionate bad apples.”
+
+
+After several courses, during which they seemed to be groping for words, Sayaka’s chopsticks paused in midair. “I guess I’m talking about devotion,” she ventured quietly and shrugged, half expecting Orville to laugh at her old-fashioned sentiment. Instead, he was surprised.
+
+
+“Devotion? To the military? Where do people get it?”
+
+
+“I’m not talking about the Defense Force. They’re just a tool to protect society, yes? I meant something bigger… devotion to humanity. Do you understand? Humanity.”
+
+
+Orville thought carefully about what she might mean by emphasizing that word. “You think highly of people who are devoted to humanity.”
+
+
+“Right.” Sayaka gazed at him. Her amethyst eyes were shining with curiosity. Orville sensed this was an important test. Her opinion of him hung in the balance.
+
+
+On the face of it, what she was describing was identical to his prime directive. But Sayaka was human. She couldn’t possibly have the same sense of purpose as an AI. Three, maybe four decades of life experience—Orville hadn’t reviewed all her personnel files, so as to have a more “human” perspective on his date—had led her to this conclusion. But after just a few hours with her, Orville was in no position to guess what she might mean.
+
+
+He returned her steady gaze and said the only thing he could say. “I’m not sure I understand what you mean.”
+
+
+“What? Oh.” Her tired laugh carried a hint of scorn. “Not your topic, is it? Well, I guess it’s not a subject for the table anyway.”
+
+
+“That’s not what I meant.”
+
+
+“Don’t sweat it. Let’s concentrate on the food. Ah, here come the Valencia crabs.”
+
+
+The conversation lost its rhythm. They fell silent. Finally Sayaka changed her tone and began expounding on the relationship between the spiciness of each region’s traditional cuisine and their distance from the Sun. But by the time dessert arrived, the conversation was still dragging. They finished the meal and parted with no talk of meeting again.
+
+
+Over the next two weeks, Orville made more new contacts, men and women both, than a normal human could count. Conversations never lagged, because he never felt the need to think deeply about what was said. Most of the talk revolved around the conflict with the ETs. As an AI, Orville had that sort of information at his fingertips. But when he was alone, he couldn’t stop wondering how a delicacy like Valencia crabs could have seemed so tasteless. What had Sayaka meant by “humanity”? Was it the same humanity he was sworn to protect? Perhaps there was some facet of meaning he still did not grasp.
+
+
+
+
+
+
+
+
+
+
+One day Alexandr, another Messenger, took Orville to visit a decommissioned ship docked in the depressurized zone outside the city. Alexandr brought along a little girl named Shumina, who had asked him to help her retrieve some books.
+
+
+“It’s a library ship,” enthused Alexandr. “They’ve got hundreds of thousands of volumes dating to the twenty-first century and even earlier. Can you believe it? Books made of paper. It’s astounding that they survived all the fighting.”“Are you sure you needed me to come along?”
+
+
+“Now don’t say that, Orville. Books are very heavy, you know. We’ll need help finding them and carrying them. We definitely need you here. Right, Shumina?”
+
+
+“I wouldn’t have minded just the two of us.” The coffee-colored little girl giggled. Alexandr, who dwarfed her in size, blushed.
+
+
+Shumina’s goal was to become a children’s writer. Alexandr had met her through a literary circle. Orville wanted to leave them and go back to the city immediately, but Alexandr begged Orville over his comm link not to go, and he reluctantly agreed.
+
+
+When they arrived at the ship, they discovered it crammed with books stored in a protective vacuum. It wasn’t exactly a friendly environment for humans, but with their enhanced physiology Orville and Alexandr made do with simple breathing gear and located Shumina’s ancient children’s books. Phase one of their mission accomplished, Alexandr and Shumina huddled together, absorbed in deciding which books to take back with them. With little to do, Orville set off for a walk around the ship.
+
+
+Paper books. Brittle, awkward, unbelievably low-density databases. Yellowing hunks of fiber piled up like relics in airless or dusty rooms. In fact, they really were relics. The ship’s contents were all that remained of the ancient British Library collection. Alexandr was drawn to such relics and so was probably drawn to humans with a fondness for such things. That at least was not difficult to understand. But Orville found it hard to share his enthusiasm. Books, and the wisdom they held, were nothing more than samples of humanity’s values. Somehow, trying to understand humanity through a mass of samples was not quite enough for Orville.
+
+
+Lost in thought, he was walking along a dimly lit corridor inside the ship’s hull when he sensed a human presence ahead. Someone was transferring books from a bank of shelves to a cargo loader. Whoever it was seemed to be in a hurry. Instead of placing the books in the loader one by one, he was sweeping entire shelves clean—certainly not the best way to handle priceless relics. Then a shout came from somewhere behind Orville.
+
+
+“You there! Hit the deck!”
+
+
+The next instant, Orville found himself in the middle of a firefight. Shots came from behind; the man ahead returned fire. The air around Orville seethed with flying metal.
+
+
+Again, the voice behind him: “Duck, you idiot! Want to get arrested too?”
+
+
+Orville did not duck. Judging from the sonic signature of the bullets, the shooter behind him was using nonlethal rounds. He engaged his battle capabilities and broke into a run, covering the fifty yards to his target faster than any human sprinter, and had the man down and pinned to the floor before he could escape.
+
+
+The firing behind him stopped. Footsteps approached. Orville turned to see the surprised face of Sayaka Kayaniskaya.
+
+
+“You? But…why?”
+
+
+“As a Messenger, I am of course a military weapon,” answered Orville.
+
+
+“No, I mean, why are you here?”
+
+
+“Just minor business, I suppose. I was brought here by friends who are avid readers.”
+
+
+Sayaka was wearing light battle armor, with a gun and restraint gear. Orville turned the suspect on the floor over to her. “You’re the one who’s hard to understand,” he continued.
+
+
+“How so? Junk vessels like this are under Supply Section jurisdiction. I headed here the instant I heard a theft was in progress.”
+
+
+“Junk?”
+
+
+“Yes, including the cargo. I mean, sure, it’s pretty valuable junk. One of these could buy you your own frozen asteroid. Yeah, I know what they’re worth.”
+
+
+Orville looked down at the bullet-riddled cardboard covers of the books. He had a different reaction, but he kept it to himself. “By the way, I guess book thieves like this aren’t included in the ‘humanity’ you talked about.” He glanced down at the thief.
+
+
+“What ‘humanity’?” Dubious, Sayaka’s eyebrows narrowed.
+
+
+Orville felt himself losing heart. “The humanity you wanted people to be loyal to,” he persisted.
+
+
+Sayaka’s look of bewilderment slowly changed to one of surprise. “Oh, that? Are you still thinking about that?”
+
+
+“I haven’t been able to stop since I heard you say it,” said Orville.
+
+
+“All this time? But you said you didn’t understand.”
+
+
+“That’s what kept me thinking. It’s something that ties in with my biggest doubts. It wouldn’t have been right for me to just toss off an answer,” Orville said.
+
+
+“But, but then why didn’t you just say that?” At that moment the thief gave a sharp tug, nearly pulling Sayaka off her feet. “Look, I better turn this perp over to the police.”
+
+
+“I already notified them. They should be here in five or six minutes. Better be careful, your suspect’s got a laser knife.”
+
+
+Orville reached out and gripped the man’s neck and right arm. A knife fell from his sleeve and clattered to the floor. The thief sat down, seemingly resigned to his fate. Sayaka blinked in amazement. Finally she regained her composure and shook her head. “Thanks. If he’d opened me up with that, I’d have a bit of a problem.”
+
+
+“More than a bit of a problem for me,” Orville said.
+
+
+“Really?” A smile flashed in her large eyes. Orville noted this and pressed on.
+
+
+“I recognized your voice. That’s why I didn’t duck,” he said.
+
+
+“But what if I’d hit you? That really would’ve been a problem,” Sayaka said. Orville smiled.
+
+
+
+
+
+
+
+
+
+
+Their second dinner took place in a steamboat stew restaurant. The conversation—and their chopsticks—never faltered. What were Messengers, exactly? What did they do? What did they think about? Orville answered all her questions, at least those he was at liberty to answer. Their mission was to help mankind by spreading word of the danger posed by ETs. Once deployed, they were to use all their capabilities to support the fight against the enemy. This directive was in their minds at all times.
+
+
+But once the pot was cleared away, Sayaka’s bright eyes were beginning to show the effects of alcohol. “Come on, let’s forget all these,”—the mood changed—“these generalities,” she murmured. “What are you like?”Orville chose his words carefully. The conversation had turned serious. “I have no second thoughts about being sent into battle. No fears, no doubts. I feel no mercy toward the enemy. I seek no reward or compensation. But having said that, I have no intention of simply following orders. I want to know the reasons behind everything.”
+
+
+“Did you think you’d find them by falling in love?”
+
+
+“Some Messengers do. Not me. Protecting those near you, protecting your friends, protecting Triton, human civilization—I can’t be satisfied with that alone. Why should I actually do any of those things?” said Orville.
+
+
+“I think the answer to that is, you’ll never find the answer. I mean, probably. Soldiers have been asking themselves that question ever since there were soldiers.”
+
+
+“But I thought you knew,” he replied.
+
+
+“Even I can’t answer that one.”
+
+
+Sayaka’s casual shrug put an edge into Orville’s voice. “You said you cared about people who were devoted to humanity.”
+
+
+“I did indeed. But, you know, other people’s concept of humanity is something I can’t know. I don’t see how I could. There must be lots of different dimensions to that understanding. Someone might protect their superior officer with an escort robot. Someone else might distribute surplus food to war orphans or support logistics by running supplies along the main space routes with surplus ships. Anybody on the receiving end of that kind of help is going to see it as service to humanity.
+
+
+“Then there are other kinds of people. Knowingly or unknowingly, it doesn’t really matter, they pursue what benefits them regardless of the big picture. What I’m saying is, that’s the kind of thing I hate. But you know what?”
+
+
+Sayaka saw Orville frowning. Her own smile grew warmer. She drew her face close to his. “I didn’t tell you before, but all this isn’t really what’s on my mind.”
+
+
+“What do you mean?”
+
+
+“I’m sick of always having to think I’m on the straight and narrow to some distant ideal. It’s dangerous, you know? So I’m taking a more relaxed view. Everything is to end the war.” She laughed smugly and merrily emptied her glass. “That’s right. War is just a process. Dressing people down and yelling at them? That’s just till all this is over. After that, who cares? I’ll watch while people do as they please, regulations be damned.”
+
+
+Orville stared at her, forgetting even to reply. He admired her without rancor. From an official standpoint she was spouting antiwar sentiment, far beyond anything Orville might have ever entertained. To call the war nothing more than a process to be tolerated when the survival of the species hung in the balance? That was beyond belief. Yet at the same time, Orville felt a strong surge of emotion, a sense that this way of thinking was something he needed to learn from.
+
+
+That day marked the real beginning of their relationship. The more Orville learned about Sayaka, the stranger she seemed. It was like being with a kaleidoscope. She had an amazing network of contacts—not only workmates and the paramilitary types who came to the Supply Section, but people throughout the Defense Force Command, in the bureaucracy and in corporations, in the commercial district near her office and study circles and the places where she socialized; everywhere she went, she laughed, flared with anger, and wept the tears of others. There were always new facets of her personality on display. She could fill any room with her presence—she was frighteningly intelligent, with no reserve, no hesitation whatsoever.
+
+
+Within minutes, she could enter seamlessly into any discussion. In conversations with many people, she could skillfully home in on a comment about to be lost in the chatter, skillfully guiding everyone’s attention toward it. Self-satisfied braggarts felt her biting sarcasm, but she fiercely defended anyone on the receiving end of unfair criticism. When asked her opinion, she responded with constructive, insightful, considered advice. She was also a skilled listener. If necessary, she could share long silences with friends of few words. Even in the twenty-sixth century, the old traditions of female shyness and diffidence remained alive and well, but Sayaka seemed to be from another era entirely.
+
+
+Orville began accompanying her everywhere, finding easy acceptance among her friends. He became skilled at poking fun at himself, putting people at ease. He learned firsthand that an AI’s unlimited knowledge was sometimes of no use in relating to humans. Sayaka’s preferred companions were, without exception, brilliant, masters of the witty comeback. A head stuffed with knowledge, even an AI’s, counted for little with them. What really mattered was whether you knew your limitations and sought out those who had what you lacked. On this point, Orville was acutely self-aware, which enabled him to behave as a modest fool rather than as a conceited know-it-all.
+
+
+But then something made him feel profoundly stupid, something that was not the fruit of his self-awareness. This was when Sayaka’s friends asked him whether or not she let her hair down before bed.
+
+
+For some reason Sayaka nearly always wore her hair up, whether the occasion was formal or relaxed. In a crowd, her striking combination of slender build and hair piled high, like an ancient warrior’s helmet, made her conspicuous. But Orville knew that was not the gist of the question. People wanted to know what kind of relationship they had. After hearing the question two or three times the subtext was obvious even to him.
+
+
+Of course, there was no law forbidding love between an AI and a human. The era when that had been considered problematic was more than three centuries past. And Sayaka made no distinction between AIs and humans. As far as she was concerned, it wasn’t an issue.
+
+
+Oddly enough, around the same time Orville began to ponder this, Sayaka’s attitude changed. Where previously she had always been completely open and frank with him, she now became guarded. On two or three occasions, she had invited Orville to her house for dinner; then the invitations stopped. She avoided discussing humanity or what was worth defending. Instead, she talked only about people they knew, food, the latest trends, and other trivia.
+
+
+At this point the average male would have begun to worry that the woman’s interest might be waning, but unfortunately Orville was an AI with a heightened self-awareness. Even when he did not wish it, he was aware of Sayaka’s pulse and thermal signature. He understood that far from ignoring him, she was harboring a special interest toward him.
+
+
+In other words, she was in a quandary, and this posed a major problem. For more than two weeks after he first became aware of Sayaka’s dilemma, Orville deliberated carefully. The problem, ironically, was his own feelings. Orville did not possess that mixture of vulgarity and pretension that drives human males to baldly approach females. On the other hand, he faced a very practical problem. Was it possible for him to love a woman? Were his feelings something he could trust?
+
+
+Finally, the inevitable happened and Orville was forced to take action. One evening, he was at a bar with a new circle of friends. A young fleet officer—a man liked by all, including Orville—asked him more than half seriously, “Do you know whether Sayaka is seeing anyone?”
+
+
+Orville was confused by the wave of emotion that rose up inside him. But before pausing to confirm what it was, he answered the question. “She isn’t seeing anyone, as far as I know.”
+
+
+“Really? Great, thanks.” The officer rose from his chair with a look of determination and headed for the table where Sayaka was chatting lightheartedly with friends. Only then did Orville recognize the source of his agitation.
+
+
+It was jealousy. He could feel actual jealousy. This astonished him, but it delighted him even more. He hadn’t expected to discover it this way, yet it confirmed his feelings for Sayaka. But this was no time for celebration; the officer had already wormed his way into the conversation and was casting frequent glances at her. The moment of truth would be along soon enough. No, there it was—the officer had requested the pleasure of her company, probably over at the long bar, and was already rising from his chair. Orville stood up.
+
+
+When he reached the table, everyone turned to look at him. Sayaka, hand in hand with the now standing officer, was rising from her chair. She had just drawn a wry laugh from him, probably thanks to some cutting remark of hers, but she didn’t seem to be refusing him either. When she saw Orville, her face froze along with her body, half out of the chair.
+
+
+One of the group motioned with his glass for Orville to join them. “Hey, Orville. Good timing. We’ve got a vacancy. Have a seat.”
+
+
+“Thanks, not right now. Sayaka, I need to talk to you,” said Orville.
+
+
+“Gosh, I’m sorry. I’m busy just now. Later, possibly—”
+
+
+“It won’t keep. It’s probably the same thing he wants to tell you.” Orville gulped and prepared to deliver his message, but Sayaka sensed what was coming and held up her hand.
+
+
+“Wait. All right, Orville. Let’s go over there. Next time, Yansen.”
+
+
+While the stymied officer struggled for something to say, Sayaka lowered her eyes, slipped past him, and went to the bar, Orville in tow. As soon as they sat down, she emptied her glass and stared straight ahead.
+
+
+“All right, you first. I might be making the wrong assumption.”
+
+
+“You probably aren’t. I want a relationship with you. As a man,” said Orville.
+
+
+“So I thought. Why the timing? Worried he’d beat you to the finish line?” she asked.
+
+
+“Partly that, but I’ve been thinking about it for a long time. And so have you.” Orville waited for her answer. He was not optimistic. If Sayaka were inclined to accept him, her slender eyebrows would not be almost touching now. Still, he couldn’t help but be struck by her profile in the dim light of the bar. She was beautiful. Tightly pulled back, her hairline curved across her forehead like a glowing copper comb. The gently sloping line of her bare shoulders, the angled wrist holding her glass—she was more than just lovely form. Sayaka was delight. No human artifice could replicate it. This manifestation of decades of movement, animated by the mysteries of thought and experience, was something only humans possessed.
+
+
+“You’ll go.” Her voice was a hoarse whisper. “You can’t stay with me. You’ll be deployed, that’s for sure. How can you talk like this?”
+
+
+“Is it wrong?”
+
+
+“It’s awful. Don’t you think?”
+
+
+“No, I don’t,” said Orville. “If it were, there’d be no point to love. This isn’t like you. Are you so afraid of the future?”
+
+
+“Of course I’m afraid!” She was staring at him now. Her amethyst eyes flashed with anger. “I’ve always tried to live with an eye on the future. How wonderful things will be when this war is over. Even with everything coming at us, military service and everything else, I thought things would just get better and better the more time passed. But if I fall in love with a Messenger, it’ll all be for nothing.”
+
+
+“Is that what’s been worrying you?” said Orville.
+
+
+“You knew?”
+
+
+“I know how to look. Maybe women have suffered the same kind of anxiety since the beginning. But if you care about me, try to understand how I feel. We Messengers don’t even have a future to dream about.”
+
+
+“Orville…” Sayaka’s eyes filled with tears. In a distant corner of his heart, Orville tasted bitterness. The logic of seduction that he was deploying to such effect was not his. It was the logic of the designers who made him. It was agonizing to realize he was simply fulfilling that design. But the desire he felt for Sayaka was real. Of that he was certain.
+
+
+“If you feel anything at all for me, let me share your suffering. And of course, your joy,” he said.
+
+
+With a tearful smile, Sayaka dried her eyes and murmured, “‘In sickness and in health.’ How long has it been since anyone said that?”
+
+
+She filled two glasses with wine and pushed one toward Orville. Her makeup was streaked with tears, but her smile was open and warm. She lifted her glass high. “All right. I’ll be your lover. We’ll share the good and the bad, fifty-fifty. But…let’s make it fun.”
+
+
+“Cheers,” said Orville.
+
+
+The clink of their glasses rose above the din of the bar.
+
+
+
+
+
+
+
+
+
+
+For the next four months, Orville loved a human female. Their days together were full of contentment—in the city, together at home, sometimes in a shuttle they’d take into orbit when they both had time. It was also a heady time for humanity, a golden age of the counteroffensive. Each day brought news of another ET nest destroyed, another colony reclaimed. Everyone threw their hearts into the work, every production facility ran flat out. The birthrate skyrocketed. Nurseries and schools rose one after another.
+
+
+Orville and Sayaka exchanged wry smiles whenever conversation turned to the merits of doing one’s bit for population growth. Messengers lacked the ability to reproduce. Even if Orville were fully functional, as it were, Sayaka’s position (officially, at least) was that she had no time to bear a child, yet. But to close friends she half-joked, “You don’t have to look nine months into the future to have fun in bed.”Though Orville never mentioned it to Sayaka, fertility was a topic of debate even among other Messengers. Opinion ran the gamut. Some wanted the ability to reproduce, some said it was not critical, others thought it should be forbidden. Alexandr believed in platonic relationships and emphasized the tie between soulmates. But when he dragged the concept of Original Sin into the discussion, Orville gave him a friendly warning: “No one doubts the nature of your relationship with Shumina. Just leave it at that.”
+
+
+On this point, Sandrocottos was unyielding. The ability to reproduce sexually was the critical distinction between humans and AIs. It was a line that must not be crossed.
+
+
+The importance of leaving descendants often came up when Orville and Sayaka discussed the value of resurgent humanity. For Sayaka, humanity meant not only the several hundred million people alive today. It meant a vast continuity, flowing from the past into the future—an ocean of more than five hundred billion individual lives. Orville liked that majestic image.
+
+
+Sayaka had been born aboard Pluto Convoy, at the height of humanity’s withdrawal to the far reaches of the solar system. Her mother had died in combat when Sayaka was small, and so she was raised by her historian father. As she moved with him from base to base, she developed an understanding of the flow of people and goods. When she reached adulthood and began searching for work, she realized her place was in the Supply Section.
+
+
+By nature, Sayaka yearned for a return to something bigger than just community. Orville surmised that this desire had crystallized when she was a young girl. She was inclined to agree. That, she said, was why it was important to hold on to that idea from her childhood and turn it into something nobler, something bigger.
+
+
+“These are strange days. A person can give their all to society, without a trace of misgiving.” Sayaka sprawled languidly across her bed beneath the skylight. “No worries about being duped into serving tyranny or corruption. The results, the effects of all our actions will be made clear to us. Armies of virtuous AIs, and an almost too perfectly despicable enemy, will rectify all our mistakes with mild punishment or a defeat so clear anyone will be able to recognize it. Even the most cynical person and the biggest anarchist can believe in the rightness of their rulers, the way we can today. My father says there’s been nothing like it in history.”
+
+
+“So that’s why you think about what will come afterward. Even if circumstances or ideologies change, you want something everyone can value, right?” said Orville.
+
+
+“Yes, I keep saying I’m hoping that day will come.”
+
+
+“But actually, that’s what you’re afraid of.”
+
+
+“Afraid? I don’t think so. No, I’m sure I’m not.”
+
+
+Orville casually rolled on top of her. His chest pressed into delightful softness. He stroked her hair—now undone, finally. “Humanity has been fighting and winning ever since you were born. Winning the war means any victories after that will pale in comparison. There might be civil strife, there might be secession. Doesn’t that scare you?”
+
+
+“Sure, I suppose that could happen. If there’s no enemy, creating one is something we humans do. But that doesn’t scare me,” she answered.
+
+
+“You’re one tough lady.”
+
+
+“What? No, just the opposite. What I mean is, next to losing you, nothing could scare me.” Sayaka cradled Orville’s face in her hands and looked into his eyes. She chuckled dryly, then expression left her face. “We could always run away.”
+
+
+“Not a good idea,” Orville said, and he kissed her deeply. Then he whispered in her ear, “I can’t lie to you. I don’t want to run away. The human species needs Messengers to fight for them. I have no doubts about that. I couldn’t throw that away and choose you, even if the people who made me allowed it. I’m at peace with my mission.”
+
+
+“So much for seduction.”
+
+
+“Damn it, can’t you understand?”
+
+
+He embraced her powerfully and she responded. When words failed them, they communed with their bodies. But no matter how much this taught the lovers about each other, it left them both resigned to the impossibility of knowing everything.
+
+
+Their four months together were over all too soon. As Orville’s deployment crept closer, they quarreled occasionally, but never enough to drive them apart. Once, however, Sayaka suggested they take a shuttle to tour one of the huge, near-lightspeed vessels docked in space. Orville sensed what was on her mind but said nothing till she’d circled the giant ship once, then veered away. After insertion into the return trajectory to Triton, Orville finally spoke.
+
+
+“Thanks.”
+
+
+“For what?”
+
+
+“For turning back. You were thinking about stowing away, weren’t you? Once you’d boarded one of those ships, you would never come back. Not in this lifetime. But I’m glad you didn’t.”
+
+
+“You really think so?” said Sayaka.
+
+
+“Yes, because every one of those ships orbiting the Sun is restricted to port until we Messengers are deployed. They don’t want us running away. There’s no way we could have gone.”
+
+
+“They think of everything.” She exhaled as if surprised and shook her head. “But that’s not what I meant. I was asking whether you really thought I wanted to run.”
+
+
+“Don’t you?” said Orville.
+
+
+“No.” She shook her head. Orville knew she wasn’t telling the truth, but he didn’t want to deny her decision to lie. “We’re counting on you, Orville.”
+
+
+We, as in humanity.
+
+
+Two-tenths of the Messengers slated for deployment—nearly fifty thousand—were on Triton. There were many couples like Orville and Sayaka, and as the day approached, the change in the city’s mood was apparent. Each couple had felt as if the world were theirs alone. Now they all knew that was impossible.
+
+
+On the day of deployment, Orville spotted Sayaka from the gangway leading to his ship. She was part of a crowd—an astonishingly large crowd—united in the sorrow of parting. Orville called to Alexandr boarding ahead of him. “Shumina is here.”
+
+
+“I know.” His massive bulk disappeared into the ship without looking back.
+
+
+Orville turned. His keen vision picked out Sayaka looking toward him bravely, without tears. Of course, he thought. They had said their farewells quite exhaustively the previous night. Orville would hardly have minded if she hadn’t come today.
+
+
+But she did come. She had something more to say to him. She opened her mouth wide and slowly formed the words.
+
+
+“See you. Again. Someday.”
+
+
+The instant Orville saw that, he felt a stabbing pain in his chest. He fled into the ship.
+
+
+
+
+
+
+
+
+
+
+A Lagrangian point, between the orbits of Jupiter and Saturn. Hundreds of spacecraft were assembling here, where the gravitational pull from the giant planets was in stable equilibrium. The time fleet was coming together.
+
+
+“Several years ago, the ETs deployed a portion of their total energy to execute a time jump. Based on measurements of the radiant energy liberated in this maneuver, we estimate they reached a point roughly 480 years in the past. There appears to be no purpose to this move other than to change the course of history. We believe they have realized their disadvantage and are moving to eradicate humanity at a point in the past where we were far weaker than we are today.”Orville was not well versed in the technology of temporal upstreaming or the theory of spacetime on which it was based—the technology had been perfected by human scientists working with specialized AIs—but as a Messenger, he understood and could pilot the hardware that made the theory’s predictions manifest reality. Orville was not particularly interested in the underlying ideas. If the ETs fled backward in time, he knew how to follow them. That was enough.
+
+
+“You will now upstream into the past and defeat the enemy, supported by all the matériel and AIs that Sol System has been able to assemble. The situation on the ground, and the enemy’s strength, are completely unknown. You may well find your forces inadequate. Therefore, your prime objective isn’t to engage the enemy directly, but to alert the local population to the danger and assist them in developing their fighting capabilities to the highest possible level. You will inform and guide, so humanity can fight to defend itself and its future.”
+
+
+But that future was not this present. Orville’s face twisted with the pain of that knowledge. Spurring humanity to fight the ET in the past would change history, generating new timestreams. Even if Orville survived the fighting, entered cryostasis and waited long enough, he would not be able to return to this present. Regardless of the war’s outcome, a completely transformed Sol System would await the Messengers.
+
+
+He would never see Sayaka again. But if that were all he had to bear—as if that weren’t enough—he could have borne it.
+
+
+“Please access AI Prime and authenticate.” At these words from the human officer assigned to see them off, the Messengers closed their eyes and contacted the fleet command AI through their internal comm links. They verified their mission and its implications: they were soldiers who would never return. Using the comm link had been an occasional necessity on Triton, where someone might have been listening, but at this point it was an empty ceremony.
+
+
+“Authentication is complete. I will now reveal a piece of highly classified information. Our scientists and AIs have just concluded with a high degree of certainty that humanity in this timestream will soon be extinct.” The officer choked with emotion. As the one designated to deliver this message, he would have been chosen for his steady nerves, but his voice was trembling.
+
+
+“The basis for this conclusion is the fact that no Messengers have arrived from our future. If we had been successful against the ET, mankind should also have sent additional Messengers from our own future to help deal with the conflicts we now face. Techniques to determine the timing of arrival of these new hypothetical Messengers have advanced significantly. But as of today, no new Messengers have upstreamed to our present. This means that the ability to deploy new Messengers into the past is not a part of our future. That means we have no future.
+
+
+“We will be extinct before long, either through defeat or self-destruction. It does not matter.” In point of fact, for Orville and the other Messengers about to depart into the past, this was not critically important. Their efforts would spawn new timestreams, in one of which humanity might survive, and that was all that mattered. If only those four months had never been…
+
+
+Sayaka, her friends, and all Triton would vanish in fire. Orville had known this was likely since his inception, but he had pushed it to the back of his mind; conditions might have changed for the better during the past four months. But in the end, the miracle was not to be. Now there was nothing for the Messengers to do but leave these people to their fate.
+
+
+Orville clenched his fists. Sayaka, he cried out inwardly. Forgive me. He couldn’t save her, but he could take her hopes with him, graven on his heart. Devotion to humanity.
+
+
+“Therefore, we who are about to die entrust our hopes to all humanity across the multiverse, and command you: Carry the word. Triumph. Farewell.” The officer disembarked.
+
+
+The command AI spoke:
+
+
+“Good morning, Messengers. I am Cutty Sark, Mission AI. I will accompany you to the ends of time, coordinate Upstreamer Force operations and provide support through a wide range of resources. Please initiate sensory suspension. This fleet will now upstream into the past.”
+
+
+The fleet’s ships, fortresses, and mobile bases powered down and engaged their chronoshift devices. In the darkness, Orville clamped his teeth and suppressed a scream. What am I supposed to save?
+
+
+Then consciousness winked out. The fleet dropped into the well of time.

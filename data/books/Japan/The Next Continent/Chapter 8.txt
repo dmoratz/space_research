@@ -1,0 +1,1135 @@
+CHAPTER 8
+
+
+
+
+ARCHITECTURE, OPERATIONS MANAGEMENT, AND ADDITIONAL CONSTRUCTION
+
+
+
+
+[1]
+
+
+THE DAWN KNIFED through the gap in the distant mountain range. The two-week lunar day had begun.
+
+
+The sun did not rise; it moved sideways. The triple array of solar panels at the western edge of the base were first to receive its light. The sparkling panels extended for hundreds of meters, like a castle’s first line of defense.
+
+
+Next to emerge from darkness were the arched roofs of the three habitat wings—single-story white structures with small windows that housed Sixth Continent’s guests and the base crew. The design was not only optimized for pressure containment, it contributed to the aesthetics of the buildings. A repeating band of inverted semicircles fashioned from ice—a decorative Lombard corbel table—wrapped the building where the roof and walls met. The decoration was created with a numerically controlled sprayer program, the brainchild of one of Gotoba’s architectural designers.
+
+
+Then sunlight slowly unveiled the massive bulk of the Great Hall. The habitats extended from the hall on an east/west axis, like transepts. This was Sixth Continent’s largest building, its footprint as large as the habitat wings combined. It housed a banquet room for thirty, a kitchen, a bridal room, and most of the base’s sports and entertainment facilities.
+
+
+East of the Great Hall stood the cathedral, topped with a twenty-meter spire. Soft light fell on the altar through a stained glass window in the arched end wall of the chancel. The mood was more solemn than lavish.
+
+
+Gotoba’s designers had taken full advantage of architectural forms dictated by the environment—simple shapes, arched roofs, few windows—and created an echo of the Romanesque style. The beautiful cathedral, a pinnacle of science and technology optimized for the lunar environment, embodied the beauty of a grand building of the Middle Ages. To the cathedral spire the architects had added echoes of the Gothic, the style that succeeded the Romanesque. Form followed function: the tower concealed a gravity-fed water tank With enough pressure to service the entire base. The weight of the spire reinforced the high-ceilinged cathedral by bearing down on the roof.
+
+
+A week later, as sun and Earth drew closer on the horizon, the entire complex was bathed in sunlight. East of the cathedral was SELS, the Sealed Environment Life Support module. Air, water, electrical power, heat, ventilation, and waste disposal were all produced and controlled here. Drawing on the experience of Kunlun Base, conduits for water, oxygen, and other life-support elements were carefully encased in spaces between the blocks that formed the walls of the buildings, concealing the conduits and guaranteeing their structural integrity. Maintenance was performed by robots that scuttled through the conduits. Bidirectional loop circulation ensured that vital life support would be maintained even with temporary blockages.
+
+
+Where it could be carried out efficiently, waste was recycled. Unrecycled waste was not discarded in the open, as at Kunlun. It was compressed and neatly stored in trenches. This waste contained elements not available on the moon, and the day would come when they could be recovered.
+
+
+East of SELS was Xiwangmu 6, the cement production sector, and the collection area for permafrost from the bulk shooter. The equipment in this area would eventually be moved or dismantled. For now, it was concealed by a wall of blocks that protected the base from regolith contamination from Liberty Island.
+
+
+The spaceport was situated at the eastern edge of the base. Once the port was completed, the Turtles were lined up nearby, like aircraft beside a helipad. The port was a graded site three hundred meters across. Its array of red and blue landing lights were a dazzling beacon for arriving visitors.
+
+
+The base was divided into distinct zones, with each in functional relation to its neighbor. Preventing regolith contamination was an absolute priority, so the spaceport and permafrost collection areas were far from the Great Hall. Between these areas and the main building was the SELS module, which did not need careful shielding from contamination. The living quarters were located away from sectors where accidents might occur.
+
+
+Finally, at the greatest possible distance from potential accidents and contamination were the solar arrays. The arrays were the only part of the base visible from the habitat windows. Beyond them, in the daytime, stretched the white lunar surface. During the lunar night, Earth’s blue and white globe floated on the horizon against a background of stars.
+
+
+Sixth Continent’s layout had another purpose as well: to create a sense of excitement in arriving visitors.
+
+
+
+
+
+
+“IT’S BEAUTIFUL…”
+
+
+Tae looked down at the gleaming lights of the spaceport rising to meet them. The descent module’s engine fired again, easing the spacecraft onto the landing pad. After a few minutes the side hatch opened. The six passengers moved through an air lock into a pressurized compartment without the need for space suits. Once they were safely aboard, the container lowered itself to its chassis, and the robot shuttle set off for the Great Hall.
+
+
+Scenery flowed by the shuttle windows—first the screening wall, with construction equipment visible through gaps, then SELS, and finally the cathedral and the Great Hall. The views changed smoothly from barren and industrial to elegant and timeless. As they approached the facade of the cathedral, Tae and the other passengers gasped with amazement. It was covered with a majestic mural depicting the Garden of Eden.
+
+
+This gradual change of aspect and psychological impact from the spaceport to the Great Hall had been Tae’s concept, but she was struck with emotion as she experienced it for the first time. She also felt a twinge of fear.
+
+
+“So, Ms. Toenji—what do you think?” A journalist named Sumoto thrust a pen mic toward her. The camera in his sunglasses showed a beautiful young woman sitting across the shuttle aisle, looking out the window. Tae tucked her hair behind an ear but kept her eyes on the scenery.
+
+
+“I’m grateful. None of this would’ve been possible without the support of so many people. It’s been a long road.”
+
+
+“Construction has taken four years longer than you originally planned. How do you feel now that it’s almost finished?”
+
+
+“Happier than words can say.”
+
+
+The reporter was hoping for something meatier. He leaned forward, held the mic closer. “You seem a little nervous. Can you tell me about that?”
+
+
+“Careful, Mr. Sumoto.” The reporter glanced at the old man next to him just as the shuttle jerked sharply and stopped. Before the reporter could brace himself, he pitched forward and landed facedown in Tae’s lap.
+
+
+“I’ve never had a man in my lap before,” said Tae with a laugh. Sumoto began apologizing profusely.
+
+
+“Did you forget the prelaunch briefing? It’s hard to keep your balance in this weak gravity.” The old man smiled and helped the reporter up. Sumoto scratched his head with embarrassment, muttered something about “first off the boat,” and headed for the exit.
+
+
+For a moment Tae and Aaron were alone. “You’re scared, aren’t you? And not about being on the moon,” he said.
+
+
+“Yes, I am scared. I haven’t seen him since he took me to the hospital.”
+
+
+“Don’t worry. When you see each other again, you’ll both know.”
+
+
+The cathedral facade loomed over them. They could hear the boarding tube extending from the Great Hall, then the interlock and the door opening. There was a slight breeze as the pressure equalized. A recorded voice said, “You have arrived at Sixth Continent. Please be sure to take all your belongings.”
+
+
+The pilot, Sumoto, and two women here to join the base staff exited the shuttle. Tae stood up, twitched her nose, and sniffed the air. She looked puzzled, then smiled. “It smells like a church. Stone and burning candles.”
+
+
+“The base manual says that’s concrete and the odor-neutralizing system.”
+
+
+“Whatever it is, it doesn’t smell like a ramen shop. He remembered…”
+
+
+Aaron helped Tae through the hatch. They walked through an inflated tunnel and entered a space that could have been the lobby of a luxury hotel.
+
+
+Structural colors—minute surface treatments that reflected light like butterfly wings—had been used on the walls instead of pigments, which would have off gassed as they dried. The shimmering surface texture was wholly unlike concrete. Shallow niches in the walls were skillfully lit to suggest depth. Ivy nurtured from seeds wound up toward the ceiling, framing a huge statue of a peaceful figure that could have been either a saint or a bodhisattva, carved from concrete. The floor was tiled with fused regolith particles; the surface was pitted, with a soft effect like dark cork.
+
+
+Tae stared skeptically at the ivy and the sculpture. That statue might have to go, she thought, but Aaron and Sumoto stood looking at it with awe.
+
+
+“Welcome to Sixth Continent, Ms. Toenji.” Lined up to greet her were the base crew in functional white jumpsuits and the bridal crew in dark blue formal wear.
+
+
+“Greetings, everyone,” said Tae.
+
+
+February 10, 2036. Six months before its grand opening, Sixth Continent was welcoming its creator.
+
+
+
+
+
+
+“WHOA! THAT’s HOT!”
+
+
+The pot on the stove belched a geyser of boiling soup. Sohya ducked. The bearded chef rushed over and turned down the heat.
+
+
+“What the hell are you doing? Don’t come crying to me if you scald yourself!”
+
+
+“Sorry. I didn’t think it would boil up like that.”
+
+
+“The low gravity keeps vapor from circulating. The bubbles build up in the bottom of the pot and blow all at once. How many times have you been here anyway?”
+
+
+“This is my sixth trip. But we never had pots or a proper kitchen before. Anyway, how come you know all this? You just got here.”
+
+
+“Dome Fuji was at thirty-eight hundred meters. If you don’t watch out, a pot lid can blow off at that elevation.” Kashiwabara shook his head and began cleaning up. He had actually arrived three months before to begin developing the menus for Sixth Continent. His Antarctic experience had been invaluable; he had quickly factored in the effects of low gravity on the cooking process. In the kitchen, Kashiwabara’s word was law.
+
+
+Now he was adding generous amounts of salt to the potage. “If you can’t even watch a pot for me, you’re not going to be of much use here.”
+
+
+Sohya’s eyes widened as he saw how much salt the chef was using. “Um, isn’t that going to be a little too sal—”
+
+
+“Three days of weightlessness dulls the taste buds. Now get out of here. You have visitors to greet.”
+
+
+“That’s why I was hiding out here,” grumbled Sohya as he headed for the door.
+
+
+He walked out of Kashiwabara’s kingdom into the banquet hall just as a bow-tied maître d’ was pouring champagne onto the floor. The man hurriedly set the bottle on one of the round tables. A two-meter fountain of champagne promptly shot into the air. “What’s this?” said Sohya, surprised.
+
+
+“I wish I knew,” said the maître d’, sadly holding his trouser cuffs out of the pool on the floor. “I opened it as usual. But when I tried to pour, it overshot the glass.”
+
+
+“I told you, it’s because of the low—”
+
+
+“I know, I know. But it’s not second nature yet. What a waste. That was vintage Krug.”
+
+
+“You were at Les Caves Taillevent, right? You’ve got a reputation to preserve, Mr. Kiwa.”
+
+
+“True—but I’m no sommelier.”
+
+
+Sosuke Kiwa had been maître d’hôtel at one of Tokyo’s finest French restaurants. Rumor had it that on at least one occasion he had waited on the emperor himself. But the moon was giving him problems. Sohya was helping him wipe the floor when a wail came from the bridal room next door.
+
+
+“Help! I can’t move!”
+
+
+Sohya rushed in and found Kanna Mikimoto, another member of the bridal crew, wearing a wedding dress and walking furiously in place, as if on a treadmill. Sohya rolled his eyes.
+
+
+“Okay. What are you doing?”
+
+
+“I’m not doing anything! I’m just trying to walk, but I’m not getting anywhere.”
+
+
+Sohya went behind her and lifted the long hem of the dress. She immediately took a few stumbling steps forward. “Oh—what did you do?”
+
+
+“That dress has a better grip on the floor than your shoes do. You don’t weigh enough.”
+
+
+“What should we do? We don’t have a train bearer.”
+
+
+“Maybe we can sew some dozer bearings into the hem to cut the friction. They might rattle on the floor though.” He looked askance at Mikimoto, who had come with stellar bona fides as an assistant Shinto priest of Usa Shrine, second only to Ise Grand Shrine in the Shinto hierarchy. “Why are you playing bride at a time like this anyway?”
+
+
+She laughed nervously. “I’ve worn the Shinto-style white kimono before, but never the dress.” Sohya stared at her with incomprehension. “At least I found a problem before we used it.”
+
+
+“Go ahead and make the alterations. Just don’t wear it out, okay?”
+
+
+“Yes, sir.” She left the room. Sohya sighed. Limited staffing was forcing everyone to wear multiple hats. Mikimoto would assist Aaron during Shinto weddings. Kiwa the maître d’ would double as concierge and interpreter for English, French, and German. Yamagiwa was heading the base crew. He had also been approved by the Foreign Ministry to act as a one-man Japanese consulate.
+
+
+Tae wanted her employees to have comfortable working conditions, but that was not realistic, especially before the base was even fully staffed. No one was getting enough sleep; it would have been unfair for Sohya to bear down too hard for the occasional mistake.
+
+
+Sixth Continent had entered Phase Three. Structural work was nearly complete. Staff training and operational testing of the base’s control systems were in full swing. During the past two years, Sohya had spent more time here than on Earth, overseeing construction and installation of interior fittings.
+
+
+The amount of work still facing them was truly daunting. Sohya was either on the surface directing construction or back on Earth running from one Gotoba department to another till all hours of the morning. Gotoba’s engineers had to rely on simulations—Sohya was the only one with a detailed sense of the actual operating conditions. He was solicited for advice on everything: bolt strength and odor-control design, the firmness of the chairs and the pressure in the washlet. A certain amount of discontent was sparked by his seemingly monopolizing all opportunities for travel to the moon. Then something happened to silence the criticism.
+
+
+Sohya was at Gotoba headquarters when, due to a software glitch, an ice sprayer ended up sealing one of the lunar construction crew into a habitat work space. Dismantling the structure with multidozers would have taken far too long. The fastest option was to use carpenter robots to drill through to him, but that would still take three days. The astronaut was equipped with nothing more than a hand drill and a medical kit. There was just enough breathable air in the space where he was trapped, but the battery on his suit’s CO2 scrubber would not hold out for long.
+
+
+The flight surgeon’s recommendation was to use the drill’s battery to keep the CO2 scrubber working. The astronaut would also take enough morphine to slow his respiration while he waited for rescue. But Sohya intervened. A large dose of morphine without close medical monitoring would be dangerous. Instead, he proposed using all available battery power to keep the astronaut warm. Sohya waved off the flight surgeon’s worries about CO2 and insisted that his plan be followed.
+
+
+The astronaut was none the worse for wear when he was rescued seventy hours later. The space where he was trapped had been scored with fine lines to generate structural colors. This effectively increased the wall area by several times, and the concrete itself had CO2 absorption properties. Sohya had noticed during construction that CO2 concentrations seemed to rise only slowly in such spaces. He knew the astronaut had a margin of safety even without the scrubber.
+
+
+This incident proved the wisdom of having at least one crew member with as many hours of on-site experience as possible. Sohya’s knowledge was indispensable. Unfortunately, it also guaranteed that he never had any time off.
+
+
+Sohya was tired. The theater dome was still under construction, so he made his way into the cathedral to find some quiet. He sat down in one of the pews. A few moments later Yamagiwa walked in.
+
+
+“There you are, Aomine. Everything ready for the big dinner?”
+
+
+“Can we push it back an hour? We’ve still got a skeleton crew.
+
+
+It’s total chaos in the dining room and the kitchen.”
+
+
+“I’ve got to get over to SELS. The software thought all that extra body heat was a fire. Now the oxygen generator’s shut down. I have to recalibrate the system.”
+
+
+“I’ll never laugh at Kunlun again. Did the guests notice anything?”
+
+
+“I persuaded our journalist friend to check out his quarters. But our special guest—”
+
+
+“Speak of the devil.” Sohya stood up. Tae was framed in the door behind Yamagiwa, clad in her usual monotone ensemble. She doffed her beret and bowed, hands crossed formally over her thighs.
+
+
+“Hello, Sohya. It’s been a long time.”
+
+
+The way she leaned forward at the hips was as graceful as a narcissus. She straightened up and gave Sohya a slightly questioning up-from-under look. Her skirt billowed behind her as she walked slowly toward him in the one-sixth gravity. A gentle puff of some restrained floral fragrance reached him. Tae was twenty-four. She was no longer a girl.
+
+
+He struggled to speak. “Um…yes, it’s been a while.”
+
+
+It was their first meeting in two years and eight months—and where it was happening left Sohya slightly flustered.
+
+
+
+
+[2]
+
+
+THE DISCOVERY IN July 2033 of a technological phenomenon of nonhuman origin—an artificial radio signal emanating from Eden Crater—created an uproar on Earth, at least in certain quarters.
+
+
+The most vocal were the self-styled “contactees.” For years, they’d maintained that the lunar south pole was a secret UFO base. Aliens had been using it for millennia as a jumping-off point for Earth, where they had disguised themselves as humans and were waiting for the right moment to launch a global coup. The CIA and the KGB (the latter had ceased to exist decades earlier, though the contactees refused to believe it) were working behind the scenes to hide the truth from the public. But a Japanese rogue agent had entered the crater and triggered the signal. The contactees demanded that the truth—which Sixth Continent and Liberty Island had obviously been constructed to conceal—be revealed.
+
+
+All available information about the signal had been made public, but the fringe groups weren’t listening. In a typical incident, TGT security had to detain a woman they found searching for a door in the first stage of an Adam rocket. She was planning to hitch a ride to the moon and return with proof that aliens were here.
+
+
+The media always treated paranormal phenomena, including flying saucers, with humorous disdain. After their initial reports on the discovery, they went silent. Aliens were right up there with ghost stories and the Loch Ness monster. Treating the signal as news rather than variety show fodder went against their instincts, and the fact that it was unintelligible made it even harder for them to decide how to handle it.
+
+
+An exchange between a veteran news anchor and a radio astronomer on one of the late-night talk shows highlighted this dilemma. The anchor opened with a blunt question. The anchor opened with
+
+
+“Was this an alien signal?”
+
+
+“Well, that’s something we just don’t know yet.”
+
+
+“But it wasn’t man-made, and it wasn’t natural. Correct? Then it must be aliens signaling Earth—”
+
+
+“The signal wasn’t aimed at us. It was directed toward a point in the southern skies: minus twenty-two degrees galactic longitude, minus fifty degrees latitude.”
+
+
+“What’s in that direction?”
+
+
+“In that exact direction? As far as we know, nothing.”
+
+
+“Then what about the electro-neutral grid—ENG, is it? The fibers found just beneath the lunar surface. What were they trying to accomplish?”
+
+
+“We don’t know much about that either.”
+
+
+“This is getting very hard to pin down. Let me just break in here and say what I think. If I’m wrong, interrupt me, all right?
+
+
+A signal is sent from the moon’s south pole. No space agency or military organization admits to having sent it. So it wasn’t sent by Earth. But Sixth Continent and Liberty Island are right next door, and that’s how it was discovered. Here’s my point: if you’re going to build a TV station on Earth, do you build it in the middle of the desert or on a ship in the middle of the ocean?”
+
+
+“Well, that depends on the broadcast frequency and output. If the station uses the megahertz band or higher, and if there are relay stations—”
+
+
+“That’s not what I’m driving at. You build the station where your viewers are. In a city, right?”
+
+
+“I suppose, yes.”
+
+
+“Now, judging from where the signal was sent, it’s as if someone had anticipated that humans would build something in that area. So wouldn’t that mean we were meant to take notice?”
+
+
+“I wouldn’t know. I’m not the one who sent the signal.”
+
+
+“But you’re a scientist—don’t you have an opinion?”
+
+
+“Along with the rest of the scientific community, I’m just not in a position to say what the purpose of the transmission might be. Of course, I have my own personal opinion, or perhaps it’s a hope—but I’m afraid I’d better not speculate.”
+
+
+The anchor made a few more attempts to draw his guest out further before giving up. He closed the program with a look of indigestion. The media expected scientists to quickly determine at least the purpose of the signal, if not its meaning. After all, humans did not send radio signals without a reason. If someone credible would just stick their neck out and offer an opinion, the media could follow up with investigation and coverage—“alien signals” certainly weren’t bad for ratings. But as things stood, all they had to go on was the barest of conjectures. After the initial reports, media coverage rapidly declined, and the interest of the general public declined with it.
+
+
+Scientists of all kinds, however, were enthusiastically studying the signal. Radio astronomers jumped in, even though their specialty was natural emission sources, not artificial signals. Communications engineers, linguists, and SETI researchers were following their own lines of inquiry, but the exogeologists and electrical engineers had a head start over everyone. For seven years, they had been working with ENG samples brought back by Serpent, though without much success.
+
+
+It had long been rumored that the fibers comprised some sort of machine fabricated from elements in the regolith. The reason this conjecture did not receive more open support was that no scientist had any idea of how such a machine could work. Only once had ENG shown any evidence of functionality: a sample held at JPL actually generated a small percentage of new fibers. This took place after a magnitude seven earthquake rocked California, with JPL at the approximate epicenter.
+
+
+Attempts to image the fibers using electron or atomic force microscopes were equally unsuccessful. At low magnification, ENG showed a structure roughly similar to plant cells. But when magnification was raised to the nanometer level, the microscopes lost calibration. A research group in Canada demonstrated that ENG was absorbing the energy directed at it by the microscopes. The mechanism of energy storage was unknown, and no one had been successful in coaxing their sample to emit a signal.
+
+
+Researchers at Liberty Island did determine that the way the fibers were intertwined could potentially contribute to signal emission and modulation. They went to work after the signal was discovered by Sohya and his crew. Careful radar mapping of ENG density beneath the floor of Eden Crater revealed thousands of rodlike aggregations of fibers about two and a half meters long. The Americans speculated that these structures could act as primitive dipole antennas. Their length was consistent with the signal’s frequency. When an alternating current was passed through them, they emitted radio waves.
+
+
+Sohya’s team only managed to record forty seconds of the transmission before it ended. They first noticed the signal when it interfered with their transceivers. In fifteen minutes they had rigged a crude receiver and recorded part of the signal. It consisted of a long series of unmodulated pulses with only two amplitudes. Since the recording was just a fragment, it was no surprise that it could not be deciphered.
+
+
+If ENG could be used to transmit signals, it could also receive them. Was the Eden Signal a response to another signal of some kind? Sixty-megahertz radio waves had never been detected outside the solar system. This frequency corresponded to one of the spectrum absorption lines of oxygen, which made Earth’s atmosphere opaque to the signal. A few communications satellites operated close to that frequency, but none had receivers capable of detecting a signal that was a hundred billion times weaker than a terrestrial TV broadcast. No radio telescope in orbit was observing at frequencies anywhere near sixty megahertz.
+
+
+Only one antenna caught the signal that had started it all—the SETI module Tae had sent to the moon. The five-minute transmission slept in the machine’s memory, forgotten till prompted by a query from Earth.
+
+
+Nevertheless, this incoming signal was just as unintelligible as its reply from Eden Crater. Opinion was not unanimous, but most SETI researchers were forced to conclude that whatever its meaning, it was not meant to be decoded. Otherwise it would have been accompanied by a key.
+
+
+Somewhere in space, a signal had been sent, to which ENG had responded. The signals had been intended for sender and receiver alone. The rodlike structures beneath the surface would not make very efficient antennas. Assuming the goal was interplanetary communication, a conical or parabolic antenna would have been far more effective. Why multiple dipoles?
+
+
+There could be only one reason: by modulating the phase of signals emitted by individual rods, the direction of transmission could be varied even with a fixed array, like phased-array radar installations, which were stationary and did not need to sweep the skies. Apparently ENG was not designed to aim its signal in one particular direction. Multiple dipoles were robust, flexible enough to transmit in any direction, and could be assembled with minimal resources.
+
+
+Some proposed that ENG might be a life-form carried in the ice from comets, capable of communicating across the galaxy in response to intelligent signals. But this hypothesis was eventually rejected. ENG did seem to have the ability to grow, a purposeful structure, and a certain capacity to adapt to its environment. But no scientist could devise a model whereby any life-form could have extracted metallic elements from the regolith and assembled itself into such a structure. A seed would be required. Planting seeds meant intentionality. The entity that had planted the seed must be the source of the signal.
+
+
+This is what the radio astronomer had hesitated to say on national television. To do so would have invited a barrage of questions. Why plant the seed in Eden Crater? Why not on Earth? Why send one signal and then go silent? Without answers, the conjecture—which for many scientists represented a hope—would simply have been ridiculed.
+
+
+Sixth Continent was preoccupied with construction and could not spend time doing research. Liberty Island produced no further findings. Life on Earth went on as usual. People reacted just as they had to evidence of life in a meteorite from Mars discovered in Antarctica: it was interesting but not astonishing. After all, ENG was not trying to invade Earth. It was not made of pure gold. It didn’t announce the coming of Armageddon.
+
+
+But there were a curious few who were like people expectantly awaiting a letter. They at least felt a tremor of excitement. Now they were certain that a writer of letters existed, even if the message had not been addressed to humankind.
+
+
+Liberty Island’s scientists kept working to solve the puzzle. Ironically, while Sixth Continent had discovered ENG, they were in no position to follow up. This difference between the two bases was gradually turning into a source of conflict.
+
+
+
+
+
+
+SELS MODULE, EARLY morning, February 12. The interior was a maze of machinery, piping, and conduits, similar to a chemical plant. Sohya and the module supervisor were peering into the water electrolysis tank.
+
+
+“See? Those electrodes are broken,” she said.
+
+
+“You’re right. Almost half of them are toast. That couldn’t have happened during liftoff. They must be defective. Do we have replacements?”
+
+
+“No. We weren’t expecting to need them. We’ll just have to wait for the next tug.”
+
+
+Sohya checked his wearcom and frowned. The screen was blank. “Battery’s dead. I’ve had this too many years. I left the charger back on Earth.”
+
+
+“I’ve got one in my cabin. Want me to charge it for you?”
+
+
+“Yeah, could you do that for me?”
+
+
+The supervisor put Sohya’s wearcom in her pocket and ran some calculations on her own unit. “At this rate, we’ll be below nominal oxygen levels in two weeks.”
+
+
+“If we use the SFOG candles, we’ll need more of those from Earth too. What about the greenhouse? Can we squeeze some O2 out of that?”
+
+
+“The spirulina culture? It doesn’t generate much oxygen.”
+
+
+A simple greenhouse had been rigged on the module roof using leftover construction materials. Too small to grow plants for food, it was being used to cultivate spirulina, a strongly photosynthetic bacteria. Cultivating plants to absorb CO2 and purify the air would eventually be more efficient than chemical methods.
+
+
+“Use the heliostats to increase the solar energy to the greenhouse. That should give us more output.”
+
+
+“That might be a good idea. I’ll rerun the numbers.”
+
+
+“The heliostats should be free.” Sohya used the communication pad on the wall to call the Control Center. While he waited for a response, the supervisor gave him the high sign. The spirulina would close the oxygen gap.
+
+
+The answer from Control was not promising though. “Who’s using them?” said Sohya. “Some kind of experiment? Liberty Island?”
+
+
+“Oh no. I forgot about that.” The supervisor winced. “Remember last month we agreed to lease the heliostats?”
+
+
+“No one told me about that. Anyway, it’s a life-support issue. Control, connect me with Liberty. I’ll talk to them directly.”
+
+
+The monitor went dark for a moment before a woman’s face came up. Sohya was astonished. “Carol, is that you?”
+
+
+“Well, hello, Sohya. How’s everything in your neck of the woods?” Caroline Cadbury put her trademark sunglasses on her forehead.
+
+
+“What’re you doing here?”
+
+
+“What else? Working. We have far better control over our rovers from here than we do from JPL. The lack of signal lag lets us do so much more.”
+
+
+“I’m glad you’re here. Listen, we need our mirrors back.”
+
+
+“Sohya, your system control supervisor notified me earlier about the electrodes. He was hoping we might have some spares. You’ve got a long wait till the next tug arrives.” She smiled—was that a hint of satisfaction? “It’s not critical. You have at least three other options I can think of off the top of my head. I suggest you use one.”
+
+
+“Those mirrors are ours!”
+
+
+“Right now they’re ours. You made a deal. If you want to renege, better let Washington know.”
+
+
+“Carol!”
+
+
+The screen went dark. After a short conversation with Control, Sohya hung up. “Damn it! Control is more interested in ENG research than they are in this base. They suggested we just pull some oxygen from the fuel vault. In fact, they invited me to go get the tanks myself.” He noticed Tae standing in the entrance to the compartment. “You’re up early. It’s not even four yet.”
+
+
+“Jet lag. I was in Vancouver till just before liftoff. I’m sorry to bother you, but—”
+
+
+“No, it’s okay. I’m finished here.”
+
+
+“Really? Good.” Tae smiled and came closer. “You were talking to Liberty Island just now, weren’t you? What’s going on?”
+
+
+Sohya briefed her on his exchange with Cadbury. “NASA is keen to investigate ENG, but our permafrost harvesting is getting in the way, and things have been a little tense. They think the grid’s two-kilometer radius is significant, that the samples on Earth are too small to replicate its behavior. They think there must be some kind of critical mass effect.”
+
+
+“So why do they need our mirrors?”
+
+
+“They haven’t told us. Maybe they just want to slow us down. Without the heliostats, we lose a lot of flexibility. We could use some extra income, so somebody must have decided to lease the mirrors to generate additional—” He broke off and stared at her. “Was that you?”
+
+
+“Hm? Oh, yes. Yes…that was me.” She glanced away, embarrassed. “But I wanted to hear what you had to say.”
+
+
+The SELS supervisor picked up a tool kit and smiled nervously. “Well, I think I’m done here, so I’d better leave you two to carry on.”
+
+
+“Not so fast. You forgot to close the tank lid,” said Sohya. He called Control again. “This is Aomine. I’m taking a rover into the crater to retrieve some oxygen. Tae Toenji will be going with me.” He turned to her. “You haven’t seen ENG firsthand, have you?”
+
+
+“No.”
+
+
+“Great. Better hit the restroom before we go.”
+
+
+Tae hurried out, looking excited and happy. The SELS supervisor gave a low whistle. “You really know how to handle her.”
+
+
+“You think so? This is as far as I’ve gotten in the eleven years I’ve known her.” Sohya laughed and shrugged his shoulders.
+
+
+
+
+
+
+THE ROVER SKIDDED wildly as it climbed the bright white slope of the crater rim. Sohya corrected with the joystick. Tae squealed in surprise and clutched his arm.
+
+
+“Sohya! I almost fell out!”
+
+
+“It’s like a roller coaster, isn’t it?” He laughed and opened the throttle all the way. The rover’s maximum speed was eighteen kilometers per hour. There was no cabin. The chassis hugged the ground, countering any tendency to roll. The suspension was springy, and a jerk on the control stick would instantly induce a skid. It was a bit like being in a sports car. The rover was powered by a thin superconducting cable extending from the cathedral spire. Taking it out for a spin during breaks was a popular activity with the base crew.
+
+
+At the top of the ridge ahead, forty oblong shapes like yacht sails were spaced at intervals—the heliostats, each with four square meters of mirrored surface, remotely controlled. Moving in tandem, they could send a concentrated beam of light to any point in Sixth Continent. Together they could generate about two megawatts of solar power.
+
+
+“It looks like Liberty’s moving them,” said Sohya. The mirrors were rotating very slowly, tipping toward the sun. “I wonder what they’re doing?”
+
+
+They were almost at the top of the rim. “Could you stop when we get up there?” asked Tae. “I want to check out the view.”
+
+
+“I was planning to. I have to change the cable anyway. And there’s something else.” Sohya pointed to Apple 7, just coming into view. He could hear Tae’s throat catch. The blackened hole in the core module was clearly visible. “I always stop there to pray for safety.”
+
+
+At the top of the ridge Sohya got out, swapped the power cable into a distributor box, and attached a new cable. Tae got out of the rover. The ten-meter-high heliostats extended in both directions. She walked along the ridge. To her left lay the base and the outer slope of the crater rim, bathed in light. To her right was an abyss of darkness. As she got closer to Apple 7, she could see offerings left by other visitors: canned fruit, sake, books. There was no marker.
+
+
+“Is he still inside?”
+
+
+“Of course. If we buried him he wouldn’t be able to see the stars. His body won’t decay.” Sohya had finished swapping the cables. He placed his palms together and bowed his head.
+
+
+“Don’t you mean he wouldn’t be able to see Earth?” asked Tae.
+
+
+“Wasn’t it you who said the stars were his destination?”
+
+
+She didn’t answer but leaned against him. Through the glazing on her visor, he could just make out a tear tracing down her cheek.
+
+
+“You didn’t cry when he died.”
+
+
+“I know. It’s strange. It’s taken me till now.”
+
+
+“What changed?”
+
+
+“We left him all alone for half a year. I wonder if we did the right thing.”
+
+
+“He’s not alone anymore.”
+
+
+Sohya started back for the rover. Tae swung round—startled at first, then embarrassed. Somehow she’d expected him to be angry with her. He motioned from the rover. “Let’s go. I want to get there by five thirty.”
+
+
+She looked at the core again, then toward the stars that would be Shinji’s forever. At the base of the gentle slope in the sunwashed desert, her palace seemed close enough to touch. Beyond lay a smaller crater. The distances were deceiving. The SETI crater was more than a kilometer away, but it looked startlingly close. A fiery disk and a thin crescent of blue and white hung in the blackness above the horizon.
+
+
+Sohya was right. The view was superb. Shinji would have many visitors. Tae was almost to the rover when a voice came on the comm.
+
+
+“Aomine? It’s Yamagiwa. Look, this isn’t exactly urgent, but I’ve got something to pass on to you. Johnson Space Center—”
+
+
+“Aomine here. I’m going to radio silence for a while. I’ll contact you on the landline from the vault. ETA is 0530 hours.” He started the rover over the ridge and into the crater.
+
+
+“What? Aomine, repeat, please.”
+
+
+Sohya switched off the transceiver. He took a comm cable from behind the seat and connected it to a jack on Tae’s backpack, then to his own.
+
+
+“Why did you switch off? Is that okay?”
+
+
+“No. But I wanted to be able to talk without people listening in.”
+
+
+They looked at each other in silence. Suddenly the darkness swallowed them. They were in the shadow zone. Sohya switched on the floodlights, which cast a sharp-edged cone of light on the downslope ahead. The inner surface of the rim was steep; on Earth it would have been a difficult descent even on foot. Sohya steered cautiously as they headed downward.
+
+
+“I was worried for so long,” said Tae abruptly.
+
+
+“About what?”
+
+
+“I thought you were angry with me. For what happened to Shinji.”
+
+
+“It wasn’t your fault. If it was, then I’m just as much to blame. Okay, I was angry with you at first. But later I realized I was really angry at myself.”
+
+
+“So you’re angry.”
+
+
+“How could I not be? But it’s over.”
+
+
+“I’m sorry.” A small voice. Sohya turned his head inside his helmet to look at her. “When he died, I didn’t mourn. Not really.”
+
+
+“I know.”
+
+
+“I’m not asking you to forgive me. But it’s really hitting me now. I just wanted you to know that.”
+
+
+“I saw you crying.” He reached over and drew her close. She stiffened, then relaxed against him.
+
+
+“Thank you, Sohya.”
+
+
+“It’s okay. Don’t worry anymore.”
+
+
+She rested her helmet against his shoulder. They hadn’t been alone since she’d arrived two days ago. In fact, they’d hardly been alone together in the past eleven years. Sohya broke the silence. “You’ve changed.”
+
+
+“Do I seem different?”
+
+
+“It’s the way you act. You’re not as pushy. The old Tae would have been obsessed with collecting money for Phase E. She would have driven a far harder bargain with Liberty Island for the heliostats too.”
+
+
+“Was I really so pushy?” Judging from her voice, she was blushing. She didn’t seem so self-assured now. Sohya was happy to see a spontaneous reaction for a change.
+
+
+“You’re more genuine. What happened? Was it your father?”
+
+
+“I still can’t relax around him.” Back into her shell, thought Sohya. Then she added, “But we’re both working on it, trying to get closer to each other. That’s huge progress.”
+
+
+“So what I said to you that day at Reika’s was right?”
+
+
+“I guess. All I could think about was doing something really big and showing my father up once and for all.”
+
+
+“It’s good that you finally realized that. But what now? How are you going to keep motivated enough to see this project through?”
+
+
+“That’s something I’m a little concerned about.” Her voice was suddenly tired. “It doesn’t belong to me now. It belongs to thousands of people. I’m wondering whether it makes sense for me to keep leading the project. I’m getting more help than I’m giving.”
+
+
+“Sounds like advice from your father.”
+
+
+“Yes…Yes, it does.” She looked up at him. “What about you? Do you have the energy to see this through?”
+
+
+“Are you joking? The Apollo missions were like mountaineers building cairns to show other climbers the way. Sixth Continent is a permanent base camp. I want to show the world what we can do.”
+
+
+“I envy your confidence.”
+
+
+“You said it yourself. People really can live on the moon. It’s not like Antarctica. It’s the real Sixth Continent.”
+
+
+“But what will I have to live for once it’s finished?”
+
+
+“You need another goal.” The rover swayed as it reached the crater floor. Its floodlights pierced far into the darkness. Tae noticed the color of the surface; it was different here, like a winter snowfield surrounded by a ring of mountains. Far off to the left, the beacon of another vehicle was moving rapidly away, toward Liberty Island.
+
+
+Sohya trailed a fingertip across the permafrost as it moved past underneath him. “Unravel the secrets buried in this crater. Wouldn’t that be a challenging new goal?”
+
+
+“But Liberty Island is already moving full speed.”
+
+
+“I don’t think they’ll find all the answers. Five or ten, maybe twenty years from now, Sixth Continent will be a major research facility. Maybe we’ll even mine the helium-3 that the Chinese are going after. There are so many things we can do.”
+
+
+“And where will you be in twenty years?”
+
+
+Sohya didn’t answer. He was Sixth Continent’s construction supervisor. Once construction was finished—what then?
+
+
+A simple declaration of their true feelings would have bridged the gulf between them. They both knew it, but they had let too many opportunities to say what needed to be said slip away. They had known each other too long. Now neither of them could imagine how honesty might change things, and it scared them both.
+
+
+They pressed ahead in silence. A few minutes later Sohya halted the rover. They were at the edge of a hundred-meter depression in the crater left by permafrost mining. He played the floodlights over their surroundings. The dragonlike bulk shooter, off-line and inactive, squatted a short distance away near the rim. A single multidozer stood motionless in the pit below.
+
+
+Sohya advanced down the slope. Moments later, the multidozer moved out of the pit, as if yielding to them, and headed rapidly away. A notch with a vertical wall about three meters high had been cut into the far side of the pit, and a massive frame surrounding an aluminum door was set into the wall of the cut. Sohya stopped nearby and climbed out of the rover, leaving the floodlights on.
+
+
+“This is the vault. We store hydrogen and oxygen in spent fuel pods here. Don’t try to open it with your hands.” He unreeled his suit tether and hooked the end under the bottom edge of the metal slab. It lifted up and inward like a garage door. Beyond was a sloping passage leading down into darkness. They walked into the tunnel.
+
+
+Seconds later, forty points of light flashed into brilliance above the rim of the crater. The area around the entrance grew brighter. But Sohya and Tae were already inside.
+
+
+
+
+[3]
+
+
+THE TUNNEL DESCENDED at a shallow angle for twenty meters. At the end, a room five meters square by two high had been carved out of the permafrost. Twenty or so spherical metal tanks were lined up on the floor, each nearly a meter in diameter.
+
+
+Tae looked at the smooth walls enclosing them. “This must have taken a lot of time. Was all that work really necessary?”
+
+
+“Long-term storage on the surface is slightly risky. A micrometeor might puncture a tank. The carpenter robots dug this after they finished shaping the blocks for the buildings. We wanted to keep them busy.”
+
+
+Tae laughed. “No point in letting them goof off.” She looked closer at a nearby wall. Lit by small spotlights set like epaulets into the shoulders of her suit, the fibers made the coffee-colored permafrost sparkle. “So this is how it looks.” She reached out to touch the wall. Sohya pulled her gently away.
+
+
+“It’s 220 below in here. Touch that wall and the cold could penetrate your glove and freeze the end of your finger. Is your heater on max?”
+
+
+“I think so. It’s pretty noisy.”
+
+
+“Don’t squat down either. You want to keep the joints in your suit open so the heat can circulate. Now let’s get some of these tanks out of here.”
+
+
+Sohya was about to hook the end of his tether to a handcart propped against the wall when Tae said, “Shouldn’t you contact Yamagiwa?”
+
+
+“You’re right. Totally slipped my mind.”
+
+
+She absently reached for her wearcom pendant before she realized it was inside her Manna suit. She checked the comm pad in the suit’s left forearm. “There’s no signal.”
+
+
+“The fibers block any signal. That’s why we have this.” He pointed to a small interface box in the ceiling. It was connected to a cable that ran down the wall and back up the shaft toward the entrance. He reached up and connected their cables to the box.
+
+
+“Control, Aomine. We’ve reached the vault. All conditions nominal. Sorry for being out of touch.”
+
+
+“Aomine! Are you all right?” It was Yamagiwa. He sounded worried.
+
+
+“We’re fine.” Sohya glanced at Tae in surprise. “What’s going on?”
+
+
+“We thought something might’ve happened to you. You’re underground, right? Did you notice anything on the way there?”
+
+
+“No, not a thing.”
+
+
+“That’s odd, because Liberty Island is focusing the heliostats right at you.”
+
+
+For a moment Sohya doubted his ears. “In the shadow zone?
+
+
+How? The sun is on the far side of the mirrors. They can’t send light down here.”
+
+
+“Unfortunately they can, if the heliostats are tipped at the correct angle. The output is limited but still strong enough to kill you if you get in the way.”
+
+
+“But what’s the point?”
+
+
+“It’s some sort of experiment. They didn’t let us in on it. The problem is we can’t contact them.”
+
+
+“Hold that thought, Yamagiwa. I’d better look outside.” Sohya unplugged the comm cable, motioned to Tae to stay put, and ran back up the shaft. He was more irritated than worried. Liberty Island. Great timing, guys.
+
+
+The shaft door was closed. This was strange. Sohya was certain he’d left it open. It wasn’t there to keep anyone out; it was to keep the shaft clear if the cut next to it collapsed. The up-and-over design was easy to open even if the frame was pinched by rubble. In the open position, it gave the entrance some protection against falling rock. Now it was closed. Had the wall above it caved in?
+
+
+He felt a spike of fear but suppressed it immediately; panic would only make clear thinking harder. Liberty Island and Sixth Continent could send all the help they needed. If he called for assistance, someone would arrive in half an hour at most. If he did nothing, someone would come anyway. The only question was whether he could open the door himself.
+
+
+Touching it with his glove was out of the question; in a few seconds, the cold would make even the tough covering of his gloves brittle enough to fracture when he moved his hands. One part of his suit could stand up to the cold: his insulated boots. Sohya gave the door a kick.
+
+
+What happened next was a blur. He was thrown backward by a force that felt like some wild beast suddenly freed from its cage. He slid a short distance across the frozen regolith, but in an instant his reflexes put him back on his feet. He had no idea what had just happened.
+
+
+The door was closed again. Sohya stared at it, dazed, and tried to remember. Some sort of blinding light had pierced his visor. For an instant, the door had opened wide. A gauzy substance, like a lace curtain, had been undulating outside. Then it had rushed toward him and knocked him off his feet.
+
+
+Sohya had no desire to open that door again. He backed away as if it were the only thing between him and some wrathful spirit. He ran back into the vault. Tae was still standing there, looking at the fibers in the walls as if nothing had happened. Sohya plugged his cable in. She noticed him and asked, “Did you see anything?”
+
+
+He ignored her. “Control, emergency! Something’s happening outside the vault, some kind of energy release. We’re trapped!”
+
+
+“Aomine! Johnson confirms Liberty is running a large-scale heating experiment in the crater. They claim they had no advance notice either.”
+
+
+Sohya’s and Yamagiwa’s shouting overlapped. After a pause, Yamagiwa said, “What happened?”
+
+
+“I saw something outside, a gas or maybe a vapor. It blew me off my feet as soon as the door opened.”
+
+
+“Are you all right?”
+
+
+“I’m fine. The door seems to be keeping whatever is out there from entering the vault. What is it?”
+
+
+Suddenly Sohya thought it might be better to disconnect Tae’s cable. He wasn’t sure he wanted her to hear what Yamagiwa was about to say. He reached for it, but she stared at him and shook her head.
+
+
+“Ground zero for the experiment is right outside the vault. They’ve got the heliostats focused on the notch we made in the permafrost. It’s the only place in the crater where there’s a goodsized vertical cross section exposing part of the ENG. The solar energy is releasing huge amounts of vapor from the permafrost. Don’t go outside for any reason.”
+
+
+“What do you mean? Tell the Americans to terminate the experiment!”
+
+
+“That’s what I tried to tell you. They’re not responding. There was an observation team in the crater, but they’ve disappeared.”
+
+
+“The rover that was leaving when we entered the crater,” murmured Tae.
+
+
+Sohya’s mind was racing, trying to derive a course of action from the information hitting him. “Then…override the controls and turn the mirrors away. Or send someone up the rim and redirect them manually.”
+
+
+“We can’t go anywhere. We’re bottled up here. There’s a solar flare warning!”
+
+
+“A solar—?”
+
+
+“An X-class flare. The proton storm will make things extremely hazardous anywhere there’s sunlight. I tried to tell you guys before you headed into the crater, but you cut the link!”
+
+
+Sohya’s spirits sank. Yamagiwa was right. He’d been trying to say something, but Sohya had had other things on his mind when he shut off the transceiver.
+
+
+“Does that mean we’re going to get cancer?” Tae was filled with apprehension.
+
+
+“Not right away,” said Yamagiwa. “An hour outside during a flare would expose you to a year’s worth of radiation. Definitely not healthy. But that’s the one thing you don’t need to worry about, Ms. Toenji. You’re in no danger in the crater. That’s why I said it wasn’t an emergency.
+
+
+“Everyone here is safe behind concrete walls. But the Americans’ inflatable modules don’t provide much shielding. They’re probably hunkered down in a shelter, waiting till it’s safe to come out, which would explain why we can’t raise them. But unless they hand off control to us, there’s not much we can do. The heliostats can’t be hacked into. The mirrors pack a lot of power. We didn’t want them getting hijacked.”
+
+
+“But why would they head for their shelter without stopping the experiment?”
+
+
+“Who knows? Maybe they wanted to finish what they started before we got Johnson to override them. Or maybe it’s something they don’t need to monitor in real time. We just don’t know.”
+
+
+There was silence for a moment. “Sohya, stay calm. This is no time for panic. There’s another problem.” Yamagiwa’s voice was eerily expressionless. “The surface of the permafrost will sublimate first. From what you describe, it sounds like that’s already happening. But then the heat from the mirrors will penetrate the surface, maybe thirty or forty centimeters. At some point, heat will be coming in faster than the surface can radiate it away.”
+
+
+“Is the vault going to flood?” Tae asked.
+
+
+“No. The vacuum still means direct sublimation from ice to vapor. And if that happens too fast…” There was silence for a few seconds. “There’s going to be a detonation.”
+
+
+More silence. Sohya and Tae could hear someone giving Yamagiwa an update. Finally he spoke again. “We just reran the numbers. There’s no mistake. It depends on how tight the beam is focused, but even in the best case, the vault is going to come down. Aomine, are you listening carefully?”
+
+
+“I’m listening.” Sohya looked at Tae. There was a firm set to her jaw and her gaze was steady, but she couldn’t stop blinking. He put both hands on her shoulders and squeezed. “Are you okay?”
+
+
+“I think so.”
+
+
+Yamagiwa’s voice was cautious. “I want you to keep everything I’ve told you in mind. A lunar eclipse is under way as we speak. The Earth is moving between you and the sun. It’s going to cut off the light from the heliostats. The eclipse may be your key to getting out of this.”
+
+
+“Did it just start? The light was bright as hell a few minutes ago,” said Sohya.
+
+
+“Earth’s umbra touched the moon at 0531, but that was up near the equator. It hasn’t reached the south pole yet. The eclipse is going to be total, but just barely. Right now the moon’s apparent diameter from Earth is 33.2 arc minutes. The umbra’s diameter is 91.8 arc minutes. The south pole is going to pass just inside the southern edge of the umbra. That’ll be totality, but it will only last a short time. Even then, light scattering through Earth’s atmosphere will make things look red. It won’t be completely dark.”
+
+
+“So that’s when we make a break for it. When do we go? How long till totality?” Sohya was almost shouting with tension now. No answer. They waited. Ten seconds. Twenty seconds. Sohya was afraid to say anything, in case he talked over Yamagiwa. A drop of sweat ran into his left eye. Spurred by the stinging, he whispered into his mic.
+
+
+“Yamagiwa?” Silence. “Yamagiwa! Answer me! Control, do you read?”
+
+
+There was no answer. Tae touched his elbow and pointed to the comm cable. The tip of her finger traced the cable to the box, then across the ceiling and down to the floor where it went up the shaft.
+
+
+Sohya’s voice was almost a squeak. “The cable…” Something—the focused sunlight or a cave-in—had probably cut it.
+
+
+“Goddamn it!” He ripped the comm cables out of the box and punched the wall of the vault twice for good measure. “How much bad luck can we have? Why the hell didn’t he just tell us right away when to run for it?”
+
+
+“He probably thought we needed the whole picture.” Tae’s voice came softly over the transceiver link. Her voice was trembling, though she was trying to keep it steady. “He wanted us to know the background first so we wouldn’t panic. So everything would make sense.”
+
+
+“Tae…” He looked at her. She stared straight back, blinking tears out of her eyes.
+
+
+“It was the only way he could handle it. Sohya, please be calm. I really, really need you to be calm now.”
+
+
+“Calm? Of course I’m calm…” His voice died away. He was embarrassed; he wanted to hide. For a few moments, his desire—his desperation—to protect her had made it impossible to think straight. The only way to short-circuit the panic was to admit it. “I’m sorry. You’re right. I almost lost it there for a second.”
+
+
+“I think you’re okay now.” She smiled behind her visor and embraced him. “I’m scared too. You’ve always protected me. I want to do the same for you. More than anything I’ve ever wanted.” He could feel her trembling through the shell of her space suit. “I love you, Sohya.”
+
+
+Her eyes were closed. Her head fell back in her helmet, and her mouth opened slightly. At first Sohya was astonished, then he felt something breaking free at last, something he’d been quietly nurturing for eleven years. He closed his eyes.
+
+
+“I love you too, Tae.”
+
+
+They were unable to kiss, but everything that needed saying had been said. Their embrace lasted a long time; there was no reason to let go. They were going to die—
+
+
+No. I will not give up. We’ve found each other. We are not going to lose this.
+
+
+“Tae, we’ve got to think. Maybe there’s something we can do.”
+
+
+They parted and gazed at each other, feeding for a moment on each other’s resolve. Tae spoke first. “Maybe we should crack the door a little and see what’s happening?”
+
+
+“Too dangerous. By now the permafrost’s probably crumbling. It took a lot of strength to open the door the first time. If we do it again, we might bring the wall down.” He thought for a moment. “Can we dig out from a different direction? We could use our suit heaters to melt the ice.”
+
+
+“I don’t think we have enough battery power. Mine’s dropping fast as it is, just from regulating the temperature. I wonder—if they can’t go outside, wouldn’t they send multidozers up the ridge to knock the mirrors down?”
+
+
+“Maybe they’re doing that right now. Problem is we don’t know. We’ve got to try something on our own.”
+
+
+“What about this fuel? Could we ignite it and tunnel out that way?”
+
+
+“The oxygen’s solid at this temperature—just barely, but it’s frozen. We’d have to melt it first. Same problem: if we use up too much battery power, we’ll freeze too.”
+
+
+For several minutes they discussed other ideas, all unworkable. They lapsed into silence. Finally Sohya murmured, “We’ll just have to try and guess when totality’s occurred and make a break for it then.”
+
+
+“Can’t we calculate it?”
+
+
+Sohya blinked in bewilderment. “But neither of us knows anything about celestial mechanics.”
+
+
+“Maybe we don’t need to. We’ll need your wearcom.”
+
+
+Sohya touched his forearm, then realized he’d left his wearcom back at the base. “I don’t have it with me. Damn it—I think my software library had an application we could have used.”
+
+
+“Our comm pads can do simple calculations. Try to remember what Yamagiwa said. The eclipse started at five thirty, right?”
+
+
+“Yes…0531.”
+
+
+“And the apparent diameter was 33.2 arc minutes. The Earth’s umbra was 91.8 arc minutes. What time does that add up to?”
+
+
+“It’s not clock time,” said Sohya. “It’s a section of a circle. One arc minute is a sixtieth of a degree. Apparent diameter is how big the moon looks from Earth, and the size of the earth’s shadow relative to the moon. If those are the figures, maybe we can work something out. We need to know how long the eclipse will last. Totality will be at the halfway point.”
+
+
+“Right!” Tae’s eyes were shining.
+
+
+“The length of the eclipse depends on how fast the moon orbits the earth, so we need the orbital speed. I know that: it’s 1.68 kilometers per second.”
+
+
+“What’s the moon’s diameter? I think it was about thirty-five hundred kilometers.”
+
+
+“Closer to 3,476. So an object 3,476 kilometers wide is moving at 1.68 kilometers per second.”
+
+
+“The diameter of the umbra is 91.8 arc minutes. So how many kilometers wide would it be?”
+
+
+“I think we can use ratios. Divide 91.8 by 33.2 and multiply by 3,476.”
+
+
+She punched in the numbers. “It’s 9,611 kilometers!”
+
+
+“So the moon is going to cross a shadow 9,611 kilometers wide, and it’s going to do it at 1.68 kilometers per second.”
+
+
+“Let’s see…No, wait. The eclipse starts when the umbra hits the moon’s edge, but it’s not over till the other edge leaves the shadow. So we have to add one moon diameter to the diameter of the umbra. That’s…13,087 kilometers. That’s how far the moon has to go before it’s completely out of the shadow.”
+
+
+“Right—if the moon is passing straight through the center of the umbra. But it’s going to skirt the south edge. That means we’re not going to be in shadow for very long, just like Yamagiwa said. One circle inside a bigger circle. Listen, calculate these numbers. We can use the Pythagorean theorem.”
+
+
+Tae input the numbers Sohya gave her. “The answer is 11,560 kilometers. Then I divide that by the orbital velocity?”
+
+
+“Right.”
+
+
+“That’s 6,881 seconds. Half of that is 3,440 seconds. That’s when totality will be reached. Add that to 0531…it’s 0627.”
+
+
+They looked at the display on her comm pad as if it were some exotic animal. “We did it,” said Sohya.
+
+
+“Are you sure this is right?”
+
+
+“The procedure was right. But if we overlooked some parameter, it’s going to be wrong. We better go through everything once more independently.” For the next few minutes, they worked the figures repeatedly.
+
+
+“Same answer,” said Tae finally. They exchanged worried looks. They were amateurs at this kind of calculation. If they’d made a mistake, it would cost them their lives.
+
+
+Sohya looked at his comm pad again. His expression hardened. If they were right, they were almost out of time.
+
+
+“Tae…I trust you.”
+
+
+“I trust you too, Sohya.”
+
+
+“Then let’s get out of here.” They walked up the tunnel to the entrance. Tae watched her time readout intently. The seconds dragged by.
+
+
+“Now.”
+
+
+Sohya kicked the door. It swung upward easily. He grabbed her hand and ran out onto the surface. The pit was thick with mist, suffused with faint orange light from the heliostats. Ice particles—diamond dust—sparkled in the dimness and drifted slowly downward. A reddish orange glow was visible above the rim in the direction of the base. Earth’s atmosphere was bending the sun’s long red wavelengths and sending them into the umbra.
+
+
+“We were right!” Sohya shouted with joy. Tae lifted her arms and spun around happily. The wall of permafrost over the door began to sag. They saw the outline of an object half-submerged in the permafrost. It was the rover.
+
+
+“We have to get away from here! Run!”
+
+
+They kicked off in a kind of skip that should have carried them several meters, but they couldn’t seem to make much headway. The surface of the pit was soft and spongy. It was like a bad dream—they could run hardly faster than on Earth, and their Manna suits were not made for sprinting. Tae stumbled and fell to her hands and knees. In an instant Sohya was at her side, pulling her up again. They felt the ground heaving, as if an enormous serpent were uncoiling beneath their feet. A few moments later they reached the rim of the pit and left the zone of reflection from the now-dimmed heliostats. What they saw in the darkness beyond, faintly visible, caused them to halt in astonishment.
+
+
+Under the glittering stars, thousands of golden points of light were pulsating all over the ice in a regular rhythm. At the same time, the moon began to emerge from Earth’s umbra. Unfiltered sunlight bounced off the heliostats and into the pit, cutting through the mist. The heat sent the drifting ice crystals spinning upward again. Seconds later, the vapor flowed over the edge of the pit and rushed outward in all directions at terrific speed.
+
+
+Sohya took one look over his shoulder, grabbed Tae, and moved to shield her with his body. But before they could drop to the ground, the hurtling cloud threw them violently into the air.
+
+
+For an agonized instant, Sohya felt as if his internal organs were tearing loose. Then the pain was replaced by a delicious sensation of floating. He heard Tae’s stifled scream. They could both see the lunar surface racing beneath them from what looked like fifty or sixty meters up. Even in one-sixth gravity—even with the hard carapace of their Manna suits—falling from this height at this speed would pulp their bodies like the contents of a can of food dropped off a cliff. As they described a perfect parabola through space, Tae and Sohya embraced.
+
+
+Something lifted them from both sides. Their direction of flight changed and began rising steeply, like a bird taking flight. There were no birds on the moon…Even before the reality of what was happening penetrated Sohya’s brain, he was already shouting.
+
+
+“Henderson!”
+
+
+“And Hardin. Say, I don’t think I know this one,” said Henderson casually.
+
+
+The two NASA astronauts were straddling Rocket Comet mobility units like outsize witch’s brooms, gripping Sohya and Tae from either side. The shoulders of their white hard-shell suits bore an insignia of a crimson arrow against a dark blue field of stars.
+
+
+“Hurricane Cadbury sent us to find you.”
+
+
+Sohya helped Tae clamber up behind Hardin. He got behind Henderson and held on to his backpack. The American mobility units seemed completely unaffected by the additional mass, the change in center of gravity, and the force of the vapor cloud pushing up from below. They set off in perfect formation, curving higher over the crater. Sohya could only look down with wonder and relief.
+
+
+“One of your multidozers stopped outside our flare shelter half an hour ago, so we went outside to investigate. It told us there were people in the crater. We had no idea anyone would be out after that warning was issued. We had to wait for totality though.”
+
+
+Sohya slumped with fatigue. “We barely figured out when to make a run for it. We almost ended up roasting inside our suits. What was the point of sending sunlight into the crater?”
+
+
+“There’s something very interesting about ENG. It uses elements in the regolith to grow, and to do that it needs energy. But there’s almost no energy in the shadow zone—no heat, no electromagnetic gradient, no sunlight. If it can grow in the shadow zone, we thought giving it more energy would result in some interesting changes.”
+
+
+“But they tried that already with samples on Earth.”
+
+
+“Yes, in Earth’s gravity. What about the moon’s gravity? The one time ENG grew on Earth was after an earthquake, when the local gravitational field changed. But we couldn’t get the samples we had at Liberty Island to grow either. There’s only one difference between our sample and ENG in the crater: the mass.”
+
+
+“So you gave the mother colony a big shot of energy just to see what would happen? What is it with you Americans and brute force anyway?”
+
+
+“It’s worked for 250 years.” Henderson laughed. “Still, we’re glad you’re safe. Now we need to see the effect—”
+
+
+Tae shouted, “What’s that?” They looked down where the fuel vault had been. What was taking place before their eyes could only be called construction. Hundreds of golden pillars thrust upward from the surface. Golden beams extended to link them. Walls formed between pillars and beams. Like time-lapse photography, terraces, roofs, and towers formed with dizzying speed, radiating out from a central spire thirty meters in diameter, like the roots of a huge tree.
+
+
+Suddenly the growth stopped. The light from the heliostats lost focus, divided into forty squares of light, and raced away across the ice. The experiment had been terminated. Eden’s brief noon was over. In its wake was a majestic work in progress rising fifteen meters above the ice, stretching for five hundred meters on its long axis, gleaming weakly in the darkness: a Sagrada Família created by some nonhuman intelligence. They floated over it in silence.
+
+
+“Is that a cathedral?”
+
+
+Tae’s astonished question were the only words spoken for some time.

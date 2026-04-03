@@ -1,0 +1,116 @@
+4
+
+
+NO “ACCESS DENIED” warning interrupted Captain Foss’s entry into the hangar bay. The two of them stepped side by side through the blast doors. As the doors shut behind them, a second set of doors leading to the hangar opened automatically.
+“Looks like I’m still welcome to enter,” she said.
+“Maybe you still are,” Rei replied. “Or maybe you were granted new access. Still, it shows that you are considered necessary around here.”
+Grabbing two headsets in the prep room, he handed one to Captain Foss, and they climbed aboard Yukikaze.
+
+
+Captain Foss looked like she was having a hard time climbing in, loaded down as she was with folders full of documents, so Rei gave her a hand. Once she was settled into the rear seat, Rei opened his own folders and asked what they should do ﬁrst.
+“I’d like to access Dr. Lecter, my personal computer in my oﬃce. How do I do that from here?”
+She said it like she thought it was the most natural thing in the world. Of course, she could do it, but it wouldn’t be that easy. Rei ﬁrst indicated for her to plug in her headset, then switched the onboard comm system on.
+“You’ve had training on how to use the electronic warfare systems in front of you, in case you have to go into combat. Do you remember it?”
+“Yeah, of course.”
+Rei ﬂipped the master arm switch to ON. The electronic warfare system in back activated, indicating to Captain Foss that she could use it.
+As he did, Rei saw MISSION UNKNOWN ﬂash onto the main display. It was a kind of warning from Yukikaze, asking what he was planning to do. He’d already experienced what would happen if he ignored her hint.
+Rei contacted the tactical computer in SAF HQ and from it called up a catalog of past missions and orders on the display. He looked for any orders from Major Booker regarding the task he’d handed to them today. He found them next to the current date: personality analysis of Lieutenant Katsuragi and prediction of future JAM behavior. Each had been assigned a mission ID number, with Captain Foss and Captain Fukai listed as leading them. Since these had been entered, explaining the details to Yukikaze would be easy.
+Rei opened a voice line to Major Booker’s oﬃce. The response came quickly.
+
+
+“Captain Fukai, I just got another alert from STC. What are you doing, prepping Yukikaze for combat?”
+Rei read aloud the mission numbers displayed on the screen and asked that Yukikaze be added to the column indicating the personnel with command responsibility. When he explained that Captain Foss thought that Yukikaze would be interested in these missions as well, the major agreed.
+“I’ll authorize it,” he said. “It’s in your hands now.”
+Just as Major Booker had said, the tactical computer informed Yukikaze that she’d been added to the mission. She quickly conﬁrmed the change; the MISSION UNKNOWN display vanished from the screen. Preparations, complete.
+Rei called out to Captain Foss.
+“Use the emergency tactical link. Activate the SAF super linker. You can do it, Edith. It’s on the menu in front of you. Just select it and hit execute.”
+“Executing,” she replied. “Conﬁrming SSL startup. I did it!”
+“Right now, you’ve got a direct voice line to the SAF tactical computer. Just tell it your request. Call it ‘STC’ when you’re talking to it.”
+“STC, call up my computer and have it link with Yukikaze.”
+Denied, came the brusque reply from STC.
+“Okay, ﬁrst, it doesn’t know what ‘my computer’ is,” Rei said. “Second, you don’t make a request from your computer to Yukikaze. You have to say Yukikaze is making the request. First, you have to make a declaration like ‘This is Yukikaze, emergency,’ or even ‘B-1, emergency.’ If you make that declaration, you don’t have to tell it who you are. A request like that coming from aboard Yukikaze during a mission can be conﬁrmed by both STC and headquarters, and they’ll give you top priority in executing it. In order for
+
+
+STC to know which personal computer you’re calling and want to access, you have to give it either its registry number or its personal name. That’s all.”
+“STC, this is Yukikaze. Emergency. Requesting access to personal computer Dr. Lecter in the oﬃce of SAF ﬂight surgeon Captain Foss.”
+This is STC. Roger. Initiating emergency enforced linkup. Link, established.
+“Tell it ‘roger.’ Say ‘This is Yukikaze’ ﬁrst, though.”
+“This is Yukikaze. Roger.—Okay, Captain Fukai, I know we’re connected, but how do I use Dr. Lecter from here?”
+“You can bring up a soft keyboard on the EW display in front of you.”
+It was meant for making it easy to program the programmable systems on board as well as to enter established orders, but wasn’t functional during ﬂight.
+“It’s on the menu. Just select it.” “Got it. Big display, huh?”
+“It’s meant to be used while you’re wearing ﬂight gloves. You can change the size if you want.”
+“Got it. So…this is a virtual version of my personal computer within the SAF tactical computer, right?”
+“It’s an independently operating SAF personal computer. Not virtual. You’re accessing your oﬃce terminal by an individual domain that’s assigned to each SAF PC. That private domain acts as a single personal computer, so I suppose it’s a virtual computer if you look at it that way. You can load any sort of application software you have on it, but you can’t actually connect to the real PC through it. It was set up that way for security, so you can’t call it a totally virtual computer. Didn’t you know that?”
+“I remember it being explained to me, but seeing it laid out in a hierarchical display like this is the ﬁrst time I can really see how it works,” Captain Foss said as she looked at
+
+
+the EW display. “That means that all the data on Dr. Lecter is going through the tactical computer. I never realized that at all.”
+“Fundamentally, it can’t be tampered with. I suppose anybody could if they got permission from General Cooley, but it’s probably pretty hard to get clearance under false pretenses. That’s the oﬃcial line at least, but from a hardware perspective, the personal computers are just a segment of the tactical computer. The STC could probably do whatever it wanted to them if it decided to.”
+“I’m sure. Like access it freely from Yukikaze the way we’re doing now.”
+“The SAF super linker makes that possible. The SSL lets you operate the tactical computer from Yukikaze by means of a transmission protocol that’s unique to the SAF. You can’t do it unless you’re on a mission. We’re only able to do this because we’re acting under General Cooley’s orders.”
+“But that means that any squadron member could do this. My patients’ privacy would mean nothing then,” Foss said. “I suppose encrypting my stored ﬁles would be a waste of time.”
+“No, it wouldn’t. It’d take time to decrypt them, which greatly increases the likelihood of you noticing if someone’s been reading them on the sly. Anyway, let’s get to work.”
+Captain Foss’s computer Dr. Lecter had profacting applications installed. Rei had learned of the various psychoanalytical and diagnostic software applications Foss used from his numerous examinations, but as to what speciﬁc tools she was using now, he hadn’t a clue. Rei monitored her work from the display in front.
+Captain Foss started her profacting software.
+“This is T-FACPro II, the most powerful profacting tool currently available,” she explained to Rei. “Using the numerical data it outputs from the eﬀects of real-world behavior caused by mental load components, I can set up a
+
+
+certain situation and then simulate what sort of actions the target personality will take and the mental state they’ll have. It’s actually a standard tool in profacting. Ever heard of it?”
+“No,” replied Rei.
+“The psychoanalysis engine this tool runs on is top-notch, but it can’t really demonstrate its true eﬀectiveness here in the FAF.”
+“Why not?”
+“T-FACPro II was designed to be linked up with MAcBB, a huge active database used exclusively for T-FACPro. MAcBB contains the prediction data from countless researchers who use T-FACPro II as well as the actual behaviors of the target personalities. When the gap between the predicted behavior and the actual behavior is too great, the prediction technique is judged to be ﬂawed. Then, T-FACPro II’s analysis engine looks for the cause and attempts to select a prediction technique more in line with observed behavior. It’ll be hypothetical, but that hypothetical method would send feedback from the other versions of T-FACPro II running out there through the MAcBB database. If similar examples show that the method works, then it’s no longer considered hypothetical. By those means, we accumulate usable methods and samples through MAcBB. In other words, the greater the number of researchers accessing it, the smarter T-FACPro II’s analysis engine gets. However, I can’t access MAcBB from the FAF. Cut oﬀ from that, T-FACPro II can’t reach its full potential.”
+“But it’s not completely useless, right?”
+“Right. With my own know-how, we have a pretty good chance of getting a result. My T-FACPro II is better than the FAF’s own analysis tools and probably on par with the ones used exclusively by the SAF.” As she said this, Captain Foss began entering numeric data that seemed to be about Lieutenant Katsuragi.
+
+
+“You said it compares predicted behavior with actual behavior?” Rei asked, being careful not to interrupt her.
+“Right. Predictions made by the software are technically called predicts, while the actual behavior are actuals—”
+“How does T-FACPro II know what the eﬀects of real-world behavior from the target are? Do you input that?”
+“Basically, yes. It isn’t always possible for it to judge if a prediction was accurate or not. If we take you for example, if I were to operationalize some speciﬁc behavior like ‘How will Captain Fukai feel about Yukikaze from now on,’ and profacted you, T-FACPro II would output an answer like ‘He will fear her and take steps to eliminate his fear.’ Then I’d keep you under observation to see if that’s correct, and after I judge if it is, I enter the result. After that, T-FACPro II will judge the method it used as being a good one.”
+“But nothing you just described depends on that tool, does it?”
+“That’s because you’re recognizing that the results of your profact are correct. That would be useful in an actual profacting where you’re making more detailed and speciﬁc predictions. The predicted result isn’t always the actual one, so it outputs a probability for how likely a prediction will be to come true.”
+“But, in the end, it’s still just a prediction,” Rei said. “Basically, the program’s just a tool used by a researcher who’s accumulated experiences for the database. No matter how precisely T-FACPro II makes its predictions, there’s no guarantee that they’ll be correct.”
+“Yes, of course. And having said that, there are times when it has such a high degree of accuracy that a user may become convinced that its predictions are absolutely correct. It’s easy for experts to fall into that trap, to say nothing of amateurs. Well, shall we give it a try? What would you like to know about Lieutenant Katsuragi? Try giving me
+
+
+a concrete scenario. For instance, something like ‘What will he say when he sees Yukikaze?’ ”
+“Is that even possible to predict?”
+“I still can’t profact him with a high degree of accuracy. All I did was enter his PAC code.”
+“What’s a PAC code?”
+“His standardized personal analytic classiﬁcation code. Don’t you know about that? The FAF authorities used it to determine that assigning you to the SAF 5th Squadron would be a good ﬁt for you. Naturally, Lieutenant Katsuragi had a code assigned to him as well. That’s what I was inputting just now.”
+“Is everyone in the FAF numerically classiﬁed like that?” “Not just in the FAF. You may not have known it, but
+you’ve probably had a PAC code following you around since childhood. Well, how they use the code varies from nation to nation. Some just use them to classify criminals, but the PAC code itself is a worldwide standard. It’s not unique to the FAF.         Starting         with         blood         type         and         an introversion/extroversion scale, it classiﬁes you according to various psychological tendency components and arranges them as numeric data. T-FACPro II can read PAC codes directly, but in a full-scale usage of the software, it utilizes something called a PAX code, which is just an extended version of the PAC code, in order to achieve a greater level of predictive accuracy. It adds even more detailed psychological tendency components onto the PAC code, and coding those extensions is basically my job in all this. It leads to an even more detailed personality assessment. While you have to use T-FACPro II when you’re profacting, anyone can operate the software itself.”
+“I see.”
+“Since a mistake in analysis would lead to a ﬂawed profacting, I’m sure you can understand why it requires an expert’s experience and advanced knowledge.”
+
+
+“Have you made a PAX code for me too?”
+“Yes, but your values aren’t ﬁxed. You’re gradually changing.”
+“I’d expect that. Humans are essentially analog. I doubt digital numeric data could express an individual personality,” Rei said.
+“No,” Captain Foss replied. “It’s actually quite rare to have to revise past PAX code data to achieve an accurate profacting, as in your case. I’ve never seen anyone demonstrate personality changes as dramatic as yours. I originally thought I’d made a mistake when I ﬁrst created your PAX code, but T-FACPro II determined that it was highly probable that the code was ﬁne; you were changing. At this point, I know that was correct. It’s very rare. You have noticed how much of an interest I have in you, right?”
+“But that isn’t actually me,” Rei said. He lifted his eyes from the main display and looked back into the rear seat as he spoke. “You’re telling me that a person’s will can be determined by a simple code. But I could look at the same thing more than once, and I might like it one time and not like it the other, despite what the code says, right?”
+“It’s not perfect, but if you keep working with T-FACPro II, it may be able to predict what you’ll say over the course of repeated iterations.”
+“So, human beings can be expressed as some kind of numerical code? That’s ridiculous. Don’t you think so?”
+“I’ll agree that it’s unrealistic to expect to perfectly express a person as a data string,” said Captain Foss as she looked at Rei. “Think of it this way: all humans carry a chemical code within them called DNA, but it’s obvious that reading that code won’t tell you everything there is to know about a person. You may be able to tell what sort of things a person with a certain code might like, but it won’t tell you where they live. You might be able to predict what sort of habitat they’d prefer, but nothing speciﬁc of course,
+
+
+because there are countless habitable places where an individual may ultimately settle. Since the code is limited, you can’t express everything in it. The PAX code doesn’t represent everything there is about a person any more than their DNA does. In other words, the code is simply an expression of possible properties that may materialize, and the probability of them doing so. People with the genetic code for longevity don’t all end up living long lives. They could die in accidents or be murdered—”
+“What I’m trying to say,” Rei replied, cutting her oﬀ, “isn’t nearly that tortuously detailed. The way I’d put it would be along the lines of ‘Numbers don’t determine the man.’ ”
+“What you’re feeling right now is discomfort at the idea that your existence is being manipulated by others,” Captain Foss responded, not missing a beat. “You don’t like the thought that you can be so easily represented by an external numeric expression called a code. The thing is, no matter what sort of number you’re talking about, be it your PAX code or your FAF recognition number, changing a number doesn’t change who you actually are. Changes within you change the code, never the other way round. The thing that changes you is yourself. As your doctor, I understand very well your discomfort over the notion of the code manipulating people, but I can tell you that you’re mistaken.”
+“You think so?” Rei replied, turning back to the front and folding his arms. “But if changing myself changes my code, then by extension you’re saying I should be able to alter my own DNA.”
+“You’re basing that premise on the idea that the code manipulates the person, which is deﬁnitely mistaken. That’s what we in my profession call a delusion. You can’t encode the essential character of a human being. You also said that was ridiculous, didn’t you?”
+
+
+“What about the fact that humans carry a DNA code within them?”
+“Well, if you’re going to put it like that, then I’ll say that DNA isn’t the only internal code that determines who you are. Think of it this way: humans are more than just the result of their physical DNA code.”
+“Hmm…”
+“You can’t change the arrangement of your DNA,” Captain Foss said. Rei listened in silence.
+“But, assuming that changes in your essential character changes an internal code, then the only conclusion that works is that some part of you aside from your DNA gets changed. When you think of it that way, it seems much more likely. For example, all of the somatic cells that make up a human being carry the same DNA, but which parts of them are active at any moment is diﬀerent for each cell. Suppose it was possible to encode that pattern. Aside from that, human intelligence and consciousness would have to be taken into account as well. The entire system would then become a variable length, endlessly rewritable internal code of limitless capacity. Who could write such a code? It would take the life span of the universe for you to do it yourself. I don’t think that humans and other life-forms operate that ineﬃciently, but assuming for now that such a code exists, a change in it doesn’t necessarily change your self. In the instant your self changes, however, that code gets rewritten. On that point, this imaginary internal code and the PAX code are the same. Would you agree?”
+“If this turns into a debate in your ﬁeld of expertise, I have no way of winning it,” Rei said.
+“Debate is exactly the way I’d expect you to put it. Still, you raise a good point. Some experts have argued that, rather than an ideal internal code, a limited buﬀer area exists within people into which is encoded predictive behavioral awareness. That’s what T-FACPro II simulates. If
+
+
+you want me to give you a lecture so you can understand exactly how profacting works with T-FACPro II, I can do that later, once we’re oﬀ the clock. But we have a job to do now, and Lieutenant Katsuragi is the one being analyzed and not you.”
+After telling Rei that it was natural for someone being profacted themselves to be interested in how T-FACPro II worked, Captain Foss began a new operation.

@@ -1,0 +1,1480 @@
+CHAPTER 2
+
+
+
+
+OPERATIONAL STATUS OF EXISTING FACILITIES
+
+
+
+
+[1]
+
+
+TAE SQUINTED THROUGH the quartz window of the Chang’e spacecraft, atop China’s Xiwangmu 5 space station module. “I can’t see the surface too well. It’s all blurry,” she said from her perch on Sohya’s lap.
+
+
+“You have to focus both eyepieces,” answered Sohya.
+
+
+“I did. But it’s still blurry.”
+
+
+“Here, let me try.” Sohya reached for the forty-power Nikon binoculars. He peered over her shoulder toward the lunar surface, adjusting the knobs on each eyepiece and trying to gain a consistent focus at a variety of distances. He got the same results as the girl. The stark black-and-white outlines of craters and valleys slowly scrolling past the window refused to come into focus. Focusing the eyes to compensate just made the strain worse. Tae, her head beneath Sohya’s jaw, looked up.
+
+
+“See?”
+
+
+“You’re right. Maybe it’s foggy down there.”
+
+
+“There’s no air.” Tae giggled. She knew when Sohya was joking. For a thirteen-year-old she was surprisingly mature.
+
+
+After they had struggled for several minutes with the binoculars, Commander Feng, in the center couch, interrupted his discussion with Flight Engineer Ma and turned to Sohya. “There’s a trick to it. Give me those for a minute.”
+
+
+Feng held the binoculars in front of the window and released them. They floated in the free-fall conditions of lunar orbit. With the tip of his index finger, he gently tapped the binoculars two or three times, rotating the focus knob slightly without displacing the instrument.
+
+
+“Take a look now. Be careful, don’t bump them.”
+
+
+It was not clear what he had done, but when Sohya looked through the floating optics, he cried out in surprise. “I can see!”
+
+
+“Really?” asked Tae incredulously.
+
+
+“Clear as a bell.”
+
+
+“Let me look!” She raised her head to look through the glasses. Her long hair was gathered into a bun on her head, but her bangs brushed an eyepiece. The binoculars began to rotate slowly. She whined in frustration and grasped them. Sohya said to Feng, “How did you do it?”
+
+
+“With the naked eye you can see the surface moving slowly under us. Right? But our altitude is one hundred kilometers, and our speed is about 1.73 kilometers per second. That’s twice as fast as a rifle round. Looking down with forty-power binoculars is like being 2.5 kilometers from the surface. The angular velocity of your field of vision is magnified by small hand tremors. That’s why everything ends up blurred.” He moved the tip of his finger around Tae’s head. “We’re orbiting once every 1.9 hours. Give the binoculars the same orbital period and they’ll track the surface for you. Tae, do you think you can do that?”
+
+
+“Just focus the eyepiece a little, right? I’ll try.” She parked the binoculars in front of the window and made several attempts to bring the surface into view, using the tip of her finger to rotate the eyepieces, but was unsuccessful. “This is hard!” she pouted. Feng laughed.
+
+
+“It takes a while to learn. The Russians taught us, but it took us a while too. Manage it before we land and you’ll be a certified taikonaut.” He went back to his predescent checklist.
+
+
+Though they were based on a Russian design, the Xiwangmu modules were the pride of China’s aerospace program. The China National Space Administration—CNSA—had sourced its manned space technology from the Russians, improved on it, and produced its own spacecraft. The prototype for Xiwangmu was the Soviet Salyut space station module, originally developed in the 1960s for missions to the moon. Thirteen meters long, with a mass of eighteen tons, Salyut was impressively large, but its descendant was more famous: the orbital science station Mir, launched in 1986. Mir consisted of five fourteen-meter cylindrical modules, all based on the Salyut design, arranged around a central spherical docking node. Descendants of Salyut were later incorporated into the International Space Station. It was a classic design, reliable and easily configured.
+
+
+The key to China’s successful construction of humanity’s first manned moon base in 2020 was her development of Xiwangmu based on the Salyut design. These large modules offered ample living space and could be used to ferry taikonauts and supplies to the moon, where the modules would be lowered to the surface. In effect, that is what China’s lunar base was—Mir modules sitting on the lunar surface. In each of the past four years, China had sent a Xiwangmu to the moon and used it to enlarge the base, which they christened Kunlun. This was Sohya and Tae’s destination.
+
+
+Four days earlier, they had lifted off with the two-man Chinese crew from Jiuquan Launch Center in Inner Mongolia aboard a Chang’e spacecraft. The Chang’e was also based on a Russian design—Soyuz—and carried by a Long March III launch vehicle.
+
+
+At first, Sohya and Tae’s participation in the mission was in doubt. With his usual drive and network of connections, Gotoba set about securing places on Chang’e, but was only able to obtain one. And that seemed to be that. Each new Chinese crew relieved those already on the moon and remained there till the next Xiwangmu arrived a year later. But Sohya and Tae were scheduled to return at the first opportunity, which meant that at least one base member would be forced to extend their stay for an extra year. This would create numerous operational complications. For the Chinese to grant permission for even one place on Chang’e was a huge concession.
+
+
+One place on the three-seat spacecraft should have meant one passenger, but thanks to Gotoba’s negotiations—and a well-timed cash transfer of three billion yen—the Chinese found a solution. Tae would travel into orbit sitting on Sohya’s lap.
+
+
+At first this seemed absurd. Nothing of the sort would have been possible with NASA, given the Americans’ famously strict adherence to procedure. Yet the idea was not that outlandish. Sohya was of average build, and Tae was a slender girl. The Chinese crew members were not very large either. The prototype for Chang’e was the Soyuz TM spacecraft, and although Soyuz was designed for comparatively small cosmonauts, the combined weight of Sohya, Tae, and the two Chinese differed little from that of three Russians. The problem was not the number of passengers but their combined weight.
+
+
+In the end, it proved easier to proceed than to worry about theory. The launch went flawlessly. The Chang’e with four passengers aboard withstood the acceleration and shock of launch and reached Earth’s orbit safely. When they arrived there, Xiwangmu 5, successfully launched twenty-four hours earlier, was standing by. Xiwangmu’s primary mission at this point was to carry a large payload of supplies to Kunlun. The module was equipped with the detachable second-stage booster needed to insert its considerable mass into a lunar transfer orbit.
+
+
+Conditions were more comfortable once they docked with the waiting Xiwangmu. Though packed with supplies, it was still far more spacious than their three-couch capsule. The four voyagers went through the forward docking hatch and spent the three-day trajectory to the moon aboard Xiwangmu 5.
+
+
+The Soyuz TM stack consisted of three components: an orbital module, a descent module in the middle, and a service module with engines astern. The Chang’e replaced the orbital module with a return module for the journey from the moon to Earth.
+
+
+Once in orbit around the moon, the spacecraft detached from Xiwangmu, rotated 180 degrees, and redocked with the return module pointing forward. It was then detached and parked in orbit. Once on the surface, Chang’e was detached, and Xiwangmu was joined to the other base modules.
+
+
+To return to Earth, the Chang’e from the previous mission was used to reach orbit, where the return module was waiting. This ensured that the base crew had a recently maintenanced spacecraft if an emergency forced them to leave the base.
+
+
+After using the Chang’e service module to reach lunar orbit and dock with the waiting return module, the taikonauts headed back to Earth, where the return and service modules separated and burned up in the atmosphere. On the moon leg of the journey, the Chang’e weighed twenty-seven tons; the only thing to reenter the atmosphere was the three-ton descent module.
+
+
+Now Xiwangmu 5 was in a slightly inclined orbit around the moon, preparing to descend. In case an emergency required them to abort and head back to Earth, the crew had moved from Xiwangmu to the descent module. The stack had rotated 180 degrees, and the return module was parked in orbit. Now Chang’e could separate from Xiwangmu at any time. Xiwangmu’s slow rotation, necessary to passively distribute solar heat, had stopped. With the descent module’s engines pointing in the direction of travel, all that was required now was to fire them for a powered descent.
+
+
+Commander Feng snapped his checklist binder shut. “Beijing Control, Chang’e. Return module separation complete. Ready for powered descent. Request permission to proceed.”
+
+
+Radio waves from Chang’e sped toward a trio of data-relay satellites in geosynchronous Earth orbit. Feng’s voice was handed off to Beijing Aerospace Command and Control Center, which at this moment was on Earth’s far side. These relay satellites allowed communication with Flight Control twenty-four hours a day. For the Apollo missions of the sixties and early seventies, NASA had been forced to construct satellite tracking stations in far-off Spain and Australia to maintain contact with its astronauts when the United States was facing away from the moon.
+
+
+Ten seconds later—including the three-second lag required for radio waves to make the round-trip—the flight controller replied. “Affirmative, Chang’e. You are cleared for powered descent to Kunlun Base.”
+
+
+“Roger. Beginning powered-descent sequence.” Feng turned to his passengers. “Ready?”
+
+
+“Wait!” Tae was looking intently through her floating binoculars. Sohya looked out the window and saw what had caught her attention. On the surface directly below, something glinted at the dividing line between glistening dark volcanic ash and brilliant white lunar surface. Sohya could just make out a tiny cross, like rice grains laid end to end. It was Kunlun Base, in a valley southwest of Mons Hadley on the eastern limb of Mare Imbrium. NASA’s Apollo 15 had landed in this area, and this part of the moon’s northern hemisphere was familiar to the Japanese as the space between the right-hand of a pair of rabbits pounding rice paste in a mortar, and the mortar.
+
+
+“I see it! It’s in focus!” cried Tae.
+
+
+“Beginning powered-descent sequence. Commencing attitude maneuver.” Feng engaged the sequencer to increase lateral acceleration. The surface slipped from sight as the stack rotated. Tae puffed out her cheeks in frustration. “Just when I get it to work…”
+
+
+Feng chuckled. “Too bad, we couldn’t confirm it. This one doesn’t count. You’ll have another chance on the way home.” Feng and Ma calmly continued with the landing sequence. “Attitude maneuver complete. Initiating descent burn.” Sohya felt slightly pressed into his flight couch. The binoculars landed on Tae’s chest and her body took on weight, pressing down on him. Xiwangmu was moving backward, its engines slowing its orbital velocity.
+
+
+“First descent burn complete. Surface velocity, 1.6 kilometers per second. Descent angle, nominal.”
+
+
+“Chang’e, please confirm correction for Imbrium mascon.”
+
+
+“Beijing Control, I’ve just sent you the radar altimeter correction factors.”
+
+
+“Thank you, Chang’e, we have the data. When is your next burn?”
+
+
+“Beijing Control, we are looking at initiating next burn in approximately forty-five hundred seconds. Will apply correction just prior to burn. Third burn after ILS acquisition.”
+
+
+“Ah…Chang’e, we’d like you to rerun your center of mass and thrust vector calculations with your backup computer. If the solutions are inconsistent, we’ll bring you in manually.”
+
+
+“Roger, Beijing Control.”
+
+
+This is routine for them, thought Sohya. The assurance that seemed to pervade the Chinese approach to spaceflight, from adding a passenger to using weightlessness to steady the binoculars, made it hard to believe the Chinese had flown into space for the first time early this century. This was only their fifth manned moon mission, but they had sent astronauts into low earth orbit over twenty times. The payoff in depth of experience was evident.
+
+
+He glanced at Tae. She seemed to be studying every move Feng was making at the controls. Sohya spoke to her in Japanese. “Scared?”
+
+
+“A little. Why do you ask?”
+
+
+“You seem worried about the controls.”
+
+
+“I’m sure the commander knows what he’s doing.”
+
+
+So what is she looking at? thought Sohya. She can’t be interested in the flight controls or the hardware. Over the past month, Sohya had discovered that Tae was extraordinarily precocious for her age, but it was hard to believe she could grasp anything about the functioning of a spacecraft. Even Sohya found it hard to understand.
+
+
+He could feel the beating of her heart through her back. His own heart was also pounding. Both of them were rather—no, very—tense. Feng and Ma were seasoned veterans, but that wasn’t the point. Watching them control the spacecraft’s descent was stressful in itself. The procedures were bafflingly complicated. One mistake and they would probably be smashed to bits on the surface or torn apart to float in fragments in space. If not, they’d undoubtedly suffocate. Just thinking about the consequences made calm impossible. Tae must have been thinking the same thing.
+
+
+They watched silently. The only sounds in the capsule now were those of the commander and the flight engineer as they confirmed each adjustment.
+
+
+Reducing its orbital speed caused the stack to descend. The only way to do this was to fire the engines directly against Xiwangmu’s orbital path. Firing the thrusters directly away from or toward the surface would change the shape of the orbit but would not enable them to land. So the stack was moving backward and firing its engines straight ahead.
+
+
+Still, touching down was not a simple matter of using the main engines. The distance from first descent burn to landing was several thousand kilometers. With three separate burns, they had descended close to the surface from an altitude of one hundred kilometers. Once Kunlun Base reappeared on the horizon, its guidance signal would be acquired. Then the ship would gradually be brought to a vertical attitude while following the signal in toward the base.
+
+
+Too close an approach to the base risked collision with the modules, so the landing site was one hundred meters away. Once the stack was positioned over the site, the engines were fired to keep it suspended. The engines would then be gradually throttled back until contact with the surface was made.
+
+
+The stack was now vertical. As he lay in his flight couch, Sohya felt a hard vibration beneath his back. Tae’s body sank into his. Sohya braced to support her thirty-odd kilograms, but just as gravity seemed to have restored a small amount of weight, Commander Feng said crisply, “Touchdown.”
+
+
+Sohya and Tae exchanged glances as they experienced their new weight, different from that on Earth.
+
+
+“Sohya, I’m not very heavy, am I?”
+
+
+“You never were, but right now you feel light as a feather.”
+
+
+“Crew IV is here to greet us,” said Ma as he switched a monitor to one of the external cameras. Two figures wearing orange space suits were bounding over the surface in large skipping steps. Each odd-looking step covered five meters and lifted them off the surface for two seconds.
+
+
+“So this is what one-sixth G feels like,” marveled Sohya.
+
+
+“Well, we’re on the moon, you know,” replied Tae.
+
+
+Her matter-of-fact response, instead of the excitement one might have expected, made Sohya burst out laughing.
+
+
+
+
+[2]
+
+
+MAN-MADE SATELLITES first reached Earth orbit in the 1950s. People of that era assumed that by the following century, space exploration would be in full swing. Cities would be built on the moon and Mars. Humanity would travel freely between Earth and space. Apollo 11 seemed to be the curtain-raiser for the coming space age.
+
+
+But today, in 2025, fewer than forty astronauts were at work outside Earth’s atmosphere. Four out of five were in low orbit—below five hundred kilometers—at the aging and soon to be deorbited International Space Station or at the barely funded Vardhana Orbital Experimental Facility, operated jointly by the Indian Space Research Organization and the European Space Agency. Of the remaining 20 percent, three were represented by the crew of mankind’s first manned mission to Mars, mounted by NASA and JAXA, Japan Aerospace Exploration Agency, in 2023. But the crew had miscalculated their orbital insertion and missed the opportunity for a descent to the surface. Now they were on their way back to Earth, having accomplished little. The final three astronauts in space were the crew of Kunlun.
+
+
+Humankind’s push into the solar system, a dream since the last century, had hardly begun. Two factors were behind the delay.
+
+
+The first was the daunting expense. America’s Apollo program had cost $25 billion in the 1960s. Even in 2000, the cost to put a ton of payload into orbit ranged from four hundred million to one billion yen. Furthermore, the percentage of successful launches was less than satisfactory. Most launch vehicles failed to promise 99 percent safety even on paper, and the real failure rate reached several percentage points. There was certainly little prospect that anything like the one in a million odds of a catastrophic commercial-airline accident could be achieved. Enormous expense had gone into raising the safety margin of launch vehicles to where it was today. New technologies and materials were applied first and foremost to improving safety. Achieving lower operating costs took a backseat. By 2025, the cost to put a ton of payload into a three-hundred-kilometer orbit above the earth was more or less stuck at three hundred million yen.
+
+
+But there was another factor, more deep-rooted and fundamental, blocking the road to space: the lack of an objective.
+
+
+Why go there? During the Apollo program, there was a simple answer: to beat the enemy. In the sixties, Khrushchev’s Soviet Union and Kennedy’s United States were at the height of the Cold War. Rocket development was an urgent priority. That technology would allow direct strikes on enemy targets with nuclear warheads. Even after the development of intercontinental ballistic warheads, the motivation for space development was the pursuit of national prestige. With one launch after another, the two superpowers had embarked on a titanic struggle to seize the advantage. Development leads amounting to little more than a few months shifted back and forth. Ultimately, the Americans pulled away from their Soviet opponents and ended the competition by putting men on the moon.
+
+
+Skylab. Salyut. The U.S. space shuttle. The Soviet Buran shuttle. Space Station Freedom. Orbital station Mir. Each program, successful or not, represented a boast of national strength carried out with one eye on the other superpower. But this competition had ended along with the Cold War. Other powers—Europe, Japan, India, China—caught up and began fielding their own launch vehicles. In the process, national prestige as a driver began to fade.
+
+
+But by that point, the energy to reach the moon had already been exhausted.
+
+
+At the turn of the century, the collapse of the Soviet Union had boosted American power. The anarchic forces of free market capitalism were in full control. Everything was evaluated from the standpoint of costs and benefits, and space exploration could not escape the reigning mood. The basic goals of scientific progress and human advancement fell by the wayside while investment was channeled to launching satellites that promised a return on investment. Internet-communications satellites. GPS satellites for car navigation. Earth-observation satellites for detailed mapping services. Earth orbit was crowded with them.
+
+
+In contrast, budgets for “unprofitable” scientific missions were cut one after another, and proposals for launching manned missions were regarded as wasteful at best. Construction of the International Space Station, touted as a symbol of East-West cooperation, was delayed at the outset, thanks to Russia’s chaotic transition to capitalism. Some even mocked the ISS as a program in search of a concept. Then technical problems forced a gap in the resupply schedule by aging space shuttle and Soyuz spacecraft, and the ISS went unmanned for six months. It was a humiliating setback for a program that boasted it would deliver a continuous presence in space.
+
+
+Clearly, the problem was the lack of a fundamental justification for space exploration. The barrier was the fact that humans did not truly need to leave their home planet. If funds spent on space programs were channeled to social welfare, education, promotion of international peace, and environmental preservation, the planet would be that much better for everyone. This was the position of the antiexploration faction. It was, without a doubt, a valid position.
+
+
+The proexploration faction struck back with facts of their own. If making our current habitat more comfortable removed the need to go elsewhere, why did humanity spread across the planet in the first place? Since it had left the forests of Africa two million years ago, the species had constantly been on the move. The Arabs voyaged with their dhows along the coast of Africa to India. The Mongols subjugated Asia. The nations of Europe vied to send ships across the seven seas. The Japanese attempted to expand into Asia as a whole. And all despite having a place to call home. For most of its existence, Homo sapiens had been a species moving ever outward.
+
+
+But there was a huge hole in this argument. It explained the motivation of those who wanted to keep moving, but it did not justify demanding help from those who preferred to stay home. Each side was talking past the other. The debate always seemed to end in pointless mutual denunciation.
+
+
+And so time passed, and the species remained earthbound.
+
+
+But there were those who realized that the entire debate was purely academic. As things stood, they were like islanders without a boat arguing over whether they should visit the next island. If a boat was available, those who wanted to go would go. If cost was an obstacle, all that was required was a profitable boat. With enough boats, even profitless voyages would become a possibility. That is, if there were some way to send humans into space profitably.
+
+
+People had been making efforts to do that for some time. In 2001 the Russian space agency had sent a self-made millionaire to the ISS for twenty million dollars. This was neither the first nor the biggest deal of its kind. Before that, a Japanese television station had sent a journalist to Mir, and an American soft drink company had offered a ride on a spacecraft as a prize in a sales campaign. Many plans for space tourism, offering anything from a few minutes to a few hours of low-altitude spaceflight, were on the drawing boards in America, Europe, Japan, and elsewhere. Many of these concepts were too far-fetched to be taken seriously, but others were well within the realm of possibility.
+
+
+A proposal by a Shanghai travel agency probably represented the peak of space-tourism planning. The plan was to send three tourists into space for four orbits—half a day of genuine spaceflight—using a launch vehicle and spacecraft supplied by China, which had already mounted six successful manned missions.
+
+
+Then just before the launch, the plan collapsed. The Chinese government’s condition for using the Chang’e spacecraft for a civilian flight was that the launch be combined with the testing of a device—a weapon, according to some rumors—that was to be attached to the exterior of the spacecraft. At the last minute, CNSA announced that for reasons of national security, the windows of the capsule would be covered during the flight.
+
+
+The three space tourists were looking forward to experiencing Yuri Gagarin’s famous words—“The Earth is blue. How wonderful…It is amazing”—and refused to accept the Chinese demand. The fare was twenty million dollars, and no one else was willing to pay such a huge sum. And that was the end of the plan.
+
+
+People around the world who were waiting expectantly to see this concept move forward were extremely disappointed. The dilemma was this: the best technology was controlled by national space agencies with no interest in helping stage pleasure excursions into space. Private enterprise had the dreams and the plans but no spacecraft, and the cost to obtain one was far beyond their means. Few were willing to pay the enormous fees required, and making the business a paying proposition involved walking a very slender tightrope.
+
+
+The history of commercial spaceflight planning was a succession of concepts appearing and disappearing, of proposals submitted and shot down. A feeling of helplessness began to overtake those who understood the situation even superficially. Perhaps national space agencies and the enormous resources they commanded really were the only way to get off the earth.
+
+
+For years, resignation continued to spread. Technology advanced, nations grew richer, the time seemed ripe for reinvigorated space exploration, but the experts were unanimous: it was not yet feasible. If only the cost could come down a bit more. If only technology were slightly more advanced. If only people were a little more affluent…
+
+
+Two lines on the graph—the cost of space travel and what the average person could afford to pay for it—seemed forever poised to cross, but did not. And people who dreamed of a new age waited with a forlorn hope that someone would find a way to make it happen.
+
+
+But although no one had noticed, the future of space travel was about to arrive.
+
+
+
+
+[3]
+
+
+A SIMPLE ARM-AND-WINCH arrangement was all that was necessary to lower Chang’e onto the lunar surface next to the upright Xiwangmu 5. The operation appeared dangerous but was not unusual for this type of spacecraft. The Russians regularly used a robot arm a few tens of centimeters long to maneuver modules nearly the size of Xiwangmu into place at Mir’s spherical docking node.
+
+
+The four crew members were in their suits and had finished the prebreathing period to avoid decompression sickness. Feng depressurized the command module, and one by one the new arrivals climbed through the hatch and down onto the surface of the moon. Tae was first to emerge, jumping lightly down onto the surface. Feng, Sohya, and Ma followed. Sohya watched as the occupant of the tiny orange space suit raised her arms in a long stretch.
+
+
+“Wow, that was tough! My joints hurt.”
+
+
+“Those are your first words? The first Japanese to set foot on the moon?”
+
+
+“What?” Tae turned to look at him. Her large pupils were just visible behind her gold antiglare visor.
+
+
+“There’s live television coverage of everything we say. President Gotoba sold the rights to help pay for the trip.”
+
+
+“Really? But it was so cramped in there.” The fact that more than one hundred million people in Japan and around the world might be listening seemed the furthest thing from her mind. When it was decided that the seating arrangements dictated that Tae be the first to climb down onto the surface, Gotoba’s PR chief started salivating. He guaranteed huge fees for even a bare audio feed. As it turned out, Tae’s first words were likely to generate complaints. The Chinese government, for one, would want to know where she got off calling their spacecraft “cramped.”
+
+
+“This suit is tight and hard too. It pinches. A skirt would’ve been more comfortable,” joked Tae, continuing to blaze a trail through the history of Japanese space exploration with another pedestrian quip. It had cost 15 million yen to modify a Russian Krechet M space suit to fit her. Still, it was not made for comfort. The Krechet was much more flexible than the previous-generation Orlan M suits, but the joint material was better than three millimeters thick—difficult enough for an adult to flex, much less a girl of Tae’s size.
+
+
+Commander Feng stepped firmly down onto the surface, turned, and raised a hand toward the camera. “Beijing Control! This is Feng. Leaving my footprints on the moon, I add another shining chapter to the glorious history of the People’s Republic. I am honored to be here.”
+
+
+That’s more like it, thought Sohya. He folded his arms across his chest and nodded. But Feng’s words might not have had quite as much impact coming after Tae’s remarks.
+
+
+Jiang and Cui, the two base members who came to meet them, saluted Feng. “Commander,” said Jiang, “we are ready to reorient the cargo vehicle.”
+
+
+“Very good. Aomine, Tae—please stand clear.”
+
+
+The two passengers moved away from Xiwangmu, and the Chinese astronauts began the difficult post-landing procedure. The cluster of modules comprising Kunlun Base was one hundred meters away. The cylindrical units were joined at a central core, like the petals of a flower. Xiwangmu 5 would be linked to the end of one of these modules. But before the giant module, tall as a five-story building, could be transported to its final position, it had to be laid on its side. On Earth, this would have called for a crane. The moon’s low gravity, however, allowed for alternative procedures.
+
+
+“Mass distribution data received, Commander,” said Jiang. “Ready to deploy shock mat.”
+
+
+A flatbed automated moon rover, looking like a low-slung buggy, approached the landing site. Jiang hoisted a white, pillowshaped object off the rover—it was nearly as wide as his outspread arms—and placed it on the surface. He squatted by the object, triggered a switch, and quickly moved away. In an instant, the “pillow” inflated explosively to a drumlike shape five meters across.
+
+
+“It’s just like a pancake,” exclaimed Tae.
+
+
+“It’s a shock-absorbing mat. A gas cartridge takes care of inflation,” said Sohya.
+
+
+“Is that where the module is going to fall?”
+
+
+“That’s right.”
+
+
+Feng operated a remote control. A small, bird’s nest–shaped thruster near the top of Xiwangmu began firing. The module started to list like a huge tree being felled. Feng immediately applied full power to the opposite thruster, minimizing Xiwangmu’s lateral motion. It took a full twenty seconds for the huge cylinder to topple over onto the mat. Jets of gas erupted around the perimeter of the compressed cushion. Sohya muttered skeptically, “Pretty basic. What happens if they miss?”
+
+
+Feng’s voice came over his headset. “We never miss. Thruster control is completely automated. Xiwangmu is built to withstand this sort of handling. The mat was originally designed to raise overturned battle tanks. Compared to that, Xiwangmu’s three and a half tons of effective mass is light as a feather.”
+
+
+Feng toggled the remote, and gas began slowly escaping from the mat. Xiwangmu quietly settled onto the surface. The Chinese walked around the module, visually inspecting to confirm that no projecting elements had been damaged.
+
+
+“This might seem primitive to you,” continued Feng, “but believe it or not, NASA used the same method to drop a probe onto the surface of Mars. It functioned flawlessly. Compared to that our method is quite gentle, don’t you think?”
+
+
+“How do you transport it to the base?”
+
+
+“Simple. Watch.”
+
+
+The four astronauts moved to the vehicle and rapidly fastened thin wires to reinforced attachment points. Their practiced motions suggested previous experience in a low-G training pool. The anchored wires were joined in a bundle and attached to a winch on the rover. Sohya asked in disbelief, “Are you going to roll it? You can’t be serious.”
+
+
+“That’s exactly what we’re going to do. Any objections?”
+
+
+“No. But isn’t that extremely risky? What happens if it snags on a rock? Or a wire breaks? Or you punch a hole in it? Just one mishap could end your plans to stay for another year.”
+
+
+“The first Xiwangmu was positioned to avoid those problems. We chose a flat area free of rocks that might interfere with later modules. Since then we’ve attached three more modules without a hitch. Even if we’re unable to move a module, there’s no need to abandon it. We just leave it in place as a stand-alone unit. Going back and forth will be a little inconvenient, that’s all.”
+
+
+The rover shuddered as power was applied but barely seemed to be moving. Since it was smaller and lighter than a compact car, very slow speed in hauling the huge Xiwangmu might have been unavoidable. Still, it looked like the two-week lunar day would be over before it reached the base.
+
+
+Feng confirmed this. Connecting the module would take at least till the end of the lunar day. Sohya felt a strange admiration: after four thousand years of history, the Chinese could be amazingly patient.
+
+
+“We carry out the transfer in units of one revolution. Today we level the interior floor and we’re done. Let me show you to the base—then I must return here.” Feng motioned toward the cluster of modules partially buried in lunar regolith. Sohya and Tae began walking toward them. Suddenly Sohya noticed that Crew IV member Cui was staring at them. Feng scolded him. “Cui! Stop wasting time. The only one who’ll suffer is you!”
+
+
+The man turned to his work, but several times his glance drifted back to Sohya and Tae.
+
+
+
+
+
+
+THE SOLAR DAY on Mare Imbrium was perhaps a third over. The surface was bathed in dazzling direct sunlight. With no atmospheric scattering, the flat surface scintillated in pure white. The dividing line between light and shadow on the distant Apennines was stark, but portions of the base in shadow could just be made out in the reflected light from the surface.
+
+
+Out in space, the sun was perhaps thirty degrees from the zenith, surrounded by a fierce corona. Earth loomed hugely overhead, divided into equal portions of light and darkness. The stark clarity of surface, space, and Earth created an impression of intense three-dimensionality.
+
+
+Sohya and Tae kept looking around at the landscape as they walked toward the base. Several times they stumbled. When they reached the air lock at the end of one of the modules, Tae murmured reluctantly that she wanted to see more, but Feng assured her there would be plenty of time for that later. They would be here for a week, and part of their stay would include observing operations on the lunar surface.
+
+
+They climbed a collapsible stairway and entered the manholeshaped air lock about two meters above the surface. Each time the air lock was used, a certain amount of atmosphere was lost, so Sohya and Tae squeezed in together. There they waited for the air lock to be repressurized from the inside.
+
+
+Once pressurization was complete, the inner hatch opened, and they removed their helmets. Base Commander Peng, the third member of Kunlun Crew IV, was waiting for them clad in a light T-shirt.
+
+
+“Guests from Japan! We welcome you to Red Phoenix, the Kunlun Base lunar-surface research module.” Images of their arrival were being transmitted to Earth via a camera mounted on the ceiling. As if conscious of this, Peng grinned broadly and extended his right hand. Sohya assumed an appropriate smile and shook his hand, but Tae ignored him. Instead, she looked around and sniffed the air doubtfully.
+
+
+Sohya whispered in Japanese, “Tae, don’t forget your manners.”
+
+
+“It smells like a ramen shop in here.”
+
+
+“What?”
+
+
+“The smell. I don’t like the smell of cooking oil.” She frowned. Sohya hurriedly plastered on a smile again and tugged at her, forcing her to shake hands with Peng. Once the base commander’s large hand enclosed her glove, she finally looked at him. In slightly stiff but clear English, she said, “I’m very happy to meet you, Commander Peng.”
+
+
+“Welcome, Tae. Is something bothering you?”
+
+
+“Well, it smells kind of—”
+
+
+“Tae,” Sohya broke in, “it can wait. Let’s get these suits off.”
+
+
+“But…”
+
+
+“Yes, that’s a good idea,” said Peng. “You’ve been suited up since you transferred into Chang’e. You must be tired. And we’ve got some time before Cui hands off to Feng and comes back.” As he spoke, Peng moved toward the wall rack. Suddenly he slipped and, with a comical grab at the rack, barely prevented himself from falling. He clucked his tongue in frustration and looked up at the video camera.
+
+
+“Beijing Control, I’m terminating the feed for a few minutes. Tae needs to remove her suit.” Peng entered a command on his wearcom, and the camera’s indicator light went off. Without the observing eye, Peng’s smile disappeared. “Now you can change,” he said in a businesslike tone.
+
+
+Tae looked down at her suit and murmured, “Where do I go to change, again?”
+
+
+Beneath their suits, Sohya and Tae were wearing just a spandex liner garment crisscrossed with thin tubing for coolant circulation. They would need additional clothing once they were out of their space suits.
+
+
+“Uh-oh—our gear is still in Xiwangmu. We can’t get to it right now,” said Sohya.
+
+
+“Then you can use something of ours.” Peng went toward the rear of the module. Once he was out of sight, Sohya murmured, “That must’ve been embarrassing, losing his balance in front of the whole world.”
+
+
+“The floor is wet.” Tae pointed. Sohya looked down at his feet. About two-thirds of the module’s cylindrical interior was above the floor, which was composed of aluminum-alloy panels. The mesh panel was slick with some kind of liquid. Sohya traced the leak with his eyes and saw it coming from a patched pipe on the wall. He touched the liquid with a fingertip.
+
+
+“Feels like glycol or something similar. Coolant for the airconditioning system. Not very tidy for the base entrance.”
+
+
+“Sohya, I’m getting this weird feeling,” Tae whispered and grasped his hand. As he looked around, Sohya knew what she meant.
+
+
+The entire space was a jumble of equipment. Peng’s suit hung on the wall, along with digging tools, a crowbar, something that looked like a metal detector, and various other pieces of equipment, all of which seemed to have been carelessly stowed. Some of the gear was broken or damaged. Bundles of cables drooped from half-open cabinet doors like dead snakes. Several pipes were rusted, seemed about to come loose, or showed signs of having been patched here and there. Some of the pipes had been repaired with metal tape. The LED illumination panels in the ceiling were darkened with what looked like soot, and the mesh panels underfoot were gritty with lunar regolith. There was a strong odor of cooking oil and something else—a sweet smell, almost like honey. The module was large, probably thirty-five square meters, but the heaps of gear and materiel made for a gloomy and claustrophobic feel. Suddenly Sohya understood.
+
+
+“I get it. Maybe he shut the camera off to hide all this. It looked a lot tidier in the PR video we saw.”
+
+
+“It did. Sorry, but this looks like a junkya—” Just then Peng emerged from the rear of the module carrying two folded bundles of clothes. Tae fell silent.
+
+
+Sohya’s bundle consisted of a previously worn cotton shirt, trousers, and underwear. Tae unfolded her bundle and stared. “Is this from a flea market?” She was looking at a white, gownlike garment that would have reached to the knees of an adult. The gown could be closed with strings in front but was otherwise completely unadorned. And like Sohya’s garments, it showed signs of having been worn recently.
+
+
+“It’s a med-lab gown,” said Peng. “I’m sorry, we don’t have anything here for children to wear. I thought maybe if you tied it around your waist, it might look like a Chinese dress.”
+
+
+“Tae, there’s no washing machine on the base. Now that I remember, there’s an unmanned supply ship every four months. It brings clean clothes. Until then they have to make do with what they have.”
+
+
+Tae gripped the gown, looking as if she were fighting back tears. “So where’s the changing room?”
+
+
+Peng and Sohya looked at each other, then turned their backs at the same time.
+
+
+“I’m sorry, Tae. We’ve never had a woman on our base before.”
+
+
+“We won’t look. Promise.”
+
+
+The men heard a huge sigh and the sounds of Tae hurriedly changing out of her space suit.
+
+
+
+
+[4]
+
+
+THE BASE CLOCK was set to Beijing standard time. By the time Sohya and Tae were out of their suits it was already one o’clock in the morning. A full-scale welcoming ceremony was planned for the following day, so they had a simple meal and tumbled into their sleep-station hammocks in the habitation module. When they awoke next morning, they found that Feng, Ma, and Jiang had already left to work on the Xiwangmu transfer. As they were finishing a breakfast of congee and deep-fried rolls, base engineer Cui joined them. He had apparently finished his work for the morning and offered to give them a tour.
+
+
+“Kunlun Base is currently composed of four Xiwangmu modules, oriented toward the four points of the compass and several supplementary modules. Everything connects through the Topaz node.”
+
+
+Cui pointed to a manhole-sized hatch at the south end of the habitation module with bundled hoses and tubing of all sizes snaking through it. The hatch opened into a spherical docking node originally intended for use in space. The node was 2.5 meters in diameter with identical hatches on all six axes.
+
+
+“Yesterday you entered through the main air lock on the south module, the lunar-surface research module. We call it Red Phoenix. The west module, White Tiger, is the life sciences module. The east module is Azure Dragon, where we do medical studies. Azure Dragon is also the docking point for the unmanned supply vehicles. This north module, the habitation area, is Black Tortoise. The Chang’e emergency-escape orbiter is just outside.”
+
+
+Before breakfast, Tae had taken a pair of scissors to her gown and produced something that almost looked like a one-piece summer dress. Now she went to the Topaz hatch and peered into the passages leading to the other modules. “Is this the whole base? It’s about the size of four buses. You spend a whole year here?”
+
+
+“I think the floor area is bigger than it looks,” said Sohya. “I remember the specifications said three hundred square meters.”
+
+
+“You must mean the habitable volume. That’s three hundred cubic meters,” corrected Cui. “In zero gravity, the walls and ceiling can double as floor space, so volume means something. But here we have gravity, even though it’s only one-sixth of Earth’s, so the metric we use is floor area. Leaving out shelving and subfloor space, the total area of the base is about 160 square meters.”
+
+
+“A hundred and sixty meters of floor space…Yes, that’s enough for a family of three,” said Sohya. “But then again, you have all this equipment.” Sohya was trying to understand the base arrangement in terms of his construction background. That was his mission; his number one goal was to understand Kunlun as a structure.
+
+
+Cui glanced at the time readout on his wearcom. “Wherever you live, that’s home. Space isn’t much of a problem. Black Tortoise has everything people need for life.” Cui spread his arms wide toward the space around them. The ceiling was nearly three meters above the floor, the width of the room was three meters, its length nearly fourteen meters. Cui walked along, pointing to various devices along one wall, as Tae and Sohya followed.
+
+
+“Advanced oxygen generator. Two CO2 scrubbers. Climate control keeps the base temperature at a constant twenty-four degrees Celsius. Power supply units are connected to the external solar panel array, which provides plenty of power. The water-treatment device lets us recover 60 percent of the water we use. We have 220 different food items and enjoy a varied diet. With an always-on, high-speed comm link with home, we can watch as many movies as we like. That control panel on the wall allows us to control all the important devices on the base. The sleep stations up top provide personal space. And most important of all, we have this.”
+
+
+Cui pointed to the table around which they now stood, near the north end of the module. It served as a meal table but could be converted for other uses with extension panels. Cui placed both hands on it. “This table is where the three of us gather and socialize as a family. It’s important for promoting group harmony.”
+
+
+Cui’s delivery reminded Sohya of a sales pitch for a new housing development, but he was still impressed by the man’s sincerity. He decided this was a good opportunity for some questions. “This is such an advanced installation. The structure must be quite something too.”
+
+
+“The structure?”
+
+
+“The framework. Let’s see…the insulation. Seismic reinforcement, that sort of thing,” said Sohya.
+
+
+“Oh, I understand. Of course, very advanced. The pressure hull is comprised of two layers of three-millimeter aluminum alloy over five-millimeter ribs. We’ve added Whipple panels and a layer of regolith on the exterior to protect against micrometeor strikes—”
+
+
+“Hold it. Three millimeters?”
+
+
+“What about it?”
+
+
+“Well, I mean…” Sohya was nonplussed. On Earth, a metal structure with such thin walls might be usable as a storage unit. Any rigid-frame structure, whether made of wood or steel, required a certain thickness, if only for insulation. For a box frame structure with load-bearing walls, an even greater thickness would be required. Of course, Sohya was well acquainted with monocoque construction in aircraft, cars, and ships, but even so, three millimeters of aluminum skin was just too thin.
+
+
+“Is that enough? What about heat and cold?”
+
+
+“Of course, the environment gets very hot,” replied Cui. “The sun is up for fourteen days. It’s dark for the same amount of time. During that cycle the outside temperature ranges from 160 degrees Celsius to minus 120 degrees. The outer skin is covered with a heat shield, but that alone isn’t enough to keep the inside temperature constant, so we circulate coolant to the hull during the day to maintain constant temperature.”
+
+
+Sohya remembered the network of pipes next to the outer skin that he’d seen in the air lock.
+
+
+“You don’t have to worry about structural strength either,” Cui continued. “Material strength is proportional to the cross section, but with one-sixth gravity we make do with one-sixth thickness. And there are no moonquakes to worry about.”
+
+
+“What about the foundation? Where the module contacts the surface.”
+
+
+“Each module is wedged with rock to prevent rotation, but that’s just in case.”
+
+
+In other words, the modules were just sitting on the regolith. Maybe the rock wedges could be considered a type of mat foundation, but without measures to prevent the modules from settling unequally. Gradually, Sohya realized what sort of structure the base represented. It was nothing more than a temporary installation. He was amazed it had lasted even a year.
+
+
+“This is a permanent facility. Shouldn’t it be built to higher specs?”
+
+
+“Not practical.” Cui shook his head. “Mass limits apply to everything brought to the lunar surface, you know. Oxygen, water, food, solar panels, and other life-support supplies get first priority. Next are supplies required to carry out our research mission. As far as structural aspects of the base go, the minimum is enough.”
+
+
+“Of course, when you improve the quality of a building it usually adds more and more weight,” said Sohya.
+
+
+“Mr. Aomine? Is there something about this base that concerns you?” Cui’s eyes narrowed as he regarded Sohya, who was deep in thought.
+
+
+“Oh, nothing,” Sohya said casually. There was something about Cui—he was the tallest and brawniest of the base crew—that made him difficult to approach. Sohya was beginning to feel uncomfortable around him. It would probably pay to avoid sounding critical.
+
+
+“If you’re satisfied with this orientation to the habitation module, shall we move on?” said Cui, glancing again at his wearcom. He stared at Sohya and Tae. Sohya suddenly realized that Tae, usually so full of curiosity and questions, hadn’t said a word during Cui’s explanation. She stood with her hands clasped in front, looking down uncomfortably.
+
+
+“Tae, is there something wrong?” asked Sohya.
+
+
+“I-I haven’t been to the toilet since we got here.”
+
+
+This was thoughtless of Sohya. The previous night before going to sleep, he’d gone to get an explanation of the toilet’s location and how to use it, but Tae had been too shy to bring it up.
+
+
+“Mr. Cui, is there a toilet?”
+
+
+“Of course. It’s on the other side of that clothes rack.” Tae nearly jumped in the direction Cui pointed. She peeked into the toilet, which was about the size of a tiny closet, and wailed. “The walls are so thin!”
+
+
+“Don’t worry about smells, it’s ventilated,” Cui reassured her.
+
+
+“It’s not just smells. I mean, the sound…” she murmured feebly. Cui and Sohya had nothing to say. “We’ll wait for you in the node,” said Cui. “Call if you need help.”
+
+
+“Okay.”
+
+
+The two men passed through the command center on the south side of the module, which was crammed with monitors and control equipment, and entered the Topaz node, the intersection of the four base sections. There they waited. After a few minutes, Tae appeared, her cheeks slightly red. Sohya recalled her expression from the night before, when she was about to remove her space suit. “Did everything go well?”
+
+
+“Of course! I studied the manual before we got here!” she said heatedly, touching something at her throat. Sohya realized it was a wearcom suspended on a chain. She was absently fingering the tiny keyboard.
+
+
+Suddenly the node was plunged into darkness. Tae yelped with fear. Sohya reflexively embraced her from behind to shield her. He had had a number of close calls on construction sites, but as his mind raced and he tried to remember the escape route, he suddenly felt a chill run down his spine.
+
+
+Having put himself and Tae in the hands of the base members, he had forgotten that death was only inches away in this place. There was no escape route. The only way to escape was via the Chang’e spacecraft, and Sohya had no idea how to operate it. Iwaki never tired of saying it: keep the worst case in mind at all times. Sohya bit his lip as those words came back to him. He had been careless.
+
+
+“Cui, where are you? Should we head for the backup vehicle?” Cui should have been right next to him, but when Sohya put out his hand, there was only empty space. Sohya exhaled sharply with frustration and started to go back into the habitation module.
+
+
+There was a click, and light returned. Cui was leaning into the node from the west module, joining two cables.
+
+
+“Sorry. One of the power connections came loose.”
+
+
+“Really? Is that all it was?” asked Sohya.
+
+
+“Yes. The cables have to be easy to disconnect, in case we need to seal off one of the modules.”
+
+
+“Sohya?” Tae was trembling against his chest. “Is—is everything all right?”
+
+
+“It looks that way. A cable just got loose.” He stroked her hair. Cui came back through the hatch.
+
+
+“We were scared. You could have said something,” said Sohya. Cui looked away. “Really? It was just a minor problem.”
+
+
+“Does it happen often?”
+
+
+“Not often, no. Come with me.” Cui checked the time on his wearcom again and turned his back. They followed him uneasily into the next module.
+
+
+
+
+
+
+WHITE TIGER, THE life sciences research module, was comprised of two banks of multilevel racks lined with plastic cases in a variety of shapes and sizes. Some of the cases were brightly illuminated with air lines leading into them. Others were opaque and sealed against the light. Countless tubes and cables snaked among the cases. The room was filled with the hum of an air compressor. It looked just like a familiar business back on Earth. Sohya realized what it reminded him of: a pet shop.
+
+
+Cui pulled a case down from one of the racks and showed it to them. “A New Zealand rabbit.” Inside the case, a plump rabbit lay curled in a ball.
+
+
+“Oh, it’s cute!” Tae reached for the lid, but Cui stopped her.
+
+
+“We’re keeping it in a germ-free environment.”
+
+
+“You brought this all the way from Earth?” asked Sohya.
+
+
+“No, we brought this specimen’s grandparents up in the form of fertilized eggs. This is the fourth generation. We want to see how they breed and develop in low-G conditions.”
+
+
+“It’s the real rabbit in the moon,” said Sohya. “Where are her parents?”
+
+
+“Once they breed, they’re no longer needed, so we eat them.”
+
+
+“Oh no…so that’s going to happen to this little one too?” Tae’s eyes opened wide. She put her hands together in an attitude of prayer and bowed toward the rabbit. Cui replaced the case and went to another rack.
+
+
+“These are plants. We cultivate sixteen kinds of edible plants, mainly grains and legumes. We’re already harvesting barley as a staple year-round. The aquariums over there contain black tiger shrimp, tilapia, and other aquatic life.”
+
+
+“You’re prioritizing food sources?” asked Sohya casually. Cui frowned slightly.
+
+
+“Yes, there is that tendency. But of course, we’re doing pure science too. Some people have criticized Chinese space exploration as too practical, but that’s not at all—”
+
+
+Cui was cut off by an electronic beeping from the far side of the module, like an alarm clock. Peng called out, “Damn it, I’m out of time. Qian shao xia ren is off the menu for tonight.” “Qian shao—you can make Szechuan shrimp?” Tae called back. After a few moments, Base Commander Peng emerged from behind a worktable half-hidden by one of the racks, scratching his head. “Well, yes…after I dissect the specimens we’ve raised.”
+
+
+“I love Szechuan shrimp.”
+
+
+“I’m sorry, but I’ve got to move on to my next task, so I won’t be able to harvest shrimp today. Cui, can I ask you to look after our guests? I didn’t finish the quail and the rhizopus fungi. The seaweed’s gone bad—you can discard it.”
+
+
+“Yes, Commander,” said Cui.
+
+
+“Carry on then.” Peng spoke into his wearcom. “Beijing Control, Peng is moving to Black Tortoise CO2 scrubber maintenance.” He strode away. Cui asked Sohya and Tae to wait as he attended to Peng’s remaining experiments. Sohya realized why he had not seen Peng since early morning.
+
+
+“It must be a lot of work to keep all these life science experiments running.”
+
+
+“It takes up a third of our time. Excuse me,” Cui said as he moved quickly past with a container of seaweed. Sohya and Tae flattened against the wall to let him go by. In a few seconds he was back. He took a bag of something that looked like animal feed from beneath one of the floor panels and began scattering it inside several cases containing quail.
+
+
+“What a job,” marveled Sohya.
+
+
+Soon the timer on Cui’s wearcom began beeping. “Oh well,” said Cui as he replaced the cover on the case he was about to open. “It’s time for my medical experiment in Azure Dragon. Why don’t you come along and watch?”
+
+
+“What about the fungus?” asked Tae, pointing to the case.
+
+
+“Don’t worry, they won’t die.” Cui shelved the case and walked past them. They climbed through the hatch and into the node, then through another eighty-centimeter hatch into the eastern module. Passing repeatedly through the narrow hatches was becoming a bit of a chore.
+
+
+The interior of the Azure Dragon module was the most complex space they had yet seen. Perhaps “complex” was a little too complimentary. The space was crammed with food and equipment boxes, waste containers and devices, and tools and components stacked on the floor and hanging from the walls and ceiling. Amid all this clutter was something that looked like a conveyer belt, a bicycle with no wheels, and some spring-loaded exercise gear. Tae looked stunned. “You could get lost in here,” she whispered.
+
+
+“Don’t drop anything,” said Cui. “We’ll never find it. This is where the automated supply vehicles dock, so we use it for storage.” Sohya and Tae could see another hatch at the opposite end of the module and beyond it a space that looked like a dark cave.
+
+
+Cui stood on the conveyer belt and removed his shirt. He unhooked several cables tipped with electrodes from a device on the wall, attached them to his naked chest, and donned a mask with a hose leading to another device. “What’s that?” asked Tae.
+
+
+“Cardiopulmonary-function check. We have to do this every day, along with the training. The low-G environment has a negative effect on muscular and cardiovascular function. The treadmill and the stationary bike are ergometers to measure the work we do while exercising.” He began running on the treadmill.
+
+
+“Can’t you get exercise out on the surface?” asked Tae.
+
+
+Cui answered at intervals as he paused to catch his breath. “EVAs are hard on space suits…It’s hard to get efficient exercise…
+
+
+Anyway, we have to use this equipment.”
+
+
+“So this is the only exercise you get? What about tennis, or a horizontal bar, or swimming?”
+
+
+“We’re not…doing this for…pleasure.”
+
+
+“Do we have to exercise too?” said Tae.
+
+
+“Fifteen minutes should be…enough…You won’t be here…long anyway. We have to exercise…for an hour.”
+
+
+“You have to look at the wall for an hour while you run?” Tae furrowed her brows. Sohya put a hand on her shoulder.
+
+
+“Tae, he’s busy. Let’s talk about it later. We should do some exercise too.” Sohya pointed to the stationary bike. Tae mounted the machine doubtfully. Sohya picked up a spring-loaded chest expander and extended his arms against the resistance. The springs creaked where they were attached to the handles. Cui looked over at him. “We haven’t…used those…for a while. Be careful.”
+
+
+But before he had finished speaking, the springs separated from their attachments with a metallic squeal. A blur shot past Sohya’s eyes as he reflexively drew in his chin. The springs crashed against the opposite wall. “Whoa!” he shouted.
+
+
+“This is rusted too!” cried Tae. She was red with exertion, but the pedals were stuck fast.
+
+
+“It’s not rusted—you have to adjust the torque.” Sohya helped her lower the resistance.
+
+
+After fifteen minutes of exercise, the pair poked around the module as if it were a yard sale while they waited for Cui to finish his running quota. Twice Peng entered the module and hurriedly grabbed a cylinder similar to tanks used for diving.
+
+
+There were around twenty of these tanks along the wall. Sohya took one down to examine it more closely. “SFOG” was stenciled on the tank.
+
+
+Solid Fuel Oxygen Generator, Sohya thought. Why would the base need a supplementary oxygen source?
+
+
+
+
+
+
+THEY HAD SEEN all four modules. This completed their tour of the base. Sohya still had to take photographs and write up a report for Gotoba, but their one-week stay had just started. Though they had not come just to examine the base hardware, they still had plenty of time.
+
+
+It seemed there was nothing left for them to do that day. They were in no position to help the crew; they had received only the most basic training before leaving Earth and had no idea how to perform any of the base tasks. The only way for them to keep from getting underfoot was to kill time in a corner of the habitation module.
+
+
+“Sohya, look at this.” Tae brought a cup of water. She had rearranged her hair from the bun on her head to braids.
+
+
+She tilted the cup back and forth with her wrist. It slopped back and forth in the glass with a slow, syrupy motion.
+
+
+“Isn’t it weird? It looks alive.”
+
+
+“Careful you don’t spill it,” warned Sohya.
+
+
+She spilled it. The water suddenly shot over the lip of the cup in a long sheet of fluid that rose higher than her head, like a jellyfish. The tongue of fluid broke into droplets and splashed lazily over the floor panels. Tae dropped to the floor so quickly her braids pointed at the ceiling. “Oh no!” she wailed. “I’m sorry, I didn’t think it would go so high. Where’s a cloth to wipe it up?”
+
+
+As they searched for a cloth, Jiang stuck his head through the entry hatch. His work moving Xiwangmu 5 was finished for the day. As soon as he noticed what was going on, he yelled, “What have you done?”
+
+
+Jiang nearly did a somersault coming through the hatch. He grabbed a towel from the garment rack and covered the pool of water with it, carefully wiping the floor as if desperate to get every drop.
+
+
+“Fresh water is precious! Who said you could do this?”
+
+
+“It’s not fresh water,” said Sohya defensively. “It’s from the shower.” He pointed to the stall farther back in the module. Jiang sighed deeply.
+
+
+“Oh, I see. In that case it’s okay. We can replace it.”
+
+
+“Can’t you recycle water for drinking too?” asked Sohya.
+
+
+“Sure, but recycled water tastes bad.” Jiang wrung out the soaked towel over the inlet to the recycling unit. “There was a hole in the distillation unit. The E. coli count went through the roof. We have to add tons of silver nitrate to kill the bacteria. The water isn’t undrinkable, but the supply ships bring water that’s much tastier.”
+
+
+This was the first opportunity Sohya and Tae had had to speak to this young man, the youngest member of the base team. He seemed much more open and approachable than Cui. Sohya decided to risk a question.
+
+
+“Have we done anything wrong? Cui doesn’t seem to like us much.”
+
+
+“Oh, he’s just stressed, that’s all. We’ve been away from home for a year. We’re all homesick.”
+
+
+“Really?” marveled Sohya. “I thought you all had this burning desire to fulfill your mission.”
+
+
+“Of course we do. Otherwise we could never manage this.” Jiang shrugged and looked at his wearcom. His face lit up. “Finally—time for the evening meal. That’s the best stress reliever. It’s my turn in the kitchen tonight. I’ll show you what good cooking is all about.”
+
+
+“What’s on the menu?” asked Tae.
+
+
+“We can off-load supplies from Xiwangmu now, so we’re going to have a feast. Camel hump fried in oil, stir-fried abalone—”
+
+
+“Is that why the base has this smell?” said Tae, jabbing a finger in the air.
+
+
+Jiang nodded. “It’s too bad we can’t ventilate better. Whatever we can’t scrub stays in the air.”
+
+
+“Doesn’t that put an extra load on the life-support system?” asked Sohya.
+
+
+“Lighten up,” chided Jiang. “The Russians actually smoked cigarettes on Mir. Well, I better go get things ready.” He clapped Sohya on the shoulder and went out through the hatch. Sohya was openmouthed with amazement. Jiang was completely different from his nervous counterpart, Cui.
+
+
+Tae looked delighted. “This is the best thing so far!”
+
+
+“Didn’t you say something about not liking oil?”
+
+
+“It’s the smell I don’t like. Chinese food is good every now and then. I think I’ll give him a hand.” She left through the hatch, smiling with anticipation. Sohya shook his head. What kind of an operation was this? He wasn’t sure.
+
+
+
+
+[5]
+
+
+THE DAY AFTER the festive welcome party, the work of off-loading supplies began in earnest. Sohya and Tae’s weeklong stay on the moon was based on the time required to complete this work, not on any accommodation by the Chinese. They knew nothing about lunar operations, but a week was enough to learn about the base. They observed the crew’s activities very closely.
+
+
+Each day started with a wake-up call from Beijing Control at 0600. Work started at 0800 and ended at 1800, with a two-hour lunch and rest break in between. An hour of physical training was supposed to be followed by two hours for dinner and private time, then an hour of prep for the following day, with lights out at 2200. But the real schedule was mostly very different.
+
+
+The crew was up much earlier than 0600. Breakfast was sometimes just a hurried snack. The extra time gained was largely devoted to monitoring and maintenance of the life-support systems. The rest of the day tended to proceed according to plan, but it was difficult to complete everything in the time allotted. It was often necessary to break early from one task and hurry on to the next.
+
+
+The evening meal was punctually observed. In fact this was the only part of the schedule that was. Like clockwork, the five Chinese strictly adhered to the two-hour meal period, but there was no private time afterward. The crew never observed the scheduled start of the sleep period at 2200. Instead of private time, they worked late into the night on facility repairs, harvesting the experiments in White Tiger and preparing for the next day. Once, around four in the morning, Sohya woke to use the toilet and heard the animated voices of Peng and Cui coming from White Tiger, audible over the round-the-clock basso profundo hum of fans heard everywhere on the base. It sounded like an argument.
+
+
+And after every task was finished, there was communication with Beijing Control. Cui had been constantly checking his wearcom during that first day’s tour not only to monitor the time but to send text updates to Beijing. His refusal to do updates via voice link reflected his irritation with having to do them at all. This was not hard to understand. He even had to contact Control when he visited the toilet.
+
+
+Yet there were times when Cui set aside his usual dour mood. One evening after dinner, Ma suggested they watch a movie together, and Cui revealed another side to his personality.
+
+
+The movie was not streamed from Earth; Ma had carried it with him on a memory card. It was not the kind of entertainment Beijing would have transmitted via one of their communications satellites. It was an erotic comedy from Hong Kong. Tae looked away in confusion. Sohya was embarrassed for her, but Cui paid no attention. For a short time, he became a different person, exploding with laughter throughout the film. Still, the rest of the time he was difficult to approach, while Peng and Jiang were easy to deal with.
+
+
+After several days, the reason for the irregular scheduling suddenly dawned on Sohya.
+
+
+A huge amount of the crew’s time was monopolized by repair work. Each crew member was occupied with something during waking hours, but a third of the work was devoted to repairs to the cooling system, the air and water purification devices, and the base power supply. Next in terms of demands on their time came looking after the creatures and harvesting the experiments in White Tiger. These tasks clearly limited the time available for other scientific work, so the only solution was to skimp on sleep. Even the crew’s strict adherence to the evening meal schedule was an artifact of the overburdened working day. Without at least an unhurried evening meal, they would not have been able to cope with the pressure.
+
+
+It seemed to Sohya that Kunlun Base was barely holding together, or at least operating at the limits of its capacity.
+
+
+The coolant leak they saw that first day proved to be a daily occurrence, and a sweet smell wafted throughout the base from pools of ethylene glycol beneath the floor. The solar panels installed outside the modules were exposed to direct sunlight with no intervening atmosphere to reduce its intensity, so the older panels were beginning to sustain damage. This sometimes pushed the base’s power supply to dangerously low levels. As an outsider, Sohya might never have noticed this, except for something that occurred just after they had bedded down on the fourth day.
+
+
+Sohya was about to doze off when he heard a crash and opened his eyes. The endless whirring of the purification fans and the droning of the reverse osmosis unit made for a surprisingly noisy environment, and it was never easy to sleep. Sohya drowsily opened the door to his sleep station to find Peng lifting a familiarlooking tank from the floor.
+
+
+“Still working, Commander? Don’t you guys ever get any sleep?”
+
+
+“Sorry to disturb you. Please go back to bed,” said Peng. He glanced at Sohya and tightened a valve on the tank. Sohya heard a loud click and without thinking, asked, “It says ‘SFOG’ on the tank. What does that stand for?”
+
+
+Peng shook his head slightly, looking uncomfortable. “So you noticed that. It stands for Solid Fuel Oxygen Generator.”
+
+
+“Oxygen generator?” Sohya said sleepily. “Are we short on oxygen?”
+
+
+“Of course not. Everything’s fine. We do this all the time.”
+
+
+“Oh, okay…” Sohya climbed back into his hammock and closed his eyes. He needed the sleep.
+
+
+When he woke the next morning, he collared Jiang to ask about the oxygen generator. The young taikonaut smiled wryly.
+
+
+“You’re right. That’s not standard procedure. We normally generate oxygen from electrolysis. SFOG doesn’t need electricity. It heats potassium chlorate to generate oxygen in emergencies. Commander Peng probably noticed we didn’t have enough power to keep the oxygen level nominal.”
+
+
+“Are we going to be okay?”
+
+
+“It’s a temporary problem. The base is crowded right now.”
+
+
+Sohya had learned that not only the power supplies were stretched to their limit. He was also impressed by the crew’s calm in the face of potential disaster. The reality behind their government’s patriotic promotion was that the base was barely functioning, and only thanks to the tireless work of the crew. Keeping Kunlun going had almost become the crew’s sole reason for existing.
+
+
+The afternoon of the sixth day, Sohya and Tae suited up and ventured outside onto the surface. The moment they emerged from the air lock, Tae called out in amazement. “Wow! Look how long the shadows are!” The two-week lunar day was nearly over. The sun was hanging just over the horizon. Instead of the colors of sunset, the shadows of the base and of Jiang’s legs seemed to stretch endlessly, razor sharp over the plain.
+
+
+Jiang pulled his excavation tool from the regolith. It looked like a standard shovel, but Sohya assumed it must be specialized. Surely the Chinese would not bring anything less all the way to the moon.
+
+
+“What sort of tool is that?” Sohya asked.
+
+
+“It’s just an ordinary shovel,” said Jiang.
+
+
+Deflated, Sohya and Tae watched as Jiang walked to White Tiger and began shoveling sun-drenched regolith against its side. Regolith was banked against the third of the module closest to the docking node, apparently piled there by hand. Over and over, Jiang scooped regolith against the module in a monotonous rhythm. “I’d ask you to help if we had any extra shovels,” he said. “In this gravity, it’s easier than it looks.”
+
+
+“Why are you doing that?” asked Sohya.
+
+
+“Protection from charged particles. The moon doesn’t have a strong magnetic field like the earth does. Solar proton events and cosmic radiation are a constant danger. For short-term visitors to space like you, drugs give enough protection. But if you stay for a year, cumulative exposure gets to be a real problem.”
+
+
+“What does the radiation do?” asked Tae. “Does it make holes in the base?”
+
+
+“Holes? No. It can cause cancer though.”
+
+
+“Cancer!” she said fearfully. Jiang smiled.
+
+
+“Don’t worry. In four years, we’ve completely covered the habitation module. As long as we go there when we get a solar storm warning, we’re fine. Before Crew III finished covering it, they had to take shelter under the water tank.”
+
+
+“So the life sciences module comes next, because of the creatures inside.” Sohya looked up at the four-meter-high module. Regolith was piled against it to a height of only about eighty centimeters. It was like using a spoon to bury an elephant. “At this rate, it looks like it’s going to take ten years to finish.”
+
+
+“Including the new module, we plan to have it done in twelve.”
+
+
+“Wow. That’s…a pretty long-range plan,” mumbled Sohya. Tae picked up a discarded solar panel and made as if to help Jiang dig, but he stopped her.
+
+
+“No—you might cut your gloves on the edge. And be careful, there’s a lot of trash around here.”
+
+
+They took a closer look at the surface around them. An intermittent trail of objects of all sizes extended outward from the module’s dump hatch—canisters of exhausted drying agent, discarded electronic components, even the mummified remains of animals. Some of the detritus was close to the module, but other pieces were some distance away.
+
+
+“There’s a trick to evacuating the air from the dump chamber. If you release the outer hatch with a little atmosphere inside, the trash flies out nicely. Too much atmosphere and the decompression might damage the hatch. It’s fun to get it just right and see how far you can shoot the trash. My cooking-oil toss holds the Crew IV record, at 15.55—” Jiang looked toward the garbage trail and stopped. “Uh-oh. Somebody beat me. That’s a seaweed cultivation case, isn’t it? I guess Cui’s the new record holder.”
+
+
+“How can you do this?” yelled Tae. The two men wheeled in surprise. She stood with hands on hips as if defending the lunar surface. “Don’t you remember what we did to Earth? And now you’re doing the same thing here?”
+
+
+“Well, we can’t take it back with us,” said Jiang. He resumed his leisurely digging. “It’s all we can do just to get supplies up here. We can’t even take back the trash, much less anything of value from the surface. You should see the other side of the base! When a new resupply vehicle is ready to dock at the medical science unit, we use the leftover propellant in the old one to blast it a short distance away. That’s twelve vehicles in four years, scattered all over the place. If you could get them back to Earth, collectors would pay a fortune.”
+
+
+“I mean, this whole base…” pouted Tae. “It’s falling apart, it smells, it’s in the middle of a garbage dump. Can’t you do something about it?”
+
+
+“That’s a little unfair,” Sohya interrupted. “Everyone here is working hard to help humanity push into space. It’s going to be a bit jerry-rigged in the beginning. They’re using their knowledge and ingenuity to deal with the problems in a positive way. Don’t you think that’s impressive?”
+
+
+“But Grandfather said that was the wrong way to do it!”
+
+
+“Mr. Toenji?” asked Sohya, baffled. “What did he say?”
+
+
+Tae suddenly looked away. “I can’t talk about it yet. I promised. I’m sorry.”
+
+
+Something that Sohya had not given much thought to before suddenly loomed as potentially significant. He had always assumed that Tae had been imposed on him so an old man could give his beloved granddaughter the trip of a lifetime. It was the kind of indulgence not uncommon among the wealthy. Still, it was out of proportion for an indulgent whim. It was hard to believe anyone would casually hand over three billion yen to fund a pleasure trip, even someone with personal assets several hundred times that. And it would not be surprising if Tae had been given some sort of goal. But even so, what sort of responsibility could she be expected to fulfill? As Sohya pondered this question, Jiang spoke up.
+
+
+“You’re certainly paying enough, Aomine. I’m not sure we’re worth it though.” Jiang was shoveling faster now.
+
+
+Sohya was briefly speechless. “Isn’t there something more important for you to be doing here? Geological research? Gathering samples? I’d like to know more about soil testing—”
+
+
+“Crew II’s data is in the computer, complete with visuals. I’ll give you a copy later.”
+
+
+“What about Crew IV’s research?”
+
+
+“We’re not doing any.”
+
+
+“You’re not?” Sohya was dumbfounded.
+
+
+“That’s right,” Jiang said simply. “With only three crew members, and with these facilities, there’s nothing left to research. We’ve done everything. We tried making concrete out of regolith, but there’s no water ice anywhere around here, so there’s not a lot we can do. Maybe at the south pole…Anyway, whatever it is we might be doing, we haven’t got the people, the equipment, or the funding.”
+
+
+“Then why are you here?”
+
+
+“Maybe because they can’t afford to send a bulldozer to bury the modules.”
+
+
+Jiang’s cynicism was understandable. Beijing Control rode herd on the crew with a schedule controlled to the minute. Of course, even manual labor was important if it helped protect the base. Still, what was the point of such a minutely choreographed schedule?
+
+
+A short distance away, Tae was playing at stepping on her own shadow. One set of shadows danced happily in the silence. Another shortened and lengthened in a monotonous rhythm. Sohya was lost in thought.
+
+
+
+
+[6]
+
+
+THEY WERE UP early the next morning. It was departure day.
+
+
+The crew rose even earlier than usual and furiously began making launch preparations. There was nothing to retrieve from Xiwangmu 5, but research materials and several hundred commemorative boxes had to be loaded into the Chang’e spacecraft. The small boxes contained shards of regolith, Chinese flags, and cards postmarked by the taikonauts. Back on Earth these “postcards from the moon” would fetch high prices. Sohya had seen something similar at Dragon Palace. He had never been able to understand this passion humanity seemed to have for setting up post offices on mountain peaks, at the bottom of the ocean, and on other planets.
+
+
+Sohya and Tae were carrying very little. The Gotoba plan assumed the production of concrete from regolith, but simulated regolith had already been synthesized on Earth from Apollo-era samples. A bigger question was the load-bearing capacity of the surface. Sohya had already obtained the needed information from Jiang and transmitted it to Earth. The rest of the video and audio data was loaded into Sohya’s wearcom, which he used as a camera/ recorder.
+
+
+Those four who were going home today had a more important task to complete. They had been able to spend the Earth–moon leg of the journey in Xiwangmu 5. But during the three days till touchdown in the Gobi Desert, they would be confined to the Chang’e spacecraft, and unfortunately the toilet had been removed to make room for extra payload. Not that it was impossible for male taikonauts to satisfy physical requirements in space, but evacuation would require the use of plastic bags, an exceedingly embarrassing procedure considering that a young girl would be on board. They would have to use drugs and the weightless conditions to help weather the three-day journey. Tae in particular was deadly serious about obtaining a detailed explanation of the drug and its effects.
+
+
+Naturally, the most important task was the handoff of the various base responsibilities. The crew formed pairs—Peng with Feng, Jiang with Ma—to jointly confirm the condition of the equipment and ensure that nothing had been overlooked. Cui, however, had little to do and idly wandered around. It had fallen to him to stand in for the Crew V member whose place had gone to Sohya and Tae.
+
+
+He would be spending another year on the moon.
+
+
+Like it or not, the two Japanese felt his glance falling on them from time to time. The situation was unfortunate. Cui’s resentment at being bumped by two feckless tourists was understandable. Still, they had hoped to get to know him better.
+
+
+They had no idea how impossible that would be.
+
+
+
+
+
+
+WITH LAUNCH PREPARATIONS complete, everyone gathered in the Black Tortoise module. Crew III’s Chang’e was waiting at the north end of the module. After launch, the plan was for the remaining crew to move the latest Chang’e into position—the service module’s landing gear was equipped with treads for this purpose—where it would stay for the next year, ready for an emergency departure if needed.
+
+
+Peng, Jiang, Sohya, and Tae were in their space suits. Feng, Ma, and Cui faced them in the usual work clothes. Once again the camera was feeding images to Earth in real time. Peng stepped forward.
+
+
+“We depart Kunlun Base with an abundant store of precious research accumulated over the past year. We have no doubt that we leave the base in capable hands. Please strive to maintain this base for another year, as the pinnacle of the glorious scientific achievements of the People’s Republic of China and humanity’s farthest outpost.”
+
+
+“We humbly accept this duty,” said Feng, “and pray for your safe journey home.”
+
+
+The exchange was formal and conventional but emotional just the same. The two commanders shook hands. Scientists Jiang and Ma exchanged similar words. Then all eyes fell on Sohya. He had assumed something like this would take place and prepared accordingly, but the thought that he would be heard in more than a hundred countries was still daunting. He cleared his throat.
+
+
+“This is a magnificent facility. I have the deepest admiration for the dedication and passion you bring to the advancement of science. The lunar environment was thrilling. I almost wish I were staying longer. I leave with the hope that you will enjoy life here on the moon over the coming year.” Sohya shook hands with Feng and Ma, but Cui ignored his outstretched hand. It suddenly occurred to Sohya that he had neglected to praise China. Perhaps Cui had taken offense?
+
+
+Sohya looked at him and froze. The man’s expression was terrifying. His eyes were blazing. He was biting his lower lip as if the honor of his parents had just been trampled on. Sohya was struck dumb.
+
+
+Sensing the situation, Peng quickly turned to Tae. “Miss Toenji, would you like to say something?”
+
+
+“What? Oh, sure. The food was really good. Much better than we get in Chinatown back home.”
+
+
+The others laughed nervously. Sohya was relieved. At least it now seemed unlikely that Cui would follow with more highflown phrases about the People’s Republic.
+
+
+Jiang glanced at Cui, urgently signaling him to begin. Cui gulped as if swallowing something hard and opened his mouth.
+
+
+At that instant there was a loud bang, like a gunshot, from somewhere inside the base. Everyone froze and stared at each other. Perhaps ten seconds passed.
+
+
+Then the cry of an alarm sounded. They flinched again. Almost simultaneously the two commanders shouted, “Pressure warning!” and sprinted toward the Topaz node, with Ma close behind. Jiang sprang to the equipment control panel. He took one look at the numbers streaming across the display and yelled, “Pressure drop! Azure Dragon! Cargo docking hatch sealed! Node junction nominal! It’s not the air lock. Whipple shield—it’s a meteor strike!”
+
+
+Jiang’s words were barely audible over the keening of the alarm. Feng and Ma, already out of the module, almost certainly could not hear him.
+
+
+“Cui! Take care of her!” Sohya pushed Tae toward him.
+
+
+“Sohya! Wait!” she called out, but he was already running, diving through the hatch to follow the others. He had trained for just this sort of emergency. The damaged module had to be identified immediately and sealed off.
+
+
+But Peng, Feng, and Ma had not heard Jiang. Each had entered a different module, frantically searching for the location of the breach. Sohya found Peng in Azure Dragon, standing in the middle of a maze of supplies and training equipment. “Where is it? Where’s the breach?” he shouted.
+
+
+Sohya yelled back. “Here, Commander! It was a meteor!” Peng looked up at the ceiling, searching for where the meteor had hit. He saw it almost instantly. There was a circular hole, about three centimeters across, in the corner of one of the semiconductor illumination panels that covered the curved ceiling. The hole was surrounded by white mist, the signature of adiabatic cooling in the presence of an enormous pressure differential.
+
+
+Sohya looked up and froze. He was seeing something no human had seen before: the black emptiness of naked space—with nothing between him and it.
+
+
+As Sohya stood rooted to the spot, Peng did something astounding. “There it is!” he shouted. He flexed his knees and jumped with all his strength.
+
+
+“Peng! No!” Sohya cried out.
+
+
+Peng pressed his upper right arm against the hole. Even under the moon’s low gravity, his mass was over ten kilos. With the fingers of his free hand clinging to a gap between two lighting panels, he struggled to hold himself in place.
+
+
+“Don’t worry! The suit will hold. What’s the pressure? And shut off that alarm!”
+
+
+Sohya called to Feng, who was looking through the hatch. “Peng is blocking the breach with his arm! What’s the pressure?”
+
+
+Feng shouted, “Jiang, pressure!”
+
+
+“Nine oh seven!” Jiang called out. “Down more than a hundred millibars in two minutes. At this rate we’ll lose all pressure within twenty minutes!”
+
+
+“Is it still falling?” yelled Feng.
+
+
+“Passing nine hundred! Wait…back at nine hundred now and holding. Looks like it’s stabilizing.”
+
+
+“Good! Shut down the alarm!”
+
+
+Suddenly the base fell silent. Sohya rubbed his ears to stop the ringing. He looked up at Peng.
+
+
+“Pressure stabilized at nine hundred millibars. What do we do now?”
+
+
+“Get putty sealant and some kind of metal panel—anything will do. Wait, I need some support first. Get a length of drainage tubing from Red Phoenix.”
+
+
+“No—it won’t go past the angle. I’ll check White Tiger!” Sohya brushed past Feng, who had just entered the module, and hurried into White Tiger where Ma was still searching for the leak. Sohya repeated Peng’s orders and pulled a long length of conduit off one of the experiment cases. He carried it back through the node. Feng was opening the valves on one reserve oxygen tank after another. Sohya pushed the conduit against the hard torso of Peng’s suit, giving him extra support. The flexible fabric on the arm of the suit was not designed to stand up to one atmosphere of pressure. Apparently his skin, pressed against the fabric, was helping to seal the breach. Peng’s face was drained of blood.
+
+
+“I’m glad I put my arm against it. The suction is terrific. If I’d used the palm of my hand, I might have broken some bones,” he laughed.
+
+
+Sohya yelled, “Where’s that putty?”
+
+
+“Got it.” Ma entered the module, kneading a large chunk of fiber-reinforced putty and carrying an aluminum panel under his arm. Feng boosted Ma up on his shoulders. Sohya tightened his grip on the conduit.
+
+
+“Okay, peel him off !”
+
+
+As Ma called out, Peng gripped the conduit. Sohya wrapped his arms around Peng’s legs and started to pull, slowly increasing his effort against the powerful suction. It took all of his strength. Peng separated from the hole with a loud pop. The air around the breach flashed into churning mist. Ma slapped the putty-covered panel over the hole and began sealing the edges with more putty. Feng called out: “Jiang! Pressure!”
+
+
+“Nine zero five…nine fourteen…nine nineteen! The tanks are working. The leak’s stopped!”
+
+
+The men sat down heavily on the floor. Every face was deathly pale, bathed in cold sweat. Peng massaged his arm through the suit. The contusion must have been terrible. It hit Sohya again: just outside this tube, which in its own way represented comfort, reigned a vacuum with tremendous destructive power. If Peng had not acted in time, those wearing space suits could simply have lowered their visors. Feng and the others clad only in work clothes would have been doomed.
+
+
+Yet even Peng did not take the right course of action. If the hole had been much larger, his arm might have been pulled through. If the edges of the breach had been ragged metal rather than plastic panel, he could have lost part of his suit and a chunk of his flesh. And if there had been more than one breach in the hull, even entering the module could have been suicidal.
+
+
+“You could have gotten killed…” Sohya’s breathing was ragged. Peng just smiled and mopped his brow through his open visor.
+
+
+“This base is ours. Our own people don’t give us adequate support. The place is falling apart. But we’ll defend it with our lives.”
+
+
+“How can you say it’s falling apart?” said Sohya, momentarily chastened. “It’s an unbelievable achievement.”
+
+
+Peng raised his eyebrows. “Drop the pretense. You don’t believe that. It’s obvious.”
+
+
+Sohya blushed. He had underestimated Peng. This genial taikonaut had seen right through him.
+
+
+“The dreams and hopes of 1.8 billion Chinese—no, of the whole human species—are on our shoulders. Our presence here took a huge commitment of national wealth. Should we run away because of one meteor? And even if we wanted to run, where could we go?”
+
+
+Sohya had been paralyzed with fear at his glimpse of naked space. Yet this man had confronted it without a moment’s hesitation. He felt a yawning gap between the demands of the situation and his own reaction.
+
+
+Peng turned to Feng, who was looking up at the aluminum panel. “It must’ve had a cross section of about twenty millimeters. The Whipple bumper would’ve vaporized it, but the gas jet punched through the hull. In Earth’s atmosphere it would’ve burned up. If it had hit Black Tortoise or White Tiger, the regolith blanket would’ve kept us safe.”
+
+
+“I’m not so sure,” said Feng. “I’m just glad it didn’t hit the habitation module. In fact, maybe we’re lucky it struck here.”
+
+
+“You’ll have to do permanent repair work on the hull after we leave. Looks like you’ve got something else on your plate, Commander.”
+
+
+“It’ll be good practice. Now we know we can handle a small strike without harm to the crew. We’ll be fine.” The two officers seemed almost casual about this brush with death.
+
+
+As Sohya hung his head, almost overcome with exhaustion, Tae timidly peeked in from the docking node.
+
+
+“Sohya? Is everything okay?”
+
+
+“Hey, Tae. Hole’s been patched, for the moment. Don’t worry, the danger’s over.”
+
+
+“Really? That’s good news.” She sighed with relief.
+
+
+Sohya rose, went to her side, and gave her a hug. “Pretty scary, huh? Sorry I left you back there. I had to do what I could to help.”
+
+
+“I was really scared. Please don’t do that again, ever. Maybe you didn’t have a choice this time though.”
+
+
+“Commander Peng blocked the hole with his body.”
+
+
+“He what? No, I don’t believe it…” Tae peeked out from behind Sohya and stared at Peng.
+
+
+“It’s true,” said Sohya.
+
+
+“I don’t understand how he could do that.” Her voice was calm, but she had begun to tremble. Sohya put his hands on her shoulders.
+
+
+Jiang looked in from the Topaz node. “We patched the breach,” said Feng. “What’s the word from Beijing?”
+
+
+“I shut down the comm,” Jiang answered.
+
+
+“Shut it down? Why?”
+
+
+“I think you’d better come see for yourself.” Jiang looked more embarrassed than worried. The others exchanged puzzled glances and reentered the habitation module. There they found Cui sitting on the floor, knees drawn up, arms hanging limply at his sides. He was shaking all over.
+
+
+“Cui! What is it? Are you injured?” Feng leaned over him.
+
+
+“Send me home…please…”
+
+
+“What?” Feng straightened up in bafflement. Cui lifted his face. It was streaked with tears.
+
+
+“Send me back to Earth! I’m begging you!” It was a howl of desperation. “I can’t take this anymore, this…this desert of nothing but rocks and sun, this vacuum. Beijing doesn’t know a damn thing about this place. All they do is order us around. Dig, dig, day after day, don’t stop digging…Control doesn’t give a rat’s ass about us. Pedal the bike, work till you drop, just don’t ask why…”
+
+
+“Cui…?”
+
+
+“I want to see my kids in person, not on a damn screen. I want to swim all day. I want to eat home cooking till I explode. I want to sleep and not dream all night. And I don’t want to die!” Cui was screaming now, his cheeks flecked with crimson. He glared at Sohya, eyes narrowed, and stood up. “You! If it wasn’t for the two of you, I’d be going back to the smell of cool, fresh earth. You goddamn Jap!”
+
+
+“That’s enough!” shouted Peng. Feng and Ma pinned Cui’s arms. “Look at you! You call yourself a taikonaut? You were selected over 18,000 candidates. Where are your guts and your courage? Have you forgotten your oath?”
+
+
+“I don’t care. I just want to go home.” Cui sagged against Feng and Ma and sobbed like a child.
+
+
+“Can you get him back in shape?” said Peng. “I don’t think he’s far gone enough to send him home on the backup vehicle.”
+
+
+“I agree,” said Feng. “The same thing happened on Mir. The presence of our guests caused more work and stress. With the meteor strike, he snapped. He needs extended rest and more personal family calls. That should be enough.”
+
+
+Tae gripped Sohya’s hand tightly. He knew what she was thinking. Cui was the cream of China’s aerospace program, and his drive and energy had seemed heroic until a few moments ago. Now it had become something cold and inhuman.
+
+
+Though he knew it was pointless, Sohya said to Feng, “We’re sorry to have caused such a problem. If there’s anything we can do—”
+
+
+“Don’t worry about it. Before launch, we all signed a contract agreeing to stay here as long as necessary.” Peng’s voice was cold as he looked at Cui, who had slumped to the floor again. “He should be thankful. No one in history has spent two years on the moon. He’ll be a hero when he gets home, with two years of back pay waiting. But we need your help.”
+
+
+He peered at Sohya and Tae, eyes bright. “We hope you’ll keep this confidential. We are a very proud people. We’ll do anything to save face—even shut down the link with Beijing, which is strictly forbidden.”
+
+
+The two Japanese nodded quickly. “Of course.” “I won’t tell anyone either.”
+
+
+“Thank you. Then let’s prepare for departure. I’d better check my suit.” Peng left the module. Sohya and Tae looked down at Cui, who was silently weeping.
+
+
+
+
+[7]
+
+
+TAE TOOK a last look at the lunar surface from the quartz window of the return module they had left in orbit.
+
+
+“What a dangerous world…”
+
+
+“Yes,” said Sohya. “Too dangerous for me.” He looked out the window, his head next to hers. “Those men down there are willing to sacrifice their lives. They’re heroes. They give their all for their country, and they’re all alone. It’s almost scary to think how noble that is.”
+
+
+“It won’t work that way.” Tae spoke in Japanese. Sohya looked at her. She was rapidly inputting something into the wearcom pendant she wore around her neck. Since they had arrived on the moon, she had been using it during most of her spare time.
+
+
+“What are you writing?” asked Sohya.
+
+
+“It’s my report for Grandfather.” She only glanced at the high-resolution display from time to time as her fingertips darted across it at dizzying speed.
+
+
+“Kunlun Base was cramped, smelly, and scary. The crew had to work all day and never had time to really rest. They had almost nothing to look forward to or make them happy. The only people who can handle that are people doing it for their country. Regular people can’t.”
+
+
+Sohya frowned. “Isn’t that a little too pessimistic? You don’t want your grandfather to cancel his project, do you? Have you changed your mind about building a base on the moon?”
+
+
+“No. Not at all.” She shook her head resolutely. “The moon is way more amazing than I thought. They showed us the layout of the base before we left, so I had an idea of what we’d find. But that’s not what I want. I want to build something different.”
+
+
+“Are you the one who decides what to build?” said Sohya, mystified.
+
+
+“Oops.” Tae gave him a childlike smile. The tip of her tongue darted out between her lips with happy embarrassment. “We better keep that confidential.”
+
+
+“Sure.” Sohya let the matter drop.
+
+
+Peng signed off his comm with Beijing Control. “Tae, after we touch down in the Gobi Desert, would you mind spending a week or so at CNSA’s medical facility?”
+
+
+She cocked her head and looked at him doubtfully. “I thought we’d get to go home right away.”
+
+
+“China sent a young person into space a few years back, but frankly, we didn’t gather the kind of medical data we should have,” said Peng apologetically. “And you’ve been all the way to the moon. Our scientists would really like an opportunity to look you over.”
+
+
+“See? I knew it.” Tae puffed her cheeks in frustration. “Anyway, I can’t say no, right? I mean, really. Just make sure they’ve got miso soup and some decent rice crackers from Japan. I only eat red miso. And I want deep-fried tofu in the soup.”
+
+
+“Well, I guess we can manage that,” said Peng. He seemed slightly skeptical but passed Tae’s requests to Beijing.
+
+
+Sohya’s amusement was interrupted when he heard Tae whisper to herself, “I won’t give up.” She looked down at the moon again. “It’s just as beautiful and amazing as I thought. The white sunlight, the blue earth, and millions of stars floating in black space. And feeling as light as a feather…Let’s do it. Let’s build our base here.”
+
+
+Sohya still did not understand what she meant, but he said nothing.
+
+
+
+
+
+
+AFTER THEY TOUCHED down, Sohya was also subjected to a battery of medical tests. He could hardly refuse, given the favor the Chinese had extended in allowing him to go, so along with Tae he played the role of docile guinea pig.
+
+
+Surprisingly, he was detained longer than she was. Tae left for Japan after a week, while Sohya had to spend an additional three days stuck on the continent. Naturally, the ever-curious media was waiting for him when he got home, as were media from around the world, all of them jostling for interviews. Japan’s first girl astronaut had given them the slip, and they were determined not to let that happen with Sohya. How did it look? How did the low gravity feel? What was the meteor strike like? Favorite food? Height weight hobbies special talents? Seeing anyone? Are you and Tae more than just colleagues? No question was too personal. Tight-lipped Sohya told them to contact Gotoba Engineering’s PR department, but every now and then he’d slip up and make a comment, such as that he thought Tae was cute, and that would just start the questions all over again.
+
+
+Back in Japan at last, Sohya got off the train at Tokyo station, fed up and exhausted, to find Iwaki waiting for him behind the wheel of a company car. As Sohya got into the front seat, the first words from the Mobile Engineering Division chief left him stunned with surprise.
+
+
+“One point two trillion yen.”
+
+
+The look on Iwaki’s face, forbidding at the best of times, was even more serious than usual.
+
+
+“A trillion?” Sohya’s jaw dropped.
+
+
+“A trillion two. That’s Gotoba’s bid to build a base on the moon.” Sohya sat back, trying to grasp a number that large. Suddenly it hit him. “Wait a minute. That’s impossible. Toenji’s budget was only 150 billion.”
+
+
+“During that first meeting, everybody was focusing on construction costs. Turns out the cost of getting it all up there is much larger. It costs at least five billion just to put a satellite in orbit. A hundred and fifty billion definitely isn’t enough to build a base on the moon, not the way things are usually done.”
+
+
+“Of course. After all, it cost three billion just to send two people. Then again, I assumed that was because we had to pay top rates to buy our way onto that launch. That’s not the rate we used to run the whole budget, is it?” Sohya paused as his boss’s words sank in. “Did you say ‘the way things are usually done’?”
+
+
+“Yes. The Eden people claim to have a solution. I don’t have the details yet. Some new type of rocket.”
+
+
+“Makes sense. A launch vehicle is something Gotoba can’t bring to the table. Is that confirmed?” asked Sohya.
+
+
+“Confirmed according to her,” said Iwaki. “Right?” Iwaki jerked a thumb toward the rear seat.
+
+
+“That’s right,” said a female voice. A woman Sohya had never seen before leaned forward and smiled.
+
+
+“Who are you?” asked Sohya, thoroughly flustered.
+
+
+She looked about thirty. Her hair—its translucent red coloring had recently become popular—was pinned up, leaving her neck bare. She was dressed in a fashionable, peach-toned suit and smiled brightly at Sohya.
+
+
+“Reika Hozumi. Special Auditor, ELE.”
+
+
+“You’re an auditor?”
+
+
+“Yes. From now on, waste is our enemy. A half century of pennypinching is how a little amusement park operator in Nagoya called Paradise Tours grew to become ELE, Eden Leisure Entertainment. Our cost-control expertise will be a powerful asset for Gotoba Engineering.”
+
+
+“Mr. Iwaki…?” After old man Toenji and Tae, Sohya was beginning to wonder if there were any “normal” people in ELE. “What about our auditors? Why does an outsider have to get involved?”
+
+
+“Take it easy. This is how the client wants it. ELE saw the bid, and they haven’t said no. They even said they were expecting it. They’ve already invested three billion. They’re not bluffing. Gotoba is willing to take this as far as they want to go. Those are his instructions. You’re going to Tanegashima.”
+
+
+“Tanegashima? The island?” Sohya was so startled he half rose from his seat. “I just got back from the moon. What am I, the Flying Dutchman?”
+
+
+“Can’t be helped. Tanegashima is where the launch vehicle is. ELE suggested sending you, but now Tech Development is pushing for you to go too. Sando thought your report from the moon was top-notch.”
+
+
+“You’re just saying that so I’ll shut up,” said Sohya, morose.
+
+
+“Maybe. It’s not up to you anyway,” Iwaki shot back. “Unless you want to find another job, better relax and enjoy the ride.”
+
+
+“All right, okay.” Worn out, Sohya slumped into his seat. A chuckle came from the rear seat.
+
+
+“You did a good job of cozying up to the chairman’s granddaughter, but that won’t work with me,” said Reika. “I hope you’re ready.”
+
+
+“Cozy up to her? Give me a break,” Sohya said tiredly. He was starting to wonder whether his real job was babysitting people no one else wanted to deal with.

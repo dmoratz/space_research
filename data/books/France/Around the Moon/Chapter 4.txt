@@ -1,0 +1,435 @@
+CHAPTER 4
+
+
+
+
+
+
+
+
+A Little Algebra
+
+
+
+
+
+
+THE NIGHT WENT BY uneventfully. This word “night,” though, is misleading.
+
+
+The projectile's position in relation to the sun hadn't changed. To an astronomer's eyes it was daytime in the lower half of the shell, nighttime in the upper. So when these two words are used in this narrative, they represent the period of time that elapses between sunrise and sunset on the earth.
+
+
+The travelers slept all the more peacefully, because, though the projectile was going extremely fast, it seemed perfectly still. No movements revealed that it was proceeding through space. Not even the swiftest speed can be detected by an organism if it takes place in a vacuum, or when the air mass around the traveling object flows along with it. What earthling notices how fast his planet is carrying him, even though its speed is nearly 56,000 miles per hour? Under such conditions neither motion nor stillness can be “sensed.” Here, accordingly, all objects are neutral. If an object is standing still, it will remain in that state so long as no outside force moves it. If it's in motion, it won't stop till some obstacle gets in its way. This neutrality with respect to motion or stillness is called inertia.
+
+
+Therefore, since Barbicane and his companions were closed up inside their projectile, it could easily have seemed to them they were standing perfectly still. Even so, the effect would have been the same if they were on the outside. If the moon hadn't been growing bigger overhead, they would have sworn they were absolutely stationary.
+
+
+That morning, December 3, a cheerful but unexpected sound woke the travelers up. The crowing of a rooster rang through the coach's interior.
+
+
+Michel Ardan was on his feet first, clambered to the top of the projectile, and closed a partly open crate:
+
+
+“Pipe down, will you!” he said in a low voice. “This creature's going to spoil all my arrangements!”
+
+
+But Nicholl and Barbicane were awake.
+
+
+“A rooster?” Nicholl was saying.
+
+
+“Heavens no, my friends!” Michel replied hastily. “I was the one who tried to wake you up with this barnyard vocalizing!”
+
+
+And with that he let out a choice cock-a-doodle-doo, which would have done credit to a prize specimen of the genus Gallus.
+
+
+The two Americans couldn't help laughing.
+
+
+“That's quite a talent,” Nicholl said, giving his companion a sidelong glance.
+
+
+“Yes,” Michel replied, “it's an old joke in my country. Typical French fun. That's how we play cock of the walk in high society!”
+
+
+Then, quickly changing the subject:
+
+
+“Barbicane,” he said, “do you know who I thought about all last night?”
+
+
+“No,” replied the Gun Club's president.
+
+
+“Our Cambridge friends. You've already commented that I'm a champion know-nothing in mathematical matters. So I can't even guess how the experts at the observatory calculated what the projectile's initial velocity had to be for it to reach the moon after leaving the columbiad.”
+
+
+“You mean,” Barbicane countered, “for it to reach that neutral point where the moon's gravity equals the earth's, since from that point on —which is about nine-tenths of the way there—the projectile would fall to the moon simply because of its weight.”
+
+
+“So be it,” Michel replied. “But once again, how did they manage to calculate the initial velocity?”
+
+
+“Nothing could be easier,” Barbicane answered.
+
+
+“And could you have worked that calculation?” Michel Ardan asked. “Absolutely. Nicholl and I would have done so if that memo from the observatory hadn't saved us the trouble.”
+
+
+“Well, Barbicane old boy,” Michel replied, “they could slice me from top to bottom before I could solve a problem like that.”
+
+
+“Because you don't know your algebra,” Barbicane remarked serenely.
+
+
+“Oh, there you go again, you gluttons for x's! You think you've said it all when you've said algebra.”
+
+
+“Michel,” Barbicane countered, “do you think you could be a blacksmith without a hammer or a farmer without a plow?”
+
+
+“Hardly.”
+
+
+“Well, algebra is a tool like your plow or hammer, and a good tool for people who know how to use it.”
+
+
+“You're serious?”
+
+
+“Perfectly serious.”
+
+
+“And you can work with this tool in front of me?”
+
+
+“If you're interested.”
+
+
+“And show me how they calculated our coach's initial velocity?”
+
+
+“Yes, my good friend. By taking into account all the elements of the problem—the distance from the center of the earth to the center of the moon, the earth's radius, the earth's mass, the moon's mass—I can establish just what the projectile's initial velocity has to be, thanks to a simple formula.”
+
+
+“Let's see this formula.”
+
+
+“You're about to. Only I won't give you the curve our shell actually makes to account for the earth and moon orbiting the sun. No, I'll regard these two heavenly bodies as stationary, which will be good enough for us.”
+
+
+“And why is that?”
+
+
+“Because otherwise we would be grappling with that problem called ‘the problem of the three bodies,’ which integral calculus still hasn't advanced far enough to solve.”
+
+
+“My, my,” Michel Ardan put in with a bantering air. “Mathematics hasn't had its final say?”
+
+
+“Of course not,” Barbicane replied.
+
+
+“Great. Maybe the moonpeople have taken their integral calculus farther than you. And by the way, what is this integral calculus?”
+
+
+“It's a computation that's the reverse of differential calculus,” Barbicane answered solemnly.
+
+
+“Thanks a lot.”
+
+
+“Put another way, it's a computation in which you look for finite quantities whose differential you know.”
+
+
+“That's clearer at least,” Michel replied with a smug expression.
+
+
+“Now it's time to put pencil to paper,” Barbicane went on. “And in less than half an hour, I'll have the formula we want.”
+
+
+With that Barbicane got down to work, leaving Nicholl to peer out into space and his companion to take care of breakfast.
+
+
+Half an hour hadn't gone by before Barbicane looked up and showed Michel Ardan a page covered with algebraic signs, in the midst of which this overall formula stood out:
+
+
+
+
+
+
+
+
+
+
+“And this means … ?” Michel asked.
+
+
+“This means,” Nicholl replied, “that half of v to the second power minus v zero squared equals gr, times r over x minus 1 plus m prime over m, times r over d minus x minus r over d minus r—”
+
+
+“—plus x over y climbing on z and sitting astride p,” Michel Ardan exclaimed, bursting into laughter. “And you can understand all this, captain?”
+
+
+“Nothing could be clearer.”
+
+
+“Positively!” Michel said. “It's as plain as day and I couldn't ask for more.”
+
+
+“You incurable comedian!” Barbicane countered. “You wanted algebra and now you're in it up to the neck.”
+
+
+“I would rather be hanged by the neck.”
+
+
+“As a matter of fact,” replied Nicholl, who was examining the formula with a connoisseur's eye, “this strikes me as nicely worked out, Barbicane. It's the integral of the momentum equation, and I'm sure it will give us the desired result.”
+
+
+“But I want to understand it!” Michel exclaimed. “I'll put in ten years of a life like Nicholl's if it'll help!”
+
+
+“Then listen,” Barbicane went on. “Half of v to the second power minus v zero squared—this is the formula that gives us fractional variations in momentum.”
+
+
+“Fine, and Nicholl knows what it means?”
+
+
+“Surely, Michel,” the captain replied. “All these signs may seem like cabalistic symbols to you, but they form the clearest, simplest, and most logical language to folks who know how to read it.”
+
+
+“And you're claiming, Nicholl,” Michel asked, “that through these hieroglyphics, which are about as intelligible as the squawks of an Egyptian ibis, you can find what initial velocity the projectile has to be given?”
+
+
+“Indisputably,” Nicholl replied. “And by using this same formula, I can always tell you its speed at any given point in its trip.”
+
+
+“Word of honor?”
+
+
+“Word of honor.”
+
+
+“So you're as crafty as our president?”
+
+
+“No, Michel. The hard part is what Barbicane did, which is to set up an equation that accounts for all the conditions of the problem. The rest is nothing more than a little arithmetic and calls only for knowledge of the four processes.”
+
+
+“That sounds promising already!” replied Michel Ardan, who couldn't do simple addition to save his life and who defined the process as follows: “a riddle in Chinese that allows for an endless variety of answers.”
+
+
+In the meantime Barbicane insisted that if Nicholl had put his mind to it, he would certainly have hit on this formula.
+
+
+“I'm not so sure,” Nicholl said, “because the more I study it, the more I marvel at how you've set it up.”
+
+
+“Now listen,” Barbicane told his know-nothing comrade, “and you'll see that each of these letters has a meaning.”
+
+
+“I'm all ears,” Michel said, looking resigned.
+
+
+“d,” Barbicane put in, “is the distance from the center of the earth to the center of the moon, because we must use their centers to calculate their gravitational pull.”
+
+
+“That I can follow.”
+
+
+“r is the radius of the earth.”
+
+
+“r, radius. Granted.”
+
+
+“m is the earth's mass, m prime the moon's. In essence we need to take the masses of these two magnetic objects into account, since their gravitational pull is in direct proportion to their masses.”
+
+
+“Got it.”
+
+
+“g represents gravity—the speed per second of an object falling to the earth's surface. Is that clear?”
+
+
+“As mineral water,” Michel replied.
+
+
+“Now, I use x to represent the variable distance separating the projectile from the center of the earth, and v stands for the projectile's velocity at that distance.”
+
+
+“All right.”
+
+
+“Finally the expression v zero figuring in this equation is the shell's velocity on leaving the atmosphere.”
+
+
+“In essence,” Nicholl said, “it's from there that we need to calculate this velocity, since we already know that our velocity at departure is exactly 1½ times greater than our velocity on leaving the atmosphere.”
+
+
+“I've quit understanding!” Michel put in.
+
+
+“Yet it's quite simple,” Barbicane said.
+
+
+“Not as simple as I am,” Michel remarked.
+
+
+“It means that once our projectile has gone past the bounds of the earth's atmosphere, we've already lost a third of our initial velocity.”
+
+
+“As much as that?”
+
+
+“Yes, my friend, merely because of our friction against the atmospheric layers. Please understand that the faster we go, the more resistance we get from the air.”
+
+
+“That I can accept and understand,” Michel replied, “though your v to the second power and your v zero squared are jangling around in my head like nails in a sack.”
+
+
+“Algebra's initial effect,” Barbicane went on. “And now to finish you off, we're going to establish the numerical values of these different expressions, in other words, put them into figures.”
+
+
+“Go on, finish me off!” Michel replied.
+
+
+“Some of these expressions are already known,” Barbicane said, “the others need to be worked out.”
+
+
+“I'll look after the latter,” Nicholl said.
+
+
+“Let's take r,” Barbicane went on. “r is the earth's radius, which at our starting point, Florida's latitude, equals 20,899,000 feet. d, in other words, the distance from the center of the earth to the center of the moon, is equal to fifty-six times the earth's radius, hence …”
+
+
+Nicholl quickly worked it out.
+
+
+“Hence,” he said, “1,170,340,000 feet just as the moon has reached her perigee, in other words, her closest point to the earth.”
+
+
+“Good,” Barbicane put in. “Now m prime over m—in other words, the ratio of the earth's mass to the moon's—equals 1/81.”
+
+
+“How wonderful,” Michel said.
+
+
+“g, the gravity, is 32.18 feet in Florida. From which it follows that gr is —”
+
+
+“—equal to 671,948,000 square feet,” Nicholl responded.
+
+
+“And now what?” Michel Ardan asked.
+
+
+“Now that the expressions have been put into figures,” Barbicane replied, “I'm going to look for the velocity v zero, in other words, the velocity our projectile needs on exiting the atmosphere to reach the point where the gravitational pull is equivalent to an absence of velocity. Since velocity at that juncture is nonexistent, I'll make it equal to zero, then I'll let x—the distance at which this neutral point is found—be represented by 9/10 of d, in other words, the distance separating the two centers.”
+
+
+“I have a vague notion that's got to be right,” Michel said.
+
+
+“Which gives me, then: x equals 9/10 of d, and v equals zero, and my formula will become … ”
+
+
+Barbicane wrote quickly on his piece of paper:
+
+
+
+
+
+
+
+
+
+
+Nicholl scanned it eagerly.
+
+
+“That's it, that's it!” he exclaimed.
+
+
+“Is it clear?” Barbicane asked.
+
+
+“It's inscribed in letters of fire!” Nicholl replied.
+
+
+“What helpful fellows,” Michel mumbled.
+
+
+“Do you finally understand it?” Barbicane asked.
+
+
+“Understand it?” Michel Ardan snapped. “It's giving me a splitting headache!”
+
+
+“Thus,” Barbicane went on, “v zero squared equals 2gr, times 1 minus 10r over 9d minus 1/81, times 10r over d minus r over d minus r.”
+
+
+“And now,” Nicholl said, “to get the shell's velocity as it leaves the atmosphere, we only have to do a little calculating.”
+
+
+The captain, a seasoned all-around problem solver, started writing with fearful speed. Divisions and multiplications stretched into the distance under his fingers. Figures fell like hail onto the blank spots on his sheet of paper. Barbicane kept an eye on him, while Michel Ardan pressed both hands against his temples, which were now starting to throb severely.
+
+
+“Well?” Barbicane asked after a few minutes of silence.
+
+
+“Well, according to the finished calculation,” Nicholl replied, “v zero, in other words, the velocity the projectile needs on leaving the atmosphere to reach the neutral point, should be … ”
+
+
+“Yes … ?” Barbicane put in.
+
+
+“… should be 12,085 yards per second.”
+
+
+“What! ” Barbicane put in, jumping up. “You're telling me—”
+
+
+“It should be 12,085 yards.”
+
+
+“Curse the rascals!” exclaimed the Gun Club's president, making a gesture of despair.
+
+
+“What's wrong?” Michel Ardan asked, quite startled.
+
+
+“Wrong? If right now the friction has already reduced our speed by a third, then our initial velocity should have been …”
+
+
+“It should have been 18,128 yards per second,” Nicholl replied.
+
+
+“But the Cambridge Observatory stated that 12,000 yards was enough at departure, so our shell took off with only that much speed!”
+
+
+“Well?” Nicholl asked.
+
+
+“Well, it won't be enough.”
+
+
+“Good heavens.”
+
+
+“We aren't going to reach the neutral point.”
+
+
+“Blast!”
+
+
+“We won't even get halfway.”
+
+
+“Son of a gun!” Michel Ardan exclaimed, leaping up as if the projectile were already colliding with their planet.
+
+
+“And we'll fall back to the earth!”

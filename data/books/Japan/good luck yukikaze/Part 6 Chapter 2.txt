@@ -1,0 +1,70 @@
+2
+
+
+CAPTAIN FUKAI IS the only one capable of communication with the JAM, Major Booker thought. And he’d have to do it as soon as he was ready to. But he wasn’t prepared yet. First of all, there was the critical issue of selecting a reliable contact point. That would mostly determine the success or failure of this endeavor.
+Since it would be necessary to scout out the several JAM bases comprising Richwar, Major Booker rerouted the planes scheduled to be used in the Cookie attack operation for that purpose. Urging Captain Foss to hurry up with her profacting of the JAM, he dispatched Yukikaze on her tactical recon of Cookie base as originally planned. It was reckless to send Rei on a sortie so soon after returning to combat duty, and with his green EWO Lieutenant Katsuragi besides, but the major judged that Rei needed to get his combat intuition back and Lieutenant Katsuragi needed some real combat experience.
+Rei had expressed concern over involving a newbie like Lieutenant Katsuragi in something as important as making contact with the JAM, but Major Booker had had an idea he
+
+
+didn’t tell Rei about. If Yukikaze and her crew were captured, it’d be better to have a crewmember who knew as little about the inner workings of the SAF as possible. Katsuragi ﬁt that description perfectly. Also, if it should turn out that Rei himself was being manipulated by the JAM, that unknown even to himself, he was a JAM duplicate, then Major Booker believed that Lieutenant Katsuragi would be able to deal with that situation as well. As a member of the Intelligence Forces, Lieutenant Katsuragi had had it drilled into him to constantly be on guard for those who were attempting to sabotage the FAF. Aside from that, if by some chance Katsuragi was a JAM himself, Major Booker thought, and the JAM wanted to make contact with Yukikaze and Rei, then they might use Lieutenant Katsuragi to guide her to them.
+Major Booker had also considered the possibility that the JAM would initiate contact from their end, but he’d expected them to use the human duplicates they’d created to understand humans. Of course, he’d also considered that the JAM would try to directly access the SAF’s computers, but he’d unconsciously ignored the possibility because he hoped that wouldn’t occur. In such a situation, the humans would have no recourse. It would mean that the war had completely become one between the JAM and the computers.
+Some things you don’t want to deal with, even as they demand your attention, because you don’t want them to be true. The trouble is that ignoring an unpleasant truth doesn’t make it any less real. To the contrary, he’d been a fool to have forgotten how much of a bitch reality tended to be, Major Booker realized as he monitored Yukikaze’s tactical reconnaissance mission to Cookie base from the command center.
+With Cookie already destroyed, he hadn’t been expecting any surprises. After taking on fuel at their
+
+
+refueling point and conducting the recon, the only thing he expected to hear next from them was “Mission complete, RTB.” And, in fact, that was what had happened with every other ﬁghter before Yukikaze. A detailed analysis of the electronic intelligence gathered from the combat airspace had indicated that Cookie wasn’t seeking aid from any other bases. The humans in the SAF had judged that it was too late for the JAM to try and turn the tables on them there.
+Booker had Captain Foss waiting there with him, since he ﬁgured that Lieutenant Katsuragi’s inexperience might start aggravating Rei. But then, seeing as she already had an interest in Rei, Lieutenant Katsuragi, and Yukikaze, Foss had probably intended to come down to the command center to observe their mission regardless of her orders. The same went for General Cooley. Even as she was convincing herself that nothing was going to happen to Yukikaze in this situation, she still couldn’t bring herself to take her eyes oﬀ the plane’s mission status data stream and get some rest. The humans in the SAF might not have known that Yukikaze had already been contacted by the JAM, but they all knew how serious a matter it’d be if anything happened to her.
+Which was why all of them felt an awful foreboding when they received Yukikaze’s distress call.
+The action in the command center kicked up a notch as the tactical computer translated the code from Yukikaze into human speech and moved the display from one of the terminals to the main screen.
+This is Yukikaze. We have encountered an unknown type of JAM plane. Taking own initiative and moving strategic reconnaissance operation to phase three. Out.
+“What’s going on here? Have Captain Fukai explain,” Major Booker ordered. The communications oﬃcer replied that he couldn’t.
+
+
+“Yukikaze is currently engaged in a level-1 combat recon operation and is ﬂying with her comm systems blacked out. We can’t reach her.”
+“I don’t think Captain Fukai is the one calling the shots here, Major,” Captain Foss said. “The way that message says ‘Taking own initiative’ is telling me that it’s Yukikaze making the call, and Rei—sorry, Captain Fukai may not even know about it, or at the very least didn’t make the decision.”
+“Looks like the JAM got the jump on you, Major Booker,” said General Cooley. “From what I see in this scenario, that unknown JAM plane is there to make contact with Yukikaze, not engage her in combat. They’ve moved to make contact from their side.”
+“I knew this would happen,” said Captain Foss coolly.
+If you knew that, Major Booker thought savagely, then why the hell didn’t you bother mentioning it beforehand? And stop looking so damned pleased with yourself. As much as he wanted to actually say it to her, his sense of danger overrode his anger. They could point ﬁngers later. Right now, they had to wrap their heads around what was happening to Yukikaze fast and ﬁgure out what to do about it. As usual, the tactical computer won that race.
+Reroute returning Rafe to the scene. General Cooley, grant clearance.
+“Granted. Major Booker, take command.”
+“Roger. ATC, I need emergency access to the Rafe. What’s its current position and remaining fuel status?”
+I’ll do that, the tactical computer indicated on the main screen. Attempting to seize control of Tactical Combat Air Corps and TAB-8 base control and computer systems. General Cooley, grant clearance.
+“Granted, on condition that the seizure isn’t detected. They mustn’t know that we’re doing this.”
+
+
+Roger. Your condition is possible to achieve. Initiating mission to track and support Yukikaze by authorization of General Cooley. Arranging for hot refuel of Rafe at TAB-8. Operating Rafe to achieve optimal reconnaissance action. Grant clearance.
+“Granted. Don’t let anyone else know that we’re operating that Rafe. Give me a sequential report of everything that you do.”
+Roger. Generating real-time display of situation in Cookie base battle zone from available information.
+No real-time data was coming in from Yukikaze. For that reason, they had no idea what was happening to her, or even what course she was ﬂying. Usually, she would operate so as to make sure that none of the data she was gathering could be intercepted by the wrong hands, so the command center wouldn’t have any means of tracking her in real time. But that wasn’t the case now. The tactical computer was seizing the data from the computer systems of the other military units. In addition, it’d issued emergency change of mission orders to two SAF ﬁghters they had ﬂying in other areas outside of Cookie and was displaying the real-time data of the FAF telemetry it was now gathering.
+From this, they learned that Cookie had launched one ﬁnal counterattack and then self-destructed. All FAF ﬁghters ﬂying in the airspace above had been brought down, and now the front line was buzzing with activity, like a beehive someone had poked with a stick. Despite this, they had no clue as to what had happened to Yukikaze. Her presence in the area couldn’t even be conﬁrmed.
+If Yukikaze was still intact, Major Booker thought, and she was simply keeping her contact with the JAM a secret from the FAF, then that was ﬁne. She was just hiding it from everybody. But what if that wasn’t the case?
+The tactical computer sent the Rafe to search for Yukikaze on Cookie’s perimeter for as long as the Rafe’s fuel
+
+
+allowed, but by that time there was no sign of her. All it spotted were the surviving JAM ﬁghters in combat with the FAF.
+The Rafe was temporarily landed at TAB-8 to be hot fueled, with its engines still running. Despite that, it still took more time than it should have. The arrangements for the refueling had been properly made, but the humans at the base had never seen an unmanned Rafe before, so they didn’t know where the fuel ports were or even how many of them it had. The SAF sent the data, but until it was sent to the scene, the Rafe was kept waiting. There it sat, engines running with its nose sunk down in a kneeling position. To the humans who stood watching it nearby, it seemed just like a JAM.
+“C-could Yukikaze have been shot down?” Unable to stand it anymore, Captain Foss asked the question nobody else wanted to. “She isn’t anywhere. She’s not ﬂying.”
+“There’s no trace of her having crashed,” replied General Cooley. “We’re not picking up any mayday signals either.”
+Major Booker had thought that she’d perhaps landed at Cookie, but the video the Rafe had sent back gave lie to that possibility. There was no Cookie base left to land on. It had been transformed into an enormous crater. Even had Yukikaze landed there, it would be diﬃcult to even discern her wreckage.
+I anticipate that Yukikaze is making contact with the JAM, the tactical computer said. I cannot detect that ourselves. All we can do is wait for her return to base.
+“Have the Rafe continue its investigation,” said Major Booker. “I’m declaring an emergency. Have the other ﬁghters join in.”
+While a search is necessary, putting more search planes in the airspace over Cookie at this time won’t
+
+
+increase the probability of locating Yukikaze, the computer said. I theorize that she has entered the mysterious battle zone.
+“Where’s this mysterious battle zone?” Captain Foss asked.
+“An unknown airspace Yukikaze was caught in once before. It happened during a sightseeing ﬂight with a visitor from Earth aboard her. Yukikaze was ﬂying without a full crew, and the JAM caught her in a strange interdimensional zone, like a butterﬂy in a net.”
+Even as he explained, Major Booker wondered why the tactical computer had mentioned that little detail, then realized why. There was no doubt in his mind that the computers had already had some sort of discussion with the JAM and foreseen this circumstance. The SAF’s combat intelligences had acted on their own initiative. They were now seizing control.
+Major Booker bit his lip as he realized that he’d been naive. It had been them, not the JAM, who’d gotten the jump on him. Rei had told him that Yukikaze was conscious, that she was alive, but he’d never really taken him seriously. Apparently, he should have.
+“But why Yukikaze?” Major Booker murmuerd, almost to himself. “Why did the JAM choose her speciﬁcally?”
+“Because the JAM consider Yukikaze a unique being,” said Captain Foss. “Major, you’re so immersed in the SAF that you can’t see how unusual Yukikaze is. The fact that you can’t realize something so simple says to me that—”
+“Captain Foss, you don’t need to be here,” said General Cooley, cutting her oﬀ. “I want you to organize the results of your profacting of the JAM and submit a report to me at once.”
+“General, I’m not ﬁnished yet. I need the data Yukikaze is gathering right now.”
+
+
+“Major Booker, please inform Captain Foss as to her duty. There’s no need for you to be here either. I’m taking command. Analyze Captain Foss’s profacting report and then inform me immediately if you ﬁnd anything useful in it. That is all. Now go to it.”
+“Y-yes, General.” Major Booker saluted and abided by her order. He’d never felt so utterly defeated as he did at that moment.
+He understood, though. If Yukikaze didn’t make it back, the general was going to urgently need the results of Captain Foss’s behavioral analysis of the JAM. The major appreciated that, given the circumstances, it was an entirely appropriate decision to make. So far as she was concerned, Rei’s life or death was merely a strategic question. It was a matter of war.
+But Major Booker couldn’t neatly compartmentalize Rei like that. Please, make it back, he prayed. I don’t want to lose you, pal. You can’t lose, not to the JAM, to Yukikaze, or to this war. Winning the battle doesn’t matter. What counts most is making it back alive.
+Yeah, Major Booker thought as he reconsidered. Rei would be the ﬁrst to agree with me there.
+Rei didn’t need prayers right now. He’d trust in his own strength and do what he thought needed to be done. All the major could do was hope that his friend made it back. If Yukikaze did return with knowledge of what the JAM truly were, then his feelings of defeat would be assuaged. If Booker was to pull himself together to go after the enemy once more, Yukikaze, Rei, and Lieutenant Katsuragi were going to have to make it back.

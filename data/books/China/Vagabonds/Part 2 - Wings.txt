@@ -1,0 +1,423 @@
+WINGS
+
+
+
+
+Starting in the middle of the twenty-first century, personal aircraft became the main means of transportation on Earth. As cities grew bigger and buildings taller, surface transportation networks were overburdened, and humans had to take to the skies with winged cars.
+
+
+On Earth, flying was a complicated endeavor. For children, it represented excitement and dreams; for youths, it represented the means by which to pursue dates; for adults, it was a status symbol; and for the elderly, it was a tool that they complained about incessantly but had to put up with in order to get around. For sociologists, personal aircraft led to the birth of new forms of social organization; for politicians, they represented disputes over airspace; for eco-activists, they were responsible for damage to the atmosphere; for merchants, they were just the medicine needed to prevent economic downturns. For everyone, they represented the coming of a new age.
+
+
+High school students wanted to get to school; college students wanted adventure; stars wanted vacations. Everyone had different tastes, and the personal aircraft industry had to cater to them all, resulting in complicated vehicles. For high speed, they needed new solid fuels; for stability, the wings needed balancers at low airspeeds; for altitude control, they needed high-precision combustion ratio governors; for adapting to different air currents, they needed smart flow sensors; for avoiding accidents due to operator fatigue, they needed reliable autopilots; for long-distance communication and teleconferences, they needed powerful radios and high-res displays; for defense against attackers, they needed selfguided missiles; for the survival of the manufacturers, they needed advertising; for saving the life of the occupant when all was lost, they needed ejection seats and parachutes; for love, they needed lie-flat, comfortable seats. Personal aircraft evolved into a thousand forms, employing every imaginable material.
+
+
+When the simple became complicated, the simple was forgotten. It wasn’t too different from how children knew it was enough to eat and sleep to live, but adults claimed a hundred other “necessities.” To go from the complicated back to the simple required a great deal of patience and effort.
+
+
+“All we need is food,” said Mira.
+
+
+Sorin pored over the plans and diagrams spread out before him. “But we’ve taken out everything we can.”
+
+
+On sheets of e-paper, the various components were labeled in hasty scrawls. Some of the components had been x’d out. The three boys sat around these sheets, debating and analyzing. They planned to completely overhaul a small Martian shuttle fighter— removing all systems related to cargo hauling, mining, and war; reducing speed and altitude requirements to the bare minimum— until the plane could get off the ground with the least amount of equipment.
+
+
+This was the seventh day after the qualifying round of the Creativity Fair. Since Luoying had managed to get them through that first round, the team was officially recognized and their trials could be put on the agenda. Anka explained to his friends his plans for modifying his plane, and the response was overwhelmingly enthusiastic.
+
+
+Several Mercury Group members also wanted to go with Luoying to visit the crater and canyon sites that were so important to Martian history. After Runge suggested that they rent a mining ship, Chania began to organize and raise funds, and Sorin directed the secret plan along with the play. Luoying wasn’t surprised by her friends’ response. After all, after days spent cooped up in a glass box, struggling with their reports on their trip to Earth, the idea of an adventure to recover the truth of the Martian past held infinite appeal. Several core members of the group gathered daily to implement the details of their plan. Luoying’s personal quest had grown into a yearning for the sky and a critical examination of the past.
+
+
+“I think we’ve been coming at this the wrong way,” said Anka, who was leaning against a column to the side.
+
+
+“What do you mean?” asked Sorin, looking up from the plans.
+
+
+“We’ve been starting with the plane and then taking things away, with the result that we’ve been struggling with every component, thinking it’s necessary. But we can start from nothing and then only add in what must be added.”
+
+
+“Start from nothing?” Sorin furrowed his brow.
+
+
+“Well, not exactly nothing. More like starting with air.”
+
+
+Luoying sat on the steel rack opposite them. The three engineers had already spent a night discussing the matter.
+
+
+Their workshop was just a corner of the abandoned warehouse they used for rehearsals. A lone shed stood against the wall like a large mailbox, and sections of the steel racks that surrounded the warehouse lay in front of the shed diagonally, leaving a triangular area of the floor open. It was night, and the empty warehouse was dark and silent except for this lit corner. The boys sat on a few chests repurposed as furniture, and a portable projector showed images of different aircraft on the walls.
+
+
+Anka leaned against the pillar, one leg crossed in front of the other. “Ultimately, our mission is just to get up the cliffs without falling. We don’t need a traditional plane for that. All we care about are the wings. There’s no need even for the engine. This way we can maximally simplify the structure and lessen the weight.”
+
+
+“How can we do without the engine?” Sorin objected. “Even if we rely on solar power, we still have to have jets. How else are we going to move? Even if the wings can vibrate, we still need minimal airspeed to stay aloft.”
+
+
+Anka shook his head. “That’s only necessary if we have to fly against the wind and generate lift. But if we don’t particularly care about the direction we fly in, then we can go with the wind, much like some insects.”
+
+
+Mira asked, “But I thought we went through the calculations. There won’t be enough lift.”
+
+
+“Lift is directly proportional to wing area,” said Anka. “We can make the wings bigger. Though the atmosphere is very thin, it also means that the force applied against each square centimeter of the surface is small. I’ve done the math. We can make the wings several times bigger than they would be on Earth.”
+
+
+Mira looked doubtful. “Will the wings hold? Wouldn’t they bend under the weight?”
+
+
+Anka shrugged. “I’m not sure. It’s just an idea right now.”
+
+
+Sorin nodded thoughtfully. “Let’s try to work out the details. I imagine we can keep the wings straight if we buttress in the right spots. The key is the lift-drag ratio, which means we have to find the right shape for the wings and the right wind conditions. I think it’s feasible. We do have a lot of wind, despite the thin air.”
+
+
+Sketching on her notepad, Luoying listened to them but didn’t interrupt. Sorin’s eyes were spirited and intense. Mira’s messy hair draped around his round brown face. Anka was slouching and one of his shoes was off, but he still looked slender and handsome against the pillar.
+
+
+Though she didn’t follow the intricacies of the engineering discussion, she was struck by Anka’s words: an airplane was nothing more than a dance between material and wind. She had a realization: to speak of flight, it was necessary to first speak of air; to speak of action, it was necessary first to speak of the surroundings.
+
+
+In the quiet of the night, Luoying observed the boys in front of her and the moons visible through the domed roof. Like her, the boys had grown used to walking in the sky on Earth. Looking at them, she felt comforted. Though there were so many obstacles in their way, she felt that as long as they put their minds to it, there was nothing they couldn’t accomplish. She wasn’t sure where that sense of faith had come from; perhaps it was because she had grown used to drifting with them, or perhaps because she liked the way their eyes lit up with passion when they were deep in thought.
+
+
+The discussion among the boys grew more animated. They listed the conditions and equipment necessary to drift with the wind. The list seemed to Luoying to pose all kinds of problems that couldn’t be solved. But the boys persisted, and after attacking the problems one by one, they managed to come up with solutions for most of them. However, there were a few stubborn snags that refused to yield, like bits of fish bone lodged in the throat.
+
+
+“Luoying, do you remember any descriptions of the geography around the site of your great-grandfather’s crash?” asked Sorin.
+
+
+Three pairs of eyes were focused on her. Apparently they had come to an impasse in their discussion and needed her input.
+
+
+“I do,” said Luoying. “But there wasn’t much.”
+
+
+“What do you have?”
+
+
+“It was a turn in the canyon, where the walls went straight up and down. The gusting wind would send rocks and sand tumbling down from the cliffs.”
+
+
+“The wind was very strong there?”
+
+
+“That’s right.”
+
+
+“But there was a dust storm going on at the time.”
+
+
+“Yes.”
+
+
+“What about when there’s no storm?”
+
+
+“There’s nothing about that in the files.” Luoying hesitated, thinking. “Wait, I remember something about there being many wind-eroded caves on the cliffs—and gullies, also from the wind.”
+
+
+The boys looked at each other. Sorin nodded at Anka, who took more notes on the paper plans.
+
+
+“Do you know the exact location of the site and how to get there?” asked Anka gently.
+
+
+“I don’t. But I know it’s not far from the base camp at the time. There was one line in the files that I remember really well: If you send out the rescue ship now, it’ll take only half an hour to get here.” “The rescue ship can get there that quickly?”
+
+
+“Yes.”
+
+
+“Then it should be no problem to drive our mining ship there,” said Anka to Mira.
+
+
+Mira nodded. It was clear that this had resolved a big part of his worries.
+
+
+“Then what’s the point of building or retrofitting a plane?” asked Mira. “We can just drive the mining ship over.”
+
+
+Luoying shook her head. “The crater and canyon we’re looking for are on the ground, but most of the sites and ruins we’re interested in would be up on the cliffs.”
+
+
+“On the cliffs?”
+
+
+“The camps they built before Mars City were all up on the cliffs.”
+
+
+“Really?” Mira looked taken aback. “I had no idea.”
+
+
+“You didn’t?” Now it was Luoying’s turn to be surprised. “I thought everyone knew.”
+
+
+“I didn’t.” Mira turned to the other two. “You?” “I didn’t know either,” said Anka.
+
+
+“I think I remember hearing something about that,” said Sorin, frowning. “It’s weird, right? We really didn’t learn much about that part of history in school. There were many details about the war, but I can’t remember ever focusing on the prewar period.”
+
+
+“I think you’re right,” said Luoying, after a moment of reflection on her own schooling.
+
+
+“Then how did you know about the camps?” asked Mira.
+
+
+“I can’t remember . . . maybe my parents told me about them when I was little? I really can’t be sure. But I’ve always known.”
+
+
+“Can you describe the features of the camp in more detail?” asked Anka.
+
+
+“I know it’s in a crater, and that people lived in caves on the rim of the crater. As for more details . . . I can’t remember.”
+
+
+“Anyway, you can find out more?”
+
+
+Luoying was about to say that, since her parents had died when she was very young, she wasn’t sure who to go to for more information, but then she remembered Reini. She had a hunch that he would be able to help. As a historian, surely he had more materials about that period. She nodded and accepted the mission.
+
+
+Anka picked up a sheet of e-paper from the ground and jotted down a few more notes. After glancing over the set of plans, he said, “I think we’ve done as much as we can today. We’ve resolved many problems, though there remain two key issues: one is the geography of the area we’re trying to get to, and the other is how to control the wings. Let’s go back and work on these problems on our own and inform the group if there’s any progress.”
+
+
+“What do you mean by ‘control the wings’?” asked Luoying.
+
+
+“It’s a technical challenge,” explained Anka. “We are trying to make the wings much bigger, right? Although that allows us to generate more lift, it also creates a new problem: it’s very hard to control such large wings due to the turbulence. Since the airflow will be unpredictable, it’ll be hard to code the control routines. The simpler we make the body of the plane, the harder it’ll be to program the wings. And unless we can control the wings, we can’t fly.”
+
+
+“Oh . . . that sounds bad . . . ,” muttered Luoying.
+
+
+She wasn’t a programmer and didn’t understand the specific difficulties, but she could tell from Anka’s tone how serious the problem was. The aircraft designs they inherited had resulted from decades of trials and experimentation, so any modification necessarily brought about new challenges. Though she wasn’t an engineer, she understood that principle.
+
+
+She saw that the boys looked solemn because of the challenges they faced, and the solemnity also made them handsome, as if the obstacles in their way energized them. As she walked with them out of the night-shrouded warehouse, she felt a warmth in her heart that she hadn’t felt in many days.
+
+
+*
+
+
+They met at the insect lab. This was per Luoying’s request; she explained that she wanted to understand the principles of insect flight. Reini agreed and brought her to the lab where he had once studied for three years as a young man.
+
+
+During his stint here, Reini had studied the biosensing of motion and pressure. On Mars, many machines were based on the principles of biomimicry of insects. Mining carts, for instance, extracted ore with long, segmented arms and skittered swiftly across the rubble-strewn ground. Reini’s task here was to research the coordination and motion of insect limbs, replicating them in electronics and circuitry that could be deployed in engineering design.
+
+
+The lab maintained a large hothouse in which specimens of rare plants were kept in an artificial jungle. The hothouse provided habitats for bees, dragonflies, praying mantises, spiders, and many species of beetles. The moment Luoying set foot in the hothouse, a dragonfly landed on her head. Surprised, she yelped, and the dragonfly flew away, trembling.
+
+
+She stood rooted in place, never having seen anything like the scene that greeted her. Every flower was blooming magnificently; every nook and cranny seemed to conceal an insect; every pair of vibrating wings gave off a vibrant allure. Lush growth filled her eyes, and butterflies fought for her attention. The translucent curled petals reminded her of the most elegant dresses. Not only had she never seen such beauty on Mars, she had never experienced it on Earth either. She had been to flower shops and grasslands on Earth, but never a garden of winged flowers.
+
+
+“So beautiful!” she exclaimed.
+
+
+“It is,” said Reini. “This garden was why I chose to study here.”
+
+
+“Were all these bred on Mars?”
+
+
+“Yes. About ten pairs of each species were initially brought here from Earth.”
+
+
+They stood in the middle of some blooming flowers. Reini gently picked up a butterfly from a flower and deposited it in Luoying’s palm. While the butterfly rested calmly, its slender legs trembling, Luoying examined it carefully. As she extended a finger to caress it, the butterfly took off.
+
+
+“Dr. Reini,” she asked, “how do insects fly?”
+
+
+Reini caught a nearby honeybee and showed its thorax to Luoying. “Do you see how its wings vibrate? This is the basic way all insects generate lift, though different species do it in slightly different ways. Bees twist their wings to change the angle of the air caught between them, while dragonflies vibrate their wings up and down to generate tiny vortices.”
+
+
+“Is it similar to how birds fly?”
+
+
+“Quite different,” said Reini. “Birds do not vibrate their wings, while insects rarely fan their wings the way birds do.”
+
+
+“How do insects control their wings?”
+
+
+“Typically by flexing and twisting the muscles near the roots of the wings, which are very light and thin.”
+
+
+Luoying looked at the bee struggling in Reini’s hand. It curled up until its abdomen was almost touching its thorax, kicking its tiny legs. The strange mouthparts, like components of a helmet, shifted and slid nonstop. Reini let go and the bee stumbled into the air. He held out a finger and a dragonfly landed on it.
+
+
+Gazing at the dragonfly, Reini said, “If you’ll allow me a bit of a digression: I think we’ve become too dependent on computer simulations. We no longer bother to observe. It’s the opposite from the way things used to be done.”
+
+
+Time passed quietly in the hothouse. The afternoon was almost over, and dusk was descending.
+
+
+“Dr. Reini,” Luoying asked abruptly, “was there a time when people on Mars lived in a crater?”
+
+
+Reini considered the question. He answered in his habitual even-tempered voice. “There was indeed a time when people on Mars lived on the walls of a large crater.”
+
+
+“When was that?”
+
+
+“About a century ago.”
+
+
+“How come we don’t hear much about that time?”
+
+
+“Because it was a controversial experience.”
+
+
+“Controversial? How? What was that place like?”
+
+
+Reini didn’t answer for some time. When he spoke again, his voice was slow and distant, like an ancient painting taking shape in the air. “Back then, there were no glass houses. Some people lived in colonies built from the steel hulls of spaceships, but most lived in caves and underground shelters. Although the walls of the crater were cold and lacked light, they blocked harmful cosmic radiation. For human beings, survival and security always came first.
+
+
+“You can imagine that the dwellings of the time were simple and crude, just holes in the mountainside. The yellow-earth walls were rough; the tiny caves were heated by electric stoves; and even during the day the inside was pitch-dark without lamps. But even so, such dwellings were not easy to build. All construction had to happen on top of steep cliffs, impossible for most ground vehicles to climb. Thus, most of the work had to be done by hand with great effort. Moreover, should any of the dwellings collapse, re-excavating them required great effort. All the goods needed to sustain life also had to be shipped in from Earth.”
+
+
+“Did Terrans and Martians live together then?”
+
+
+Reini smiled at her. “Back then there weren’t any Martians yet.
+
+
+All humans were Terrans.”
+
+
+Luoying pondered Reini’s words, like an ancient riddle. “Where is this crater?”
+
+
+“The middle of Big Cliff, not far south of the equator.”
+
+
+“Are there surviving ruins from that time?”
+
+
+“I suppose so. Anything that wasn’t pulverized by the war should still be there.”
+
+
+“Can we still visit them?”
+
+
+“That’s probably difficult. No one goes there anymore.”
+
+
+“Can I go by myself?”
+
+
+“That’s even harder.”
+
+
+Luoying squeezed the yellow metallic apple she had in her pocket all this time. Carefully, she asked, “Why did the war start back then?”
+
+
+Reini looked her in the eyes. “I think you’ve already looked into the causes of the war.”
+
+
+Luoying nodded. “But I’m asking about the goals, not the causes.”
+
+
+Reini nodded with understanding. “The main goal was to build a completely new society.”
+
+
+“Like the Mars City of today?”
+
+
+“In a sense. But the goal at the time was only the prototype and core. Today’s city is the result of thirty years of development during the war, and then more years after.”
+
+
+“What was the core at the beginning?”
+
+
+“The central archive. The core of everything was the central archive; the goal was to develop a city that functioned on top of the central archive. The point wasn’t to use the archive to compute the operations of the city but only to use it for storage: storage of every citizen’s discoveries, every new exploration, to be shared freely, to defend the freedom of thought of each.”
+
+
+“But why was independence necessary? Why couldn’t all this have been accomplished in the old crater-rim camp?”
+
+
+“That wouldn’t have been possible because the change involved the transformation of the whole economy. The envisioned city needed all intellectual and spiritual explorations to be open, unfettered from the economy. In other words, the production of goods and the production of ideas had to be separated into two distinct realms. There was no historical precedent for this.”
+
+
+“You mean,” asked Luoying, “that the products of the spirit would not be bought and sold, right?”
+
+
+“Correct. That was the vow made by the leaders of the rebellion.”
+
+
+“Is that a good thing?”
+
+
+“I’m afraid there’s no answer to that.” Reini turned his gaze to the twilit horizon. “For those who started the revolution, it was a matter of faith. When it comes to matters of faith, it’s impossible to judge them with labels like ‘good’ and ‘bad.’”
+
+
+“What kind of life would that be like . . . ?” Luoying muttered to herself.
+
+
+Though Reini made no judgment about right or wrong, he did explain to her, in simplified terms, some of the historical choices the early Martians made, and the lives of Luoying’s grandfather and his companions when they were young. He stuck to the outlines because he was convinced that the broad trends of history were not nearly as moving as the specific acts of individuals caught in history.
+
+
+Reini had once read many documents from before the war, and it was impossible not to be infected in some measure by the burning passion, as bright as sun-burnished dawn, in those words. It was a slightly impractical age, a utopia in the desert, a bubbling spring in the wasteland. Back then, without much encouragement, many would strive to make flowers bloom in the sand; indeed, the very idea moved many to throw themselves into the grand endeavor.
+
+
+At the start of the war, the rebels camped in a crater, similar to the Terran forces. The only difference was that the rebels were closer to the edge of Big Cliff, closer to the plains. This was because although the rebels could obtain about half of the food and other goods they needed by raiding the Terran forces’ supply ships, they still had to provide the rest through farming.
+
+
+It was an age when technology developed at a dizzying speed. Perhaps in no previous era were there so many clever minds placed together under so much pressure. The rebels consisted mostly of brilliant scientists who had joined the ranks because of dissatisfaction with the way various factions on Mars had been hoarding information, erecting walls to contain knowledge. The walls had to do with politics and commerce, which they knew nothing about, but they did know that to survive in the harsh environment of Mars required the free sharing and exchange of discoveries and inventions. They had built up a platform for sharing information in order to survive. There was no thought of art, of decorative designs, of politics and plebiscites and all the rest that came after.
+
+
+War gave birth to a generation. They grew up during the war, came of age in the war, and many died from the war. Hans, Galiman, Ronen, and Garcia were all children of the war. They fought as pilots, but they weren’t only pilots. They grew up in the worst of times, when it was easy to lose faith. But they carried on the flame of faith and kept it alive.
+
+
+Near the end of the war, Hans Sloan and his friends became the principals on the stage. Hans, young and handsome, took to the air with his wife as newlyweds and became a pilot instructor at the age of twenty-two. His father was still in the prime of his life and career as the commander of the Martian forces, and radiation sickness, though it had made him gaunt and wan, had as of yet no effect on his spirit. Galiman, his blond tresses like a lion’s mane and his booming voice a lion’s roar, was refining the designs that would ultimately propel the rebels to leave the crater for a new home. The sophisticated Garcia was already showing his potential as a diplomat, traveling everywhere to deliver speeches that kindled the dream of the central archive in the hearts of the new Martian people. Poetic Ronen, on the other hand, had published a series of essays, turning Habermas’s communicative rationality into passionate expositions that extended to every aspect of city construction and design.
+
+
+It was an age when ideals ruled. Reini knew that, regardless of the reality of the time, the people who had lived through that age had genuinely stretched their hands into space, yearning for their dreams.
+
+
+*
+
+
+After leaving the insect lab, Luoying suddenly wanted to dance.
+
+
+She hadn’t danced for days. Her mind had been preoccupied by other things, and her body had been recuperating. In her heart, she thought she had bid farewell to the dance stage, and neither her body nor her mind would ever return. But for the first time since her injury, she wanted to dance, to move all her body, to leap and turn and devote all of herself to a state of activity. She couldn’t tell where the urge had come from: perhaps the flitting butterflies, perhaps the cliffs seen at the end of the horizon, perhaps the history of men and women who fought to be free of restraints; perhaps flight.
+
+
+Stopping at the door of the insect lab, she turned to gaze at the wings flitting through the vibrant green of the hothouse, and the desire that had lain dormant in her body began to waken.
+
+
+She went to the dance school and, without turning on the lights, danced in the blue glow of the streetlamps that came on. Stretching, going through the standard poses, spinning before the mirror. Feeling her feet strike the thick, solid floor made her feel solid. The floor was the most loyal of partners, holding her up as she felt for it with the tips of her toes.
+
+
+As she danced, her thoughts rose and fell with her.
+
+
+The philosophy of dance in the twenty-second century had reached an apex of complexity. Dance was seen as a relationship between the human body and space, and there were many contradictory trends. Some argued that the physical language of body movements should be used to generate new signifiers, while others propounded the use of dance to throw off the layers of signifiers imposed on the body . . . but Luoying wasn’t interested in such abstruse theories. For her, dance wasn’t about a relationship with the external world but the relationship with the self. After pondering the goal of dance at length, she had reached the conclusion that it was control. The Mercury Group’s project leaders had given her the mission to learn to jump, to find the limits of the human body. But she found precision to be more important than height. The hardest task wasn’t to reach higher but to set the tips of the toes in an exact position, no higher and no lower.
+
+
+She raised a leg until it was at the height of her waist, set it down, and kicked back, standing still on one foot.
+
+
+Only after learning to dance did she find out how limited humanity’s understanding of the human body was. No one thought about how to sit, how to stand, how to walk without falling over. People carried out these incredibly complicated movements by instinct, without conscious control. How marvelous! It was as miraculous as the life energy that animated the body itself. The body had memories of its own, deeper habits that the conscious mind never understood.
+
+
+A ray of light swept through the depths of her mind.
+
+
+She was thinking of the night before, of the vast empty warehouse and the steel racks, of the boys locked in deep debate. All their efforts had stalled because of a crucial link, like a puzzle missing the piece that depicted the eyes. Everything was there, but it wasn’t a picture.
+
+
+And now she had the missing piece: control of the wings.
+
+
+To control the wings, perhaps they didn’t need the brain, only the instincts of the body.

@@ -1,0 +1,58 @@
+ACT V: JULY 31, 2041
+
+
+10 PM GMT
+
+
+WHEN THE CABLE had been cut, the observation cameras had detected the movement of the portable airlock. The airlock was flung from the spinning Torus, revealing that the entrance hole had been sealed. The equipment that had been taped to the ship’s surface sank into the hull without a trace.
+
+
+As soon as Igor realized that the communications line had been cut, he switched on the emergency wireless communicator and sent an automated call that was programmed to repeat until it was answered. The only message that appeared was the error that the connection had dropped at the first node, indicating that the disruption had severed communication.
+
+
+Igor also sent a message to the rest of the fleet and UNSDF Headquarters:
+
+
+Portable airlock destroyed, equipment inside disintegrated, and entry hole in the hull sealed. Request immediate instructions on how to proceed with rescue operation for extracting Contact Team.
+
+
+Igor knew all too well that there was nothing that he or the rest of the fleet could do. Even the closest ship was far enough away that it would take two and a half minutes for his message to reach them. There was no ship close enough to be able to deliver the plasma torch they would need to cut a new hole for a rescue. Even if a ship were closer, the Phalanx, along with the Builders’ ship, was still traveling at ninety kilometers per second, making docking and delivery impossible. The UNSDF had not built or deployed any other Remora-class craft.
+
+
+“Aida, see if you can come up with how we can hack into that hull. Double-check that we’re out of plasma torches.”
+
+
+“The spare equipment kit that had the second plasma torch was taped to the side and just vanished, but I’ll double check, just to be sure.”
+
+
+Igor admonished himself for agreeing that the extra equipment should go with the away team. With the portable airlock as their base camp, all the spare tools had been stored there. At the time, it had seemed like the emergency supplies should be close at hand.
+
+
+“Anything else on board that could produce intense heat? What about the engine?” Igor asked.
+
+
+“Once we cut through, we would irradiate the interior. They would never make it out, even in their space suits. Besides, with the rotational speed of the Torus, we wouldn’t be able to target one spot long enough for us to burn through,” Aida said. Igor heard her clinical detachment and the sadness underneath.
+
+
+They discussed modifying the communications laser but realized that it would not be enough even if they could maximize the beam’s concentration. It was designed for carrying a communications signal, not for slicing through metal.
+
+
+“If only we had some sort of explosive,” Igor said out loud to himself.
+
+
+One of the committee members had said that the Builders’ technology, so far beyond human knowledge that it seemed like magic, was most likely advanced enough to detect whether or not the Phalanx had any weapons on board. Many people had opposed the idea of the Contact Team, criticizing the ship’s enormous budget. Some felt that the prohibitive expense of an extra ship could compromise the attack on the Builders. To mitigate the concern, since its mission was solely to attempt a first contact, a series of compromises had determined that the Phalanx would carry no weapons in order to best express the peaceful intentions of Aki’s mission.
+
+
+Igor wished Raul had stayed behind on the Phalanx because Raul might have been able to have Natalia explain the situation to the Builders. It was upsetting. Igor searched through Raul’s files for some sort of documentation that explained how the AI worked but soon realized that, without Raul, it would be impossible for Natalia to communicate with the Builders in a way that was comprehensible to humans.
+
+
+Knowing that he had to relocate the Phalanx to a safer spot so it would be clear of the attack, Igor watched the last few seconds of the countdown tick away.
+
+
+“Time’s up. We have to leave now to guarantee that we’re clear of the blast zone.”
+
+
+“And just leave them?” Aida asked. “I know it’s what we’re trained to do. Can we live with ourselves?”
+
+
+“We don’t have a choice. If the ship isn’t destroyed by the graser, we can come back and attempt another rendezvous. Aki had to leave one behind and came back into space knowing the risk. Even if we didn’t have enough fuel to get back to Earth on our own, a gravitational assist from Mercury would get us there eventually as long as our supplies held out.” Igor began the thruster sequence required to take them a safe distance away from the Builders. Once the Phalanx was pointed away from the alien vessel, the NERVA III engines fired, carrying the Phalanx away from the Builders’ trajectory toward Mercury.

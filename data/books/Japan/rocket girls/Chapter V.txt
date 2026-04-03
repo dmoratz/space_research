@@ -1,0 +1,473 @@
+CHAPTER V
+
+
+
+
+
+
+PERFECT BY REDESIGN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[ACT 1]
+
+
+
+
+
+
+
+
+THANKS TO A last-minute equipment failure, Yukari and Matsuri had the day off.
+“Let’s go for a swim,” said Matsuri. “I love the way the water feels.” “I’m there.”
+In their free time they often went swimming in the ocean, partly because there wasn’t anything else to do, and partly because the clear blue waters of the atoll really did feel good.
+Yukari and Matsuri bundled towels and swimsuits into a knapsack and set off from the training center. They walked side by side along a paved road that led to the beach. It was the middle of the day, but the sprawling base was silent.
+Yukari stopped.
+“What is it?” asked Matsuri. Yukari’s attention was fixed on a building on the right side of the road. “Is something wrong?”
+“Go on without me.” “Why?”
+“I’m going to check out the VAB.” “Okay.”
+Matsuri gave Yukari a puzzled look and continued on to the beach.
+
+
+
+
+
+
+The Vehicle Assembly Building—more commonly referred to as the VAB —was the largest building on the base. It looked like two giant matchboxes pushed up against each other, one standing upright and the other on its side. A thirty-meter-tall mobile launchpad was parked near the taller part of the structure. That was where the various stages of the rocket would be assembled into a single unit.
+Yukari approached the low end, where the individual components were made, and walked up to a guard at the entrance.
+
+
+“Do you know where they’re building the capsule?” “You mean the manned orbiter?”
+“Uh-huh.”
+“Hang a left up there, and it’s the clean room straight ahead. What’s the purpose of your visit?”
+“Just taking a look.”
+The guard frowned. “Only authorized personnel are allowed inside. You’ll need clearance.”
+“Authorized personnel? Do you know who I am?” She made no attempt to hide her annoyance.
+“Of course, but—”
+“Then there shouldn’t be any problem.” Yukari started walking toward the clean room.
+The guard called after her. “Whatever you do, don’t go inside. If any outside air contaminates the room, they’ll make a fuss like you wouldn’t believe.”
+“Yeah, don’t worry. I know what I’m doing.”
+Yukari didn’t have the slightest idea what she was doing. She walked down the corridor for two hundred meters before finally arriving outside the clean room. It was a spacious room enclosed in glass. Inside, technicians dressed all in white busied themselves on equipment at the room’s center. The entrance to the room was an air lock with a door at either end. A sign on the outer door read NO UNAUTHORIZED ACCESS.
+Yukari tapped on the glass. One of the technicians approached and lifted an intercom receiver. Yukari lifted the corresponding receiver on the outside of the glass.
+“Can I help you?”
+“I wanted to take a look at the capsule.”
+“Observation requests have to go through Mr. Mukai. He’s in a meeting right now.”
+“So I can’t come in?”
+“Once you go through the proper channels, there shouldn’t be a problem.”
+“I’m the one who’s going to ride in that thing. Shouldn’t I be able to see it if I want to?”
+“It’s not that. I’m sure Mr. Mukai will let you watch as much as you like. Right now, the shield isn’t in place, and—”
+
+
+“Are you trying to hide something from me?” “Hide something? Of course not.”
+“You’re trying to hide the capsule that my life is going to depend on from me?”
+“Look, we’re not trying to hide anything. The shield just isn’t ready right now.”
+“Stop making excuses and let me see it.”
+Yukari dashed for the air lock. She pressed the button frantically, but the door wouldn’t budge. In desperation she tried to force it open. If someone had asked her why she was doing it, she couldn’t have answered. She had only intended to spend some time away from work at the beach.
+By the time she had forced the first door open, three technicians were waiting for her on the other side. She struggled against their efforts to restrain her, but in vain.
+
+
+
+
+
+
+
+
+[ACT 2]
+
+
+
+
+
+
+
+
+“WITH RESPECT TO yesterday’s incident in the VAB,” said Satsuki, addressing a meeting of the department heads, “it is regrettable Yukari was not more familiar with clean room procedures. I dropped the ball on that.”
+“And as a result she came strolling in wearing street clothes,” said Mukai, shaking his head. “Not that you can blame her. She doesn’t have the slightest idea the danger a speck of dust or a stray hair can pose in space.”
+“Exactly. As ship’s captain she wants the authority to ensure that it’s safe.” Satsuki turned to Director Nasuda. “She would also like permission to attend the engineering meetings to monitor our progress and voice her opinion.”
+“Showing some initiative, eh?” said Director Nasuda, clearly pleased.
+“I don’t have the slightest idea what triggered it, but she’s finally starting to take the mission seriously.”
+“I knew the girl had potential.”
+“But it will all go over her head,” said Mukai. “We’re busy enough as it is. If we have to start explaining basic things like elastic deformation to her,
+
+
+we’ll never finish.”
+“Put yourself in her shoes,” said Nasuda. “Would you want to climb into some strange contraption on the word of a handful of scientists?”
+“Even so.”
+“Astronauts have always been a demanding lot—comes with the territory. Just because this particular astronaut is a teenage girl doesn’t mean we can get away with treating her like one. We have to do whatever it takes to get her on board, if you’ll pardon the pun.” Director Nasuda looked at the department heads seated around the conference table. “I think we should grant her request. What about Matsuri?”
+“She doesn’t seem to be the least bit interested,” said Satsuki. “There you have it. I’ll tell Yukari our decision myself.” “Yes, sir.”
+
+
+
+
+
+
+
+
+[ACT 3]
+
+
+
+
+
+
+
+
+THE NEXT DAY Yukari paid another visit to the VAB. Under technician supervision she scrubbed her face, changed into a white suit, and took a 150-kilometer-per-hour air shower to remove stray dust. Mukai greeted her inside the clean room.
+“You didn’t waste any time, did you?”
+“I guess not,” Yukari said, a little embarrassed.
+“The simulator you’ve been training in was built for Yasukawa, but this is 100 percent custom-made for you.”
+Mukai motioned her toward the middle of the room. He may have complained about how much trouble explaining everything to Yukari would be, but there wasn’t an engineer alive who wasn’t thrilled when someone went out of her way to see the fruits of engineering design.
+A conical object the shape of a teepee sat atop a workbench at the heart of a tangle of cables. The interior was still bare, but already it was clear that this was the capsule—the manned orbiter that would carry Yukari into space. It was two meters in diameter at the widest point and three and a half
+
+
+meters tall. The living space inside was the size of a large doghouse. Black heat-resistant tiles covered the pancake-shaped base of the capsule.
+“Should there be that much space between the tiles?”
+“We did reentry tests on the design last year. The tiles expand when they’re heated, so it turns out we actually need to leave a little gap between them.”
+Yukari had demanded to be let into the clean room, but now that she was here, all she could do was listen and nod. She decided that if she could convince herself everything was safe, it would be worth the trouble.
+She peered inside the capsule. “So that’s what’s underneath the control panel. Is the sequencer in there too?”
+“Sure is. The computer, communications equipment—all those modules are stored together there, in the avionics bay.”
+“If something in there breaks down while I’m in orbit, I’m screwed, huh?”
+“Not quite. In the unlikely event of a failure, we can cut off an individual module to allow for manual override. So you basically take over for the computer.”
+“Then I’m definitely screwed.”
+“Don’t worry.” Mukai smiled reassuringly. “That equipment isn’t going to fail on you. It’s flown in the past.”
+“So what parts haven’t flown yet?” “Well, you see—”
+He cut himself short, but Yukari wasn’t going to let him off the hook that easily.
+“Go on, tell me.”
+“It would take some time to get into that.” “Just how many are we talking about?”
+Mukai squirmed under her withering glare. “It’s not the quantity that’s the problem.”
+“What then? Let’s hear it.”
+Yukari had slowly backed Mukai up against the wall. “If I tell you, can you keep it secret?”
+“Yeah.”
+“It’s the solid rocket fuel for the main booster.” “The big candle-looking thing?”
+“You saw what happened in the last test. They’re progressing too fast.”
+
+
+The last test had ended in a spectacular explosion because the propellant had burned too well, compromising the structural integrity of the rocket.
+“I thought progress was good.”
+“More isn’t always better. Rocket science is a conservative field built up carefully over time. Progress is one thing, but when you start making changes and flying cutting-edge technology, there are risks.”
+“So why not just use the old fuel?”
+“Oh, I’ve asked them to. One day they don’t have the formula, the next day the facility they used to manufacture it has been dismantled—she always has some excuse.”
+“You mean Motoko.” Mukai nodded. “Refuse to use it then.”
+“I would if I could,” said Mukai. There was real worry on his face. “Truth is, we need Motoko. She has a real gift. The LS-5 isn’t half as tall as the H2—it’s not much more than a glorified missile. The only way a rocket so unremarkable is going to get someone into orbit is by using a very remarkable fuel.”
+That afternoon, Yukari had a lot to think about as she left the VAB.
+
+
+
+
+
+
+
+
+[ACT 4]
+
+
+
+
+
+
+
+
+SATSUKI SAT AT her desk, arms resting comfortably on her chair, laughing with abandon. “Ask Motoko to stop improving the fuel?” She made a dismissive wave. “Impossible.”
+“But why?” protested Yukari.
+“There is no why. That’s just how Motoko is. You could as soon ask a fish not to swim. That’s the reason I recommended her in the first place.”
+“You recommended her?”
+“The director needed a top-notch chemist. Motoko was a researcher at a pharmaceutical company at the time. Director Nasuda made her an offer she couldn’t refuse.”
+“How did he do that?”
+
+
+“He knew her one weakness.”
+
+
+
+
+
+
+Then and now, Motoko Mihara was only interested in one thing: oxidation, the combination of various chemicals with oxygen. In other words, burning things. With enough oxygen you could burn just about anything, even steel. Motoko was never happier than when she was watching that transformation take place.
+“A rocket burns one ton of propellant every second,” Director Nasuda had told her. Motoko swallowed hard. “Suppose I want a low mass gas to generate a jet of high-speed thrust. What do I use?”
+Motoko answered without hesitation. “Hydrogen.”
+“That’s right. But we’re not using hydrogen. Our rocket’s going to be a hybrid—solid fuel, liquid oxidizer. So we need a material that’s solid at room temperature, inexpensive and readily available, and produces high thrust relative to its mass.” Director Nasuda stared hard into her eyes. “Find that material for me, and you can run your lab however you like.”
+“When do I start?”
+Motoko had spent the next month getting her affairs in order. Then, leaving her husband to fend for himself in Japan, she had set out for Maltide.
+
+
+
+
+
+
+“And that’s why there’s no calling Motoko off her research.”
+Yukari inclined her head. “I don’t know how someone like her ever got married.”
+“There aren’t a lot of women in that field. I hear she was very popular.” “Really?”
+“Really.”
+Yukari inclined her head again. Maybe underneath those glasses Motoko was actually pretty.
+“She told me one day she just decided to get married, and that was that. But she never played housewife, never had any kids— whatever her reasons were, I couldn’t begin to guess. But there’s no stopping her. Let it rest.”
+
+
+
+
+
+
+
+
+[ACT 5]
+
+
+YUKARI WASN’T ABOUT to let it rest. Did Satsuki think she was a soldier they could just order around?
+Yukari called security and had them send over a patrol car to pick her up. What was the point of being an astronaut if you couldn’t throw your weight around?
+“Fuel Processing Center, please.”
+“Yes, ma’am.” The younger security officers never asked questions if you spoke in a firm voice.
+When they reached the Fuel Processing Center, Yukari went straight to Motoko’s lab. She wrinkled her nose at the strong smell of acid in the room. Flasks, test tubes, and beakers brimming with exotic chemicals covered every desk, table, and even parts of the floor. Anyone unfortunate enough to trip would be in for a visit to the emergency room.
+Motoko, however, was not there. Someone in the hall informed Yukari that she was in the indoor jet and rocket test facility. According to the building map, the test facility was a giant chamber with an oversized exhaust duct.
+A blast-resistant hydraulic door awaited Yukari at the entrance to the test facility. The door was closed, and an illuminated sign read TEST IN PROGRESS. Ignoring it, Yukari pressed the OPEN button beside the door.
+A surge of heat that might have been from the furnaces of hell slammed into Yukari. She leapt behind the door to hide from the terrifying roar and blinding light. The flood of sound and light held steady—at least she hadn’t blown up the building. Thirty seconds later, everything went quiet. Cautiously, Yukari peered inside.
+Wisps of smoke rose from an engine. Motoko stood nearby wearing ear protectors, her back to the door. She was alone, still as a statue. After a few moments, her shoulders began to shake. She was laughing. A small titter at first, then a roar that echoed through the test chamber. “I did it!”
+Yukari stepped into the room. “Excuse me, Motoko?” “I finally did it.”
+“Hello in there!”
+Motoko continued her celebratory dance, oblivious. Yukari walked up behind her and unceremoniously ripped the ear protectors off her head. Motoko spun around. She wore tinted welding goggles, which she then stripped off, revealing her familiar thick glasses.
+“Oh, Yukari. I didn’t hear you come in.”
+
+
+Yukari took a deep breath. “I have a question to ask you.” “What is it?”
+“We’re just two months away from launch. What are you doing in here?” “Perfecting the fuel we’re going to use.”
+“Not anymore you’re not.” “Why?”
+“Rocket science is a conservative field…” She recited Mukai’s speech as best she could. “Stick with what we know,” she concluded.
+“But this mix is much better than the last one. I adjusted the oxidizer, and
+—”
+“This isn’t a request. It’s an order.” “After all the trouble I went to?” “We’re using the last formula.”
+“No no no!” She shifted her weight uneasily from one foot to the other. “Besides, I’ve already forgotten the last formula. We can’t go back.” Excuses, just as Mukai had said.
+“I don’t want to hear it,” said Yukari. “I guess we’ll just have to see what everyone at the engineering meeting has to say.” Yukari had real power now. And she liked it.
+
+
+
+
+
+
+
+
+[ACT 6]
+
+
+
+
+
+
+
+
+THE SOUND OF heels on tile echoed through Tianjin Restaurant. “Does anyone here speak Japanese?” A woman stood in the entrance. She wore a dark red suit with a tight skirt, but despite the sweltering heat, not a drop of sweat marred her face.
+Mr. Cheung greeted her. “Welcome to Tianjin Restaurant. My name is Tianjin Cheung. This is my restaurant. Japanese love my food.”
+“Maybe later. Right now I’m trying to reach the Solomon Space Center. Is it possible to get there by train or bus?”
+“Aiyaa. No train. No bus.”
+“Then perhaps you could arrange a car for me?” “I’m not taxi service.”
+
+
+“I’ll pay, of course. One hundred dollars.”
+“One moment, please. Have seat.” Mr. Cheung shouted to the back of the restaurant. “Hanrei! Customer need pullycar.”
+“And hurry, would you? I don’t have much time.”
+
+
+
+
+
+
+
+
+[ACT 7]
+
+
+
+
+
+
+
+
+THE ENGINEERING MEETING started two hours later. Various department heads filled the room. Yukari tried to recall her time as class president in middle school to calm her nerves. She began in a solemn tone. “I’ve asked you here today because I’ve uncovered a matter that poses a grave threat to the safety of the mission.” The assembled men and women regarded her coolly. “My investigation has uncovered that one of the departments is attempting to independently modify the design specifications of the rocket. Chief Engineer Mukai assures me that rocket science is a conservative field built up carefully over time. Am I quoting you correctly, Mr. Mukai?”
+“Uh, yes, that’s right.”
+“Then you can imagine my confusion when I witnessed the test of a new solid rocket fuel this afternoon at the Fuel Processing Center.”
+Yukari surveyed the crowd.
+Director Nasuda made a show of folding his arms. Mukai scratched his head. Satsuki cleared her throat. Kinoshita sat unfazed. And then there was Motoko, looking nervously from one person to the next, measuring the reaction of her peers.
+“The chief of the chemistry department, Mrs. Mihara, told me that the fuel she was testing was to be used in the upcoming launch. She assured me it was ‘much better’ than the old formula. But with only two months remaining, what assurances can we really have? More isn’t always better. So where does ‘much better’ leave the safety of the rocket? In light of this, I hereby request that all research on and use of new fuels be stopped immediately.”
+Yukari sat down. Let them argue with that.
+
+
+Director Nasuda broke the silence that had descended on the room. “You heard the lady. Reaction? Let’s start with you, Kinoshita.”
+“Her reasoning is sound. I’d say she’s struck on a real problem.” “Hmm. Mukai? What about you?”
+“Well, the LS-5 is underpowered, we all know that, and it’s a little late to consider adding an auxiliary booster. It would be nice to squeeze a little more thrust out of the fuel…”
+“Stop mincing words.”
+“At this stage, going back to the drawing board is too risky. We need to stick to the original design.”
+“Noted.” The director faced Motoko. “What do you have to say, Mihara?”
+“Um, right. Well, there’s something I want you to see first.” She stood up, hastily gathering the materials she had prepared for the meeting and walking to the overhead projector at the back of the room. The lights went dark, and a hand-drawn molecular diagram appeared on the screen. “This is the chemical composition of the new fuel. It has a natural rubber base combined with ample quantities of methylene—”
+“Yes, yes,” said Nasuda. “How does it perform?”
+“I was getting to that.” A hint of a smile spread across her face. “For solid fuels, the entire tank containing the fuel is essentially a high-temperature, high-pressure combustion chamber, which adds considerable weight to the launch vehicle.”
+“Which is precisely why the rest of the world has adopted liquid fuel launch systems, we know this. We went out of our way to use solid fuel to save on costs, so we could launch lower-cost vehicles in greater numbers.”
+“That’s right. Only this new fuel actually weighs less than the liquid alternative.”
+The room fell silent.
+“That’s absurd,” said Mukai. “I don’t care how light you make the fuel, it’s the weight of the tank that’s the problem.”
+“This particular fuel burns from the inside out,” said Motoko. “Particulate cohesion is greater toward the outer edge—the fuel is essentially its own container.”
+Director Nasuda’s ears perked up. “What?”
+Kinoshita arched his eyebrows. “You developed a tankless fuel?”
+
+
+“More or less. It still requires some sort of casing—a three-millimeter duralumin sheath is more than adequate.”
+Mukai was speechless. The mood in the room had shifted dramatically. Yukari was getting worried.
+“I find that hard to believe,” said Kinoshita. “I don’t see how a fuel could be that strong and still burn.”
+“I had to adjust the catalyst to compensate. It’s composed primarily of platinum.”
+Yukari’s eyes went to Motoko’s left hand. There was a mark where her wedding ring had been.
+“If the walls of the tank are three millimeters thick,” Mukai said, tapping on his calculator, “that would reduce the mass by a factor of thirty! A liquid propellant rocket couldn’t come close.”
+“How soon could you prepare fuel for testing?” asked Kinoshita. “Two months should be plenty of time.”
+“No time for a dry run.”
+“We can do a ground test before—”
+Yukari sprang to her feet. “Hold it! It’s too dangerous to go back to the drawing board with only two—”
+Mukai cut in before she could finish. “But this is a breakthrough. A light, inexpensive, hybrid rocket that can be throttled—it’s the ultimate launch system. Tell her, Nasuda.”
+His face stiff, Director Nasuda slowly nodded. “If this is real, we’re looking at a revolution in rocket materials science.” He spoke in a hoarse whisper.
+“We’ll be making history,” said Kinoshita.
+“Not you too!” cried Yukari, her voice shaking. “What’s the matter with you people? You think I’m going to let you test your rocket on me? Forget it! What happened to safety? What happened to building step-by-step on proven technologies?”
+None of the department heads could look her in the eye.
+Finally, Mukai spoke. “Our current rocket has risks of its own. We’re pushing it to the very limits of its capabilities. In a way, this new fuel would reduce that risk. Back me up on this, Kinoshita.”
+“You do have a point,” Kinoshita conceded.
+“Here’s what we’ll do,” said Director Nasuda. “There’s no need to rush this. Let’s see how things develop and make our decision once we have a
+
+
+little more to go on. With full consideration for the opinion of our young astronaut, of course.”
+“We’re going to decide now,” growled Yukari. “I’m against this 100 percent. Remember who’s going to be riding in that death trap of yours. Try and see things from my point of view!”
+“Easy, Yukari. We haven’t committed to using this new fuel. We simply want time to evaluate—”
+Yukari kicked her chair and stormed out of the room.
+Not going to use this new fuel? Did they expect her to believe an out-and-out lie like that? Yukari was young, but she hadn’t been born yesterday. She might not understand the science behind it, but she saw how they swooned at the idea of this “breakthrough.” The angrier she became, the faster the thoughts turned over in her head. As she strode down the hall, she realized what she had to do.
+Yukari entered the dressing room and retrieved her skinsuit from one of the lockers. She put on the suit and slipped on an extravehicular activity backpack. So long as the batteries and water supply held out, the EVA pack would allow her to survive for days in virtually any environment.
+Grabbing a survival kit, she headed for her desk in the medical office. Matsuri was there studying.
+Matsuri looked up from her textbook. “Do we have EVA training today?” “No.” Yukari ripped a calendar off the wall and began writing something
+on its back with a thick marker. “I’m going to teach them something about being an astronaut.”
+“Hoi?”
+“As of now, I’m on a hunger strike. Spread the word.”
+Matsuri could only stare in wonder as Yukari hurried out of the room.
+
+
+
+
+
+
+
+
+[ACT 8]
+
+
+
+
+
+
+
+
+YUKARI SAT CROSS-LEGGED on the concrete, her head resting on her hands. REDESIGNS KILL! SAY NO! declared a protest sign taped to the wall behind her. Thirty minutes had passed since she had announced her hunger strike to Matsuri.
+
+
+“Listen to me, Yukari,” said Satsuki. “I understand how you feel, but if you don’t abide by the decision made at the meeting, it’s tantamount to sabotage.” She was using her most persuasive tone. “If you won’t listen to reason, I’m going to be forced to report this to your father.”
+“Be my guest. I’m holding up my end of the bargain. I’ll do what’s required of me. What I won’t do is ride in that jury-rigged experiment you’re trying to pass off as a rocket!”
+Satsuki shook her head and sighed. At her back, the department heads watched the proceedings from the sunbaked asphalt of the parking lot.
+“So much for our trump card,” muttered Director Nasuda.
+“She has a point, you know,” said Kinoshita. “We all went a little starry-eyed at the thought of Motoko’s latest invention.”
+“Even so.” Director Nasuda was grim. “If we can put a person into orbit, and do it with a revolutionary lift vehicle to boot, it will turn the global space industry on its head. How can we not use it?”
+“I don’t disagree, but can’t we just let this run its course? What’s the longest she can keep this up? Two, three days?”
+“If we ignore her, we’ll only confirm her doubts about us. No harm in showering her with a little attention.”
+Satsuki rejoined the group. “I gave it my best shot. Who’s next?”
+“I’ll go,” said Mukai. “What we’re suggesting may not be by the book, but even from an engineering standpoint, this new fuel isn’t all that risky. Maybe I can explain that to her.”
+“Break a leg.”
+
+
+
+
+
+
+“So it’s like this, Yukari. Since the structure of the fuel provides the necessary strength, it doesn’t place any additional burden on the rocket. And of course the fuel itself is safe. You with me so far?”
+“Because that’s what the specs say, right?” “Right. So—”
+“Well, of course the specs are going to look good on paper. But what happens if something goes wrong when you make it?”
+“That’s why we have ground tests.” “You expect me to trust a test?” Mukai didn’t have an answer for her.
+
+
+“I don’t think I’m on her friends list anymore, Satsuki.” Motoko knitted her brow as Mukai came scampering back with his tail between his legs. “I thought she’d be delighted.”
+“Under different circumstances, I’m sure she would have been,” said Satsuki.
+“I didn’t mean any harm.”
+“I know. You don’t think I’d have let you get away with this if you had.” “But she seems rather upset.”
+Satsuki tapped Motoko on the forehead. “Your timing leaves something to be desired.”
+“Maybe I should apologize.”
+“That would just make things worse. She doesn’t want an apology, she wants an answer. She’s much more grounded than you, Motoko.”
+“Grounded?” Motoko considered the word, what Satsuki might have meant by it—but if she reached a conclusion, she didn’t share it.
+Matsuri joined the crowd in the parking lot. “Hoi? What’s going on?” “Yukari’s hunger strike—the one you told us about,” said Satsuki. “Right,” said Matsuri. “What’s a hunger strike?”
+“She’s refusing to eat until her demands are met.” “But she’ll starve. What are her demands?”
+Satsuki gave Matsuri a quick rundown of the situation. Matsuri walked over to where Yukari was sitting. “You don’t need to worry.”
+“So you’re on their side too?”
+“The launch will be fine. No point going hungry.”
+“What are you basing that on? Most of the rockets they launch explode, you know that.”
+“Only because of the Taliho curse.” “The what now?”
+“Before each launch, everybody in the village gets together to put a curse on the rocket so it’ll explode, like fireworks. Only I’ll tell them not to do it when we’re aboard. So everything will be just fine.”
+“Yeah, riiiight.”
+“I know what you’re thinking.” Matsuri nodded sagely. “They’ll want to see fireworks so much, they’ll forget and curse the rocket anyway. But Dad will make sure they won’t. It will be fine, I promise. Everybody likes Dad —they’ll do what he asks them to.”
+Yukari sighed and shooed Matsuri away. “Time’s up, Tarzan.”
+
+
+“Want me to bring you something to eat?” “Then it wouldn’t be a hunger strike, would it?” “Hoi. See you later then.”
+As Matsuri hurried away, a security Humvee pulled into the parking lot. The door opened, and there was the dry rasp of heels on concrete. A woman in dark red stepped out and started walking toward Yukari, ignoring the department heads assembled beside her.
+Yukari watched, disinterested. Then she did a double take. “What are you doing here?” asked Yukari.
+If there was anyone who would show up at the far corners of the earth without warning, it was her mother.
+“I have a Pacifico meeting in Sydney, so I thought I’d drop in on my way. You look good.”
+“You think so?”
+“All slim and toned—and that space suit’s adorable. It does wonders for your figure.”
+“A little too much, if you ask me.” “Don’t be absurd.”
+“Pardon me,” said Director Nasuda, “but I don’t believe we’ve been formally introduced.”
+“I’m Hiroko Morita, Yukari’s mother.”
+“A pleasure. We didn’t expect to see you out here so soon. I’m Isao Nasuda, the director of the space center.”
+“Yes, we spoke on the phone. I was out this way on business, and I thought I’d stop by.” Hiroko paused. “I have to admit, I’m a little shocked by what I’m seeing.”
+Director Nasuda scratched his head. “Yes, well, I assure you, we’re doing everything we can to—”
+“I expected to see row after row of high-tech buildings. All this exposed concrete is terribly heat inefficient, not to mention unattractive. This is a gateway to space, to the future—it should look the part.”
+Yukari rolled her eyes. Her mother was an architectural designer; the buildings were always the first thing to grab her attention when she visited someplace new. And if there weren’t any buildings, her thoughts went to what might be built there.
+Yukari tugged on her mother’s sleeve. “If you hadn’t noticed, I’m on a hunger strike.”
+
+
+“Oh, the sign? ‘Redesigns kill. Say no.’ What’s that about?”
+Yukari explained how the situation had started. They went back and forth, with her mother asking questions about the procedures for launching a rocket.
+“I think I understand,” said Hiroko. “Are any of the rocket scientists here? One of those people, perhaps?” She pointed to the department heads.
+“That’s right,” said Director Nasuda. “Do you think I could have a word?”
+“Well, I suppose.” He waved them over. “A minute of your time, if you would.”
+“In short,” Hiroko began, “my daughter is concerned about using a fuel that has never been flown. It seems to me the best way to address her fears would be to fly the fuel before her launch. Am I wrong?”
+“We have to launch Yukari in two months,” said Mukai. “That deadline won’t budge. It’s going to take that long just to prepare the fuel.”
+“You have two launchpads, don’t you? You can build two rockets in parallel—one the test vehicle, the other Yukari’s. I’m told it’s only six minutes from launch until the rocket reaches orbit. Launch the test rocket six minutes earlier, and if there aren’t any problems, you can go right to Yukari’s launch.”
+“Two rockets? At the same time?”
+“I wouldn’t stop at two—ten is a nice, round number. It will be cheaper building them in bulk, and since they’ll all be made to the same specifications, it will help put my daughter at ease.”
+“They’re not launching me ten times,” said Yukari.
+“Whomever, then.” Hiroko turned to Director Nasuda. “If you’re really that confident in this technology, it’s the only way that makes sense. Throw every yen you have into mass production. Think of how the auto industry handles the release of a new model. They don’t make the announcement and then ask their customers to wait while their cars are manufactured. They’re ready from day one. Why should rockets be any different? Rockets on demand—the Solomon Space Association’s new business model. The world will beat a path to your door.”
+“Brilliant!” Director Nasuda clapped his hands together. When it came to making the big decisions, no one was faster than Nasuda. “What do you say, Yukari? Will a test launch just before your own be enough to satisfy you?”
+
+
+“I suppose.”
+“Motoko, can you produce enough fuel for ten rockets with your current facilities?”
+“I should be able to manage,” said Motoko. “Mukai, how many rockets can you crank out?” “I can probably have the first two ready in time.”
+“If we reorganize the assembly line right, I bet we can manage three,” said Kinoshita.
+Mukai put a hand on Kinoshita’s shoulder. “Let’s slow down here.” “Listen, if anything goes wrong with the test vehicle,” replied Kinoshita,
+“the project is over. The end. Having another backup cuts our risk significantly.”
+“Three it is then,” said Director Nasuda. Subject closed. “Everyone, I know these next two months aren’t going to be easy, but it all comes down to this. Now let’s get to work.”
+
+
+
+
+
+
+When Yukari’s mother said she was just dropping by, she had meant it. Her boat back to Guadalcanal left that afternoon. The car Mr. Cheung had arranged for her was waiting at the gate of the base.
+“Mom,” said Yukari. “Yes, dear?”
+“If you take the base helicopter back, you can see him and still make your boat.”
+Hiroko shook her head. “Next time.” “Oh. Okay.”
+She got into the car and rolled down the window. “The hunger strike—that was a good idea.”
+“You think so?”
+“Getting involved with your work is the only way to enjoy it. You have to test your boundaries.”
+“Yeah, maybe,” Yukari said.
+“If you’re not careful, you might end up liking it.” “Not likely.”
+Yukari watched as the car disappeared into the jungle.

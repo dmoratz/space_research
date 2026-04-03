@@ -1,0 +1,520 @@
+5 Evasion
+
+
+
+
+                        Mon, 14 Dec 2020, 13:02 +0900 (2020-12-14T04:02 GMT)
+
+
+Fool’s Launchpad Conference Room, Shibuya
+
+
+
+
+                        Dressed in jeans and a button-down shirt, Kazumi Kimura stood in front of the whiteboard and nodded politely to Kurosaki, then Sekiguchi. The woman with an Afro sitting in the chair beside him—Akari Numata—nodded as well. Kurosaki and Kazumi crossed paths once a year at an event they both attended, but this was the first time Kurosaki had seen Kazumi give a formal presentation like this.
+
+
+                        “Thanks for coming, Kurosaki-san, Sekiguchi-san,” Kazumi said. “And sorry about the handwritten agenda.”
+
+
+                        “Doesn’t bother us,” said Kurosaki. He jerked his thumb at Sekiguchi. “It’s this guy’s fault for rushing you, anyway.”
+
+
+                        Kazumi responded to Kurosaki’s informal manner with an easy smile. “No, I appreciate the quick reply,” he said, and then turned to the whiteboard.
+
+
+                        Akari, acting as notetaker, sat up ramrod straight and tapped at her keyboard. Kurosaki felt himself in a very strange situation. Despite their casual dress, both Kazumi and Watanabe, who’d met them at reception, displayed perfect business manners. Even Akari, with her shock of orange hair, behaved exactly like a regular office worker. Especially surprising was how clear and easy to understand the materials Kazumi had sent in advance had been. What was a guy like this doing in freelance web design?
+
+
+                        Kazumi turned back to his audience and replaced the cap on his marker.
+
+
+                        “These are the three things I want to share,” he said.
+
+
+                        - Jamshed Jahanshah’s space tether
+
+
+                        - SAFIR 3 R/B—irregular orbit
+
+
+                        - Objects near SAFIR 3
+
+
+                        “Excuse me,” Sekiguchi said, rising to his feet. “I realize that this is outside your field, but I’d like to get opinions from you two on one other issue.” He borrowed the marker from Kazumi and added a fourth bullet point.
+
+
+                        - Q: Translation of cheolgwon?
+
+
+                        “There’s no need to ask these two—” Kurosaki began to object, only to be interrupted by Akari raising her hand from the seat directly in front of him.
+
+
+                        “In that case,” she said, “I have one too.”
+
+
+                        Kurosaki noticed that she had a metal keyboard strapped to her left arm, the sort of device he’d seen only in high-tech war movies. She tapped on the keys, and one of the miniature projectors on the table came to life. The sentence she had typed moved into place beneath the one Sekiguchi had added.
+
+
+                        - Report: Shadow-ware
+
+
+                        Shadow-ware? Kurosaki was mystified. Some kind of computer software, maybe?
+
+
+                        “One surprise addition from each side,” Sekiguchi said, handing the marker back to Kazumi. “Seems fair.” He returned to his seat.
+
+
+                        Kazumi looked at the two newly added points and tilted his head for a moment as though in thought. “Well, here’s hoping I can be of some use on these too,” he said. “Let’s start with the space tether. This is all based on papers I received directly from Jamshed Jahanshah in Iran—there was no title for him on the paper I read, but he might have gotten his PhD and be Dr. Jahanshah by now.”
+
+
+                        Kazumi began his explanation, using the Lorentz force experimental apparatus on the table to demonstrate the effect. Kurosaki shook his head in amazement. The guy made it so easy. It was like they were up in orbit looking at the space tether itself. Everything was new to him, but he understood it perfectly already.
+
+
+                        Kazumi must have developed a knack for explaining the unfamiliar in simple terms while writing English posts for Meteor News, Kurosaki mused. The service catered to amateur astronomers around the world.
+
+
+                        Kazumi’s presentation moved on briskly to the observational data from Ozzy “X-Man” Cunningham. When the projectors on the table turned the conference room into a planetarium, projecting images onto the walls and even the ceiling, Kurosaki couldn’t help grunting in admiration. Even Sekiguchi was stunned to hear that Akari had thrown the planetarium together just the day before. Having Kazumi around to clarify the astronomical side of things must have helped, but to get something like this running in a single day was impressive.
+
+
+                        Kazumi pointed to a spot on the ceiling. Akari spread her arms, and countless white dots came into view clustered around a red dot.
+
+
+                        “This is the sky that X-Man saw in the Seychelles,” Kazumi said. “The red dot is SAFIR 3, and the white dots around it are probably space tethers. That’s the conclusion that follows from the orbital data, at least. Something interesting happens right around the time of the acceleration that X-Man reported. Numata-san, can you advance the frame to two minutes, thirty-four seconds? Put the velocity and acceleration graphs up on the whiteboard, too.”
+
+
+                        With a nod, Akari followed Kazumi’s instructions, controlling the graphs and planetarium through keyboard and gesture control. It was like watching someone play a musical instrument.
+
+
+                        “Now that’s cool,” Sekiguchi murmured, forgetting for a moment to play it cool himself.
+
+
+                        On the whiteboard Kurosaki saw two lines, green and blue. Around the center of the board, the green one took a sudden step upwards, while the blue one came to a sharp point.
+
+
+                        “Here,” Kazumi said, indicating that central area, “is where the velocity increases by about three meters per second.”
+
+
+                        “So it still had some gas in it,” Kurosaki said.
+
+
+                        It was certainly unusual for an empty rocket body to accelerate, but it wasn’t unheard of for leftover fuel to be expelled for some reason and to propel the rocket in the opposite direction. To an amateur, this might appear to be an orbital correction.
+
+
+                        “Normally, that would be the assumption,” Kazumi said. “But …” He pointed at the place on the graph where the green line went up so sharply it looked vertical. “The time span is too short for that. Less than five milliseconds.”
+
+
+                        Kurosaki leaned forward in his seat.
+
+
+                        All spacecraft moved as a side effect of expelling fuel called propellant. A trickle of fuel leaking from a cracked tank could not cause acceleration that fast. But what could give such a kick to a booster that weighed tons in just five milliseconds?
+
+
+                        “It’s like—pow!” Sekiguchi said, punching his open palm. “Isn’t it? Almost like a collision.” He was right: that much acceleration that quickly was consistent with an impact. “Orbital debris, maybe? Scary idea.”
+
+
+                        “There isn’t that much debris up there,” Kurosaki said.
+
+
+                        The figures for 2020 estimated only five hazardous collisions per year throughout the entire low-altitude orbit zone.
+
+
+                        Kazumi agreed. “Given the current density of orbital debris, a series of impacts at this rate would be impossible,” he said. “In only five minutes of data, we see five velocity changes like this. And the acceleration is always along the direction of its orbit.”
+
+
+                        Kazumi paused for a moment, apparently unsure how to continue. Finally he turned to face Kurosaki and spoke again.
+
+
+                        “I think that what’s colliding with SAFIR 3 here is Jahanshah’s space tethers,” he said.
+
+
+                        “Hold on,” Kurosaki said. “We’re talking about things that aren’t even big enough to show up on radar. Could they really move SAFIR 3 like that just by colliding with it?”
+
+
+                        “The apparatus at either end of the tether—I call it the terminal apparatus—moves faster than three kilometers per second. That’s several times faster than a bullet fired from a rifle and probably five to ten times heavier. It wouldn’t be so strange for an impact from something like that to cause some amount of motion.”
+
+
+                        A chill ran down Kurosaki’s spine.
+
+
+                        This was no ordinary debris. The space tethers were rotating, and fast. They didn’t need a high relative velocity when they crossed paths with something to damage it. All they had to do was match the orbit of a satellite or space station and approach it at their leisure—the energy in their rotation would be enough to smash the target apart.
+
+
+                        “Fortunately, we were able to pick out the terminal apparatus that we think collided with SAFIR 3 at this point from the data,” Kazumi said. “Numata-san, please show us the orbits for objects 156 and 643. Enlarge number 156.”
+
+
+                        “All right,” Akari said a moment later. “Starting the animation.”
+
+
+                        She pointed at the ceiling, where a red dot began moving from the front of the room toward the center of the ceiling.
+
+
+                        “First,” Kazumi said, “please note the motion of SAFIR 3.”
+
+
+                        He pointed at the center of the ceiling, where a white dot had appeared. As they watched, the white dot approached SAFIR 3’s orbital path directly—but then dropped back, describing a circle. Even after Kazumi’s explanation of the space tether, Kurosaki couldn’t believe his eyes. Could it really be possible for something to move like this in orbit?
+
+
+                        As Kurosaki stared wordlessly, Kazumi continued. “The object that collides with SAFIR 3 is about to appear,” he said. “There it is.”
+
+
+                        A slightly larger white dot appeared at the edge of the wall where Kazumi was pointing and began to rise toward the ceiling as if holding hands with the white dot that had appeared first. It seemed to be in pursuit of SAFIR 3.
+
+
+                        Kazumi pointed slightly ahead of SAFIR 3.
+
+
+                        “Here it comes,” he said. Then: “There. That was the collision.”
+
+
+                        The larger dot had caught up with SAFIR 3 and disappeared. SAFIR 3 seemed to tremble slightly, but that might have just been Kurosaki’s imagination, since he was expecting a collision. The original white dot, having lost its partner, drifted away.
+
+
+                        “As you can see,” Kazumi said, “Jahanshah’s space tether caused SAFIR 3 to accelerate. At least, that’s how I see it.”
+
+
+                        His nervousness was obvious. He couldn’t be entirely sure that he was correct. Anyone would be reluctant to report something as outlandish as a collision from an unknown spacecraft to an organization like JAXA, even to nontechnical staff like Kurosaki and Sekiguchi.
+
+
+                        “This hypothesis relies on a lot of assumptions, and I’m unable to check them all,” Kazumi continued. He started to list the assumptions on his fingers: one, that the observational data from Ozzy Cunningham was accurate; two, that Jahanshah’s space tether theory was viable; and three, that space tether technology had indeed been launched into orbit.
+
+
+                        “That about covers it,” Kurosaki said. He saw Kazumi and Akari for what they were now: an exemplary pair of young IT professionals.
+
+
+                        The two of them couldn’t possibly be making a living off Meteor News. Realistically, they had to be doing it in between web design work. In other words, they’d made what might be the discovery of the century in what amounted to their spare time, and they still coolly recognized their own limitations as amateurs. If Kazumi were able to tackle this problem full-time, with Akari’s support, who could guess what they might achieve?
+
+
+                        Sekiguchi rose to his feet. “Thank you very much,” he said. “I think it’s my turn now …”
+
+
+                        He trailed off, looking at the conference room’s glass wall. A partition made of clouded glass for privacy. The people outside were visible as vague murky forms, moving busily in the Fool’s Launchpad lounge.
+
+
+                        “My apologies,” Sekiguchi said. “I’m a bit stiff from all that looking at the ceiling.”
+
+
+                        With his briefcase in one hand, he walked around opposite the whiteboard and stretched as he passed the partition.
+
+
+                        “You’re only twenty-eight,” Kurosaki said.
+
+
+                        “Age is nothing but a number,” Sekiguchi replied. “Let’s get started.”
+
+
+                        The North Korean leader’s speech appeared on the whiteboard, played through a projector that Sekiguchi had borrowed from Akari.
+
+
+                        “Look at the machine-translated English subtitles,” Sekiguchi said. “There’s a lot about them that strikes me as odd.” He stood in front of the whiteboard and drew a circle beside the subtitles, then turned to Kurosaki. “This is handy, eh?” he said. “We should get one of these high-reflectivity whiteboards for our conference room, too.”
+
+
+                        “Just get on with it,” Kurosaki said, waving his hand. Sekiguchi’s outgoing manner had helped warm the room up, but Kazumi and Akari probably didn’t have all day.
+
+
+                        “Sorry, sorry,” Sekiguchi said. “Okay, this is the part that bothers me. The word in Korean is cheolgwon, which literally means ‘iron fist,’ although this is really just a metaphor for a strongly clenched fist. But the English subtitles read ‘iron hammer.’ ”
+
+
+                        He replayed that part of the video, filling in the circle he’d drawn earlier. Kazumi watched with obvious interest. Akari leaned forward in her chair.
+
+
+                        “The translation has a lot of other strange word choices in it, but the real issue is that it’s much more fluent than any machine translation has a right to be.”
+
+
+                        Akari pointed one orange-nailed finger upwards and said, “Maybe the translation engine’s corpus is contaminated!”
+
+
+                        Kazumi noticed Kurosaki frown and tilt his head at the word corpus. “The database of translation pairs that the translation engine uses,” he explained. “As for what the ‘contaminated’ part might mean, no idea.”
+
+
+                        “Try this,” Akari said. She turned her laptop to face Sekiguchi. He peered at the screen and saw that she had opened a well-known translation tool and set it to translate from Korean to English. “Enter the Korean for ‘iron fist’ in the left,” she said. “It’s set to hangul entry. Go ahead.”
+
+
+                        Sekiguchi thought for a moment, then muttered “Cheolgwon, cheol-gwon …” to himself as he typed 철권. On the right side of the screen, a single word appeared: tekken.
+
+
+                        “Huh? But that’s just Japanese in Roman characters,” Sekiguchi said.
+
+
+                        “And it’s all in uppercase,” Akari observed.
+
+
+                        The two of them stared at the screen, puzzled.
+
+
+                        Kazumi clapped his hands. “I get it,” he said. “It’s that fighting game series. They use the title Tekken in English too. Is this what you meant by contaminated, Akari?”
+
+
+                        “Yes,” Akari said. “That’s exactly it.”
+
+
+                        According to Akari, most cloud-based translation engines relied on translated content on the Internet to compensate for the fact that the meaning of words changed depending on the context. In theory, a single word might have many possible translations, and a machine could not know which was appropriate. To solve this problem, translation engines used online material available in two or more languages to see which words were more likely to correspond in certain contexts.
+
+
+                        “It makes sense, I guess, that the online engines would chose cheolgwon over the alternatives,” Kazumi said. “As a single word, it’s probably used to refer to those games more than anything else. Ugh.”
+
+
+                        “Sekiguchi-san,” Akari said. “Try entering more of the speech. Leave cheolgwon just as it is.”
+
+
+                        Sekiguchi moved the cursor to after cheolgwon and mumbled to himself in Korean as he typed the rest of the sentence in hangul.
+
+
+                        “Hey! There it is!”
+
+
+                        The text on the right had been updated to strike with iron hammer—the same phrase that appeared in the English subtitles still visible on the whiteboard. The source word cheolgwon itself had been left exactly as it was, but presumably its interpretation had changed from “Tekken” to “iron hammer.”
+
+
+                        “I knew it. It’s corrupt,” Akari said. “Let me track down the original translation data.”
+
+
+                        She spun the laptop back toward her. After a short burst of typing, she projected the contents of her monitor up on the whiteboard. She had done a web search for strike with iron hammer. Most of the results were on sites in the .kr domain. A lot of Korean results, in other words, for an English search term.
+
+
+                        Akari clicked on one and arrived at a product release announcement on a cell phone manufacturer’s website. They all stared at the top of the page.
+
+
+                        “Why is the English version of a North Korean speech at the top of this page?” asked Kurosaki.
+
+
+                        There it was, like a heading at the top of the press release. It didn’t seem to have anything to do with the product.
+
+
+                        “Can you show us the Korean version of this page?” asked Sekiguchi.
+
+
+                        Akari tapped a few keys, and a hangul version of the page appeared on the whiteboard alongside the English one.
+
+
+                        Sekiguchi pointed at the top line. “This is what the North Korean leader said in his speech,” he said. “Word for word. Can we see the other results?”
+
+
+                        Akari opened a few of the other hits from the web search, but all contained a line from the speech. An official site for a television program, an interview with a musician, a fashion blog … The only thing they had in common was language: they were all pages on a Korean site with a corresponding English version available.
+
+
+                        Sekiguchi nodded eagerly. “I see what’s happened,” he said. “Someone’s been fiddling with these websites. They’ve chopped up the leader’s speech and injected individual lines into bilingual websites for the translation engines to pick up.”
+
+
+                        “So ‘iron hammer’ is actually a human translation,” Kurosaki said. “But then why is it wrong?”
+
+
+                        “Whoever did this wanted the phrase ‘iron hammer’ to spread,” Sekiguchi said.
+
+
+                        Kurosaki’s coffee turned sour in his mouth. “Why?” he asked. “And who?”
+
+
+                        Akari was still paging through the search results. “I know how they did it,” she murmured. “Site vulnerabilities. All of these web pages are using an old version of PHP. They just had to reach through known security holes and rewrite the content directly.”
+
+
+                        Was she talking to herself? All signs of her business-grade politeness had vanished. Looking at the projection of her screen on the wall, Kurosaki could see her opening one browser window after another. Hangul page, English page, web search …
+
+
+                        “The total number of sites affected is … about three hundred thousand,” Akari said. “The same source-translation pair on that many unrelated sites might well be enough to contaminate the corpus. The time stamps on the pages all show that they were updated after noon on Friday. Ugh … How can anyone run a website without patching such a terrible cross-site scripting vulnerability?”
+
+
+                        “Wait,” Sekiguchi asked suddenly. “What did you just say?”
+
+
+                        “Three hundred thousand sites, all wide open,” Akari said. “I can’t believe it. This problem was discovered three years ago.”
+
+
+                        “No, before that. The time stamps. Friday, did you say?”
+
+
+                        Akari nodded absently, clearly already slipping into work mode.
+
+
+                        “That’s before the speech,” Sekiguchi said. “Dianwang zhanxian … ?”
+
+
+                        “Dianwang—what did you say?” Kurosaki asked.
+
+
+                        Sekiguchi smiled. “The Cyber Front,” he replied. “North Korean cyber command. If the corpus corruption was done before the speech was delivered, it could only be the work of a group that knew what would be in the speech beforehand—a North Korean group. They want us to believe that their leader said ‘iron hammer.’ ”
+
+
+                        According to Sekiguchi, the speech wasn’t especially menacing in Korean. Countries friendly with North Korea, like Iran and Pakistan, would receive translations made directly from the source language and see nothing remarkable about it. But the English-speaking world would get the alarming “iron hammer” translation. Even if the Pyongyang watchers in those countries assured their leaders that the speech wasn’t as bad as it sounded, there would still be speculation on what the North Koreans really meant just in case the experts were wrong.
+
+
+                        Collecting a list of websites with security holes, then hacking them all at once when the time was right: this, Sekiguchi explained, was exactly the sort of thing the North would do.
+
+
+                        It sounded like something from a spy movie, but his voice was completely serious. And Kurosaki had to admit that if Sekiguchi hadn’t noticed something funny about the English translation, and if they hadn’t discovered the corruption in the translation engine, the question of what the “iron hammer” was would have made him very uneasy.
+
+
+                        “Could the Rod from God article have been faked too?” Kazumi asked. “Cunningham doesn’t strike me as the sort to do that. He’s not, you know, together enough.”
+
+
+                        Sekiguchi shook his head. “Cunningham’s discovery might have been a coincidence. But drawing the connection between the Rod from God and the iron hammer in the public mind—that has to have been the work of the Cyber Front. I knew the timing of those comments on the Geeple article was too perfect.”
+
+
+                        Kurosaki thought back to the alleged NASA engineer’s profile Sekiguchi had shown him last week. That had been the source of the original comment linking the Rod from God to the iron hammer, made right after the speech had been broadcast. Sekiguchi had been right to be suspicious.
+
+
+                        Sekiguchi stood up and turned to Kurosaki. “Do you have any contacts in the National Security Council?” he asked.
+
+
+                        “Afraid not.”
+
+
+                        “All right. Then I’ll get in touch with a guy I know from my intake group.” Sekiguchi pulled his cell phone from his pocket and turned to face the door.
+
+
+                        There was a knock. The door slowly swung open. Sekiguchi froze.
+
+
+                        A woman in a suit poked her head in. “Kazumi, phone call in English for you,” she said, looking around the conference room. She waggled a cell phone decorated with beads at Kazumi. “Sorry to interrupt your meeting,” she added. “They say they want to send you a check and need your current address. A fan of Meteor News, apparently. They’re also after a recent head shot and your cell phone number. Should I oblige?”
+
+
+                        She pushed the door farther open and entered the conference room. Kazumi sighed and started to get up, but Sekiguchi quickly pushed him back into his seat and walked toward the door, spreading his arms wide to block the view of the room from the doorway.
+
+
+                        “Sorry,” he said. “This is important business.”
+
+
+                        Kurosaki craned his neck and saw a man in a moss-green coat standing outside the door. He had a camera in one hand, and he was clearly trying to angle it for a shot into the room past Sekiguchi and the woman.
+
+
+                        The woman stopped in her tracks, unsure of what to do. Sekiguchi put his hands on her shoulders and gently moved her into position to block the camera.
+
+
+                        The man’s camera shook. Sekiguchi spun the woman around and pushed her out the door, then closed it immediately and leaned his back against it to hold it shut. In his hand was the woman’s smartphone. He’d taken it from her.
+
+
+                        “Sekiguchi?” Kurosaki said. He started to get up, but froze at the sharp look Sekiguchi threw at him. Sekiguchi put the bead-adorned smartphone to his ear and spoke in Korean.
+
+
+                        For a moment, Sekiguchi peered at the phone with a look more serious than Kurosaki had ever seen on him before. Then he furrowed his eyebrows.
+
+
+                        “They hung up,” Sekiguchi said. “But before they did, they answered me in Korean. Whoever it was, they were a native speaker of the language, or have at least been trained to conversational fluency.” He wiped the smartphone’s screen with his sleeve. “We have to get out of here, Kimura-san,” he said.
+
+
+                        “Huh?!”
+
+
+                        “What are you talking about?” Kurosaki said, standing up for real this time.
+
+
+                        “Give me back my phone!” called the woman outside, knocking on the door.
+
+
+                        “In a minute!” Sekiguchi called back through the door. “Very sorry about all this!” He silently beckoned the others toward him. Akari, apparently already having grasped his plan, was sweeping the projectors off the table into the pockets of her cargo pants. “Someone’s been out there for a while trying to see into this room,” Sekiguchi said. “I tried to keep my guard up, but they got a photo through the door just now. A spy, I assume. We have to leave now. Does this office have an emergency exit?”
+
+
+
+
+
+
+
+
+
+
+Sun, 13 Dec 2020, 21:01 -0800 (2020-12-14T05:01 GMT)
+
+
+Pier 37 Warehouse, Seattle
+
+
+
+
+                        Shiraishi pointed at the blurry photograph on the television screen.
+
+
+                        “That one in the middle must be Kazumi,” he said.
+
+
+                        The agent they’d sent to Fool’s Launchpad had managed to take one usable photo. It was too blurry and out of focus to make out much about the space itself, but you could still see how many people were there, their height and weight, and so on.
+
+
+                        “He’s a serious player, this kid,” Shiraishi went on. “Ozzy’s paranoid rantings were enough for him to identify the Cloud, and then he got those papers from Dr. Jahanshah. He’s already put most of the pieces together. Compared to him, these two officials might as well have been twiddling their thumbs.”
+
+
+                        “Quiet,” Chance said through gritted teeth.
+
+
+                        She’d slipped up.
+
+
+                        She hadn’t expected anyone in the room to have such fluent Korean. So fluent that when he’d said “Are you ready?” she’d replied “Yes” automatically. And in that moment she’d allowed the shadow of North Korea to fall over the whole thing.
+
+
+                        Chance looked down at her hands, balled into fists on her knees.
+
+
+                        “Don’t look so grim,” Shiraishi said. “It’s a waste of a pretty face.” He put his index finger under her chin and tilted her head until she met his eyes. “You made a mistake, but I’ll make up for it. We can track them in real time now. I’ll use the Sleeping Gun I left in JAXA’s systems.”
+
+
+                        “JAXA? What do they have—”
+
+
+                        Shiraishi silenced her with an upraised finger, then directed her attention back to the screen. He pointed at the middle-aged man in a suit.
+
+
+                        “This photo might be blurry,” he said, “but I recognize this man. I used to work with him. Name’s Kurosaki.”
+
+
+
+
+
+
+
+
+
+
+2020-12-14T05:22 GMT
+
+
+Project Wyvern
+
+
+
+
+                        It’s almost time for me to check in to the first hotel of its kind the world has ever seen. No bellboys, but who needs them when your luggage floats to your room?
+
+
+                        The orbital hotel we had folded up in the Wyvern’s docking bay is now fully unfurled. I can see how big it is even looking through the tiny windows here. The outer shell was folded using Miura folding, which was invented by a Japanese researcher. Now it’s all spread out without a single wrinkle. The space beneath this soft outer shell was pumped full of water. It took three whole hours.
+
+
+                        The outer shell is covered in thin gold foil. Inside there’s a two-layer outer wall woven of Kevlar fiber that protects against small debris. Even if both of these layers are torn, the water pumped between them and the inner wall should be enough to keep the hotel airtight—it can stop incoming objects moving at up to ten kilometers per second.
+
+
+                        The water will also protect us against another kind of unwelcome invader: cosmic radiation. The radiation levels 350 kilometers high are several times higher than they are at ground level, because down there we’re protected by the Earth’s magnetic field. The best protection against all those rays is, hands down, the same water that protects us from debris. Two birds with one stone? Three, actually! When we arrive at the ISS, they’ll add this water to their drinking-water tanks.
+
+
+                        See? It all fits together logically!
+
+
+                        Let me give you a quick rundown on my physical condition. When you’re weightless—well, in a state of free fall—the blood goes to your head. It’s a refreshing new feeling, but it also makes your face look a bit chubby. Makeup is restricted, too. I should have lost more weight before I came.
+
+
+                        There’s definitely a need for some makeup than can alleviate “space face.” We don’t want any couples choosing the Wyvern Orbital Hotel for their honeymoon and being disappointed with the view, so to speak. Anyone want to talk to me about a licensing deal?
+
+
+                        *
+
+
+                        And now, the long-awaited check-in! As soon as we took off our space suits (at last!), Ronnie jumped in, shouting “My hotel!” He’s as happy as a child at Christmas. I undid my harness and followed him.
+
+
+                        Does it sound like all we do is play around? Don’t worry, rocketeers, this “first frolic” was included in the project sequence, with properly allotted time and everything.
+
+
+                        It counts as R&D time, in fact. The hotel’s soft structure is the first of its kind. As we bounce around, changes in the shape of the rooms and their center of gravity are monitored and sent back to staff on Earth. They, in turn, check that the parameters of the orbital hotel’s tensioners are correct to maintain its orbital shape, research whether the docking bay could be made lighter, and so on. Oh, which reminds me—we’ll also be testing the engine that will drive us into a rendezvous orbit with the ISS.
+
+
+                        Here’s some trivia for the non–space buffs out there. The difference between an engine and a motor is simple: fuel. A motor uses solid fuel, and an engine uses liquid fuel. Solid fuel is like fireworks: once you get it started, it’s hard to stop, but it’s simpler to use and can give you quick access to large amounts of energy. For this reason, motors are often used for liftoff from Earth. But from now on, the orbital hotel will be making delicate maneuvers to dock with the ISS, which calls for an engine. The more you know, right?
+
+
+                        Anyway, I’m off for some mission-critical experimental play—or so it reads on the project sequence. I suspect Ronnie just had them put this in the schedule because he wanted some time to have fun.
+
+
+                        Next time: Breaking free from the Wyvern, and what the hotel’s like inside!
+
+
+                        Judy Smark
+
+
+                        A suite in low Earth orbit

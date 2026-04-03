@@ -1,0 +1,1055 @@
+1 Erratic Debris
+
+
+
+
+                        Fri, 11 Dec 2020, 08:30 +0900 (2020-12-10T23:30 GMT)
+
+
+Fool’s Launchpad, Shibuya
+
+
+
+
+                        A length of sewing thread with one end tied off in a two-centimeter loop, and an eraser.
+
+
+                        Kazumi Kimura fished the two objects out of his pencil case and placed them on his desk before brushing his bangs back from his forehead. Beside the thread and eraser, a laptop sat open, its screen covered with numeric data.
+
+
+                        It was 8:30 in the morning. The sun shone horizontally through the blinds into Fool’s Launchpad, a shared office space on the fourteenth floor of a building connected to Shibuya Station, casting stripes of shadow on the desks by the windows.
+
+
+                        Kazumi swept his gaze across the chilly, deserted office. He was first in again today. After a brief internal debate, he removed his quilted down vest and hung it over the back of his chair. His “coworkers” would start arriving in about half an hour, and the heating had probably already come on. Better to begin the ritual while he had the chance.
+
+
+                        After tying the loose end of the sewing thread around the eraser, he slipped the loop at the other end over his right index finger. Then, rolling back his cuff and straightening his arm, he let the eraser hang there suspended by the thread, swinging gently like a pendulum.
+
+
+                        “Hmm, 9.8 meters per second squared.” Kazumi recited his first incantation: the gravitational acceleration of a free-falling object. With a flick of his wrist, he set the eraser swinging to the right. It arced smoothly through the air, circling Kazumi’s index finger counterclockwise at the end of its thread.
+
+
+                        Spinning the eraser faster and faster, Kazumi used a finger on his left hand to keep his place on the laptop’s screen.
+
+
+                        “SAFIR 3’s rocket body should be …”
+
+
+                        Kazumi closed his eyes, feeling the weight of the spinning eraser as he sorted through the information he had in his head. SAFIR 3 had been launched from northern Iran’s Imam Khomeini Space Center on December 1, ten days ago. The first-stage rocket booster that had gotten it off the ground had fallen back into the ocean that same day. Its third-stage apogee motor had successfully completed the launch’s primary mission of inserting two satellites into orbit at 500 km before settling into orbit itself at the same altitude. It would most likely stay there for a few decades, circling the Earth as space debris. What interested Kazumi was the second stage: the rocket body that had allowed SAFIR 3 to climb into an initial parking orbit 250 km up. US Strategic Command had named it “SAFIR 3 R/B.”
+
+
+                        When would it fall back to Earth?
+
+
+                        Satellites, rocket shells, and other debris orbiting lower than 500 km slowly but surely lost velocity and altitude as they collided with atmospheric particles, scarce but not absent at those heights. Once a piece of debris dropped below 170 km or so, things started to change. Atmospheric molecules bounced off the object, now moving at eight kilometers a second, which began to glow with the energy of the collisions. It also developed a tail, albeit one too faint to be seen from the Earth’s surface.
+
+
+                        Under 80 km, the atmosphere became so dense with molecules attracted by the gravity of the Earth that it became like a thick soup enveloping the debris. No longer able to bounce freely off the moving object, molecules were pressed against each other. This compression resulted in temperatures of thousands of degrees Celsius, which in turn melted the front of the object and caused a long tail of plasma to flare up behind it.
+
+
+                        The birth of a shooting star.
+
+
+                        Kazumi’s web service, Meteor News, was in the business of predicting the appearance of shooting stars for its subscribers. And SAFIR 3 was a much-anticipated bit of debris, set to make its glittering debut in the sky that very weekend.
+
+
+                        Unlike satellite fragments or similar miscellaneous debris, the several-meters-long metal cylinder of a rocket body still contained some liquid fuel and was highly likely to turn into a brilliantly shining kind of shooting star called a “fireball.” In fact, rocket bodies were often long and fragile enough to break in half, creating twin shooting stars. If Meteor News could predict when and where a shooting star like that would fall, its reputation among space enthusiasts and photographers interested in celestial bodies would receive a significant boost. In fact, this might be the best chance they ever got to increase their paid subscriber count, which was currently languishing in the low two hundreds.
+
+
+                        Kazumi looked down at the laptop’s screen. It was filled with two-line elements, or “TLEs,” a data format for describing objects in orbit that packed orbital angle, motion, and other useful information into just two lines of text.
+
+
+                        These TLEs were only a couple of hours old, fresh from USSTRATCOM. Every day, TLEs for thousands of objects orbiting the Earth were updated by the Joint Space Operations Center run by the Joint Functional Component Command for Space within STRATCOM. The primary intended beneficiaries were companies operating communications and other satellites, but the information was a treasure trove for space fans too. They used it to identify the lines of light they saw arc across the sky, to check when the ISS would be visible overhead, to plot satellites on maps, and more. Kazumi used it to forecast shooting stars at Meteor News.
+
+
+                        “Parked at 250 km. How far has it slipped, I wonder?”
+
+
+                        Kazumi opened the TLE from yesterday and placed his left index finger against the eighth field of its second line: Mean motion, 16.1. That was fast enough to go around the Earth just over sixteen times in a day. A higher mean motion generally meant a lower orbit. The ISS at its 420 km altitude had a mean motion of 15.5, while the Chinese space station Tiangong-2 at 350 km had a mean motion of 15.7. You could estimate an object’s altitude fairly well by comparing its mean motion to representative examples like this. This sort of calculation was second nature to Kazumi, who spent every day staring at TLEs for orbital debris.
+
+
+                        Kazumi opened the TLE for today.
+
+
+                        “Huh? 15.8 … ?”
+
+
+                        A mean motion of 15.8 implied an altitude over 300 km—which would mean that the object’s altitude had increased.
+
+
+                        “Must be some kind of mistake,” Kazumi muttered. Still swinging the eraser with his right hand, he used his left to place the two TLEs side by side so that he could compare their other orbital elements.
+
+
+                        “Eccentricity holding stable near zero. Yesterday’s inclination eighty-five degrees …”
+
+
+                        Kazumi held his right arm out horizontally in front of him, eraser still orbiting his finger, then raised it half a fist higher. He had memorized some of the angles different parts of his body made. At the end of an outstretched arm, his fist covered around ten degrees of arc. His thumb at the same distance was about two degrees across.
+
+
+                        Kazumi imagined a sphere with a 6,400-kilometer radius—Earth—superimposed over his right finger. The eraser became the duralumin rocket body that was SAFIR 3’s second stage. The thread connecting the two was gravity.
+
+
+                        “December, so the sun’s declination is minus twenty degrees or so …”
+
+
+                        He spun the Earth superimposed over his finger away from himself. The sun was about two kilometers behind him, near Komaba-todaimae Station, two stops from Shibuya. As he added the alternation of day and night to the Earth in his mind’s eye, Kazumi followed the same orbit around it as the one given for SAFIR 3 by the TLEs. He looked down and saw the surface of the planet passing by 300 km beneath his feet.
+
+
+                        He was in.
+
+
+                        He soared north past the reddish-brown expanse of Australia and saw the Hawaiian Islands appear up ahead. This was yesterday’s inclination. Kazumi tried to shift his orbit exactly ten degrees, to match the TLE from today. The pull against his index finger was surprisingly strong. This was SAFIR 3’s moment.
+
+
+                        Strange. Had SAFIR 3 really made an orbital adjustment requiring this much power? And if so—
+
+
+                        “The last big deal of the year has arrived!”
+
+
+                        The voice came from diagonally in front of him, bringing Kazumi back to his surroundings. The Earth floating at his fingertip vanished. The whitewashed duralumin tube that was SAFIR 3’s second stage was just an eraser once more.
+
+
+                        Ten or so of Kazumi’s “coworkers” were gathered at the round table in the middle of his working space. Watanabe, the most senior among them, held court at the center of the group, holding up a tablet displaying an article on a news website.
+
+
+                        The row for tokyo on the world clock hanging on the wall had just hit 9:30. This was when the morning information exchange, known as the “AM exchange” or “AMX” for short, began. The AMX was an institution at Fool’s Launchpad, designed to help prevent chronically unpunctual freelancers from drifting away from regular working rhythms.
+
+
+                        “Let’s go with this for today’s AMX,” Watanabe said, showing his tablet to the assembled attendees. “A pure software service, sold for forty billion. That’s a first. Let me open up the VisGen release and Pat’s blog and see what we can learn from them.”
+
+
+                        VisGen had been founded by Pat Feuer, an IT entrepreneur who’d only just turned twenty. That made him eight years younger than Kazumi and twelve younger than Watanabe. Watanabe called him by his first name in an attempt to communicate to the other Fool’s Launchpad tenants—Watanabe preferred to call them “coworkers”—that such success was attainable even for someone in their generation.
+
+
+                        “First, let’s have a big round of applause. Pat, congratulations on your exit!”
+
+
+                        There weren’t many sitting at the table, but they were passionate and applauded vigorously. Even Kazumi lightly tapped the fist in which he held the eraser against his left hand. In the wake of the touch screen revolution, inaugurated by the smartphone and then the tablet, attracting as much capital as Pat had for software alone wasn’t easy. A sale like this was the ideal exit for VisGen.
+
+
+                        A hand went up at the table. It was Hamada, who’d just joined Fool’s Launchpad that week.
+
+
+                        “Forty billion dollars—that’s four hundred oku yen, right?”
+
+
+                        “Hamada-kun,” said the woman sitting next to him, using a slightly patronizing form of address. She was the only person at the table wearing a suit. “You’ve got to stop converting everything to yen in Japanese numbers. You won’t even get a start-up off the ground if you don’t get used to thinking in dollars.”
+
+
+                        This was Mary, the resident English expert. She was Japanese—her real name was Hitomi or something similar, as Kazumi recalled—but she used an English name for business like they did in Singapore or Taiwan.
+
+
+                        “Come on, Mary. That’s a bit harsh,” said Watanabe, noticing Hamada’s wounded expression. “You really should get used to thousands and billions though, Hamada,” he added. “If you ever end up working on a job where these figures come up a lot, just ask someone for help. Like this. Hey, Kazumi! What’s $40 billion in yen?”
+
+
+                        Kazumi raised his hand to acknowledge the address. “Forty billion dollars at today’s rates? Four point five cho yen.”
+
+
+                        The table nodded in approval. Kazumi forced a smile, then turned back to his laptop. Mental arithmetic was no big deal. He just happened to run a site that took payment in foreign currencies and occasionally made orbital calculations with figures representing distances of hundreds of kilometers but written out to the millimeter.
+
+
+                        “Cheers,” Watanabe said, and turned back to the group. “You see? If you need help, just ask for it. That’s how VisGen got so big. Oh, that reminds me—when I was at my publisher’s yesterday about Pocket Folder, I presented my one-click purchase proposal, and …”
+
+
+                        Watanabe had entered his Sales Tales phase. This was his way of reminding the other tenants of Fool’s Launchpad how important it was to develop services beyond straight contract work.
+
+
+                        Watanabe’s insistence on always keeping your eyes on the prize could be tiresome, but Kazumi liked the atmosphere here. He doubted he could maintain the motivation to keep Meteor News going if he switched to an office full of unambitious web designers for hire, even if the rent were cheaper there. Being able to work alongside people who wanted something more was one of the reasons he was willing to pay the ¥40,000 a month that Fool’s Launchpad charged, despite the impact on his budget.
+
+
+                        A mass of orange moved at the corner of his vision. “Good morning, Kimura-san,” it said.
+
+
+                        A gigantic MacBook slid onto the desk opposite him. Here was the other reason he was at Fool’s Launchpad: Akari Numata, whose trademark was a fluorescent orange Afro more than twice the size of her head.
+
+
+                        Akari unloaded an assortment of devices and cable bundles, piling them up on either side of her MacBook. Three smartphones, two tablets, one sixteen-port USB hub, a portable Wi-Fi hotspot, and a large mobile battery. It must have weighed twenty pounds or more altogether.
+
+
+                        One thing Kazumi hadn’t seen before was the two-inch-square circuit board wrapped in clear film. Noticing that it had both a USB and an Ethernet port, he craned his neck to get a closer look, but Akari’s voice interrupted him before he could.
+
+
+                        “Is today’s news ready?” she asked.
+
+
+                        “Not yet, sorry,” Kazumi replied. “I was planning to write about SAFIR 3, but something’s off about the data.”
+
+
+                        “The top story’s not the meteor shower? The pageviews for that are going crazy.”
+
+
+                        “Yeah, but the people coming for that one aren’t going to become paying subscribers.”
+
+
+                        Kazumi had written a blog post about the current Geminid meteor shower containing a brief overview of the Geminids and some observational data. The post had become much more popular than he’d expected after a web-development site praised the intricate 3-D graphics of the Earth he’d included, bringing a flood of engineers to Meteor News in addition to their usual customers.
+
+
+                        “Oh,” said Akari. “Well, I’ll increase the server count anyway. Otherwise, the subscriber pages will slow down every time visitor numbers double. Is it okay if I just set it to add servers automatically as the pageviews go up? I could do it manually, but then there’d be long times when the servers would just be idling.”
+
+
+                        “Adding servers automatically sounds a bit risky to me,” said Kazumi.
+
+
+                        Meteor News was hosted on virtual server space rented from a cloud service run by the world’s biggest retail site. The service let you specify how many servers to use and for how long, down to the second, but the servers weren’t free. Renting a middle-spec server cost ¥150 per night, so if a hundred were added due to an unexpected wave of visitors, the bill could go up ¥15,000 overnight. That would hurt.
+
+
+                        “Trust me, it beats managing the servers manually,” said Akari. “How about if I set up the dashboard so you can cap the number of servers from there? It’s all ready to go, just waiting for deployment.”
+
+
+                        Kazumi knew she was right. He should be spending his time on writing, trying to draw in more subscribers, not micromanaging the server count week after week. And if they could just get up to a thousand subscribers or so, he’d be able to devote half of each week to the site.
+
+
+                        “All right,” he said at last. “Go for it.”
+
+
+                        “Thanks,” Akari said. She turned her attention to her MacBook and began tapping rhythmically away at the keyboard. Having an engineer as skilled as her on his side—and for so little that she practically worked for free—gave Kazumi the time he needed to write his news posts. If giving her free rein was what it took to keep her motivated, it wouldn’t do any harm.
+
+
+                        With a final flourish from Akari, the sound of the keyboard stopped. “Deployment complete,” she said.
+
+
+                        “Already?”
+
+
+                        “Just let me test it. Ten thousand pageviews per second on the 3-D view. You watch the analytics.”
+
+
+                        Kazumi scrambled to open his view. Ten thousand pageviews per second? That was worse than a denial-of-service attack. His server setup couldn’t handle ten thousand requests per second for plain HTML, let alone 3-D image data.
+
+
+                        “Ready?” said Akari. “Here we go.”
+
+
+                        Without waiting for Kazumi to nod, Akari began typing furiously again. As Kazumi watched, the figure “10,000” appeared on the real-time hit counter and a new bar appeared at the edge of the hit graph, so much larger than the others that the graph was forced to rescale. The previous rises and falls of a dozen pageviews here, a dozen there were too small to see at the new scale. Page requests were flooding in from Seattle, Singapore, Hong Kong, Brazil.
+
+
+                        “Ten seconds, one hundred thousand pageviews in total,” said Akari. “All distributed among the servers so only the 3-D pages should have slowed down.”
+
+
+                        Just as Akari said, the real-time hit count held steady at 13,400. Kazumi opened Meteor News, dreading the worst, but the 3-D-free top page loaded just as smoothly as ever.
+
+
+                        “The virtual server count went up by 120 to deal with the activity, just as planned,” Akari continued. “Okay, I’ll pull the plug now. Cost for this test … let me see, ¥122. Can I send you the bill?”
+
+
+                        Kazumi was speechless for a moment. “Sure,” he said at last. “Of course. But, wow, that’s amazing. I’ve never seen the pageviews move like that before.”
+
+
+                        Thanks to Akari, the virtual server control panel now included round-robin and test functionality. Which was ridiculous—things like that were used by services with user counts in the millions, like VisGen. A site like Meteor News, which saw a few thousand hits per day at most, didn’t need that sort of power, and neither did the ones run by the web designers that Akari did most of her day-to-day contracting for.
+
+
+                        “By the way, aren’t you going to post about this?” Akari said, holding up one of her tablets. “The launch is coming up soon.”
+
+
+                        The tablet displayed a news story about what promised to be not only the last but also the biggest space event of the year: Ronnie Smark’s Wyvern Orbital Hotel.
+
+
+                        Smark was a legend in the IT industry. In the late nineties, he’d made his fortune founding a service for transferring money over the Internet, allowing anyone to set up shop online. Today he was at the cutting edge of space development. Having started Project Wyvern with the goal of making consumer space tourism a reality, he’d developed one rocket after another in his Loki series, and now even did contract work for NASA. The International Space Station, whose rising maintenance costs had gradually eroded the international assistance it had once enjoyed, already received 20 percent of its supplies via the Loki 8 rocket and Wyvern spacecraft, both Ronnie’s.
+
+
+                        Loki 9 was set to launch from Cape Canaveral this week with both Ronnie and his journalist daughter Judy on board. The two of them would then spend a week in space, staying at an orbital hotel that Wyvern was to spit out, and then transfer to the ISS. It would be the most sensational twenty-day vacation in history.
+
+
+                        “Loki 9’s planned orbit is available on the Wyvern site,” Kazumi said. “But maybe I’ll do a write-up.”
+
+
+                        “You should,” said Akari. “Some readers might be interested if you have any kind of scoop on it, even if it’s mostly just a bunch of numbers. But enough about that—when will the news going out today be finished?”
+
+
+                        “I’ll start work on it this evening. Some last-minute design work came in. I could use some help, actually. “
+
+
+                        “Sounds like you’re pretty busy.” Akari closed her MacBook instantly, signaling her utter lack of interest in web design work. She didn’t seem to have much interest in space either, but for some reason she worked hard to make Meteor News look good.
+
+
+                        It had been Akari’s help that had taken Meteor News from an unremarkable email magazine to a rich online service accessible from PCs, tablets, smartphones, and even those smart glasses that were just starting to catch on. The content came from Kazumi, but the app and the server programs supporting the service were all Akari’s work. The site could accept payment in currencies from around the world, not to mention mobile credit. It even had support systems to help Kazumi write articles in English, one of his weak spots. It would have cost millions of yen to outsource the entire tech infrastructure for Meteor News, but Akari had taken care of everything herself. What’s more, she’d done all this for a mere 20 percent of revenue. Given that monthly revenue was currently twenty or thirty thousand yen, her share was practically nothing.
+
+
+                        “I’ll be working on advertising until the evening,” she said. “I think we should be able to increase AdSense purchases by at least 2 percent.”
+
+
+                        “Thanks. For everything. I’ll get the article up this evening. Will you be at Fool’s Launchpad all day?”
+
+
+                        “Until nightfall.” Akari swept the gadgets on her desk into her backpack and stood up. “All right, talk to you again this evening. Let me know when you’re ready.”
+
+
+                        She turned toward the round table, Afro swaying. The AMX was still in progress.
+
+
+                        “Watanabe-san,” she called. Her voice cut through the conversation at the table, bringing it sharply to a halt. “That job from yesterday, fixing the payment code for Pocket Folder? I took a look, but what you’ve got so far is no good. Credit card security codes are being stored in the database.”
+
+
+                        “You mean you’re not supposed to do that?” said Watanabe. “I thought that’s what VisGen did.”
+
+
+                        Akari sighed and shook her head. “Those big companies put hundreds of millions into settlement compliance. Do you have any idea how much it costs to reach PCI Level 1? Same goes for VisGen. Do you read Pat’s blog? That’s where the two hundred million they raised in their first stage went—all of it.”
+
+
+                        Mary stared at Akari, face stiffly composed. So did the other members. Akari continued, showing no sign of noticing the subzero atmosphere in the room. “I rewrote it to require that the codes be entered for each settlement event. If that’s okay with you, I can deliver it right away.”
+
+
+                        “Okay,” said Watanabe after a brief pause. “Can I have your invoice?”
+
+
+                        “Payment at month’s end, right?” Akari said. “I’ll send it over.” To the rest of the group, she added, “Let me know if you need any coding help, everyone. I still have plenty of free time this month.”
+
+
+                        None of the web designers at Fool’s Launchpad were any good at IT engineering, and Akari made her money by compensating for this weakness. Kazumi had no idea why she bothered with Meteor News, which turned no profit at all.
+
+
+                        No use worrying about that now, though—it was time to get to work on today’s news. As for SAFIR 3’s predicted location … maybe he’d just put up the TLEs from STRATCOM as they were.
+
+
+
+
+
+
+
+
+
+
+Thu, 10 Dec 2020, 17:50 -0700 (2020-12-11T00:50 GMT)
+
+
+Peterson Air Force Base, Colorado Springs
+
+
+
+
+                        Colonel Claude Lintz, chief of Orbital Surveillance at NORAD, had been toying with the object for some time before he finally put it on his head. A conical red cap with white fur trim and a pom-pom at the tip. A Santa hat, in other words.
+
+
+                        Lintz peered at his reflection in one of the jet-black displays. The cheap novelty item went oddly well with his somewhat too ruddy complexion. It had been his second in command, Major Sylvester Fernandez, who had brought him the hat, and he could see now why Sylvester had been delighted enough by the sight of him wearing it to applaud. Fifty-nine years old and overweight, Lintz was one snowy white beard away from being the spitting image of Santa Claus himself.
+
+
+                        Scowling, Lintz pulled off the hat and tossed it into the cardboard box beside his desk. The hat been issued to Orbital Surveillance as the “equipment” they would need for NORAD’s best-known annual event, only days away now: NORAD Tracks Santa. There, this military organization would “track” Santa’s flight path across the North American continent for the benefit of any children who cared to follow along.
+
+
+                        Begun in 1955, NORAD Tracks Santa had grown more extravagant each year and was now seen as one of their most important annual events. There was a website, of course, and also apps for smartphones and tablets that received tracking information in real time. A thousand volunteers were allowed into the base to help manage groups of visiting children. For NORAD, the exercise was an excellent opportunity to showcase to the world their seamless surveillance net that covered all of North America. Lintz had been tracking Santa for forty years now, never taking a single Christmas vacation, and knew the rationale behind it all—but this new policy requiring personnel to wear the hats during their video calls was, he felt, a bit much.
+
+
+                        True, it was precisely the spectacle of stony-faced men saying things like “Information from Oregon site places Santa over Vancouver moving at Mach 2, over” that convinced children Santa was real. But did the public also recognize that under their funny hats the personnel involved were professional members of the armed forces?
+
+
+                        Pushing the issue of the hat out of his mind, Lintz turned to the task at hand. His office had received twelve videos to play on Christmas Eve from Larry Russell, their CG producer in Portland, and it was Lintz’s job to review them.
+
+
+                        The quality of the videos was exceptional. There was Santa on his sleigh, riding in to the sound of jingle bells from the east. The NORAD F-22 squadron’s scramble to intercept this “airspace incursion” had been filmed right at Peterson Base. This real footage had then been masterfully combined with computer graphics.
+
+
+                        Lintz watched as the F-22 pilot who had made visual confirmation of Santa performed a low-speed barrel roll around his sleigh and reported that the jolly old elf’s mission was now a Santa-NORAD joint operation. Lintz whistled in approval at the relatively slow aerial acrobatics, difficult to pull off in previous-generation aircraft without stalling. Sylvester had selected the pilot personally: Second Lieutenant Madu Abbot, a promising young woman of Indian extraction. Despite her youth, there was no better F-22 pilot in the whole of US Northern Command.
+
+
+                        On the screen, Santa paused in his work of distributing presents to snowy US and Canadian cities and looked up at the night sky. Then he reached under his seat and took out a helmet with two hoses attached.
+
+
+                        Lintz’s chair creaked as he leaned in closer and muttered to himself, “You’re up, old man.”
+
+
+                        Lintz would have his staff check Santa’s exploits within the atmosphere. The F-22 acrobatics in particular were sure to receive close attention from Sylvester, an ex-pilot himself. But he wasn’t delegating space to anyone. He had been involved in space surveillance at NORAD since joining the air force at the height of the Cold War in 1980. This part of his job he yielded to nobody.
+
+
+                        The reindeer, now snorting inside airtight helmets that Santa had put over their heads, waved farewell to their air force escort with their front hooves, then kicked off into outer space. Lintz watched the map and velocity data displayed beside the animation closely.
+
+
+                        The sleigh’s velocity increased with each kick of the reindeers’ legs. One kilometer per second, two, three … The once-flat horizon gradually curved down at the edges, and more stars appeared in the sky above. Lintz was gratified to see that the twinkling of the stars had subsided too. His repeated warnings at the storyboard phase had had their desired effect. Even in a video starring Santa Claus, there were some things he insisted on getting right.
+
+
+                        Just as Santa’s sleigh reached 7.6 kilometers per second, its target came into view—the International Space Station—looking like a giant dragonfly with its great solar panels spread wide.
+
+
+                        The sleigh performed a series of minor course corrections to get the ISS lined up directly in front of it, then gracefully swung forward and over it.
+
+
+                        Lintz grunted with approval. “I see you did your homework, Larry.”
+
+
+                        Santa’s sleigh had just performed the same maneuver the Russian spacecraft Soyuz used to dock with the ISS. It was the sort of unnatural-looking move that only made sense in orbit, but the video made it entertaining. Even the most demanding space fans would surely be satisfied.
+
+
+                        The ISS scene would be the highlight of NORAD Tracks Santa in 2020. Santa was stopping off there for the benefit of one Judy Smark, whose father Ronnie had made them the first tourists in space. In the video, Judy was a little girl with both palms pressed to the cupola window as she watched the sleigh dock. Her father, fierce eyed and goateed, stood beside her with one hand on her shoulder.
+
+
+                        “A bit overdone there,” Lintz murmured to himself.
+
+
+                        The girl on the screen looked ten at most, but Judy Smark was twenty-eight. Lintz was still wondering whether it would be out of line to suggest a change there when he heard someone speak to him.
+
+
+                        “Colonel Lintz, sir, may I have a moment of your time?”
+
+
+                        Lintz turned his head to see a dark-complexioned serviceman standing just outside his office. “Sorry,” he said. “I didn’t see you there. You should have just come in. I have an open-door policy.”
+
+
+                        Lintz glanced down at his visitor’s name tag: d. freeman, staff sergeant. What was Freeman’s first name again?
+
+
+                        He noticed a message blinking at the corner of his display. His aide, Captain Jasmine Harrison, had sent him a précis of his visitor’s organizational affiliation and background. Orbital Surveillance wasn’t as big as it had once been, but it was still home to over two hundred personnel. Back when they had been watching Soviet missiles and bombers from under Cheyenne Mountain, Lintz had known all of his coworkers, but with all the reassignments and restructuring these days, that was no longer possible. His advancing age didn’t help either. Jasmine’s assistance was invaluable.
+
+
+                        His visitor, he read, was one Daryl Freeman, staff sergeant. Indonesian born, Catholic, entered the country five years ago on a student visa. An engineer who’d signed up hoping to earn citizenship and this year had finally been assigned to a long-requested post at NORAD.
+
+
+                        “Just the man I wanted to see, in fact,” said Lintz, motioning Freeman in. Noting with satisfaction his visitor’s consternation, Lintz clicked the link in Jasmine’s message to display Freeman’s current orders. It seemed he was working under Sylvester, putting together a report on the ASM-140, an experimental antisatellite weapon currently being developed. “How’s that ASM-140 coming along? Bring me up to speed, um … Daryl.”
+
+
+                        Daryl straightened his back hurriedly and saluted. Lintz smiled to himself. These were all techniques he’d learned in a seminar the air force had held for administrators nearing the end of their careers. They were what allowed him to maintain an open-door policy despite being bad with names.
+
+
+                        First, always call people by their first names. It inspired loyalty and caught people used to a more formal organizational structure off guard. Second, be the first to ask a question. This was a way of seizing the initiative.
+
+
+                        “The project is proceeding as planned, sir,” Freeman said. “We have received a delivery of three ASM-140s from Lockheed and successfully installed a fire control system obtained from the Smithsonian into that F-15C you claimed for us just before it was due to be scrapped. The firing test should take place as scheduled on week 50.”
+
+
+                        As he listened, Lintz recalled the details of the project. The Chinese space station Tiangong-2, operational since 2017, and the stream of low-cost miniature satellites launched every time a taikonaut stayed there were a serious headache for the United States. Equipped with high-definition cameras so cheap they were practically disposable, the satellites were an attempt to surpass the surveillance net the Americans had already built in quantity if not quality.
+
+
+                        The US had decided it needed to demonstrate its ability to respond meaningfully to this provocation. Asked to come up with a proposal, Lintz had unearthed an old idea from the days of the Strategic Defense Initiative: “the flying tomato can.”
+
+
+                        The design was simple. A missile with homing capabilities was attached to the outside of an F-15 fighter and carried high enough to render atmospheric effects negligible. Once launched, it flew toward the satellite that had been designated as its target for a direct hit. Much cheaper than ground-based ASAT weaponry, unaffected by weather conditions, and with a very rapid launch process, the idea had many advantages. It had been shelved for a range of reasons, but now that it had been recognized as a possible solution to the problem with China, NORAD’s proposal to revive it had been taken up, and development was under way. Destroying objects in orbit was forbidden by the guidelines of the UN’s Committee on the Peaceful Uses of Outer Space, but it would be useful as a deterrent.
+
+
+                        Lintz had thrown himself wholeheartedly into the planning and development of this new weapon and was now facing the problem of securing personnel. The F-15C was already being phased out, so no young pilots held a license for it, and none seemed interested in obtaining one either. Whether his superiors were aware of these issues or not Lintz didn’t know, but either way, they seemed to have even higher hopes for the ASM than Lintz did. Wherever the plans for the antisatellite exercise known as “Seed Pod” had come from, it had been made clear to him that he was to implement them as soon as possible.
+
+
+                        “Major Fernandez brought me that reassignment petition for your project,” said Lintz. “What came of that? I recall signing it.”
+
+
+                        “Thanks to you, sir, USNORTHCOM has approved Captain Ricky McGillis’s transfer to NORAD as requested. I understand that the captain is looking forward to flying an F-15C again.”
+
+
+                        Satisfied that the report matched what he remembered, Lintz folded his hands over his stomach. “Excellent,” he said. “Now, how can I help you today, Sergeant?” Glancing at the monitor again, he realized that he’d missed the final part of Jasmine’s message: SAFIR orbit surveillance request. So Freeman wasn’t here about the ASM-140 at all.
+
+
+                        “As it happens, sir, I am not here concerning the ASM-140. I came to request your assistance with SAFIR 3.”
+
+
+                        Lintz smiled broadly. He was always ready to talk about objects in orbit.
+
+
+                        “At ease, Sergeant,” he said. “Take a seat if you like.”
+
+
+                        Freeman refrained from sitting on the sofa, but he did shift his center of gravity and settle into a more relaxed posture.
+
+
+                        “I want to use NORAD facilities to keep tabs on the second stage of the SAFIR 3 rocket launched from Iran last week, sir,” he said. “I’m sure you remember the launch.”
+
+
+                        “Indeed, I do,” said Lintz. “Licensed production of the DPRK’s Taepodong. Parked in orbit at 250 km, as I recall. Not a bad design at all. What about it?”
+
+
+                        “I discovered today that its orbit is gradually flattening out, sir,” Freeman said, making a sideways C with the thumb and index finger of his left hand and letting it grow longer and narrower.
+
+
+                        “Atmospheric effects? No, that wouldn’t make sense …”
+
+
+                        “No, sir. I ruled out the effects of the upper atmosphere. And there’s another strange thing about it. According to the TLEs from STRATCOM, SAFIR 3’s second stage—designation ‘SAFIR 3 R/B’—is actually gaining altitude.”
+
+
+                        “That’s impossible. An error in the TLEs?”
+
+
+                        Freeman nodded. “Possibly, sir,” he said. A rocket shell that had spent all its fuel simply did not gain altitude. “But this is STRATCOM data, so I don’t think it could be a simple mistake. I would like to ask for your permission to use NORAD’s radar for further observation.”
+
+
+                        Lintz glanced at the calendar on his office wall. A thick line ran from the sixteenth of December—next Wednesday—through to Christmas. Santa-tracking season wasn’t the best timing for an unscheduled surveillance operation.
+
+
+                        “How long do you plan to observe SAFIR’s stage 2 for? And on what timetable?”
+
+
+                        Freeman shifted his gaze elsewhere and moved his lips soundlessly for a few moments before responding, “For one week, sir.”
+
+
+                        Lintz was satisfied by the pause. Freeman had obviously been calculating when SAFIR 3’s second stage orbit would take it over North American airspace. The next thing he said confirmed it.
+
+
+                        “SAFIR 3 R/B’s orbital angle is currently seventy-five degrees. We could track it with radar during the day, but I was hoping to use the Oregon site by night to minimize the disruption.”
+
+
+                        Lintz was about to grant him permission but stopped himself just in time. He’d delegated the right to decide on surveillance targets to Freeman’s superior, Sylvester. It would be bad form not to at least involve him in this decision. “Has the major approved your proposal?” he asked instead.
+
+
+                        “I requested permission, sir,” said Freeman, looking uncomfortable, “but as I did not receive a reply from the major, I took the liberty of escalating the matter to you directly.”
+
+
+                        That explained it. Sylvester was a superb administrator, but as an ex-pilot, space wasn’t his field of expertise. He probably didn’t realize how unusual it was for a rocket body to gain altitude. In that respect he was an excellent fit for the NORAD of today, which had become far more concerned with airborne terrorism than ICBMs since the events of 9/11.
+
+
+                        “I see,” Lintz said finally. “I imagine it failed to, ahem, capture his interest.”
+
+
+                        As the two men shared a conspiratorial smile, a long arm reached into Lintz’s office to rap on the open door. Speak of the devil.
+
+
+                        Sylvester strode in briskly, registered Freeman’s presence, and smiled. “Sergeant Freeman,” he said. “Just the man I wanted to see. I need you in Hanger 5. The high-altitude pressure suits have arrived. McGillis’s fitting can wait until tomorrow, but I want you to ask the maintenance team to get working on the alignment with the ejection seat today.”
+
+
+                        “Yes, sir.”
+
+
+                        Sylvester turned to Lintz with a rueful smile, knowing that the colonel would still be stuck on the mention of high-pressure suits. “Hadn’t you heard, Colonel?” he asked. “They’re making us put the F-15 pilot in a pressure suit to carry the ASM-140 up there. It’s all in Sergeant Freeman’s report.”
+
+
+                        “What do they need a thing like that for? A regular pilot’s suit was enough in ’85. Did the stratosphere depressurize at some point in the past thirty years?”
+
+
+                        Sylvester sighed. “Sergeant,” he said. “Explain it to the colonel.”
+
+
+                        “Yes, sir,” Freeman replied, and turned to face Lintz. “Sir, as you observe, the pressure in the stratosphere has not changed in the past thirty years. Neither has the aircraft lost integrity nor the human body grown weaker. What has changed is air force regulations.”
+
+
+                        The operational regulations for pilot environments, Freeman explained, had been tightened in 2010. The air pressure and temperature in the cockpit now had to be slightly more comfortable than before. New aircraft like the F-22 met the new requirements, but the F-15 was a product of the seventies. Going high enough to launch the ASM-140 would cause conditions in the cockpit to fall below the new acceptable minimum level.
+
+
+                        Sylvester threw up his arms: What are you going to do? “I argued against it. The pilot will barely be able to move bundled up in that space suit, and they can’t wear a regulation helmet. We even have to modify the ejection seat. Oh, that reminds me—we removed the standard-issue AC.”
+
+
+                        “Fine, fine,” Lintz said, waving a hand dismissively. How had a project designed to reuse existing technology gotten so bloated? “Did you read Freeman’s report about SAFIR 3’s second stage yet, Major?” he asked, changing the subject.
+
+
+                        “I believe so,” Sylvester replied. “Request for permission to observe a rocket shell gaining altitude or something? No argument from me as long as his regular duties aren’t affected.”
+
+
+                        “Thank you, sir,” said Freeman.
+
+
+                        “But first get to Hangar 5,” Sylvester continued. “Make sure those pressure suits come in okay.”
+
+
+                        “Yes, sir. I’m on my way.”
+
+
+                        Sylvester sat down in a chair and watched Freeman leave. “Unusual orbit, I think he said? Amazing that he noticed. I’ve never been able to get my head around all that business myself.”
+
+
+                        “There are amateurs out there these days who make a hobby of tracking objects in low orbit,” said Lintz. “Someone would have noticed sooner or later.” More importantly, he explained further, if NORAD could find out what was causing the irregularity, STRATCOM would owe them a favor.
+
+
+                        At this, Sylvester nodded, apparently in agreement.
+
+
+                        “Enough about that, though,” Lintz said. “This hat. Can’t we send it somewhere else?”
+
+
+                        “Anywhere else it would just get in the way,” grinned Sylvester. “It’s just two weeks, Colonel. I’m sure you can manage.”
+
+
+
+
+
+
+
+
+
+
+Fri, 11 Dec 2020, 05:55 +0400 (2020-12-11T01:55 GMT)
+
+
+Desnoeufs Island
+
+
+
+
+                        In a room lit only by the stars and a monitor on its dimmest setting, a tuneless voice broke into song, “Ozzy in Seychelles, telescope to the sky …”
+
+
+                        The room was so large that the starlight couldn’t dispel the gloom of its farthest corners. In its center stood a gigantic desk, and sitting at this desk in a tank top and shorts was Ozzy Cunningham, owner of the tuneless voice. Every time Ozzy moved, his Aeron chair groaned in protest; he was at least 25 percent over the three hundred–pound weight limit of the famous chair, used in offices worldwide, and the sides of his thighs were well beyond the edges of the seat.
+
+
+                        Ozzy’s desk faced a curved window twenty meters wide and four meters high that took up one entire side of the room, offering him an uninterrupted 180-degree ocean view.
+
+
+                        Through the window, he could see the Milky Way sprayed across the eastern sky like vapor from a whale’s blowhole that had frozen in midair. The sea was still; no fishermen were out chasing sardines tonight. Desnoeufs—thirty miles southwest of Mahe Island, home of Victoria, the capital of Seychelles, and not far from Madagascar—was owned outright by Ozzy. Living with his “man Friday” in a UFO-shaped building jutting out from a cliff overlooking the Indian Ocean to the east, he devoted himself to his hobby: observing the skies through the three-meter reflective telescope and low-orbit radar of his private observatory, the Seychelles Eye.
+
+
+                        The ocean view was astonishing, without a single artificial light in view, but right now Ozzy was ignoring it. Instead, he was squinting at a two-by-two bank of monitors, like something you might see on a trader’s desk, while his fingers worked a trackball. He didn’t like to use a mouse; moving his arm was a chore.
+
+
+                        Ozzy checked the radar in the upper-right quadrant of his setup. No rain clouds to the east. The weather forecast for remote islands like his was useless; you needed high-quality radar if you wanted to observe the skies. All the more so when your target was Mercury, whose visibility was notoriously susceptible to atmospheric effects.
+
+
+                        Photographing Mercury was no easy task to begin with. Much closer to the sun than Venus, this tiny planet was completely blotted out by the blue-tinged atmosphere of Earth when the sun was shining. You had to catch it just before sunrise or just after sunset.
+
+
+                        Ozzy spun the trackball, selecting “Mercury” from a list of celestial bodies on the screen. He had spent a lot of money streamlining his setup so that no finicky adjustments were required. His lower-right monitor sprang to life, displaying a close-up of the planet lit by the sun directly below it.
+
+
+                        Nodding with satisfaction, Ozzy set the lower-left monitor to display the feed from the support camera. It was pointed in the same direction as the telescope but took in a much wider area. The part of the screen that would be photographed by the telescope was indicated by a small white frame at the center of the monitor. Overlaid on the image was information about the celestial bodies currently visible. Right now it was showing the predicted orbit of Tiangong-2, which was currently just above Mercury. Ozzy put one finger to the monitor and confirmed that the line gently curving away from Tiangong-2 would pass through the shooting area, before zooming the camera in. In ten seconds or so, space station and planet would be in alignment.
+
+
+                        “Counting down! Eight, seven, six …” Ozzy raised his right arm from the desk and aimed at the trackball button with his right index finger. “Four, three, two … Ah, crap, not quite.”
+
+
+                        Peering at the live view, Ozzy waited for the right moment to shoot. He was recording the video feed in full HD, but a still from an HD video wasn’t worth much these days, when even television was broadcast in 4K or 8K. A photograph had to get above the gigapixel level to be worth anything at all. And the raw data of an image stitched together from twelve high-sensitivity CCDs could easily pass the gigabyte mark. Burst shooting was impossible. You had to take one shot at just the right time.
+
+
+                        The dot for Tiangong-2 entered the white frame in the live view as a shining point appeared in the view through the telescope.
+
+
+                        “Zero!” Ozzy cried, letting his fat finger fall onto the button.
+
+
+                        The trackball made an ominous sound. Ozzy’s chair began to spin clockwise from the force of Ozzy’s button press, but it groaned to a halt only a quarter of the way around. Cursing, Ozzy grabbed the desk and pulled himself back around to face front again. The trackball button had gotten stuck pressed down.
+
+
+                        “This chair cost a thousand bucks, and it already needs replacing,” he complained, prying the trackball button free with one fingernail. “They don’t make anything like they used to.”
+
+
+                        When he looked up and checked the photograph he had taken, Ozzy stroked his chin in satisfaction. “Not bad. Not bad at all! Never seen this combination in a resolution this high before.”
+
+
+                        The Tiangong-2 was visible in silhouette, its two pairs of solar panels extended. Below it hung Mercury, visibly spherical rather than the indistinct disc it appeared as in most photographs. The contrast was too high to see any craters, but the heat haze rising from the Indian Ocean had been neatly removed by the image-processing engine. A superb result, all in all.
+
+
+                        Ozzy tagged the image Tiangong-2 and Mercury, then uploaded it to Wikimedia under his pseudonym, “X-Man.” Wikimedia’s voluminous archives already included thousands of high-res photographs from X-Man, consistently an order of magnitude better than what others had to offer, and this mysterious user from Seychelles was starting to attract attention among the amateur-astronomer community—even if part of his reputation was as an unreliable purveyor of disinformation and half-truths.
+
+
+                        “Nothing beats being here all by myself,” Ozzy said to no one in particular. The Seychelles Eye’s location suited him just fine. Being alone on an island in the middle of the Indian Ocean had plenty of advantages. No light pollution, for one, but best of all, no competition. North and South America were full of hobbyists and professionals alike turning their telescopes to the night sky. The South Pacific was too close to Australia and New Zealand and their nature-loving populations. Ozzy’s formal knowledge of astronomy was limited, so it was important not to have to compete with people who specialized in it. All he wanted was to fire up an interest in space, even if only a spark, among people who never usually looked at the stars. That was what he sought with his beautiful photography and startling writing. He didn’t want people getting in his face and telling him to stop writing nonsense.
+
+
+                        Ozzy’s young friends had often extolled the virtues of getting out on your own. “You don’t find opportunities staying with the herd,” was how Ronnie Smark had put it—and he was a billionaire now.
+
+
+                        Ozzy would never forget that night in the summer of 1998, when Ronnie came to visit him at his penthouse apartment carrying nothing but a single scrap of paper.
+
+
+                        “We’re going to open a bank on the Internet,” he had said.
+
+
+                        This was back when Ozzy himself had barely even started doing his taxes on a computer. The Windows operating system was spreading in the consumer market, but communicating with others using computers was still just a hobby for geeks. Ronnie had still been a tenant of Ozzy’s then, a young man in an ill-fitting suit and dirty Converse sneakers speaking passionately about his plans for the future.
+
+
+                        “It won’t be long before the whole world’s connected to the Internet,” he said. “I’m going to create a way for anyone to open up shop there. We’re already in negotiations with our first bank. One success, and the rest is repetition and refinement.”
+
+
+                        Ozzy looked down at Ronnie’s dirty shoes. The poky offices he rented on the second floor for $400 a month weren’t even air-conditioned. Security deposit was $1,000, if he recalled correctly.
+
+
+                        “I’m not sure I understand that part,” said Ozzy, “but what you’re saying is, you want me to let you have the office rent-free until you get into the black?”
+
+
+                        “That’s not it at all, Mr. Cunningham,” Ronnie said, brows knit in a wounded expression. He held the scrap of paper up to Ozzy’s face. “We want you to invest in us. We’ll give you ten thousand dollars’ worth of nonvoting shares. That’s 20 percent of our total capital. In return, all we want is use of the office for three years.”
+
+
+                        “Right. You want me to let you stay there without paying rent.”
+
+
+                        “No, no. It’s an investment.”
+
+
+                        “Don’t give an inch, do you? You can’t even get a ten-grand loan?”
+
+
+                        But even as he complained, Ozzy was mulling the proposal over. It wasn’t as if people were clamoring for an office in his partially converted warehouse outside San Francisco. Better to have young people coming and going than to let it stand empty. If there were enough of them to entice a coffee cart to set up shop out front, it would be easier to fill the rest of the space too.
+
+
+                        “All right,” he said. “Give me that note. You’re going to expand, right? Go ahead and use the warehouse space on the first floor too. The office there has AC.”
+
+
+                        “Thank you kindly, Mr. Cunningham. Welcome to our stakeholder roster. I assume I can leave the power bill to you as well.”
+
+
+                        Ozzy couldn’t remember the expression on Ronnie’s face at that moment. But that had been the beginning. Ronnie and his friends had gotten to work, briskly encircling the torpid credit card companies and building out a settlement network that soon became an indispensable piece of online infrastructure. They were out of the warehouse within three years, and when their Internet bank was bought out by an online auction company, the scrap of paper in Ozzy’s desk was worth well over a billion dollars.
+
+
+                        But Ronnie’s success did more for Ozzy than just make him a billionaire. As young entrepreneurs began flocking to Ozzy’s building in their own suits and scuffed Converse shoes, Ozzy offered access to what they needed: lawyers, accountants, free high-speed Internet connections. Then he bought another building. The entrepreneurs were a superstitious group, so Ozzy bought them what they wanted—another converted warehouse. Rent was payable in nonvoting stock. Ozzy’s hands-off approach was a success, ensuring that every time a tenant moved out they left behind a substantial chunk of capital. But none had ever made as much for Ozzy as Ronnie had, and none were ever as successful as Ronnie himself.
+
+
+                        After ten feverish years, a new age dawned, this one dominated by the megaplatforms: Google, Amazon, Facebook.
+
+
+                        Many successful entrepreneurs from the early days of the boom pivoted from IT to so-called commodity industries like automobiles and infrastructure. No small number of them became photographers as well. Ozzy was fascinated by the photos they took now that their success had freed them from financial concerns and made it possible for them to travel the world focusing on their art. So fascinated, in fact, that he decided to reinvent himself in Seychelles too. Since he couldn’t walk a mile without getting out of breath, he decided to take up astrophotography. As long as you had the facilities, you could do that right from your chair.
+
+
+                        The most successful entrepreneur of all, though, had taken a different route entirely. Ronnie had invented the industry of commercial space development, and now he was two days away from leaving Earth with his daughter, on a rocket he had built himself, and checking in to accommodations to be injected into orbit by his tested and true Wyvern spacecraft.
+
+
+                        “Talk about friends in high places,” Ozzy muttered. He briefly toyed with the idea of applying to go on one of Ronnie’s space tours himself, but a creak from his chair brought him back to earth. The additional fees required to carry his massive 190-kilogram frame into orbit would be in the hundreds of thousands of dollars. And there was still plenty for him to do here, away from the herd.
+
+
+                        Today he had to run checks on more than a dozen satellites. Busy didn’t begin to cover it. The second stage of SAFIR 3 was particularly intriguing. Ozzy scanned the latest newsletter from Meteor News in Japan again. Could SAFIR 3 R/B really be gaining altitude?
+
+
+                        If you had a story no one else did, that was valuable. Pair it with a shiny image, and Internet tabloids like Geeple would be sure to pick it up. As the source of the story, Ozzy’s blog would see pageviews well into five-figure territory, and that in turn meant more incoming payments for advertising via good old Ronnie’s Internet bank.
+
+
+                        In fact, Ozzy could make money without putting much thought or effort into it at all. Some of the stock he’d accepted in lieu of rent back in his landlord days was starting to pay serious dividends as the issuing companies moved into their growth phases. But the money he made from his photographs and writing—and of course advertising payments—that was different. That was money he’d earned with his own hard work.
+
+
+                        Ozzy highlighted the TLE for SAFIR 3 R/B in the Meteor News newsletter and selected Copy.
+
+
+                        “Into the moon with me … My heart’s in its orbit …”
+
+
+                        Singing a half-remembered song, Ozzy pasted the TLE into his orbital-forecast software. “SAFIR 3 R/B” appeared in his telescope’s list of tracking targets. A quick spin of the protesting trackball and a line appeared across the wide-view monitor. Perfect—the object’s orbit would take it directly over Ozzy’s island.
+
+
+                        Satellite rise was in ten minutes. Better prep the radar. SAFIR 3 would be lit up by the sun about two minutes after it rose above the horizon and reached thirty degrees or so of elevation. It would then pass directly overhead before sinking again in the east. This was the perfect path, allowing him to see it lit from both front and back.
+
+
+                        Ozzy watched the dot on his monitor representing SAFIR 3. Its orbit was so low that its motion would be visible to the naked eye while it was overhead, but while it was over the horizon the dot moved slowly enough that he couldn’t tell whether it was moving or not. The dot approached the horizon, touched it, rose above it …
+
+
+                        “Strange. Should be out by now.”
+
+
+                        The predicted location for SAFIR 3 superimposed over the low-zoom field view to the west was well clear of the horizon, but Ozzy couldn’t see anything through the telescope except stars streaming slowly through the frame with the rotation of the Earth. He watched SAFIR 3’s expected location rise until it was high enough that the sun’s rays should have been reaching it. But not a hint of sparkle appeared.
+
+
+                        Just as Ozzy was wondering if he’d missed it altogether, a point of red light appeared in the field view—an object in orbit lit up by the morning sun. The redness was due to the light’s long passage through the atmosphere, the same effect that gave you red sunlight at dawn and sunset. The red dot was moving roughly parallel to the predicted path of SAFIR 3, just below the area framed by the telescope.
+
+
+                        “Off the rails a bit there,” muttered Ozzy. The TLE in Meteor News must have been inaccurate. He’d almost missed the object entirely.
+
+
+                        Ozzy switched off automatic tracking based on the bad TLE data and activated visual tracking instead. One click on the red dot in the wide view and the telescope was on its way. The telescope image panned swiftly across the sky until a cylindrical object appeared clearly on the screen, slowly stabilizing at the center. It certainly looked like a rocket body.
+
+
+                        As he watched, there was a flash of light from the cylinder. The image blurred for a moment.
+
+
+                        “What was that?” Ozzy leaned close to the monitor. The cross in the center of the image was still directly over the rocket, the tracking operating as expected. “Shit! Should have been watching more closely.”
+
+
+                        He could look back over the video and the logs to see what the telescope had captured and how the object had moved. But if the same thing happened again in the meantime, he’d miss it.
+
+
+                        “Come on, once more … Aha!” There was another flash, and the telescope’s angle began to move, slowly but surely. “A flash from behind, then it moves forward … That settles it—those lights are thrusters. That piece of space junk is accelerating!”
+
+
+                        Ozzy stared at his monitors, transfixed.
+
+
+                        “This is big, Ronnie …”
+
+
+
+
+
+
+
+
+
+
+                        Three minutes later, SAFIR 3’s second stage disappeared beneath the eastern horizon, and the brief show came to an end.
+
+
+                        Reviewing the video, Ozzy found that the light had flashed five times in total, including a couple of flashes he hadn’t noticed.
+
+
+                        Now things were getting interesting. What was the most sensational way to report his findings? A weapon, he decided—that would be the most suitable for X-Man, who was well known as a kook. NASA and the professional astronomers would be sure to ignore his outlandish claims, and the stuffy astronomy community was starting to catch on as well. “There he goes again with his crazy theories,” they’d say. Fine—let them talk. All Ozzy wanted was for people to look up at the sky. Geeple would run the story. Their geeky audience would love it.
+
+
+                        “Nuclear weapons are old hat. Aliens and Area 51? Naw! But a killer satellite … ?”
+
+
+                        It couldn’t be some obscure idea that only specialists knew about. On the other hand, it didn’t have to be original either. Most of the failed start-ups from Ozzy’s time at the converted warehouse had been trying to come up with something new and original, but the key to Ronnie’s success had been founding something that actually was original but insisting on calling it a bank, one of the least original business models people could think of. Ozzy couldn’t just call it “a man-made object propelled by bursts of light,” obviously. That would go over like a lead balloon. He needed a name that would astound the gods themselves …
+
+
+                        “That’s it! Rod from God!”
+
+
+                        That B movie about a superweapon that rains giant tungsten warheads on Earth from orbit! Awful film, of course, rumored to have wasted half its budget on the lead actor. The critics hadn’t thought much of it, but any self-respecting geek would remember it.
+
+
+                        Okay, so this object was a Rod from God. What was its target? Since the rocket was Iranian, probably Israel or the United States, but a Rod from God aimed at the Earth wasn’t very original. Better to twist the narrative and say it was headed for … the ISS. Now that would be out there. Best of all, the average reader would have no idea how unlikely it was.
+
+
+                        “ ‘Rod from God attacks ISS!’ Perfect. I’ll need an illustration at some point too.”
+
+
+                        Ozzy quickly sketched a cylinder with a few thrusters sticking out, then took a photograph with his cell phone and uploaded it to MegaHands, a job-matching site with a thousand-dollar reward for the best image. Freelance illustrators with Hollywood aspirations would be all over it.
+
+
+                        He hadn’t been able to take a gigapixel photo, but stills captured from the video would be enough for Geeple. He’d put the original images and the radar observation data up on his blog, the Seychelles Eye. The professional-looking data would be enough in itself to make the story seem reliable. He accumulated more data every day than he knew what to do with—might as well make some use of it, even if only as decoration.
+
+
+                        Oh, and one more thing—a complaint to Meteor News. They’d almost made him miss his chance to photograph SAFIR 3 accelerating.
+
+
+                        “Fuckin’ shitty TLE data …”
+
+
+
+
+
+
+
+
+
+
+Thu, 10 Dec 2020, 19:58 -0800 (2020-12-11T03:58 GMT)
+
+
+80 Pike Street, Seattle
+
+
+
+
+                        Seated outside at a café on the edge of Pike Place Market, Chance glanced at their reflection in the window to check how the rendezvous would look to passersby. Her hair was blond, dyed black at the roots, and she wore oversized sunglasses and fashionably vibrant rouge. A black pantsuit and long coat concealed her toned body, while the battered editor’s bag she carried suggested a career in advertising without offering any specifics.
+
+
+                        The man sitting across from her was dressed in a turtleneck knit and designer jeans. Over these he wore a black coat much like Chance’s. His name was Ageha Shiraishi. He could have been an artist, with that long black hair of his. Chance wished he’d ditch those old-fashioned metal-framed glasses for a newer pair, but they weren’t bad enough to actually attract attention.
+
+
+                        Sitting across from each other with a tablet between them, the two could have been a media salesperson and a designer. No one in an IT industry hub like Seattle would look twice at a meeting like that.
+
+
+                        Pretending to brush back her hair, Chance checked the external security cameras. Two at the intersection, one at the entrance to Starbucks where the tourists milled about, and one over their heads. None had been added since she’d checked last week. All four cameras had been taken care of for the duration of the meeting.
+
+
+                        Chance tucked her hair behind one ear and picked up a leather portfolio. Brushing off the powder snow that had fallen on it, she extracted a sheet of paper and offered it across the table to Shiraishi.
+
+
+                        “Email from Koyanagi at Sound Technica about the D-Fi cable,” she said in Japanese. “You haven’t read it yet, I assume?”
+
+
+                        Shiraishi looked at the paper, his glasses steamed up from the caffe latte he was holding. “Ugh, Japanese people, right? Even in English, they can’t help themselves from starting with small talk about the weather … What, so it’s just a thank-you?”
+
+
+                        “It turned out to be a good deal for both sides.”
+
+
+                        Chance took the printout back and reread it herself before slipping it back into the portfolio. Sound Technica, a Japanese audio-equipment maker, had been the official distributor of D-Fi, a line of USB cables for audiophiles “invented” by a dummy company that Shiraishi had set up in Portland. Manufactured in Singapore, more than a million of the two-foot cables had been sold worldwide, despite costing $300 each. Koyanagi, their contact at Sound Technica, had responded to Shiraishi’s curt message announcing that the line would be discontinued with a polite letter of thanks.
+
+
+                        Shiraishi put his mug down and wiped the condensation from his glasses. “How much did we make?”
+
+
+                        “Around 2.2 million net, I think. They were practically free to manufacture, after all.”
+
+
+                        “Not bad at all. That’s more than we made selling poison gas to the Iranians. Make sure you report the good news to El Leaderino in the North.”
+
+
+                        “Don’t call him that.”
+
+
+                        “Who cares what I call him? No one here understands Japanese anyway.”
+
+
+                        “I said stop it.” Chance lowered her sunglasses to glower at Shiraishi. “And start thinking of how you’re going to clean up the mess you made this week. There’s talk of canceling the whole project. “
+
+
+                        “What are you talking about?”
+
+
+                        Chance extracted a second printout from her portfolio: an article from the online tabloid Geeple. Under the headline “ROD from GOD attacks ISS!” was a series of photographs apparently taken through an astronomical telescope. “Your work, I presume,” began Chance, but Shiraishi snatched the printout from her hand before she could continue.
+
+
+                        “Wow,” he said. “Wow. I never thought anyone would get a photograph of that. Who’s the shutterbug? Must have a pretty good telescope.”
+
+
+                        Shiraishi reached for the tablet on the table and followed the links from Geeple to its original source: the Seychelles Eye.
+
+
+                        “X-Man, huh? Who’s that supposed to be? Oh, I see. A kook.”
+
+
+                        “This isn’t something to celebrate.”
+
+
+                        “Are you kidding? Of course it is. Now you can tell those idiot generals who never believed in my project that it’s already in motion.”
+
+
+                        “But targeting a rocket belonging to an ally—”
+
+
+                        “Shut up,” Shiraishi said, cutting her off with an open palm. “We can use this.” He made an odd gesture, as if grasping something in midair.
+
+
+                        In her mind’s eye, Chance visualized a blank sheet of paper. Shiraishi was about to get to work. She would have to memorize his planning word for word. There could be no notes, handwritten or electronic.
+
+
+                        “Can you get moving right away?” Shiraishi asked.
+
+
+                        “Yes,” Chance replied.
+
+
+                        “The Supreme Leader should have a speech scheduled for this weekend. Probably just the usual whining. I want you to switch the script.”
+
+
+                        “Document number?”
+
+
+                        “It’s 034524,” Shiraishi said. “The one I wrote. Remember it?”
+
+
+                        Chance nodded. The script bearing the six-digit number he’d just given was a criticism of the great powers for their irresponsible development of space, most notable for its harsh criticism of the US’s support for commercial space development.
+
+
+                        “Next,” Shiraishi continued. “The Cyber Front.”
+
+
+                        Chance wrote the name of North Korea’s cyberwar squadron on her internal notepad. They hadn’t achieved much in the way of terrorism so far beyond bringing a few websites down with denial-of-service attacks, but over the past few years Shiraishi had trained them into a formidable team capable of implementing sophisticated tactics.
+
+
+                        “Get them to corrupt Google’s translation engine.”
+
+
+                        “Translation engine? What are you planning?”
+
+
+                        “Is your brain blond too?” Shiraishi snapped, rapping on one temple. “We’re going to bring this crazy story of X-Man’s to the attention of the intelligentsia. People can never resist if they think they know something someone else doesn’t. Anyway, it doesn’t matter whether you understand or not—just do as I say.”
+
+
+                        Chance nodded. Shiraishi’s arrogance reached intolerable levels when he was concentrating.
+
+
+                        “Next—ready?—pull out those plans for a low-orbit ASAT weapon from the North’s archives. There should be some negatives they got from the CIA.” Shiraishi then explained how the plans were to be used.
+
+
+                        “All right,” Chance said. “But is this Geeple story really that important?”
+
+
+                        “No,” Shiraishi said. “It’s bullshit. I doubt X-Man believes it himself. No one with a professional interest in space believes in this ‘Rod from God’ orbital weapon business.”
+
+
+                        “So NASA will clue in that it’s a lie right away, then?”
+
+
+                        “Exactly.” With a crooked smile, Shiraishi used his middle finger to push his glasses back into place. “That’s what’s so great about it. The experts will tell the truth, and everyone who ignores them is going to get taught a lesson.”
+
+
+                        The smarter you were, the easier it was to fall into that trap, Shiraishi explained. Then he pointed at the advertisement to the right of the article on the tablet.
+
+
+                        “Also, web advertising. Get a few accounts ready. The Cyber Front should have plenty to spare. Got it?” Shiraishi blew his hair back from his forehead and leaned back in his chair.
+
+
+                        “That’s everything?” Chance asked.
+
+
+                        Shiraishi nodded.
+
+
+                        Chance went over Shiraishi’s orders in her head. Replace the script for the speech. Corrupt the translation engine. Find the plans for the real low-orbit ASAT weapon. Prepare an advertising account. The goal was to muddy Shiraishi’s intentions and conceal what had actually happened to SAFIR 3. The world’s intelligence agencies, not least the CIA, would be beside themselves trying to figure out where the ASAT information that only North Korea was supposed to have had come from.
+
+
+                        “All right, my turn,” Chance said. “First, the replacement SIMs.” She pulled her editor’s bag toward her and felt inside the lining at the edge. There was the sound of Velcro, and then she produced two plastic cards from the secret compartment inside. The markings around the square cutout in the middle of the cards identified them as international roaming SIM cards from China Mobility.
+
+
+                        “Hey, what did you do to that bag? That’s a genuine Balenciaga. Cost me twelve hundred dollars.”
+
+
+                        Lowering her sunglasses again, Chance fixed Shiraishi with her coldest stare.
+
+
+                        “I found a transmitter while I was making this pocket,” she said. “I suppose Hedi Slimane put it there?”
+
+
+                        Shiraishi laughed. “Should have known better than to mess with a pro,” he said, taking the cards from her.
+
+
+                        “Don’t think you can work around me,” Chance said. “I don’t know how the last Chance ran things, but until this project is over you’re under my supervision.”
+
+
+                        “All right, all right,” Shiraishi said. He was already removing the SIMs from his cell phone and tablet to replace them with the ones he’d just received from Chance. The two of them changed the IC chips and SIMs they used for their mobile contracts weekly. All communications in America were hoovered up by the CIA or the NSA. Even if you used a roaming SIM, your messages and calls were still eavesdropped on via AT&T. Only constantly changing your number could reduce the risks.
+
+
+                        Each week, their old SIMs were sold on to cell phone stores in Chinatown. When some Chinese tourist in Seattle bought one and used it to phone home, this helped cover Chance’s and Shiraishi’s tracks. And, when necessary, they could activate the virus they were careful to install before selling each card and use that tourist’s phone as they pleased. This had been Shiraishi’s idea.
+
+
+                        Shiraishi looked up from entering the SIM activation code into his phone. “By the way, what hotel should I go to tomorrow?”
+
+
+                        Chance slept with Shiraishi exactly once a week, to keep sexual frustration from endangering the mission. It would be far too dangerous to have him find a prostitute in the US.
+
+
+                        “I’ll let you know later,” Chance said.
+
+
+                        “You’re so standoffish,” Shiraishi said. “The last Chance was much nicer to me.”
+
+
+                        “That’s why she was recalled.”
+
+
+                        “Oh, so she really was in love?” Shiraishi adopted a look of regret. “I should have been nicer to her.”
+
+
+                        Up until two months ago, Shiraishi’s handler had been a young Korean American woman. But that Chance—the fourth one—had been so smitten by his boldness and genius that she had stopped sending accurate information to the North. The current Chance had been contracted to replace her.
+
+
+                        “That reminds me,” Chance said. “I got distracted, but let me emphasize this. SAFIR 3 can’t be helped, but make sure you do everything according to plan from now on. Do not touch that billionaire’s rocket.”
+
+
+                        “Aw, and I was looking forward to messing around with it,” Shiraishi said. “Fine. Whatever. I’ll satisfy myself with SAFIR 3.”
+
+
+                        “So SAFIR 3 was intentional.”
+
+
+                        “Pure coincidence. I swear it. Want me to make an affidavit right here? Got a Bible? If we need a witness, that barista—”
+
+
+                        “I’ll leave this out of my report,” Chance said curtly, rising to her feet. She’d only been working with Shiraishi for two months, but she could already see the appeal he had for certain people. His mind, his background … He had a mysterious magnetism that some just couldn’t resist. It wasn’t surprising to learn that a young woman without much life experience had gotten in over her head with him.
+
+
+                        Knowing that Shiraishi would be eating dinner at the Pike Street Market, Chance turned her back to him and began climbing the hill in the opposite direction. Once she’d confirmed that Shiraishi had left the table, she’d have to return the security cameras around it to normal operation.
+
+
+                        Sound Technica would send back the unsold D-Fi stock. She would have to think of a way to dispose of it before it arrived next week. Shiraishi would have to move out of his warehouse by the docks and into a safe house in the business district. There was a lot to get done. The sloppy tradecraft of the previous Chances would not have sufficed.
+
+
+                        In a country where every communication, every street corner was under surveillance, there was no sure way to get away with illegal activity for long. The only reason Shiraishi had been safe these five years was because he hadn’t actually done anything yet.
+
+
+                        Things were about to change.
+
+
+                        The Cloud was coming online.
+
+
+
+
+
+
+
+
+
+
+Thu, 10 Dec 2020, 23:40 -0500 (2020-12-11T04:40 GMT)
+
+
+Project Wyvern
+
+
+
+
+                        Judy Smark here. Luckiest journalist in the world—but I’m getting ahead of myself.
+
+
+                        As many of you already know, the day after tomorrow I’ll be accompanying that respected visionary, supremely influential entrepreneur, liberator of space itself—am I overdoing it? Yes, I’ll be accompanying my father, Ronnie Smark, as he sails his twenty billion–dollar luxury yacht, the Wyvern, into space. That’s right, space.
+
+
+                        Outer. Space.
+
+
+                        We’ll be blasting off from Launchpad 36 at Cape Canaveral, just like the Space Shuttle, on top of the reusable and eco-friendly rocket Loki 9. Once the Wyvern reaches orbit, it’ll go around the Earth for an entire day on autopilot. Then we’ll spend five days in a zero gravity, one-room orbital hotel. I hear it’s a suite room, at least.
+
+
+                        Then comes the part I’m looking forward to most of all: docking with the International Space Station, where we’ll be staying with the astronauts through Christmas before returning to Earth. Don’t miss the livestream of the docking! It’ll be history in the making, that much I can promise.
+
+
+                        The hardest part will be spending all that time alone in a single room with that irascible old mule Ronnie. I’ll just have to try to remember the time when we used to get along … You know, back before I started elementary school. I wonder if he’ll be okay. Did you notice him peeking at that phone he was hiding behind the mic stand at the press conference? I can hear him yelling at someone on the phone right now! Is this a man ready to spend two weeks in orbit?
+
+
+                        P.S. I’ve decided to update my blog with my thoughts in real time. Don’t worry, though, I’ll write it all up professionally for the book afterwards. (See, K.? I wouldn’t leave my favorite agent out in the cold.)
+
+
+                        Judy Smark
+
+
+                        Florida

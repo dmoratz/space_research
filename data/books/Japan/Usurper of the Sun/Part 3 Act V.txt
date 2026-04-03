@@ -1,0 +1,82 @@
+ACT V: JULY 12, 2026
+
+
+THE UNSS CHADWICK decoupled from the base station, setting its course for a Mercury approach. Commander Kindersley’s biggest concern was to keep the forty billion dollar ship from being contaminated by the ring material. While scanning the local area with the laser radar system, the commander placed the ship into a five million–kilometer orbit around Mercury. The ship’s gigantic solar shields were pointed toward the sun, allowing only the sensor mast to absorb sunlight due to the intensity of the solar radiation.
+
+
+The unmanned cargo rocket that carried the two-kilogram probe had already been launched. It was about to cross the path of ring material emanating from Mercury. From her cocoon, Molly kept a close eye on the video being sent back by the cargo rocket. A silver stream of material flowed diagonally across the screen. Although she could not make out individual particles, Molly could see slight gradations of color indicating how quickly the stream flowed. The mass drivers ejected the ring material from the surface of Mercury at a rate of eighty thousand tons per second. Molly was somewhat surprised to see the color of the ring material become lighter as the rocket approached the stream. The material disappeared into the blackness of space once the rocket was inside the flowing sea of ring material.
+
+
+“It’s like being in fog. You don’t notice when it’s right in front of you and you’re in the thick of it.”
+
+
+“What was that, Molly?” Anastacia asked.
+
+
+“Nothing. Just mumbling to myself.”
+
+
+The probe’s speed relative to the stream was fifty meters per second. The probe detected three thousand collisions per second.
+
+
+“Let’s go another two hundred kilometers toward the center.”
+
+
+“Even if it doesn’t hold up to the stress for that long?” Anastacia asked.
+
+
+“That’s right.”
+
+
+“I’ve set the course to the waypoint.”
+
+
+The onscreen image began to deteriorate, and the screen that monitored the rocket’s sensors flooded with warnings. The ring material was consuming the rocket.
+
+
+“Prepare for separation.”
+
+
+The screen flickered, finally stopping on a still image with the words “Transmission Error” flashing in red.
+
+
+“Telemetry readings are still generating. We’ve reached the waypoint. Separation complete. Probe engine firing. Separation signal confirmed.”
+
+
+“The UNSS Chadwick has successfully completed deployment of the probe,” Commander Kindersley announced to Central Command. “Proceeding with the observation phase.”
+
+
+Moving along the orbit, the probe entered the flow of material being ejected behind Mercury. The flow of material continued for another five million kilometers before disappearing behind the sun. The probe would record data as it followed the material around the sun back to its starting point.
+
+
+The visible-light and infrared cameras were linked to the wideangle telescope and set to auto-track mode. All observational systems were functioning normally. The commander breathed a sigh of relief. “Good job, crew. All we can do is sit back and watch. Feel free to relax. You might want to avoid newsfeeds from Earth. I’m guessing we’ll be center stage for a few days. I don’t want your heads to swell.”
+
+
+“Too bad some people aren’t on our side. And I don’t mean that one presenter who always shows that picture of me with the bad haircut,” Anastacia said.
+
+
+“Even Aki Shiraishi’s reputation met its limits when she tried convincing people that this was our safest bet,” said Commander Kindersley.
+
+
+“I’m not sure she has as many allies as she’ll need if her plan fails,” Molly said.
+
+
+The mission had been an uphill battle. Molly and Anastacia had managed to decode less than 1 percent of the ring material’s mechagenetic puzzle. Nonetheless, the information Molly and Anastacia deciphered contained instructions for both the Ring’s size and orientation. The code for the formation of the Island, however, remained beyond the grasp of the decoding. Even with experts in nanotech working on the project, an understanding of the complex processes responsible for the creation of the Island would take another decade—tinkering with the existing code would not be enough to reconfigure the structure of the Island.
+
+
+After a learning curve that had been driven by an arduous process of trial and error, reprogramming samples of basic ring material had been successful under lab conditions. The key was in the upper command set of the ring material. If the probe functioned as hoped, it would overwrite the upper command set. When the probe came into contact with ring material, those instructions would spread like a virus to the rest of the orbiting material.
+
+
+The nanobots ejected from Mercury used microscopic solar sails to migrate into their stable orbit around the sun. If the modifications worked as planned, their vectors would be altered so that the Vert-Ring would eventually be perpendicular to their original orbit, stopping when the new Vert-Ring reached a radius of forty million kilometers. The researchers were fairly certain that all they needed to do was overwrite the orientation information in the Ring’s particles. They did not know whether the Island would still form when the Vert-Ring reached a height of three hundred thousand kilometers and if it did, whether the deceleration lasers would still be pointed in the right direction. Whether the encoded programming would have the inherent flexibility needed to maintain its structural and functional integrity when it followed new commands was an open question.
+
+
+Once the ring material left the gravitational pull of Mercury, it was even capable of leaving the solar system if such a voyage proved necessary. Ring material flowing in unexpected directions was one of the greatest fears of the project’s researchers. The most pessimistic commentators contended that crude alterations to the Ring’s programming could potentially send particles streaming toward Earth.
+
+
+Molly felt confident that the solar-powered material would stay close to the sun, not wanting to stray too far from its source of energy. Once the ring material moved into its pre-programmed position, it would await its signal to trigger the deceleration lasers. Molly also believed that even if the program became corrupted, the ring material would not deviate far from a forty million–kilometer distance from the sun.
+
+
+Eight hours after the probe entered the stream, a portion of ring material deviated from its previous path. The ring material moved vertically, away from the original Ring’s orbital plane. Within thirty hours, two symmetrical arms began arcing upward on opposite sides of the Vert-Ring. Molly extrapolated from the snapshot data and created a profile of Vert-Ring generation.
+
+
+“We’re there. It’s transitioning into a perfect spiral orbit. The material knows where it needs to go and is figuring out the path on its own. My calculations say that in exactly four rotations around the sun the nanobots will have reoriented the Ring as programmed. Send a message to Aki Shiraishi. Tell her that her dream of a Vert-Ring is coming true.”

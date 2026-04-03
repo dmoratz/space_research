@@ -1,0 +1,1227 @@
+3 The Launch
+
+
+
+
+                        Sun, 13 Dec 2020, 09:45 +0900 (2020-12-13T00:45 GMT)
+
+
+Main Conference Room, Fool’s Launchpad, Shibuya
+
+
+
+
+                        “Sorry to drag you in here,” Akari said to Kazumi. “I thought ‘radio telescope’ meant there would be visuals, but no such luck, I guess.”
+
+
+                        Uncharacteristically, the spacious conference room at Fool’s Launchpad was empty except for Akari and Kazumi. It was always booked for most of the work week, but even their office mates usually drew the line at working on Sundays. Akari and Kazumi had only come in themselves because of Ronnie Smark’s big launch. Loki 9 was scheduled to blast off that evening, insert the spacecraft Wyvern into orbit, and then slowly descend to the Atlantic Ocean so that its expensive, newly developed engine could be reused. Kazumi had been sitting at his regular desk intending to post the rocket’s predicted positional data to Meteor News when Akari had shown up later than expected and immediately brought him here.
+
+
+                        Smart monocular display poking out from her orange mass of hair and a keyboard strapped to her arm just like yesterday, Akari arranged three palm-sized projectors on the table before connecting each one to a miniature Raspberry computer, explaining that a single computer and projector wasn’t enough to display the data. She switched on and adjusted the projectors one by one, overlaying the three images on the conference room whiteboard.
+
+
+                        “You’ve already processed 150 gigs?” Kazumi exclaimed. “Wow.”
+
+
+                        “The size of the data was inflated because it was all stored as strings,” said Akari. “Once I converted it into pure numeric data, three Raspberries were enough. Turns out there were three types of data in there, so I graphed each one in a different color.”
+
+
+                        Red, green, and blue graphs were now projected across the full sixteen feet of whiteboard. The red line was valley shaped, dipping deeply in the middle, while the green line had a peak at around the same place. The blue line was discontinuous, rising slowly as it moved from left to right until it reached the top of the whiteboard at about the center, at which point it reappeared at a much lower position and began rising again. Unlike the smooth red line, the green and blue lines both oscillated rapidly around the center of the board.
+
+
+                        “Is this everything?” asked Kazumi.
+
+
+                        “This is the data for ID number zero,” said Akari. Should I overlay the other 1,023? They were basically the same.”
+
+
+                        Akari reached across with her right hand to hit the return key on the keyboard strapped to her left arm. A torrent of data poured onto the whiteboard overlay. The many red lines all followed more or less the same path, but the blue and green lines seemed to grow thicker toward the center, where countless overlapping lines spanned a vertical band of one or two inches.
+
+
+                        Kazumi peered at the graphs. If Ozzy’s blog was releasing useful observational data for SAFIR 3, there should be information about its orbit in here somewhere. Or perhaps this data was just nonsense?
+
+
+                        “I’m getting ahead of myself,” said Akari. “Let me explain how to read the graphs. The horizontal axis is time. Zero ranges from 2:15 a.m. standard time to 2:15 and 24 seconds—”
+
+
+                        “Wait, 2:15 GMT? In that case, it’s definitely observational data. That’s exactly when SAFIR 3 would have been visible to Ozzy.”
+
+
+                        “Oh, good. So it probably is meaningful.” Akari smiled. “Moving on, the red parameter varies from a maximum of two million to a minimum of about 290,000.”
+
+
+                        Kazumi grasped the import of this at once. “Red is the distance in meters to the observed target,” he said.
+
+
+                        “Two million meters is … two thousand kilometers. And the closest is just 290 kilometers. Isn’t that range a bit too wide?”
+
+
+                        “Hold on,” Kazumi said. “Let me check.” Rising to his feet, he half-closed his eyes and stretched his right arm out straight in front of him until his middle finger touched the wall. The sixty-four centimeters from his shoulder to the end of that finger became the 6,400-kilometer radius of the Earth, a convenient 100,000-to-1 ratio. He visualized himself as an observer at the end of his middle finger. The wall was the horizon. He could only see things beyond that plane. Now he just had to calculate the distance to SAFIR 3, sailing through space 290 kilometers—just under three centimeters—beyond his middle finger, when it emerged on this side of the wall.
+
+
+                        He lowered his right arm slowly, stopped it once the tip of his middle finger was three centimeters from the wall, and then calculated the distance back to where it had started. Right about twenty centimeters, which came to two thousand kilometers under the 100,000-to-1 ratio.
+
+
+                        “It fits,” he said. “When SAFIR 3 touches the horizon, it’s two thousand kilometers away. When it’s directly overhead, the distance is just its altitude—290 km. The range fits. Red is distance.”
+
+
+                        Akari was staring at him. Kazumi felt the blood rushing to his cheeks. Now he’d done it—performed the ritual when somebody else was watching. Using your body as a visualization tool was a quick and convenient way to estimate the position of objects in orbit, but it was also crude and not very accurate.
+
+
+                        “It’s just this visualization I do,” he mumbled, flustered. “I’m not good at working through equations. Probably a fair bit off …”
+
+
+                        “You do that too?” said Akari.
+
+
+                        “Huh?”
+
+
+                        “My mentor, the one who joined JAXA, he used to do the same thing. I don’t think he ever calculated in as much detail as you just did, but still. It’s an amazing thing to be able to visualize!”
+
+
+                        “You think? Wouldn’t it be better to be able to calculate properly?”
+
+
+                        “No way! Listen, if there’s some visualization you use especially often, just let me know. I’ll whip up a smartphone app to make it as easy as using a calculator.”
+
+
+                        Now that they were certain Ozzy’s observational data had something to do with SAFIR 3, Kazumi had Akari switch off the red altitude graph. That left two parameters to account for.
+
+
+                        Akari stood in front of the whiteboard and used both hands to point at the upper and lower bounds of the blue and green lines.
+
+
+                        “Green’s maximum and minimum are about plus and minus 1.5. All the blue lines rise to 6.283, then go right back to zero. Oh—radians!” Kazumi had a realization. “Blue is an angle!”
+
+
+                        A full 360-degree angle—a circle, in other words—was defined as 2π radians. Twice π, in turn, was roughly equal to 6.283, which was exactly where blue went back to zero.
+
+
+                        “It must be the azimuth. The value resets to zero when the object passes to the north. Green is an angle too. About 1.5 radians means ninety degrees—it’s elevation. I see it now. These are spherical coordinates!”
+
+
+                        So this was the data that Ozzy had put on the Seychelles Eye blog. Tracking logs for 1,024 objects that recorded their distance from the Earth and the direction they were moving. Kazumi was just starting to wonder if he could get permission to use the data on Meteor News when Akari appeared before him, hands clasped together.
+
+
+                        “I can make a planetarium out of this! Wanna see?”
+
+
+                        There was a video game engine called Unity, she explained, that had a library for processing spherical coordinates.
+
+
+                        “Wouldn’t that be too much trouble?” said Kazumi.
+
+
+                        “I’m already using Unity to make these graphs. Hold on a sec. I’ll rig up the VR API.”
+
+
+                        Akari sat at the table and began tapping away at the keyboard while turning her head this way and that. Kazumi had never imagined that she would know how to use a game engine that had absolutely no application in web design.
+
+
+                        “I’ll be looking at the graphs,” Kazumi said. He approached the whiteboard and examined the regular oscillations of the green and blue lines, tracing them with his finger. It obviously wasn’t noise from the observational equipment. Kazumi let his eyes fall half-closed again and tried to visualize the combination of the two angles, but their complexity resisted his methods. What kind of movement was this?
+
+
+                        “Finished,” announced Akari. Kazumi turned to see her offering him a two-lens goggle display. The LED on the frames was already lit.
+
+
+                        Kazumi slipped the goggles on. There was the horizon, at about shoulder height. He turned his head and saw marks indicating orientation scroll across his vision. The data from the motion sensor in the goggles was being used to determine which way he was facing and to adjust the display accordingly.
+
+
+                        “You just threw this together on the spot?” he asked.
+
+
+                        “It’s easy when there are already libraries for it,” Akari replied. “Ready for the animation? I checked it up until the point that the dots come out of the west.”
+
+
+                        Kazumi looked in Akari’s direction to see a small white dot rising above the horizon. It was a satellite rise like countless others he’d seen before.
+
+
+                        “There are 1,024 objects, but their locations are all so close they just look like a single dot,” Akari said. “I wonder if this is right.”
+
+
+                        “It must be,” Kazumi said. “We figured out the data format. It is a very dense cluster though. Is the scale right on this thing?”
+
+
+                        “It should be accurate,” Akari said. “Why?”
+
+
+                        As Kazumi watched, the gradually rising white dot smeared into a thick line. The line slowly picked up speed, growing longer and wider as it did, moving up the wall and onto the ceiling.
+
+
+                        “Can you zoom in?” he asked. “I want to see the separate points.” Looking straight up was starting to hurt his neck, so he lay down on the conference table to stare at the ceiling. He heard Akari typing, and then what had appeared to be a smeared line became clearly visible as a cluster of points like a hazy cloud.
+
+
+                        “That’s a 100-to-1 zoom,” Akari said. “Can I start playback again?”
+
+
+                        As Akari spoke, the white points began to slowly move again. Most of them seemed to move in pairs, each partner chasing the other. Kazumi guessed that this had to be the source of the oscillations in the graph.
+
+
+                        “Could you zoom in a little closer? Until each point is clearly distinguishable.”
+
+
+                        “Okay. Zooming in to two thousand to one.”
+
+
+                        The zoomed-in planetarium was now displaying five pairs of points moving across the sky.
+
+
+                        “What is this?” Kazumi muttered.
+
+
+                        “That’s so cool, “ Akari said. “It’s like they’re holding hands.”
+
+
+                        Akari was right. Each pair whirled around and around in orbit as if holding hands. But there was nothing cool about it from Kazumi’s perspective. Objects in orbit moved according to simple physical laws. To spin in circles, they would have to be constantly expelling something to drive that motion. What artificial satellite would use its limited fuel that way? It made no sense.
+
+
+                        “Hey!” Kazumi exclaimed. “Where’d it go?” The point he was watching had vanished. Then, not far away, another appeared and began whirling in circles like the others.
+
+
+                        “Oh, I forgot to mention that,” said Akari. “The data set’s full of discontinuities. One thousand and twenty-four, that’s two to the power of seven. Probably the maximum number of objects that the—telescope, was it?—the maximum number the device that recorded this data can track. To judge from the gaps in the data, I’d estimate that the true number of objects was at least ten times as high. More, probably.”
+
+
+                        “Ten thousand objects?” Still lying on the conference table, Kazumi felt a chill run down his spine. Ten thousand objects in orbit, all crowded very closely together as they whirled. Nothing like that was recorded in the TLEs from USSTRATCOM. He’d never heard of anything like it on any of the sites run by amateurs either. “That’s impossible. Unheard of.”
+
+
+                        “So are these dots debris? If they’re unheard of, this is a new discovery, right?”
+
+
+                        “I don’t think they’re debris. I’ve never seen anything like this in the catalog.”
+
+
+                        The UN’s Committee on the Peaceful Uses of Outer Space published an extremely reliable catalog of debris. It was precisely this reliability that had enabled many of Meteor News’s successful shooting star predictions, in fact.
+
+
+                        The Debris Catalog was updated constantly based on data from all kinds of sources, from ground radar observations to debris-sensing satellites in stationary orbit. Everything in orbit more than two inches long was supposed to be in there. Ten thousand bits of debris that no one had ever noticed would pose a serious hazard to satellite and space station operations. Not to mention the bizarre way they were moving … Just what were these things that Ozzy had seen through his radar telescope?
+
+
+                        “Can I see a bit more?”
+
+
+                        “Sure,” Akari said, unstrapping the keyboard from her left arm and handing it to him. “Arrow keys are Time and Zoom. Hit H for Help. I’m going to get some sleep.”
+
+
+                        Akari pulled her monocular display out of her Afro and placed it on the table, then pushed some chairs together to lie down on.
+
+
+                        “Thanks,” Kazumi said. “I’ll wake you around noon.”
+
+
+                        A hand with orange fingernails rose from behind the table and waved in acknowledgment. Moments later, Kazumi heard snoring. Akari’s all-nighter was catching up with her.
+
+
+                        Tying up the conference room unnecessarily was frowned upon, but no one else would want to use it today. Kazumi suddenly remembered why he was at Fool’s Launchpad in the first place. He was supposed to be preparing the Meteor News orbital predictions for Ronnie Smark’s rocket, Loki 9. But now he had a bad feeling about the whole thing.
+
+
+                        The intended path of Loki 9 and the orbital hotel were completely different from SAFIR 3’s current orbit. Neither should have any effect on the other. But then, SAFIR 3’s second stage should have come down normally. Instead, it had gained altitude, and now more than ten thousand objects not listed in the Debris Catalog were swarming around it, moving in a way that could not be considered normal at all.
+
+
+                        What was going on up there?
+
+
+                        And was the Project Wyvern team aware of the ten thousand objects they were sharing low Earth orbit with?
+
+
+
+
+
+
+
+
+
+
+Sun, 13 Dec 2020, 06:13, +0400 (2020-12-13T02:13 GMT)
+
+
+Desnoeufs Island
+
+
+
+
+                        Light spilled through the gaps between the array of four monitors, projecting a shining cross on Ozzy’s face. Sunrise. As he shifted in his long-suffering Aeron chair, Ozzy heard a squelching sound across the room. Friday must have been night fishing.
+
+
+                        “Good morning, Mr. Cunningham.”
+
+
+                        “Wipe the floor, would you?”
+
+
+                        Naked to the waist and carrying a beverage cooler, Friday was walking across the gigantic room toward the kitchen alcove. His sandals, still waterlogged from the ocean, squelched with every step he took. Drops of water rolled like jewels down his ebony skin.
+
+
+                        Friday pointed at the breakfast on Ozzy’s desk. “Hot dogs again,” he observed. “Every day the same thing. Your health will certainly suffer.”
+
+
+                        “I don’t need to hear that crap from you,” Ozzy shot back. “I only took you on because you said you could cook, but you haven’t made me so much as a bowl of freakin’ spaghetti.”
+
+
+                        “I said that?” Friday smiled. “In any case, it is you, Mr. Cunningham, who refuses the seafood I go to such pains to obtain. Just look at today’s catch.”
+
+
+                        Having reached the kitchen area, Friday turned the cooler upside down and let the bright-crimson fish it contained tumble onto the counter. Ozzy had no idea how anyone could think of eating a fish that looked like that.
+
+
+                        “Could I interest you in some sashimi?” Friday asked. Ozzy snorted and waved him away dismissively. Cheerfully ignoring him, Friday produced a long knife and thrust it into the fish’s gills without hesitation, beginning to gut it.
+
+
+                        An accomplished man, Friday, but not one to keep his opinions to himself. Fluent enough in English to trade barbs with Ozzy, he also spoke Seychellois Creole and French, had a PhD in astronomy, and was licensed to operate a helicopter, boat, and ham radio. It would be hard to find a better assistant for someone in Ozzy’s position, one resolved to live on a remote island.
+
+
+                        When they had met for Friday’s first interview in Victoria, the capital of Seychelles, Friday had simply announced that as long as he was permitted free use of the three-meter optical telescope and high-output radar tuned to track objects in low orbit, he would be delighted to be Ozzy’s companion on the island. Ozzy had been half-joking when he’d first called him “Friday,” but the man had cheerfully accepted his new moniker and it immediately stuck.
+
+
+                        “Take a look at this,” Ozzy said. “We struck it big this week.”
+
+
+                        He connected the monitors into one large display showing a single six-digit figure. One hundred thousand dollars! No matter how many times he looked at it, he couldn’t believe it. To make that much from advertising in just two days!
+
+
+                        Hundreds of thousands of visitors had followed the links in the Geeple story about the Rod from God to its source, Ozzy’s blog, and when he’d uploaded the illustration request to MegaHands, a Hollywood storyboard artist had picked up the job. And that wasn’t all. With perfect timing, some cat food company had set up click-through advertising at a rate so high he could only assume it was a configuration mistake. No doubt whatever bright spark in Marketing had come up with the idea of trying to sell cat food to the stargazing nerd community would soon be out of a job, but that was no concern of Ozzy’s.
+
+
+                        I’m on a roll, he thought. Might be time to give Friday a bonus . . .
+
+
+                        Spinning his creaking chair to face the kitchen, Ozzy saw Friday approaching him, wide-eyed and shaking his head.
+
+
+                        “Telephone, Mr. Cunningham.”
+
+
+                        “Telephone? That’s a word I haven’t heard in a while.” Ozzy reached deep into his desk, groping for the cordless that had only rung twice since he’d arrived on Desnoeufs, before realizing that he hadn’t actually heard the phone ring.
+
+
+                        “Not that one, Mr. Cunningham,” Friday held up an aged blue Nokia. “They called mine instead.”
+
+
+                        “Who did?”
+
+
+                        “I should like to ask the same question.”
+
+
+                        Friday pushed the phone, still sticky with fish scales, into Ozzy’s hands. Ozzy wiped the face of the phone with one of his hot dog napkins and put it to his ear.
+
+
+                        “Ozzy here. What are you doing calling Friday’s phone?”
+
+
+                        “Ah, good,” said a male voice at the other end. “Ozzy Cunningham, tech billionaire, I presume. Read your email once in a while, would you? We’ve been trying to get in touch.”
+
+
+                        Whoever it was spoke in that rapid-fire way unique to Americans trying to use their high IQ to dazzle their audience. Not West Coast, this guy. He was from back East.
+
+
+                        “You call your partner on that desert island ‘Friday’?” the man continued. “Terrible, just terrible. I recommend switching to Johansson. Wouldn’t want to give anyone the idea that you were violating his human rights.” There was a pleasant, if practiced, laugh. So he knew Friday’s real name—the one that even Ozzy sometimes forgot.
+
+
+                        “Who the hell are you?” Ozzy asked.
+
+
+                        “I don’t care to talk on this line. How about you take a video call?”
+
+
+                        “Why didn’t you—” Call me directly, Ozzy started to say, before realizing that the point of the exercise was to make a visible show of power. I know everything, the man was saying. You’d better do as I say.
+
+
+                        “Fine,” Ozzy said finally. “My ID’s—”
+
+
+                        The line went dead, and a pop-up appeared in the lower right of Ozzy’s display. A videoconference request from “Unknown.” Whoever they were, they knew Ozzy’s video ID too.
+
+
+                        Ozzy pointed his web camera at himself and hit the Return key. The screen filled with some kind of visual he’d never seen before, then cleared to reveal an impeccably dressed black man. His close-cropped hair and goatee shone in the ruddy sunlight that lit his face from below.
+
+
+                        Ozzy calculated the time difference based on the angle of the light. The sun had just risen over the Indian Ocean, so that put his caller somewhere in the Americas at sunset.
+
+
+                        “Pleasure to meet you, Mr. Cunningham,” the man said. “Name’s Bruce. Give Johansson my thanks too, for lending his phone. Back here is Chris.”
+
+
+                        The man who had introduced himself as Bruce moved his chair, revealing himself to be in a well-appointed room with a white-haired woman seated behind him poring over something in a binder. The woman named Chris raised her head and waved to the camera with a smile. The sunset glare was dazzling on the natural-wood paneling and crisp white walls. The table looked to be mahogany. A huge amount of money had obviously gone into this room. Ozzy didn’t care much for the low ceiling, though. Small windows too, he mused, before realizing where his interlocutors were calling from.
+
+
+                        This wasn’t somebody’s home. The room with the sun shining into it from below was the cabin of an airplane in flight. And not just any airplane—a private jet.
+
+
+                        People in expensive suits with unremarkable names. Superficial friendliness, high-quality furnishings. There was really only one way to sum up the scene Ozzy saw through the video call.
+
+
+                        “What is this, a spy movie?” he asked.
+
+
+                        Bruce laughed, revealing white teeth. Behind him, Chris narrowed her eyes.
+
+
+                        “You win, Mr. Cunningham,” said Bruce, clapping his exquisitely manicured hands together and leaning toward the camera. “We are, as you suspect, with the Central Intelligence Agency.”
+
+
+                        Ozzy nodded.
+
+
+                        “We’d like to ask you some questions about that article of yours Geeple picked up, and the illustration of the Rod from God by one Jose Juarez. Is now a good time?”
+
+
+
+
+
+
+
+
+
+
+Sat, 13 Dec 2020, 20:04 +1700 (2020-12-13T03:04 GMT)
+
+
+Peterson Air Force Base
+
+
+
+
+                        Freeman had had a bad feeling about this meeting ever since arriving at Colonel Lintz’s habitually open-door office to find the door closed.
+
+
+                        Entering the office, he saw the colonel and Major Fernandez on a sofa opposite a man and a woman in expensive suits sitting with their legs crossed. The man was black and tall enough for his legs to look uncomfortable in the limited space available. The woman was in late middle age and had her silver hair in a flawless coiffure. Both of them smiled and stood to welcome Freeman as he walked in.
+
+
+                        “So nice to meet you, Staff Sergeant Freeman,” said the woman. “I’m Christina Ferguson. You can call me Chris.”
+
+
+                        The man, standing behind her, reached out to offer Freeman his hand. “Bruce,” he said.
+
+
+                        Chris urged Freeman to be at ease. “We’re here from McLean,” she said. “You may not have been at this job long, but I suppose you understand what that means.”
+
+
+                        McLean, as Freeman did indeed know, was the city in Virginia where the CIA had built its new headquarters. Of more concern to him, however, was the reason he had been summoned to this meeting, and on that score he had no idea. Nor did it bode well that both Colonel Lintz and Freeman’s own direct superior, Major Fernandez, were present at the meeting.
+
+
+                        Chris and Bruce lowered themselves back onto the sofa, and Freeman took up a position at ease beside the table.
+
+
+                        “Our apologies for the interruption at such a busy time, Sergeant,” Lintz said. “It seems our two guests have some questions for you about a certain Rod from God.”
+
+
+                        Freeman cocked his head quizzically and asked, “Are you referring to SAFIR 3, sir?”
+
+
+                        “Here we go again,” Bruce said, raising his palms. Lintz sighed. Apparently this topic had already been discussed.
+
+
+                        Chris glanced at the two of them and then turned to Freeman with a smile that didn’t reach her eyes. “Staff Sergeant Freeman—may I call you Daryl? A bit less formal.”
+
+
+                        “Yes, ma’am.”
+
+
+                        “Please don’t be offended. It’s just that we’ve heard the same story five times since this morning. We dropped by Cape Canaveral and they were quite emphatic—firing an ICBM is overwhelmingly more efficient than dropping something from orbit. Correct?”
+
+
+                        “Yes, ma’am,” Freeman nodded.
+
+
+                        Chris went over the proofs NASA had offered, counting each one on her fingers as she went. One, the cost performance for a weapon that lifted objects into orbit only to drop them again would be pitiful. Two, an orbital weapon intended to cause mass destruction would by its very existence violate various space treaties. Three, even if a Rod from God could be put into orbit, it would be exceedingly difficult to guide a dropped projectile to a precise location. A ballistic missile would be many times easier.
+
+
+                        Freeman listened closely to Chris’s review of the facts. The jargon didn’t give her any trouble at all. Apparently she had done her homework. At the very least, she clearly understood better than Major Fernandez, who was nodding along in the chair diagonally opposite. His area of expertise didn’t extend above the limits of the atmosphere.
+
+
+                        “Four,” Chris continued, folding her fourth finger over. “Unlike in years past when only the US and the Soviets had high-resolution radar, nowadays every object in orbit, large or small, is logged in a database so that even private citizens can track satellites. An orbital weapon operating in secret simply could not exist. Therefore, a Rod from God is impossible. Does that about sum it up?”
+
+
+                        “Yes, ma’am. That is also my understanding.”
+
+
+                        Freeman was pleased to hear that the specialists at NASA agreed with his analysis but remained wary. Chris had gotten the facts from NASA straight and understood them well enough to repeat them in her own words. So why had she even brought the topic up with him?
+
+
+                        Bruce produced a folded piece of paper from his pocket and spread it out on the table. It was X-Man’s article. Chris tapped the illustration with one tastefully manicured finger, the nail painted a soft pink.
+
+
+                        “What bothers us,” she said, “is this illustration.”
+
+
+                        Fernandez craned his neck over the table to see. “Not a bad job,” he remarked. “Lots of fine detail. Looks almost real.”
+
+
+                        “I should hope so,” Chris said. “It is real.”
+
+
+                        Fernandez looked up at her sharply. Lintz and Freeman took another, closer look at the picture.
+
+
+                        “This illustration,” Chris continued, “is based on plans for an antisatellite weapon that were extracted from SDI and provided to an operative in North Korea in 1989.”
+
+
+                        “I knew it looked familiar,” Lintz growled. He looked up at Chris. “So it was the CIA that leaked SDI plans to the Communists, was it? Which side were you on, anyway?”
+
+
+                        “Colonel.” Bruce uncrossed his legs and opened his palms. “If you’re still hung up about the Cold War, write a book about it. I’d love to read what you come up with, and I’m sure our countrymen would too. But for the moment, we need to stay focused on this Rod from God floating around up there as we speak. That’s the real threat right now.”
+
+
+                        Lintz snorted and sat back in the sofa, apparently not interested in pursuing the matter.
+
+
+                        “If I may, sir—Bruce?” Freeman said, choosing his words carefully. “This object you call the Rod from God is the second stage of SAFIR 3, launched from Iran. It’s a used-up rocket shell.”
+
+
+                        “Yes, that’s the other thing everyone keeps telling me,” Bruce replied, one eyebrow raised.
+
+
+                        Freeman was surprised at how nonpatronizing the gesture looked. This man had total mastery over his expressions, and Freeman could tell he was not the sort of person who could be beaten in an argument.
+
+
+                        “But that object is speeding up,” Bruce continued, “And its altitude is increasing. True?”
+
+
+                        “Yes,” replied Freeman.
+
+
+                        “Can a spent rocket shell speed up?”
+
+
+                        “No. But—”
+
+
+                        Bruce raised his hand with impeccable timing to cut Freeman off. “What I’m saying is all direct from you rocket jockeys,” he said. “For the second stage of SAFIR 3 to move into that orbit would have been impossible. That leaves only one conclusion: that object zipping around up there on its thrusters isn’t the second stage of SAFIR 3.”
+
+
+                        Freeman was appalled. The facts about how SAFIR 3 was moving were exactly why it was vital to find out what was making it move.
+
+
+                        “Think about it,” Bruce continued. “Just as the object is discovered, the leader of North Korea gives a speech hinting at the existence of orbital weapons. And to make sure his meaning gets across—” He paused to point at the illustration. “This picture. A drawing based on plans the North Koreans got from us, the CIA. They’re trying to make a statement. They have something.”
+
+
+                        Freeman looked at Bruce’s hands, which were as neatly manicured as Chris’s. In the hangar earlier, spreading out the pressure suits, he had noticed the oil that had already seeped into his own fingers. He balled his hands into fists, hiding the stains.
+
+
+                        “You think this is just politicians and the intelligence community seeing what they want to see, right?” Bruce asked. “Well, fine. But when we receive a message this loud and this clear, we have no choice but to respond.”
+
+
+                        He was now leaning forward over the table. Chris held up a smartphone behind him. On the screen was a picture of a hugely overweight man in a tank top.
+
+
+                        “This is the source of the Rod from God story,” she said. “Ozzy Cunningham, a.k.a. X-Man. We got in touch with him earlier. He said he didn’t know anything, but we’ll be poring over all of his communications for the past three years.” She held her upright posture, shoulders straight. “At the beginning of next week, Bruce will pay a visit to Jose Juarez, the LA-based illustrator. Either Cunningham or Juarez is definitely getting information from North Korea. Do you understand? We are serious about chasing down this Rod from God.”
+
+
+                        Bruce got to his feet, standing beside Chris.
+
+
+                        “We also want details about the plausibility of the Rod from God as an orbital weapon,” he said. “For that, we need someone who knows space. A professional. NASA can’t help us; most of their work is done by civilians. So we came to NORAD, where we won’t need secrecy agreements.”
+
+
+                        Lintz, arms folded, turned his head to face Freeman. This was it—the source of the bad feeling Freeman had had since seeing the closed door. He was going to be asked to babysit a couple of spies chasing down a fantasy.
+
+
+                        “Daryl,” Lintz said. “I have a favor to ask of you.”
+
+
+                        Bingo.
+
+
+                        “Could you analyze the data based on the assumption that SAFIR 3’s second stage is actually a Rod from God and estimate its capabilities in that case? You can assume that the design shown in that illustration is accurate. We want to clarify exactly what sort of tactical maneuvers a weapon of that sort could perform.”
+
+
+                        Freeman did not relish the prospect of writing a report based on false premises, but it might be better than sorting through Cold War–era documents and trying to make nice with pilots nearing retirement. “Yes, sir,” he said. “What should I do about the ASM-140 report?”
+
+
+                        Fernandez raised his hand in acknowledgment. “Freeman,” he said, “The experimental phase at NORAD is over. The ASM-140 has been adopted by and will see actual operation under USNORTHCOM. I’m sure the handover will proceed without a hitch, thanks to the documentation you prepared.”
+
+
+                        Actual operation? Were they really going to attach the engines when they’d only just finished testing them? More importantly, the ASM-140 was a weapon that violated the debris-reduction guidelines of the Committee on the Peaceful Uses of Outer Space. It might be permitted for research purposes, but it was hard to believe it would see active service.
+
+
+                        “Oh, were you involved in the ASM-140 project too?” Chris asked. “Perfect. We wanted to learn more about how well Operation Seed Pod works, too.”
+
+
+                        Operation Seed Pod?
+
+
+                        Fernandez rocked backwards, slapping his forehead. “How exactly does the CIA know about Seed Pod?”
+
+
+                        “Of course the CIA knows about it,” said Chris. “We were the ones who proposed using the ASM-140 to destroy satellites in the first place. Just imagine—an antisat weapon whose operation we can restrict to North American airspace. We’ve already started working on the Russians and the Chinese to make sure they won’t complain about the breach in the guidelines.”
+
+
+                        Chris paused for a moment to glance at the box the Santa hat had come in, still beside Lintz’s desk.
+
+
+                        “To be honest,” she continued, “Operation Seed Pod is the sort of proposal that really should have come from NORAD as part of your weapons-development program. I know you’re busy tracking Santa right now, but perhaps you could be a little more proactive about your defensive role.”
+
+
+                        Ignoring the dark expressions that clouded Lintz’s and Fernandez’s faces, Chris held up her arm and checked her watch, casually conveying that her business with them was over. “Is the guest house ready?” she asked.
+
+
+                        “Major Fernandez will show you the way,” Lintz said. “Staff Sergeant Freeman, it’s getting late. You can get started on that project tomorrow.”
+
+
+                        Freeman clicked his heels and saluted. “Yes, sir,” he said. “I will support our two guests in whatever capacity they may require. Where should I report in the morning?”
+
+
+                        “We’ll use this room, Colonel Lintz,” Chris said. “You can reach the hotline anytime you like, after all, just by reaching under your belly.”
+
+
+                        Bruce stood up and put his arm around Freeman’s shoulders.
+
+
+                        “Skip the uniform tomorrow, Daryl. We might need to take you off base. Can you whip up a short list of Denver’s best restaurants?”
+
+
+                        These two were no doubt very good at what they did. But they were laboring under a serious misconception. Poring over all of X-Man’s—Ozzy’s—communications? What they needed to do was study his photographs. Whatever was making SAFIR 3’s second stage move that way was many times more important than this mythical Rod from God.
+
+
+                        As Freeman was turning toward the door, Bruce’s arm still around his shoulder, he noticed Lintz trying to catch his eye. Lintz’s index fingers were both pointing up. Fernandez, standing beside him, was doing the same thing.
+
+
+                        “See you tomorrow, sergeant,” Lintz said. Together with Fernandez, he raised his hands and then let them fall to the left.
+
+
+                        “Yes, sir,” Freeman said. “See you tomorrow.”
+
+
+                        He recognized the gesture now. It was one of the hand signals used to communicate with aircraft on the runway.
+
+
+                        Proceed at your own discretion.
+
+
+
+
+
+
+
+
+
+
+Sat, 12 Dec 2020, 10:55 -0600 (2020-12-13T04:55 GMT)
+
+
+A Hotel in Seattle
+
+
+
+
+                        Shiraishi put his glasses back on, produced a postcoital cigarette from somewhere, and lit up. His brow, still sticky with sweat, shone briefly in the lighter’s orange glow.
+
+
+                        “That’s against the rules here,” Chance said.
+
+
+                        “Whatever,” Shiraishi replied. He propped himself up on one elbow and took a deep drag as he gazed down at Chance’s naked body. “It’s not like we ever use the same hotel twice. Shame about that, actually—the beds here are quite comfortable.”
+
+
+                        Without getting up, Chance stretched out her right hand and snuffed out the cigarette without even removing it from Shiraishi’s mouth. The sharp tang of melted latex mingled with the tarry smell.
+
+
+                        “Plastic fingers, huh?” Shiraishi raised an eyebrow. “Torture or something?”
+
+
+                        “It hurt. The rest is covered by a nondisclosure agreement.”
+
+
+                        Chance’s fingers were equipped with resin sacs instead of flesh, the latter having been grated off with a rasp after she was caught spying in Syria. It had been a blow to lose her grip strength at the height of her powers, but being able to painlessly extinguish cigarettes with her fingers had its advantages.
+
+
+                        “What an age we live in,” said Shiraishi. “Even spies respect their NDAs.”
+
+
+                        Ignoring his attempt at humor, Chance sat up to toss the cigarette butt into her editor’s bag and then lay back down. She slid her right arm under the pillow, fingers curling around the grip of the SIG-9 that had been specially modified to allow her to fire it with her weakened grip.
+
+
+                        The gun was no secret from Shiraishi, who cringed theatrically, still up on one elbow. “Relax, would you?” he said. “I’m being good.”
+
+
+                        “I wonder,” Chance said. “By the way, did you hear about Kitten Master? Looks like they’ll be bankrupt by the end of next week.”
+
+
+                        “Is that right?”
+
+
+                        “They weren’t the most financially stable company to begin with. Throwing a million dollars at Internet advertising in thirty-six hours could hardly cause anything but a panic. Did you have to set the click-through rate to fifty dollars?”
+
+
+                        “You’re the one who chose Kitten Master,” said Shiraishi, “and their CEO is the one who didn’t change his password even after losing his phone.” He chuckled at the thought. “Anyway, no one’s even come close to figuring out what the Cloud is yet.”
+
+
+                        “What if someone does?”
+
+
+                        “What if they do? They couldn’t do anything about it anyway. We released forty thousand of those things. No one’s going to figure out how to get rid of them all.”
+
+
+                        “Not even Dr. Jamshed Jahanshah?”
+
+
+                        Shiraishi sat up straight. “Jahanshah got his PhD? Is he still in Tehran? Tell me how I can get in touch with him.”
+
+
+                        “Well, this is a surprise. Shiraishi, showing an interest in someone other than himself?” Chance said. “All right, are you ready? Here’s his phone number …”
+
+
+                        Chance recited the contact information she had, counting off each item on her fingers: phone number, email address, videoconference account name. Shiraishi held one finger up before his eyes as well, gaze darting left and right as he concentrated on her voice. This was some kind of mnemonic technique he’d no doubt learned to avoid leaving any written notes behind. Once she had told him what she knew, Chance added by way of warning that the CIA and NSA had people monitoring all calls to Iran around the clock, while the Iranian government blocked all Internet connections from the US and EU.
+
+
+                        “Thinking of sending him a thank-you note for the idea?” she asked.
+
+
+                        “He’s the one who’ll be thanking me,” said Shiraishi. “He knows better than anyone that ideas don’t get into orbit on their own.”
+
+
+                        Shiraishi raised his index finger again and repeated Jamshed’s email address. Chance listened and confirmed that he had it right.
+
+
+                        “There aren’t many people gifted enough to get as far as he did with his idea in a country where you can’t even use the Internet,” said Shiraishi. “But he had bad luck.”
+
+
+                        “You feel sorry for him?”
+
+
+                        “Please. The world’s practically overflowing with unlucky geniuses.”
+
+
+                        “You, for example.”
+
+
+                        “Exactly. I’m as unlucky as they come. By rights I should be at NASA leading the design team for the third-generation shuttle … Hey! No laughing!” he said. “Come on, just one cigarette. What do you say?”
+
+
+                        Chance pointed at the window. “One. With the window open.”
+
+
+                        “Are you crazy? It’s freezing out there.”
+
+
+                        Chance watched the muscles in Shiraishi’s back move as he padded naked and grumbling toward the window. He was over forty, but his physique betrayed no hint of his frequently unhealthy life undercover.
+
+
+                        Shiraishi opened the window and lit up. Powder snow and cold air swirled into the room, mingling with the white smoke from his cigarette. Chance let her eyes rest on the tattoo on Shiraishi’s right arm. A dragon of some sort. Perhaps he’d gotten it done in China. What was that written in the middle of its serpentine body? Rising to her feet, she walked across the room to stand beside him, then wrapped her left arm around him to hold him close.
+
+
+                        “Here to warm me up, eh? Appreciate it.”
+
+
+                        “Not quite,” she said, lifting up his right arm. The writing on the tattoo wasn’t a word—it was a mathematical formula.
+
+
+
+
+
+
+
+
+
+
+                        “Ah, the Tsiolkovsky equation,” she said. Shiraishi shivered. The Tsiolkovsky equation was a formula that determined how much acceleration a rocket of a given mass could attain by expelling a given amount of propellant. It applied with cold impartiality to everything that moved through space using that method.
+
+
+                        “Correct,” Shirashi finally replied. “I’m impressed that you know it.” He covered the tattoo with his left hand.
+
+
+                        “Aerospace engineers have been reciting it as their mantra for a century,” Chance said. “Are you sure you don’t still have regrets about not being among their ranks anymore? You wouldn’t rather be flying proper rockets or spacecraft, would you? Or can I interpret this as just a youthful indiscretion?”
+
+
+                        Shiraishi was silent. His hand gripped the tattoo tighter.
+
+
+                        “You haven’t forgotten the goal of the Cloud, I hope,” Chance pressed him.
+
+
+                        Shiraishi’s body tensed for a moment. Then he slammed Chance against the window with explosive force. “Forget?” he snarled. “It was my idea in the first place. For the Great Leap.”
+
+
+                        Chance detected no trace of his usual ironic detachment.
+
+
+                        “I’m going to destroy that hundred-year-old mantra forever,” he continued. “I got this tattoo so I wouldn’t forget that.”
+
+
+                        Shiraishi’s arms strained, and Chance felt her back being pressed against the window. Icy rills trickled down the underside of her arms as her body heat melted the frost.
+
+
+                        “Your phone?” she asked.
+
+
+                        Blue-white light spilled from Shiraishi’s coat by the bed. Rubbing his shoulders, Shiraishi went to extract his phone from the coat’s pocket. Chance saw that ironic detachment in his expression again as the pale light from the screen lit up his face.
+
+
+                        “Looks like we’ve attracted attention from someone a little sharper than usual,” he said. “A blog post’s turned up with the keywords we were looking for—‘SAFIR 3,’ ‘large numbers of objects in orbit,’ ‘circular motion,’ that sort of thing. They noticed the tethering around SAFIR 3.”
+
+
+                        Shiraishi’s lips curled into a smile as he read on.
+
+
+                        “A Japanese blog. Chance, let me look into this. It’s a shooting star forecast site called Meteor News, apparently. Interesting idea for a service, wouldn’t you say?”
+
+
+
+
+
+
+
+
+
+
+Yekshambe, 23 Azar 1399, 09:05 (2020-12-13T05:35 GMT)
+
+
+Tehran Institute of Technology
+
+
+
+
+                        “404 File Not Found.”
+
+
+                        Jamshed cursed. “You expect me to believe that this came from a US server?” he cried, jabbing at the cathode-ray monitor with his finger.
+
+
+                        The error message telling him in Persian that the page could not be found was one that Jamshed was all too familiar with. He saw it every time he tried to access a site run by someone from the US or the EU. This time, he had run into it while attempting to download the original observation data linked by the intriguing Meteor News blog post entitled “Thousands of unknown objects around SAFIR 3?”
+
+
+                        No one took the 404 message at face value. It came not from the server in question but from the firewall placed on ISPs by the government. How were they supposed to conduct research like this? It wasn’t surprising in the least that Alef should be agitating for azadi interanet, Internet freedom.
+
+
+                        Seeing no other option, Jamshed returned to the Meteor News blog, to which access was permitted, and began to laboriously copy the data excerpted there into Windows Notepad.
+
+
+                        “Yes, I see … Spherical coordinates, in radians. Time resolution, one thousandth of a second.”
+
+
+                        Jamshed turned to the drafting table beside his desk to plot the data, then sighed. His last piece of paper was already densely covered with hastily scribbled lines and equations.
+
+
+                        “No Internet access, no paper …” he muttered, retrieving a crumpled sheet of paper from the dustbin. He smoothed the sheet out and laid it on the drafting table, placing a magnet at each corner to hold it in place. Then, wondering if there might be more paper in the lab next door, he got to work. Drawing freehand, he sketched four concentric circles, then added a cross through the center to divide them into quadrants. This done, he began to plot the coordinates he had copied into Notepad on his diagram with small Xs.
+
+
+                        After a few minutes spent struggling with the creases in the paper and marking each azimuth and elevation, Jamshed was struck with a sense of déjà vu. The next point would be … here. And the next … yes, right there. As if the two points were holding hands and whirling in a circle. Even the slight quiver in the circle was the same as the oscillation he’d observed in his experiments back then.
+
+
+                        “This … this is my space tether. What’s it doing up there in orbit?!”
+
+
+
+
+
+
+
+
+
+
+                        “Alef!” Jamshed cried. “Are you in here?”
+
+
+                        The students gathered in the student center turned as one to stare at him. Most of them were young, dressed in jeans and dirty jackets. Many wore scarves to conceal the lower parts of their faces, no doubt fearing identification and arrest.
+
+
+                        Jamshed buttonholed a student carrying a yellow poster so new it still smelled of ink. “Where’s Alef?” he asked. “Alef Kadiba.”
+
+
+                        After a brief pause, the student lowered his scarf. “Over there,” he said, turning to point at the tarp that hung from the roof in the middle of the hall, dividing the space in two.
+
+
+                        As Jamshed craned his neck to see, the friend he was searching for lifted up the sheet and poked his head out.
+
+
+                        “So, have you come to join us after all?” he asked.
+
+
+                        “Alef!” Jamshed said. “My tether’s in orbit!” He thrust the student with the poster aside and started to run toward Alef, only to be intercepted and held in place by other students around him. “Let me go!” he said. “I’m not with the government.”
+
+
+                        Hands raised, Alef walked calmly toward the mass of students, which parted as he approached. “Let him go, everyone,” he said. “He’s a friend of mine. You,” he added, turning to a nearby student. “Bring us two cups of chai.”
+
+
+                        Ushering Jamshed into the makeshift office behind the tarp, Alef handed him a small cup of chai on a porcelain saucer. “Drink, drink,” he said. His pliant voice alone had a calming effect. “Now, what’s gotten into you? Your tether, you say? Those balloons you were launching a few years ago—you got that thing into orbit? Congratulations, my friend!”
+
+
+                        “No, that’s not it,” Jamshed said. “Someone got my papers somehow, and they’re using them to fly it on their own!”
+
+
+                        “Are you certain? Maybe they just had the same idea as you.”
+
+
+                        “No, that’s impossible,” Jamshed said. He explained how closely the observation data posted on Meteor News matched his own papers. His tether propulsion theory had a few “magic numbers” in it, numbers he’d painstakingly extracted from experiments that involved dropping test units from balloons and seeing how far they could move off course. The same numbers could be found in the observation data. The chance of another experimenter coming up with them independently was practically zero.
+
+
+                        Alef nodded receptively, long eyelashes lowered. Jamshed doubted his friend understood one tenth of what he was saying but appreciated that he was making the effort to listen.
+
+
+                        “Tether propulsion is such a fringe idea that no one else is looking into it anyway,” Jamshed said finally. “No, there’s no mistake. Those are my space tethers up there.”
+
+
+                        “I see,” Alef said cheerfully, one hand at his chin. “And so?”
+
+
+                        “I want to tell someone.” Jamshed pointed at the yellow case slung from Alef’s shoulder. “Will you lend me your tablet? Just for a day. If I don’t let NASA or the European Space Agency know about this, whoever stole my papers is going to get the credit for inventing the space tether.”
+
+
+                        “I’m sorry,” said Alef, placing his hand on the tablet case. “I can’t do that. It’s true that this SIM could get through to them, but it’s being monitored. I can’t afford to attract any attention right now. Not with the demonstration next week.”
+
+
+                        Jamshed hung his head. “I see,” he said.
+
+
+                        A web camera came into view before his downcast eyes.
+
+
+                        “You can still get through to Japan, can’t you?” Alef said, offering him the camera. “Why don’t you get that Meteor News site to pass on your message?” He turned over his wrist to check the time—11:12. “You’d better hurry, though. Word is that the government’s going to lock down the whole Internet at noon today. And once that happens, even Japan will be out of reach.”
+
+
+
+
+
+
+
+
+
+
+Sun, 13 Dec 2020, 16:19 +0900 (2020-12-13T07:19 GMT)
+
+
+Fool’s Launchpad, Shibuya, Main Conference Room
+
+
+
+
+                        The image of a white tower brightly lit against the night sky covered the conference room’s whiteboard. The tower was Launch Complex 36 at Cape Canaveral, where Ronnie Smark’s rocket Loki 9 was awaiting liftoff. The swollen, metallic gray fairing at the top of the rocket held the partly exposed spacecraft Wyvern.
+
+
+                        Launch Complex 36 had a long and respectable history, having been used for everything from the Apollo program to the Space Shuttle. Ronnie’s company, Project Wyvern, had bought it outright and maintained it impeccably. Even the clock at the corner of the screen, counting down the minutes until launch—00:19:13, 00:19:12 … —was an original NASA model from the days of the Apollo program.
+
+
+                        Kazumi was sitting on two chairs he’d lined up in the conference room, one to sit on and one for his feet. He had just finished his work on the site for the day, having posted some brief comments on Ozzy’s data on his blog followed by a teaser for the post Akari had just suggested, predicting where Loki 9 would fall back to Earth.
+
+
+                        Watching the circles appear on the world map that showed where the hits to his site were coming from, Kazumi added some words of appreciation for his anonymous visitors who were taking the time to check his shooting star forecast even as Project Wyvern’s launch broadcast held the world’s attention. Hits were coming from all over the world, but the circles from Seattle and Seoul were largest. Perhaps a dozen or so in each city. There was even one person connecting from right in the center of the Middle East. And that circle in the Indian Ocean had to be Ozzy “X-Man” Cunningham.
+
+
+                        Kazumi murmured a word of thanks to Akari, still fast asleep, and raised his cup of coffee, long since cold and sour, to his mouth. As he took a sip, a notification popped up on his laptop screen. A chat request.
+
+
+                        “Who could this be?” he muttered. The account name on the pop-up just read “JJ.” Kazumi wondered if those were initials or a pseudonym.
+
+
+                        With only fifteen minutes until launch, Kazumi decided to ask whoever it was to wait until afterwards.
+
+
+                        Clicking the speech bubble next to the account name to enter the chat, Kazumi found that “JJ” had already started talking.
+
+
+                        >emergency!
+
+
+                        >have news about safir 3
+
+
+                        >video call pls. no time. hurry
+
+
+                        Kazumi smiled. Whoever it was, their English wasn’t easy to understand. According to the map in the connection information, the call was coming from off the west coast of Africa. Ghana or Nigeria, maybe? Email from X-Man in Seychelles yesterday, a videoconference with someone in Africa today … Meteor News was becoming quite cosmopolitan.
+
+
+                        >ok
+
+
+                        Kazumi hit enter and clicked the camera icon. He would just tell “JJ” face-to-face to wait until the launch was over, or perhaps suggest that they watch it together. It wasn’t every day that Loki 9 took Ronnie Smark into orbit, after all.
+
+
+                        The window for the video call opened on Kazumi’s display. Heavily accented English came through his speakers before the video even came online.
+
+
+                        “Thank you for taking my call. You are the owner of Meteor News?”
+
+
+                        “Yes. I am Kazumi Kimura, owner of Meteor News. It’s nice to meet you.”
+
+
+                        “I am relieved I am getting through. Please listen to me for just a few minutes. My name is Ja— … Jay. I am calling you in Japan because I can only—”
+
+
+                        The end of the sentence was too garbled to catch. The audio was very choppy, and the video still hadn’t come online. A network problem?
+
+
+                        “Jay? I can call you Jay?”
+
+
+                        “… fine, fine. Jay is fine.”
+
+
+                        Kazumi glanced at the whiteboard. The broadcast being projected there was coming over the Internet too, and it was coming through fine at thirty frames per second. If network speed was the problem, it certainly wasn’t on his end. Jay must have been having problems with uplink speed. Perhaps that was par for the course in Africa.
+
+
+                        “Thank you. Kazumi, please …”
+
+
+                        Again, his words dissolved into unintelligibility, but the video finally came on as they did. The image was noisy, but Kazumi could make out a man in a dark room with a patch of blue sky showing through a window in the upper right. The windowsill was clearly illuminated by the sunlight, but it was difficult to make out the man’s face in the gloom.
+
+
+                        “I can’t hear you very well, Jay,” Kazumi said. “I’d like to propose that we talk again in thirty minutes. I’m waiting for the launch of Ronnie Smark’s rocket, Loki 9. Are you watching it too?”
+
+
+                        “No! I cannot wait. Please, hear me out!”
+
+
+                        The man moved violently, setting off a swirl of pixelation that danced around him. Kazumi could just make out what looked like a beard.
+
+
+                        “I have only until noon,” the man continued. “Just ten minutes. Will you listen?”
+
+
+                        Kazumi cocked his head. The African countries displayed in the connection status were directly under London. It should be about six in the morning there, nine hours behind Japan.
+
+
+                        “Jay, where are you calling—”
+
+
+                        “Who is there?” Jay interrupted, either intentionally or because of lag in the connection. “Is that one of your staff behind you?”
+
+
+                        Kazumi turned to see Akari standing behind him. Her display goggles were on, and a keyboard was already strapped to one of her arms.
+
+
+                        “Sorry,” Kazumi said to her. “Did I wake you up? I borrowed your projector.”
+
+
+                        “No problem,” Akari said. “But it doesn’t sound like we have time to discuss that right now.” She crouched down so that her face was visible in the frame alongside Kazumi’s. “Hello there. I’m Akari, engineer at Meteor News. Nice to meet you, Jay.”
+
+
+                        So Akari could speak English too. It didn’t seem like Jay had anything too complicated to say, but it was a relief to have someone help him with the listening. Akari pulled up a chair and sat beside him.
+
+
+                        At the other end of the call, Jay looked taken aback. “An honor to meet you,” he said finally. “Here is what I want to tell you. It is about the objects around SAFIR 3. Listen closely, yes? They are spacecraft with a tether-propulsion system of my invention, known as the ‘space tether.’ ”
+
+
+                        “Space tether?” Akari whispered to Kazumi.
+
+
+                        Kazumi shook his head. What Jay had just said was impossible. They must have misheard him. “These objects,” Kazumi said, taking care to separate his words, “are electrodynamic—space tethers—made by you?” He pronounced “space tethers” especially slowly and clearly, so that there could be no mistake.
+
+
+                        This wasn’t the first time Kazumi had heard of this technology, referred to variously as electrodynamic tethering, inductive tethering, and tether propulsion. But it was still only supposed to be in the early experimental stage. Even Japan’s space agency JAXA, despite its reputation for eagerly exploring new propulsion systems, had only run a few trials so far. It was the latest idea for spacecraft propulsion, but at this point it was more fantasy than reality.
+
+
+                        “Electrodynamic … ?” Jay repeated. “Yes. Exactly.”
+
+
+                        Kazumi stared.
+
+
+                        “But,” Jay continued, “Also, no. I did not make them.”
+
+
+                        “What do you mean? You are—”
+
+
+                        “I do not know who made what is up there now,” Jay said, interrupting Kazumi for the second time. Akari reached out unobtrusively to click record on the video call. “But the system is of my design. Please, tell someone! The idea came from me!”
+
+
+                        “Why did you contact us, Jay?” asked Kazumi. “Why not tell this to NASA or the space agency in your own country? I am sure they would listen.”
+
+
+                        If Jay really had designed a space tether that was currently in orbit, a Japanese shooting star forecast service was hardly the first place he should contact.
+
+
+                        “Please, Kazumi. There is no time. It is impossible. Ir— … —lease.” His voice began to break up. “… send … papers …”
+
+
+                        “Sorry, Jay,” Kazumi said. “I could not hear you. Can you repeat—”
+
+
+                        As if by way of reply, a file transfer request appeared in the chat window. Kazumi clicked the Accept button, but the file didn’t begin downloading. Akari began to tap furiously at the keyboard on her left arm, eyes never leaving the screen.
+
+
+                        “What is this, Jay?” asked Kazumi. The sound came back clearly for just a moment.
+
+
+                        “Proof. My papers on the space tether, from five years ago. They are not reaching you?”
+
+
+                        “No, they aren’t,” Kazumi said. The file transfer dialogue was open, but the download still hadn’t begun.
+
+
+                        “Thirteen, fourteen.” Akari said. “Too slow.” She leaned in close to the camera.
+
+
+                        “Jay, this file you are sending is being censored. Censored!”
+
+
+                        “Mahhodotsiman!”
+
+
+                        As Jay buried his face in his hands, the download finally began. It was a PDF, about 130 kilobytes. The progress bar moved agonizingly slowly.
+
+
+                        “I don’t know any African languages,” Kazumi said quietly to Akari.
+
+
+                        She shook her head. “What are you talking about? That’s Persian. Jay’s in Iran.”
+
+
+                        No, he isn’t, Kazumi protested, pointing at the connection information showing a connection in Africa, but Akari grabbed his arm and pulled it back. Kazumi saw pages of text scrolling across her eye display.
+
+
+                        “Later,” she said. “Move.”
+
+
+                        “What?”
+
+
+                        “Move, please! Now! There’s no time!”
+
+
+                        Akari pushed Kazumi out of the way and seized the laptop.
+
+
+                        “What are you doing?” Kazumi demanded, trying to snatch it back. Akari held up one palm to silence him, typing something into the chat window with her other hand as she shouted into the camera.
+
+
+                        “Jay, click on the URL I’m about to send you!”
+
+
+                        “Got i—”
+
+
+                        Jay’s image froze as the sound cut out midword. The file download stopped. The connection had been terminated.
+
+
+                        “Now look what you’ve done!” Kazumi said.
+
+
+                        “It wasn’t me,” Akari said, pointing at the whiteboard. “Your call with Jay was cut off by the Iranian government.”
+
+
+                        A new window had been added on the conference room’s screen, beside the launch livecast. A woman was looking at the camera with a pained expression. At the bottom of the screen was the station’s logo: Al Jazeera.
+
+
+                        “… confirm that as of noon today,” the woman on the screen said, “the Iranian government has severed the country’s Internet from the rest of the world.”
+
+
+                        The camera panned to one side, revealing a city street. In the background, a man with a potbelly was pulling the shutters down over a window full of computers.
+
+
+                        “Internet cafés have also been closed down,” continued the black-clad anchorwoman. The potbellied man yelled something at the camera and then pasted a green poster over his shutters.
+
+
+                        “The government has made no public announcement about the disconnection,” said the woman. “Student groups have declared that they will stage protests to demand free access, but if the Internet remains unavailable for too long, the possibility of the demonstrations turning violent cannot be discounted.”
+
+
+                        A caption appeared: inner tehran. The streets were full of colorful strips of paper, as if countless posters had been torn to pieces. A woman with her face covered by a scarf hurried past. Iran, Kazumi mused. So an engineer from this Islamic nation had developed the working theory behind the space tether? While unable even to connect to the Internet? Kazumi had never even imagined such a thing.
+
+
+                        “Al Jazeera reporting via satellite link,” the anchorwoman continued. “This is Tehran, signing off.”
+
+
+                        “Sorry about that, Akari,” Kazumi said. He should have paid more attention to Jay. But it was too late now. Jay couldn’t get in touch with anyone outside Iran. Would that half-downloaded file they’d received from him even be readable?
+
+
+                        “No problem,” Akari said. “But forget about that. Let’s see if we can find Jay. He hit that URL just before his connection dropped out, so he should be in the access log. I’ll reconstruct the PDF we got half of too. You want to read it, right?”
+
+
+                        “Yes, please,” Kazumi said.
+
+
+                        “I guess the launch is over by now.”
+
+
+                        Akari was right. On the conference room screen, Loki 9 was soaring into the clear night sky, long white trail behind it. The launchpad was still roiling with a mass of steam. It looked like all had gone well.
+
+
+                        “That’s okay,” Kazumi said. “I’ll watch the recording.”
+
+
+                        He turned his thoughts back to the space tether. If Jay was right about those objects floating around SAFIR 3, they made up a cloud of miniature spacecraft, each one capable of moving freely in orbit. He had to tell someone what was up there waiting for Ronnie. With Jay’s name attached, of course.
+
+
+                        But who?
+
+
+                        He thought back to the hackathon where he’d developed the first prototype of Meteor News. Who was that JAXA employee he’d met there? That was it: Kurosaki. And Kazumi was pretty sure he still had his private contact details, too.
+
+
+
+
+
+
+
+
+
+
+Sun, 13 Dec 2020, 08:45 +0000 (2020-12-13T08:45 GMT)
+
+
+Project Wyvern
+
+
+
+
+                        Pure excitement!
+
+
+                        I have no words. Does that make me a failure as a journalist? No way! Sometimes there are no words. And a rocket launch is one of those times.
+
+
+                        Have you ever seen one in person? This wasn’t my first. Back in 2000, when I was eight (no calculations, please), Ronnie took me to see the Space Shuttle go up, headed for the ISS.
+
+
+                        We were on the observation deck, three or four miles away from the rocket. Ronnie was standing, and I was on his shoulders.
+
+
+                        There was a cloud of steam and light big enough to hide the shuttle. I thought I heard a whoosh, and then suddenly the loudest noise I had ever heard rumbled right through me. Ronnie lost his balance and dropped me onto the floor of the observation deck.
+
+
+                        I sat there on my butt watching as an arrow of light stretched up into the clear blue sky, until the white clouds had disintegrated and the last glittering point winked out.
+
+
+                        That was my first rocket launch. I made a presentation at school about how exciting it was, but I could tell that my classmates didn’t really get it. I swore that I would find a way to explain it to them—that I would make them understand how life changing it was.
+
+
+                        Today, I looked back from the opposite perspective. I was up in the tower at Launch Complex 36, and there was the observation deck. It was lit up, but it was so far away that it just looked like a thin line. Amazing to think that the shock of the launch had been powerful enough to knock a full-grown man off-balance that far away! Well, if I’m honest, I don’t mean “amazing.” I mean “terrifying.” Because this time, that same energy would kick me right in the back.
+
+
+                        I waved for the cameras, but my legs were shaking the whole time. I entered the Wyvern through the hatch, took my seat, and began running through the launch protocol. I didn’t stop shaking once.
+
+
+                        I felt ten times the energy of the loudest noise I had ever heard in my life vibrating beneath me. Then the countdown from Mission Control began in my helmet.
+
+
+                        Three. Two. One. Liftoff!
+
+
+                        The vibration stopped for just a moment, then there was an even louder noise in my helmet and my whole body was slammed back into the seat. I tried to cry out. No—I couldn’t not cry out. I couldn’t tell you if it was closer to a yell or a scream. But it was the loudest noise I could make. I hope it didn’t worry Ronnie or Mission Control. The camera should have told them that I wasn’t scared, but shaking with joy. Still …
+
+
+                        *
+
+
+                        When the noise cut out again, we were in space.
+
+
+                        It first hit me when I saw blue light through the Wyvern’s cupola.
+
+
+                        We were in space.
+
+
+                        That light was from Earth!
+
+
+                        My instructors back at journalism school always dinged me for overusing repetition. They agreed with my textbooks—useful tool, must be used in moderation. But I’m going to ignore what they taught me now.
+
+
+                        I’m in space! Space! In SPACE!
+
+
+                        Next time, I hope to report on the experience of zero G. Should be a stimulating one! Ronnie is as excited as a little boy—nothing like his usual impatient, irritable self.
+
+
+                        Wow! There goes a shape I’d only ever seen on maps before. The Americas!
+
+
+                        Note for editors: Now that I’m in space, please use GMT format for my dateline.
+
+
+                        — Judy “Columbus” Smark

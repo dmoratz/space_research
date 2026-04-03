@@ -1,0 +1,220 @@
+4
+
+
+AFTER CHANGING CLOTHES, Rei and Lieutenant Katsuragi joined Captain Foss and Major Booker on their way to see General Cooley in the command center.
+In response to General Cooley saying that she hadn’t summoned the two pilots, Major Booker whispered in her ear to explain about Yukikaze’s discovery of two unidentiﬁed humans within the Systems Corps—men who were claiming to be Lieutenant Burgadish and another dead man. How Yukikaze had recognized them as JAM, and how Rei felt that her concerns were likely a JAM trick. The general betrayed little surprise as she listened. After brief consideration, she ordered First Lieutenant Eco, the chief of ﬁghter plane maintenance operations, to begin repairs on Yukikaze at once.
+“Yukikaze won’t resist our moving her to the repair bay now.” There had been some fear of her self-destructing. “However,” General Cooley continued, “we need to keep her linked to the tactical computer while she’s in the repair bay. Can you do that?”
+“Of course we can.”
+“How long will the repairs take?”
+“I’ll know that once I get a detailed look at exactly what’s damaged on her. From what the maintenance team saw when they eyeballed it before, dismounting the damaged engine shouldn’t take too long. It should just slide right out. There’s nothing fatally damaged on the airframe, and the root of the primary tail stabilizer she lost is just ﬁne. It should take us an hour to move her into the repair bay and run a damage inspection. Swapping out the engine and the other miscellaneous repairs should take about three hours if we push it, another two for general maintenance and inspections, so… Yeah, six hours should do it.”
+“Do it in four.”
+
+
+“Okay, we’ll aim for four.”
+Lieutenant Eco began to issue orders to the maintenance team from his terminal, the display on the monitor mirrored on the big screen at the front of the command center. Data from Yukikaze’s onboard airframe self-monitoring system began to scroll onto it as well. Conﬁrming that Yukikaze had agreed to the repairs, Cooley told the still-standing Major Booker and his subordinates to take seats at the empty consoles.
+“Captain Pivot, enter Captain Fukai’s and Lieutenant Katsuragi’s reports into the strategic computer. Lieutenant Katsuragi, you assist him. Major Booker, monitor what the strategic computer does. Captain Foss, present your formal prediction of the JAM’s strategy and the results of your profacting. Please wait here while I read it to answer any questions I may have.”
+“I want to delete the data related to the retraining unit in the Systems Corps,” Rei said. “Authorize the attack.”
+“You are to read through the data that you and Yukikaze brought back, as well as the data analysis report we’ve generated here at HQ. Whether or not we attack will be determined by a comprehensive judgment of all available information,” Cooley said. “If you haven’t eaten yet, order anything you want. Captain Foss, Major Booker, that goes for you too.”
+“Great, I’ll have a two-pound steak, please, and make it rare,” said Lieutenant Katsuragi. That immediately broke the tension.
+This might be our last meal, Rei thought. Thirteen people weren’t nearly enough to be doing this. It occurred to him that there were thirteen planes in the squadron as well. When the ﬁnal battle came, they’d probably all be served fuel and weaponry at the same time too…
+The general’s young secretary, who hung by her side like a shadow, took their orders and called them in to the
+
+
+SAF mess hall.
+Rei ordered a ham bun, and by the time the round, extra-large roll stuﬀed with ham and vegetables had arrived, he’d gotten to the part of the analysis report that General Cooley had reread, wherein Captain Foss and Major Booker had discussed the ontology of the JAM.
+If they start calling the JAM gods, then it’s all over, Rei thought. The FAF will lose its reason for existence.
+If what Major Booker had predicted came to pass, the FAF would split into two groups: believers and nonbelievers. Three, if you counted the group who wouldn’t care either way. And then those groups would probably split into even more subgroups. At any rate, since the JAM were unperceivable entities, it was impossible to ascertain just what was the correct way to conceive of them. With the stress of all these various groups within it, there’d be no way that the FAF could maintain its role as a coherent organization against the JAM. If the groups within the FAF started using force to validate their views, it’d turn into an outright religious war. Major Booker had been right on the money to call it “JAMism.” Even now, there were a lot of people on Earth who claimed that the JAM were illusory, with some of them practically believing that they were gods. The groups back home hadn’t yet begun making moves that threatened the FAF, but there was a real danger that they might.
+“If humans really can’t perceive the JAM,” Rei said, “the FAF must never let that information go public.”
+“I’d expect the Intelligence Forces have a media control plan ready to go,” said Major Booker, nodding. “What about it?”
+“I was just thinking I’d like to tell Lynn Jackson about this. About what we’ve got here. She’s an Earther. She has a right to know.”
+
+
+“I agree. There’s a saying that the three most useful friends to have are a doctor, a lawyer, and a journalist,” Booker said. “Although you’re inviting disaster if they aren’t very good at what they do. Still, we can rely on Lynn. She can understand the SAF. It’ll be tough to pull oﬀ, but I think it’d be worth it. If you were going to make a last will and testament, I can’t think of a better person to entrust it to.”
+“It’s not certain that we’re going to lose,” said Captain Foss. “And it’s not certain that we’re going to die.”
+“A will is something you write while still alive,” said Major Booker. “We’re losing our chance to leave it with the FAF.”
+“The Intelligence Forces aren’t incompetent,” said Lieutenant Katsuragi. “They must have predicted the implications of knowing the JAM’s true form. You might say that the SAF was slow to ﬁgure it out. Well, I suppose that comes from being a combat unit. You only believe in what you can practically conﬁrm. Still, this inability to pin down where the JAM exist is almost like quantum theory, isn’t it? Maybe the JAM are quantum beings.”
+“You’re talking about the Uncertainty Principle,” said Captain Foss. “That’s the one that says the means of human observation itself makes knowing an object’s location unclear, since you can’t measure two exact values at the same time, right?”
+“That’s not entirely correct,” said Captain Pivot, the man in charge of data analysis. “The values that can’t be simultaneously observed are those with attributes in conjugate relation to each other. For example, position and energy have no conjugate attributes, so it’s possible to know both simultaneously if you measure them precisely. If you make that into the conjugate attributes of position and speed, however, then you can’t observe both values simultaneously.”
+“Why not?”
+
+
+“I can’t explain it in a few words. Quantum theory is hard for us to think about in commonplace terms because it works like a mathematical metaphor. Anybody can understand the formulae if they work hard enough at it; the mistakes come when they try to interpret them. There are some people who make up suitable explanations while ignoring the formulae, which is probably where your own misunderstanding comes from. Now, it’s true that you get uncertain results from inaccurate observation methods, but that isn’t the uncertainty we’re talking about here. Quantum uncertainty doesn’t work that simply. I think what Lieutenant Katsuragi is trying to say is that if the JAM possess quantum uncertainty, then they only exist when you observe them, and that they don’t actually exist anywhere before you do that. One interpretation you can get from quantum theory is that an unobserved JAM really doesn’t exist. Another is that you can’t deﬁnitively know that a quantum object exists until you observe it. There are all sorts of interpretations. In any case, humans don’t currently possess an experimental means to determine which interpretation is the correct one. You could say that the incomprehensibility of quantum theory comes from humans lacking the means to make certain the uncertainty of quantum uncertainty.”
+“I know exactly what you mean by incomprehensibility,” said Captain Foss. “Comparing something to God makes it seem like you understand it, but the truth is it just means you don’t understand it at all, doesn’t it?”
+“Even if the JAM are ambiguous quantum beings like that,” said Lieutenant Katsuragi, sounding pleased with himself, “then they can still be observed and recorded, meaning it’s possible to calculate the probability of where they’ll appear. Conjugate attributes mean that, if you can observe one, then you can calculate the other.”
+
+
+“You can really imagine the situation is that concrete?” Captain Foss said. “What use would that be when dealing with someone who might not actually exist?”
+Lieutenant Katsuragi stared silently at the ceiling, but Rei could guess what he wanted to say.
+“What this all means is that, fundamentally, we can’t precisely target the JAM,” Rei said. “The moment we know exactly where they are, we’ll no longer know where they’re going.”
+“If the JAM are beings like that, all we can aim at are probabilities. We might get lucky and even hit them,” said Major Booker. “Well, that’s not too diﬀerent from ﬁghting a normal opponent. In that case, the question is what weapons are eﬀective against the JAM? We can shoot down all the planes the JAM send at us, but as long as the JAM themselves aren’t in them, we’ll never land an eﬀective blow. The same goes for the JAM ﬁghting us humans.”
+“We’re just likening the incomprehensibility of the JAM to quantum uncertainty for our own convenience,” said Captain Pivot. “As long as we don’t know for sure that the JAM manifest via quantum uncertainty, then all this discussion about it is meaningless. We’re just confusing the issue, and the last thing we need to be doing now is making the JAM seem more mysterious. First of all, we should make clear what we don’t understand about them.”
+“You’re right,” said Major Booker. “If there’s one problem we have right now, it’s our poor communication with the JAM. That’s how they have us jumping at shadows. You could say that this entire war stems from our inability to communicate. Once we can reach them, the JAM’s identity will be made clear as a matter of course. Just as Captain Foss and I said before in our discussion about the existence of the JAM, it’s a question of ﬁnding something to make the JAM a certainty to us. Quantum theory may be useful for that, and it’s also possible that scientiﬁc methods may
+
+
+prove useless. The point is this—right now, all these arguments aren’t letting us get a handle on what the JAM are. What we need to do is collect data, just as we’ve always had to. If we’re to have in-depth discussions, we can’t lose here.”
+“Major Booker…” said Captain Foss. “Yes, Edith?” said the major.
+“Does that taste good?” “What?”
+“That curry. It smells really good and it’s making me hungry.”
+“It’s my special menu for when I’m tired. You can order one from the chef too, if you like. Doesn’t taste as good as when Chef Murullé made it, unfortunately,” the major said as he scooped curry onto some naan bread and continued to eat. The stew was spicy and sour, and the meal was completed with a cup of unbelievably sweet tea.
+“I wanted to go over the recipe with the new chef but haven’t had the time. There’s also Chinese food on the Booker Special. Would you like me to introduce you to it?”
+“No, thank you.”
+“Captain Foss,” Cooley said, looking up. “Yes, General Cooley?”
+Having ﬁnished reading the profacting results submitted by Captain Foss, the general closed the ﬁle. The captain turned to face her, expecting a harsh round of questioning.
+“Just how probable do you predict it is that the JAM will launch an all-out attack on us?”
+“The T-FACPro II software can answer that for a human subject, but since I was calculating this myself this time, I can’t give you an exact number.”
+“It doesn’t have to be.”
+“Then I predict it’s highly probable.” “How high?” Cooley asked.
+
+
+“I think it’s almost a certainty. As I wrote in my report.” “Certain enough that you’d give me the cake you’re
+eating now if you’re wrong?”
+“No, General Cooley, I wouldn’t. If you’re asking me to bet something on it,” Captain Foss replied with total seriousness, “then I’d bet my life.”
+“You’re still young,” General Cooley said. “If you get it wrong, you can always do it over again.”
+“General, I’m being serious. I’d bet my life on it.” “Edith,” said General Cooley, “one of the joys of aging is
+the chance to laugh at how foolish you were in your youth. I want you to get the chance to do that too. You shouldn’t bet your life on anything. If you lose, you’ll be left with nothing but regret. Treat it like it’s everything that you own.”
+“Yes, General. I’ll do that.” “Good.”
+General Cooley laid the report down on the console and addressed the others.
+“Gentlemen, the question at hand is how seriously to take this prediction upon which Captain Foss here has bet everything. I have a feeling you all already know the contents of the report. I’d like to hear your opinions on it. Major Booker.”
+“Yes, General.”
+“You’ll serve as the moderator. There’s no need for you to form an opinion.”
+“Understood, General Cooley.” Wiping his mouth with a napkin, Major Booker stood up. “First of all, are there any objections? Does anyone here disagree with Captain Foss’s prediction? I’ll even take general doubts about it.”
+Nobody said anything. The major nodded. “Well, that’s that,” he said and sat down.
+“Hold it! What do you mean ‘That’s that’?” Captain Foss said. “Major, you aren’t just going to leave it at that, are
+
+
+you?”
+Ignoring her, Major Booker turned to General Cooley. “General Cooley, what I’d like to know is your opinion of
+this situation. We have the materials gathered to make a decision. True, it’s incomplete, but if we waited for perfection, we’d never make a move. The most important thing right now is what you think of the JAM’s moves and how you evaluate them. Simply put, what do you want to do? If you tell us that, what the best move is that the SAF can make, what tactics and strategy to use, that you aren’t worried about this, then I’ll do it. We all will.”
+“In short, you want to know what my philosophy of life is,” Cooley said.
+“I suppose. You could say that the SAF is your life, couldn’t you?”
+“And what if I told you that I wanted to end my life here?”
+“You wouldn’t!” said Captain Foss.
+“That’s your business,” Rei said. “Even if your life ends, ours will continue. That’s all. If you want out of this, then I’d like you to say so. Tell us that we no longer need your permission.”
+“You can’t end things that easily,” said Major Booker. “If you renounced your command of the SAF, your will would still remain after you left. In other words, we could still resist the JAM even without you as our commander. Even if you said that you wanted the SAF to self-destruct, it wouldn’t be that easy to do. That’s the diﬀerence between us and the other units in the FAF. And you were the one who made the SAF like that, General Cooley.”
+“And there’s your answer,” she replied. “What do you mean?” said Major Booker.
+“Major, if you’re saying that the SAF reﬂects my will, then there’s no need to keep asking me what I want to do, is
+
+
+there? I want to beat the JAM, that’s all.”
+Seeing Major Booker’s questioning look, she continued. “But I understand your wanting to know my evaluation
+of the JAM’s moves. The information Yukikaze brought back, Captain Foss’s prediction, and the presence of JAM agents in the Systems Corps are all developments I never anticipated. If I misjudge this situation, it will endanger you as well, Major Booker. You’re worried about that. You don’t know what to do, isn’t that right, Captain Foss?”
+“Please, I can’t answer something like that out of the blue, but…I think we’re all concerned about this, General. Even Yukikaze is showing signs of instability, so in a way, everyone involved is nervous about this.”
+“I feel no nervousness at all,” said General Cooley, cutting her oﬀ. “Rather, I prefer the JAM to be ambiguous entities. The reason I joined the FAF was to declare my existence to creatures like that. I didn’t want to do it to other humans. If the JAM had turned out to have humanlike consciousness, to be easily comprehensible, I probably would have been disappointed. In any case, what I want to do is make something simple and clear to them: that the SAF is a threat to the JAM. As for how speciﬁcally to do that, I want to borrow your wisdom. That’s why I’m asking for your opinions. However, Major Booker…”
+“Yes, General Cooley.”
+“As I am not, as I said, troubled by this, I’m leaving this to you. Determine which strategy and tactics the SAF should adopt. I’m going to get some rest. Come up with some executables before Yukikaze’s repairs are complete. Then I’ll make my ﬁnal decision.”
+“Understood.”
+The general stood and turned to Major Booker.
+“Major, there’s one thing I want you to pay attention to.” “What is it?”
+
+
+“How the JAM respond to the SAF in this situation should not be overestimated.”
+“What do you mean?”
+“The JAM’s enemy is humanity, and we’re only one part of it,” Cooley said. “You mustn’t forget that. I’m saying that if you think they’re giving us special treatment, you’ll make the wrong judgment.”
+“I’ll keep that in mind.”
+With a stiﬀ nod from Major Booker, General Cooley made a quick exit, followed by her secretary. Captain Foss was the ﬁrst to open her mouth and break the silence.
+“What was that all about? That attitude of hers.”
+“You’re the specialist at predicting how the human mind works,” Rei said.
+“That was me completely screwing up,” said Major Booker, rubbing his face with both hands. “I pissed her oﬀ.”
+“It didn’t look like that to me,” said Lieutenant Katsuragi.
+“She was furious,” the major said. “I might as well have told her that she was incompetent and should take herself out of the game. That we’d be able to ﬁght the JAM if not for her. And for that, I got to feel the queen’s wrath upon me.”
+“If you’re going to call that anger, then it’s a quiet and deep anger. You’d have to call it a rage against existence,” said Captain Foss. “But I never knew she felt such intense rage.”
+“Somebody once said, when confronting God and the universe, ‘I am here!’ ” said Major Booker. “The response they got was ‘So what?’ General Cooley has always been in that situation. This is the ﬁrst time I really understood.”
+“So what?” said Rei. “It’s not our problem.”
+“Captain Fukai, that’s not what you’d say now, is it? Or are you reﬂecting on those words? How that attitude you used to have would hurt the general—”
+
+
+“I mean it’s literally not our problem. Our ﬂattering or speaking badly about the general doesn’t concern her at all. The only thing that she’s afraid of is having the JAM tell her, ‘You don’t matter at all to us.’ Jack, there’s no reason for you to feel depressed. If anything, it should have motivated you.”
+“All it did was remind me of what a complete wanker I can be at times,” Booker said. “Still, I suppose I should be glad that she told me exactly how she felt.”
+“The general’s last point was vital,” Captain Pivot said. “If we make a mistake in judging how much interest the JAM have in the SAF, this could all end up with us simply being seen as a mutinous unit within the FAF.”
+“We can’t move carelessly,” said Major Booker. “To General Cooley, we’re all just her pawns on the board. But I don’t see it that way. I don’t want to lose a single man or machine.”
+“General Cooley doesn’t want to lose her people meaninglessly, either,” said Rei. “Jack, Yukikaze and I work the way you think we do, but we’re also individual beings. If you get hung up on one particular piece on the board, you’ll lose the whole game. If you’re going to play chess that badly, I don’t want to be in the game with you.”
+“Hmm… Like that saying ‘A poor player cares more for his rook than his king,’ right? Before all else, you have to think about your own survival.”
+“Taking this to its logical conclusion,” said Captain Pivot, “each individual should do what they need to do. Maybe that’s what the JAM are predicting we’ll do.”
+“No, they’re not,” said Captain Foss. “I don’t think the JAM are expecting us to do that at all. I think that they expect the SAF to change. I predict that the JAM will try to alter our behavior through some method of attack and will observe our status here.”
+
+
+“Not doing anything is another measure we could try, but I doubt it would work against the JAM,” said Major Booker. “They’ve likely worked out every possible contingency and are provoking us to act, which is probably why they sent in the duplicates of those dead men. The thing is, it may be too risky to come out and face them. Defense can be a lot harder than oﬀense.”
+“What we need to know is what’s happening with the FAF as a whole,” said Lieutenant Katsuragi. “What strategy are they currently following?”
+Captain Pivot ordered the strategic computer to display an FAF tactical map on the main screen.
+“The FAF has determined that Cookie and Richwar have been wiped out,” said Captain Pivot. “The next pair of bases targeted are Rakugan and Kanworm. Currently, our main ﬁghter forces are being moved to the front-line bases nearest them, beginning with Faery base, as well as those from Siren, Troll, Sylvan, Brownie, and Valkia. They’re probably planning to launch simultaneous attacks on both enemy bases. There is no JAM resistance to this at the moment. No skirmishes. Nothing at all for the last few hours. It probably hasn’t been this quiet since the war began.”
+“This is a very dangerous situation,” said Captain Foss. “I can feel my spine tingling.”
+“General Laitume is requesting tactical recon on both bases from us,” said Captain Pivot. “Scratch that. It’s not a request. It’s an order. General Cooley’s been delaying him by saying we’re tied up analyzing the new data, but that’s not going to hold him oﬀ forever.”
+“Let’s run for it,” Lieutenant Katsuragi suddenly said. Everyone stared at the young lieutenant.
+“Oh, don’t look at me like that,” he said. “I’m proposing a strategic movement. Would you prefer me to call it a withdrawal? If we don’t want to get uselessly wasted in battle, I think that’s the only option. We should let the JAM
+
+
+know the SAF is leaving the battle zone, and then retreat our planes to some prearranged airspace.”
+“I can’t think of any way for us to escape,” said Major Booker. “You couldn’t call it a strategic withdrawal. That’s desertion in the face of the enemy. We’d never get away with it. It’d be taken as a tactical operation against the FAF. Besides, where would we run to?”
+“Sounds like fun,” said Rei. “Skipping out under cover of night.”
+“Some might say skipping out is the sort of move they’d expect of the SAF,” said Captain Foss.
+“The JAM don’t matter anymore,” Rei replied. “It’s pointless to go on arguing about them when we’ll never get any answers. What we need to consider now is how to oppose the FAF, because they’re not going to let us just run away.”
+“It’s worth considering,” said Captain Pivot as he watched the screen. “The SAF has no ground forces. The only weaponry we have are survival guns, and we don’t have much ammo for them. If the human duplicates in the FAF attack us, even with our ﬁghter planes, we’d hold out for maybe an hour before we’d have to run for it. The question is whether or not there’s safe airspace to run to anywhere.”
+“There is,” said Lieutenant Katsuragi. “Earth. We should ﬂy through the Passageway. The FAF would ﬁnish oﬀ any JAM chasing us. It’s the safest place.”
+They all stared at the lieutenant, dumbfounded. “It wouldn’t work?” he asked.
+“Lieutenant,” said Major Booker. “What would we do then? We can’t keep ﬂying forever. The nearest place to go would be an Australian air force base, but we’d violate their airspace if we headed there. They’d treat us like JAM.”
+
+
+“Any evacuation to Earth,” said Captain Pivot, “would require consent from Earth. Only the FAF high command are authorized to negotiate that. It’s not like I haven’t heard of articles covering the emergency evacuation of FAF combat units, but in this situation, it would be something the FAF would have to do, not us. The SAF would send this information to General Laitume and have him call a top-level FAF strategic conference for the one thing we could do —initiate an emergency evacuation of the FAF.”
+“We’d ﬁrst have to get the general to consent to it,” said Rei. “Then he’d have to convince the other ones in the high command. I don’t know how long it’d take, or if they’d even act, but even assuming they went for it all we’d be doing is moving the battleﬁeld from here to Earth. That’s probably exactly what the JAM want. There’d no longer be any point to the combat bases we have on Faery. Why did we even build Faery base in the ﬁrst place? Earth would never go along with it.”
+“It’d become a political war in which we wouldn’t be able to participate,” said Major Booker. “We couldn’t aﬀord
+to wait to see what the outcome would be. Look, what we—what I want to protect isn’t the FAF. It’s the SAF and my own self.”
+“I see. It wouldn’t work,” said Lieutenant Katsuragi. “And I thought it was a good idea, too.”
+Looking at the lieutenant as he sighed, Rei thought of Colonel Rombert.
+“Jack, what about Colonel Rombert’s demand for me and Lieutenant Katsuragi to join that retraining unit?”
+“Yeah, that is a problem,” said Major Booker. “General Cooley hasn’t given an oﬃcial reply yet. Captain Pivot, has Colonel Rombert said anything since then?”
+“No, not that I’ve heard. There hasn’t been a peep out of the Intelligence Forces.”
+
+
+“Even Colonel Rombert probably didn’t seriously expect us to swallow it,” said Major Booker. “Otherwise, he wouldn’t have been using a dead man like Lieutenant Burgadish in plain sight. If Rei went there, the cat would be out of the bag pretty quick. Maybe he sent for Rei deliberately to blow the secret… But still, Lieutenant Burgadish? I can’t believe it. Is he really there? How can we be sure of this?”
+“Why don’t I go?” said Lieutenant Katsuragi. “I don’t know what this Lieutenant Burgadish looks like, but—”
+“No,” said the major. “You already know too much about the inner workings of the SAF. I can’t send you.”
+“Want to try a video call?” said Rei.
+“And what if he answers?” asked Captain Foss.
+“If it’s actually Lieutenant Burgadish, then—” he began, when suddenly Lieutenant Eco, who’d been silently engrossed with his work, piped up. “Order a pizza.”
+“What?” asked Captain Pivot. “Why a pizza?”
+“Because I like them. You can say it’s a wrong number. Damn, I’m hungry. I wish I’d ordered food with the rest of you guys.”
+“How are the repairs coming on Yukikaze?” asked Rei. “Taking a little more time than I expected,” said
+Lieutenant Eco. “General Cooley’s going to be mad, but what can you do?”
+“Forget the video call,” said Major Booker. “Any moves we make to conﬁrm it’s him will be noticed by the JAM. We can’t give up this grace period until Yukikaze is back in action.”
+“The JAM aren’t giving us a grace period,” said Captain Foss. “As soon as that retraining unit is ready, they’ll begin their attack, just as Yukikaze predicted. They’ll destroy us.”
+“There are probably around ﬁfty people in that unit,” Captain Pivot said. “They’d be neutralized quickly. They won’t achieve anything acting alone, so maybe they’ll move
+
+
+in concert with a JAM attack from the outside. Major Booker, let’s send out our ﬁghters. Tactical combat reconnaissance. It’d be safer to have them in the air. And we’d be able to save face with General Laitume.”
+“Of course, I thought of that too. The question is just how far can thirteen ﬁghters go against the JAM?” Major Booker said, crossing his arms. “If the JAM launch an all-out attack after they take oﬀ, it’d be dangerous for them to return to Faery base. It could be destroyed from within. I can imagine it becoming the most dangerous battleﬁeld of all. Our ﬁghters can’t just do the usual thing of avoiding combat to return to base. Without a safe evacuation point, taking oﬀ in this situation would be tantamount to suicide. So where do we ﬁnd such a point? Earth is out of the question. SAF ﬁghters may be top of the line, but they can’t ﬂy forever.”
+They can’t ﬂy forever… Hearing that, Rei recalled that the FAF did have a craft capable of ﬂying forever. Almost instantly, a plan ﬂoated into his brain that he was convinced would be the only way that their planes would survive.
+“Call all ﬂight personnel and have them get ready for a mission brieﬁng,” Rei said, standing up. “We should have the planes’ central computers and the combat intelligences here in HQ participate as well.”
+“What are you talking about?” asked Captain Pivot. “Where are you going, Rei?” said Captain Foss.
+“To the toilet,” Rei replied. “I’m going to freshen up and grab a little rest.”
+“And what’s this mission brieﬁng going to be about?” asked Major Booker. “Where are we ﬂying?”
+“Tell everyone what the situation is,” Rei said. “Everyone will think up their own individual survival plan. Since they’re pilots, they’ll think of ﬂying. But without a base to back it up, a ﬁghter has no place to land. We can’t have that, can we? But if we capture a base somewhere for ourselves, that problem disappears.”
+
+
+“You’re going to ﬁght the FAF head on?” said Captain Pivot. “And what about the rest of us who stay behind here?”
+“Much as I’d like to say I don’t care, planes need ground support. And we can’t be obvious about this. There’s only one air base I can think of that we can seize in secret and drive out every single person on it.”
+“You’re talking about Banshee,” groaned Major Booker. “I don’t want to have anything to do with it. Even its name is ominous. A fairy that cries out, warning of death.”
+“Where is it?” asked Captain Foss.
+“It’s a massive sky carrier used by the FAF defense air force,” said Captain Pivot. “A ﬂying aircraft carrier. There used to be two ships, but there’s only one now: Banshee III.”
+“It’s a miracle of modern technology made real,” said Lieutenant Eco. “Not state of the art anymore, but it’s amazing that they built that monster in the ﬁrst place, let alone that it’s still ﬂying. It was built in space and has never landed on the ground, even once. It doesn’t have any landing gear.”
+“It’s fast, but tactically not very maneuverable,” said Captain Pivot. “It just ﬂies around on a preset circular course.”
+“There’s a risk of it crashing if you change course too wildly,” Lieutenant Eco said. “Like you’re ﬂying by centrifugal force.”
+“But it does have ﬁghter plane fuel, weaponry, and plenty of food,” said Major Booker. “It really is a ﬂying air base. Yukikaze once ﬂew out to Banshee IV to investigate an anomaly. It was the JAM’s doing. Now that I think about it, they may have been trying to lure the SAF to them.”
+“We’ll take control of Banshee III’s central computer,” Rei said. “Yukikaze would probably be happy to do it. By faking an overload in the nuclear reactor, we’ll get every
+
+
+crewman aboard to abandon ship, no questions asked. It’ll be no trouble at all.”
+“Easy to say,” said Captain Pivot. “I don’t think we can do it.”
+“It’s technically possible,” said Lieutenant Eco. “This isn’t like hijacking an enemy aircraft. The JAM actually pulled it oﬀ with Banshee IV. In theory, it should be possible to access Banshee’s central computer with our tactical or strategic computer.”
+“Yukikaze’s already accessing it through the tactical computer,” said Captain Foss. “She told us that she’s counting every human on this planet. Well, it might have been her bragging, but still…”
+“Anyway, we’ll know for sure once we look up Banshee’s tech specs,” said Lieutenant Eco. “Once you successfully connect, you can make anything there do what you want. Even the nuclear reactor. Well, without someone on the other end to give me guidance, it might take some time, but if you order me to do it, I’ll run a feasibility study.”
+“As long as we have a secure footing, we can ﬂy anytime,” Rei said. “All that’s left is to get ready to deal with the threat that’s right in front of us. Jack, you should too.”
+“You’re right,” said Major Booker. “All we can do is prepare ourselves for the worst. Use the tactical computer to take control of the FAF’s central functions. Troops move on orders, and it doesn’t matter if they come through a machine. We’ll exploit the natural tendencies of military personnel.”
+“I think the JAM are doing the same thing right now,” Captain Foss said. “They’re sure to be using the same methods to sabotage the FAF. This isn’t just a simple shooting war. In order to ﬁght the JAM, the SAF can’t be the ﬁrst ones to cross the mountain.”
+Major Booker nodded to Captain Foss.
+
+
+“A cyberwar,” he said, “waged in this planetbound fortress. One we can’t lose if our ground personnel are to survive. Captain Pivot, call General Cooley.”
+“Roger, sir.”
+Rei didn’t feel like participating in these discussions anymore. Asking to be awakened when Yukikaze’s repairs were complete, he left the command center.
+He and Yukikaze would be ﬂying together. They’d ﬂown recon missions before, but this time would be diﬀerent. If the JAM were coming for them, then he’d meet their ﬁghters head on and shoot them down.
+Because that, Rei knew, was what Yukikaze wanted as well.

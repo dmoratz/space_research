@@ -1,0 +1,1662 @@
+CHAPTER 4
+
+
+
+
+SITE INVESTIGATION AND ANNOUNCEMENT
+
+
+
+
+[1]
+
+
+THE TILT-ROTOR TOUCHED down on the landing pad, twin turboshaft engines roaring. Two figures walked down onto the tarmac. One was a white-haired old man in a three-piece suit. The other was a girl about high school age, wearing a white beret and a blazer the color of the predawn sky. The old man raised his hand, signaling the pilot to stand by. The girl set off toward the proving ground.
+
+
+They were in a huge clearing cut from a forest. Between the helipad and a group of prefab buildings stood a pair of single-story structures the size of gymnasiums. Alongside was a power distribution station, encircled by a high fence.
+
+
+The core of the facility, however, was not the buildings. It was the huge area of sunken ground in the center of the site. The visitors had seen it from the air. The barren depression, hundreds of yards across, was dotted with mounds of earth several meters high and crisscrossed by trenches that looked like parched riverbeds. There was an area full of huge scattered boulders and many sheer escarpments.
+
+
+These were not natural features. They had been created artificially to achieve some purpose. The proving ground was enormous, a rough square a thousand yards on a side. If the visitors did not know they were on Japan’s main island of Honshu, they might have assumed they were in some remote foreign location. In the distance, rising above the trees surrounding the helipad, rose a titanic conical volcano: Mount Fuji. The proving ground had been carved from part of a training area for the Ground Self-Defense Force.
+
+
+A Jeep met the visitors as they left the pad. They climbed aboard and headed toward the testing area. The road climbed a shallow rise. As the Jeep reached the top, the girl said to the driver, “Stop the car, please.”
+
+
+“You can see everything from the control center,” said the driver. “The chief engineer is waiting.”
+
+
+“It’s all right. Stop here,” said the old man. The driver reluctantly stopped. The girl got out and the old man joined her. Seen from the top of the rise, the vast depression before them looked like an open-air habitat for wild animals.
+
+
+Down in the basin were several small structures sunken halfway into the ground, constructed from concrete blocks and seemingly scattered at random. No two were alike. One appeared to be under construction; only a section of wall was complete.
+
+
+A number of white vehicles resembling small bulldozers were moving busily among the buildings. Compared to normal bulldozers, they were broad and low-slung. The shank supporting the blade was slender; the treads were wide. There was no operator compartment. Sensor masts protruded from the spines of the vehicles like the necks of giraffes. At the end of the masts, multiple lenses of video cameras glinted in the sun. Slender cables, nearly invisible against the background, sprouted from the masts. One had to look closely to see that these cables led back to a thirtymeter tower at the edge of the depression. There were six robot bulldozers in the basin, all connected to the same tower. There must have been some tension on the cables, because instead of curving toward the ground, they extended to the tower in a straight line, making each robot look a bit like a dog on a leash.
+
+
+There was little sound. Each bulldozer was about the size of a four-ton truck, but considering that six of them were moving about, it was eerily quiet. All that was audible was a low hum.
+
+
+“Electric,” said the old man to himself.
+
+
+The driver left the Jeep and joined them. “Yes. Seventy-five kilowatt motors. The cables are superconductive. Can’t use diesel power plants where these things are going. Electric motors supply nearly all the motive power. There’s a lot more to our multidozers than that though.”
+
+
+“Is that what you call them?”
+
+
+“Yes,” said the driver. “Multipurpose lunar surface engineering equipment. As the name indicates, they fulfill multiple roles: as bulldozers, forklifts, rippers, trucks, road rollers, and snowplows. Today is their final prelaunch shakedown.” The driver’s chest swelled with pride. “Komatsu, Honda, and IHI developed them under our direction. It was a tremendous challenge, but we’re very happy with the results.”
+
+
+“What was difficult about it?” asked the old man. The driver kept glancing at the black-haired girl, who kept silent.
+
+
+“First of all, configuring them for low-gravity operation. One-sixth G raises the units’ center of gravity by a factor of six. Even small variations in the terrain could make them flip over during normal operations. So we’ve kept them wide and low to the ground. There’s also the vacuum of space. Naturally, any sort of internal combustion device is out of the question, as are air-cooled radiators. Heat will build up inside the machines, so we distributed Freon heat sinks inside the bodies. The vacuum also makes lubrication difficult. Any volatiles will evaporate, so all moving parts and bearings are self-lubricating. We used molybdenum oxide alloy plating with a very low coefficient of friction.”
+
+
+“And?” said the old man.
+
+
+“Maintenance-free operation was another important consideration. We took great pains to design out structures that might fail. That’s also why we avoided compressor-driven heat pumps or nitrogen-based lubricants. If we couldn’t design out a failureprone component, we made it easy to swap in a replacement. Every component of the robots you see, including the treads, can be repaired or replaced without tools.”
+
+
+“Very interesting.”
+
+
+“The biggest challenge was limiting the total weight to under five tons. That was an absolute requirement to meet payload limits.”
+
+
+“Is that why they look so flimsy?” The old man moved his hand back and forth at the wrist, like the neck of a snake. “Looks like those blades would snap with a bit of strain.”
+
+
+“Well, it wouldn’t do to cut the weight too much. If the unit is too light, it will be pushed back.”
+
+
+“Pushed back? By what?”
+
+
+“By the surface.” The driver grinned. “Terrestrial construction equipment is massively built because it will be pushing heavy mass around. If it were lighter, it would just end up applying force against itself. This effect is even more marked on the moon. When that blade cuts into the regolith, it could just lever the machine off the surface. So we’ll be using regolith as ballast to increase the mass. The dozers need the structural strength to stand up to heavy loading and still be light enough to make the journey from Earth. This is one area where we really showed what we can do.”
+
+
+“Interesting. Did you hear that, Tae?”
+
+
+“Amazing.” She nodded briefly, not looking particularly impressed. The driver scratched his head. Maybe the technical details were boring her.
+
+
+The driver’s wearcom beeped. He spoke briefly and turned back to his two guests. “The test is starting. What would you like to do?”
+
+
+“We’ll watch it from here,” said Tae. She reclined on the hood of the Jeep. The old man stood next to her. The driver gave up trying to coax them to the control center and stood silently watching.
+
+
+The multidozers had been moving independently but suddenly began moving in unison. Their destination was a pile of refrigerator-size concrete blocks at the edge of the basin. Forks emerged from the front of the machines, each one lifting a block. Then they formed up and began slowly moving forward in a column. But instead of using the blocks for construction, the robot vehicles headed toward the area of scattered boulders, which were around half their size.
+
+
+Even in the area of boulders, the machines hardly slowed. Some of the boulders were too large to crawl over, but each time a dozer encountered one that was too large, it skillfully moved its treads alternately back and forth to maneuver through the gaps between rocks.
+
+
+Then the lead dozer reached a boulder that was noticeably larger than the others. It was flanked by other boulders and there appeared to be no way around it. A dead end. The line paused for a few moments. Dozers 1 and 2 moved aside and placed their blocks on the ground. The two machines maneuvered back and forth repeatedly in the narrow cul-de-sac until they were side by side in front of the boulder. Once aligned perfectly, they extended their forks under the rock in perfect synchronization and gradually levered it off the ground. One dozer would not have been able to lift it. With two it was a different story. Their combined power tipped the boulder, and it rolled out of the way, opening a path.
+
+
+The cameras on the sensor masts of the lead machines busily swept from side to side. Once they were certain they could move forward, the two robots retrieved their blocks, formed a line again, and moved through the gap as if nothing had happened.
+
+
+The old man clapped briefly. “Very good, for remote control. It’s not easy, is it?”
+
+
+The driver chuckled. “That wasn’t remote control. No human intervention. The multidozers are capable of self-directed action. The cables supply power only.”
+
+
+“So those are robots?”
+
+
+“Initial construction will be carried out without a human presence. Even if we tried to control everything from Earth, it takes close to three seconds for signals to reach the moon and return. If there’s an emergency—say, a landslide—we might not be able to respond fast enough. So everything is AI controlled. Developing the software was harder than designing the hardware.” The driver watched the machines affectionately. Evidently he had been personally involved in their development.
+
+
+“Our multidozers can work in perfect synchronization and respond independently to emergencies. That’s a critical requirement for construction on the lunar surface, and it’s the focus of this test. But we’re not finished yet. The next hurdle is operation on sloping terrain. It’s very easy to flip over on the moon.”
+
+
+The driver pointed to an embankment. Dozer 1 was already climbing it. The embankment was extremely steep, perhaps thirty degrees. The machines began moving horizontally across it, all at the same elevation, forks held level to avoid dropping the concrete blocks. Their agility was impressive. But after a few minutes, the line stopped again. A two-meter trench had been cut into the face of the slope.
+
+
+“That gouge in the slope is wide enough for the multidozer to lose traction and slide down if it tries to cross using its treads. What are they going to do?”
+
+
+Dozer 1’s cameras scanned back and forth. At first it seemed to be at a loss for a solution. But once again the machines found a way.
+
+
+Each dozer was equipped with a load bed. Dozer 2 raised its forks and moved forward, as if to place its block on the back of the lead machine. However, instead of depositing it there, it simply rested its forks on Dozer 1’s back. It seemed to be calculating how much downward force to apply.
+
+
+The two machines now started forward, maintaining the same attitude. Dozer 1’s treads projected out over the trench and gained a purchase on the opposite side. It crossed over. Then, as the second machine’s treads projected over the trench, Dozer 3 placed its forks on its back in the same way, adding the weight of its block. In this fashion the dozer line crossed over one by one.
+
+
+The driver whooped with excitement. “Pressure from behind to generate more traction! Too much pressure and they’d fall, so they had to calibrate it. These multidozers are way more advanced than the previous generation.”
+
+
+“But what if they can’t figure it out?” said the old man.
+
+
+“Unless it’s an emergency, they’re programmed to stop and wait for instructions. That’s what the old model had to do when it reached this point. They’ve really come a long way.”
+
+
+The machines continued across the trench. The last dozer extended its treads over the gap. This was going to be a bit tricky. There was no machine behind it to hold it against the ground.
+
+
+Dozer 6 lowered its forks until they were level with the ground. Its forks projected beyond the block it was carrying, and it slipped them under the chassis of Dozer 5. Dozer 6 then lifted Dozer 5 slightly, increasing its own load. To compensate for its loss of traction, Dozer 5 carried out the same maneuver with Dozer 4, which was completely across the trench and had full contact with the ground. With the three machines moving as one, Dozer 6 was able to cross.
+
+
+The old man murmured, “I bet they’re smarter than people.”
+
+
+“We’ll see,” said the driver. “The last test is coming up.”
+
+
+The line had reached the end of the embankment and was back on level ground. There seemed to be no further obstacles. Instead there were several steel panels scattered across the ground, about four meters square.
+
+
+The line reached one of the panels. The first and second dozers crossed over. When Dozer 3 was on the panel, the trap was sprung.
+
+
+The panel split down the middle and opened downward. The rear three-quarters of Dozer 3 was directly over the opening. The machine tipped backward and began to teeter over the hole.
+
+
+The other dozers, which had been lumbering steadily forward, moved with startling agility. Dozers 1 and 2 backed up rapidly, while the three trailing units sped forward, wedging Dozer 3 front and rear. The line froze, with Dozer 3 nearly suspended in space.
+
+
+“This is the cave-in response test. Lunar regolith is a lot like dry desert sand. With vibration it can collapse, even where it’s packed down. What will they do now?”
+
+
+The situation resembled the trench-crossing test, but this new gap was too wide for the dozers to cross. Dozer 3 clearly could not get out of this one on its own. Somehow it would have to be raised. The multidozers began solving the problem in a straightforward fashion.
+
+
+First, Dozers 2 and 4 used their clawlike rippers to grip the ground, locking Dozer 3 in position. Next, the lead and tail dozers dropped their blocks, circled to opposite sides of the line, and approached Dozer 3 at an angle, forks extended. They moved very slowly, seemingly wary of the possibility of a secondary collapse.
+
+
+When they reached the edge of the gap, they extended their forks under Dozer 3. Dozers 2 and 4 then retracted their rippers and moved away, transferring Dozer 3’s weight to Dozers 1 and 6. Then 3 was raised in a controlled manner.
+
+
+The old man murmured as he watched the robots’ complicated movements. “Aren’t you worried about getting those cables tangled with all that maneuvering?”
+
+
+“It’s not a problem. The power supply tower can automatically reposition the cable linkage points.”
+
+
+“But what if one of the cables is cut?”
+
+
+“The dozers have onboard fuel cells. They can move independently for short periods of time, enough to make their way back to the power pole to hook up with a new cable.”
+
+
+“Batteries. Just like toys.”
+
+
+“Batteries, yes, but they produce power by reacting hydrogen with oxygen. Fuel cells are superior to other types of batteries. They don’t need charging, and—uh-oh…”
+
+
+The driver stiffened. The old man squinted.
+
+
+The treads on Dozers 1 and 6 were twitching back and forth, slowly bringing Dozer 3 sideways and forward. Its treads had already gained some purchase on the dirt and were digging in. Dozer 3 was trying to add its own power to the effort.
+
+
+Suddenly its right tread locked, perhaps jammed by a stone. The sound of its motor rose to a whine. Suddenly the entire right tread separated from the drive wheels with a clatter. Instead of stopping automatically, the drive wheels kept on revolving at high speed. Probably the vehicle had sustained some damage when it was pinned between the other dozers.
+
+
+White smoke began pouring from the underside of the dozer. Apparently the heat of friction had ignited a fire. Now the other machines did something unexpected. Dozers 2, 4, and 5 moved away. Then 1 and 6, as if realizing nothing more could be done, backed away as well.
+
+
+Bereft of support, Dozer 3 promptly plunged into the hole and out of sight. There was a dull crash, then a surprisingly violent explosion.
+
+
+The girl had been watching intently. Now she cuttingly said to the driver, “They couldn’t save one of their own. Don’t you need to make more improvements?”
+
+
+Slightly dazed, the driver struggled to answer, then gave up. At length he pulled himself together and spoke into his wearcom. He listened and nodded.
+
+
+“Just as I thought. That wasn’t a failure. The other dozers abandoned it intentionally.”
+
+
+“Why would they do that?” asked the old man.
+
+
+“The fuel in their batteries is similar to rocket propellant. There’s no guarantee it won’t explode. Even if it doesn’t, an accident involving one dozer may end up involving others. In marginal cases, the protocol is to abandon the vehicle in trouble so as to minimize collateral damage. The control center advised that this was not just a cave-in response test. Dozer 3 was sacrificed to evaluate whether the other units could exercise logic and determine when a triage strategy was needed.”
+
+
+“Abandon if necessary…” The girl scowled. No, she did not just scowl. She seemed to be having a complicated emotional reaction.
+
+
+The driver studied her expression. “I’m sorry I didn’t explain earlier. But it’s not a system fault. On the contrary, the system is operating as intended. If you could just understand that—”
+
+
+“Thank you.” The girl nodded and returned her gaze to the testing ground.
+
+
+The white dozers were on the move again, carrying their blocks toward the center of the proving ground, unconcerned over the loss of their comrade. When they arrived at an indicator on the ground, they began lining up the blocks to make a wall. The blocks were laid out with a surveyor’s accuracy.
+
+
+Apparently the test was over. The girl turned to the driver. “Let’s go.”
+
+
+The girl and the old man got into the Jeep. The driver gave her a worried glance as he pulled back onto the road.
+
+
+
+
+
+
+THE GREAT GLASS walls of the control center gave a commanding view of the testing area. Inside, Gotoba’s engineers congratulated each other.
+
+
+“Passed with flying colors! This went better than the assembly test. I never thought they’d ace the triage problem.”
+
+
+Gotoba’s development process for robotic engineering equipment had been plagued with difficulties. From the construction of a chassis capable of withstanding the lunar environment to engineering attachments, power supply, peripheral gear, and the AI system software, everything had been a process of trial and error. After components had been developed, countless tests of everything from site preparation to block assembly were required.
+
+
+The final stage was a failure-resolution test that presented the robots with an unforeseen situation. The test was designed to push their software/hardware integration to its limits.
+
+
+Gotoba’s multidozer development supervisor grinned broadly. “Now we can head for the moon with confidence. Those four years of suffering were worth it.”
+
+
+“I think you exceeded your goals,” laughed Sohya Aomine, now a manager in Gotoba’s Mobile Engineering Division. He would be overseeing the initial construction work remotely, from Earth. He shook the supervisor’s hand. “But they won’t be ready to roll for a while. Before that we have to perfect the concrete production system. They’re still working on it down in Yamaguchi Prefecture, but they don’t have the water supply figured out yet. They’ve got another 20 percent of the job ahead of them.”
+
+
+“I know, but the plans are finished,” said the supervisor. “They’ve designed thirty-plus different systems covering all the possible ways water might be dispersed on the surface. They’re bragging they can have a plant up and running within three months after they get the findings from Serpent.”
+
+
+“That’s what I hear. Man, I mean—us, the guys in Yamaguchi, the Phase Two base people in Nagoya—everyone’s working like crazy. Even I’m impressed at what this company can pull off, and I work here.”
+
+
+“It all flows from the top.” The supervisor dropped his voice to a whisper. “Did you hear about the Choshi offshore gas field?”
+
+
+“What’s going on?” Sohya whispered back. The supervisor chuckled.
+
+
+“Shinnisseki Gas is running into problems getting the methane sherbet up from the seabed. Gotoba’s offering them the dozers.”
+
+
+“To work on the seafloor?”
+
+
+“It’s not so different from the lunar surface, an extreme environment where manned operation is difficult. It wouldn’t be hard to retrofit them for undersea work. The boss is looking for ways to recoup some of our development costs.”
+
+
+“Who’ll do the retrofitting? Everyone has their hands full.”
+
+
+“Gotoba will find a way. And he’ll turn a profit. The boss is almost a god when it comes to construction engineering.”
+
+
+“A god, huh? Hey…” Sohya froze. A white-haired old gentleman and a young woman were standing in the control center doorway, looking out of place.
+
+
+“Who’s that?” asked the supervisor.
+
+
+“Another god. Our sponsor, the chairman of ELE. That’s his granddaughter. Go tell the guys to quiet down.”
+
+
+The supervisor hurried off to alert the rest of the team. Sohya walked over to the visitors and spread his hands in welcome.
+
+
+“It’s been a long time, Mr. Toenji. Nice to see you too, Tae—Miss Toenji.”
+
+
+“How’ve you been, Sohya?” Tae Toenji was seventeen. She smiled in a grown-up way and extended her hand.
+
+
+Sohya shook it, a bit nervously. “Last time was in Paris, right?”
+
+
+“Yes, when we showed our wedding dresses for the Paris collection and kicked off the Sixth Continent PR campaign. But we see each other all the time on the VPN, don’t we? It hasn’t exactly been a long time.” Tae stage-whispered this last statement and smiled.
+
+
+“But I only see your face on the web. You…you’re taller.”
+
+
+“A hundred and fifty-nine centimeters. Maybe I won’t be able to ride in the capsule if I get too much taller.”
+
+
+“Apple is designed to carry five NBA players. We even got an inquiry from Johnson Jr. Of course, he’s already hitched…I mean, married.”
+
+
+“Mr. Aomine.” Sennosuke Toenji leaned closer to Sohya. “You don’t have to put on a show for me. Don’t be so formal.”
+
+
+“So then, you know?” said Sohya, slightly embarrassed.
+
+
+“I like to think of myself as close to my granddaughter. I know you’re close to Tae as well. I don’t think that’s a bad thing. She’s told you that she’s the real force behind this plan, I believe. She wouldn’t have done that if she didn’t trust you.”
+
+
+“Mr. Toenji…” Sohya was at a loss for words.
+
+
+“Don’t worry about me. Officially, I’m in charge of this project. I do have a lot of interest in it. I was one of the ones who came up with the idea. But making Tae happy is just as important to me.” Sennosuke gave Sohya a jaunty wink. “Now then, Sir Aomine, please give our princess her briefing.”
+
+
+Twenty-nine-year-old Sohya was not thrilled to be treated like a hero in an adventure comic, but he did relax a bit. Over the past four years he had seen very little of Tae in person. She had been busy working with Eden’s PR team on the global campaign for Sixth Continent. In the process, she had become something of a media figure herself. But they spoke over Sixth Continent’s virtual private network several times a month. Naturally, much of their communication was personal, and Tae would have felt guilty keeping this from her grandfather, who was nearly her only family.
+
+
+Now that Sohya had official approval, there was no need for pretense. He relaxed and said, “You’re a little late. If you’d come an hour earlier, I could’ve shown you the final multidozer test.”
+
+
+“We watched it from out there. The robots are amazing.”
+
+
+“You saw the explosion?” Sohya was caught off guard. “That wasn’t a system failure, you know. We wanted to see if the bots’ networked AI could calculate the trade-off between the loss of one member and potential damage to the whole team.”
+
+
+“Don’t worry. The driver told us all about it.”
+
+
+Sohya heaved a sigh of relief. When he had first met her, Tae had been just thirteen, yet she could already speak fluent English and easily grasped the principles of spaceflight. But four years of globe-trotting had definitely seasoned her. Still, she hadn’t lost her innocent outlook.
+
+
+“I feel sorry for the robots though.”
+
+
+“Sorry? Why?”
+
+
+“As soon as they’re a burden, they’re left behind. I guess it’s efficient, but it’s merciless.”
+
+
+“Well, there’s no other way.” Sohya remembered how upset she had been about the trash scattered across the surface around Kunlun Base. “We can’t take a single excess kilo to the moon, so we have to recycle everything usable till there’s nothing left to recycle. But sometimes recycling uses more energy and resources than just discarding things. When humans are present on the surface, we’ll have the flexibility to recycle a lot of waste, but when it’s just robots…sometimes we’ll have to discard a unit.”
+
+
+“I know. That’s why we have to send humans. But I liked the way it was handled.”
+
+
+Sohya shook his head, confused. “You did?”
+
+
+“Yes. I liked the lack of mercy. The coldness to leave others behind if necessary and go for the goal.” Tae’s expression had turned unnervingly hard. Sohya had seen this side of her before. It reflected her isolation, a girl who had abandoned the pleasures other women her age pursued to embark on a strange quest to build a base on the moon.
+
+
+Then the carefree smile returned. “Listen, Sohya. Wouldn’t you like to come to Tsukuba?” Here was something else that hadn’t changed: her tendency to spring surprises.
+
+
+“Tsukuba? You mean mission control?”
+
+
+“Yes. Serpent lands today.”
+
+
+“Oh, right. That was today.” Sohya scratched his head. The development supervisor joined them.
+
+
+“Did you forget?” said the supervisor. “We were going to celebrate today’s shakedown test with a live feed from Serpent as the main event.”
+
+
+“Oh…yeah. Guess my mind was on the dozers,” said Sohya.
+
+
+“So you were planning to go?” pressed Tae.
+
+
+The supervisor slapped Sohya on the back. “In that case, we’d better turn him over to you. I’m sure he’d rather be with you at flight control than sitting in some pub watching it on TV with the guys.”
+
+
+Sohya blushed and looked down. Tae extended her pendant wearcom toward the supervisor.
+
+
+“Where is your party being held? At Gotenba? Okay, I have it. And how many? Forty-five? Right, got it.”
+
+
+“What’s going on?” asked Sohya.
+
+
+“I hope you won’t mind if I cover the costs.”
+
+
+“Wow, are you sure?” said the supervisor.
+
+
+“It’s because those white dozers are hardworking and very courageous. Have a good time.”
+
+
+The manager called out to the rest of the people in the control center. “Did you hear that, everybody?”
+
+
+The team gave a cheer. Sohya was impressed with Tae’s practiced way of handling people. It was hard to believe she was only seventeen. She took his arm. “Shall we?”
+
+
+“Sure, but can we make it in time? The maglev doesn’t stop at Tsukuba.”
+
+
+“Mr. Aomine, that’s what aircraft are for,” said Sennosuke.
+
+
+Once again Sohya felt as if he were in the presence of people from another universe entirely. Filled with anticipation and hesitation, he followed them out of the control center.
+
+
+
+
+[2]
+
+
+SEVEN HUGE FLAT-SCREEN monitors arranged in two rows dominated the flight operations control room of Tenryu Galaxy Transport’s Tsukuba Space Center. The upper-right screen displayed a constantly changing array of red numerals.
+
+
+JST 2029 05 01 17:30:45
+
+
+MET 59:30:45
+
+
+The main screen, in the center of the lower row, tracked the course of a white sphere. Its path through space was designated by a bright blue line.
+
+
+May 1, 2029, 5:30:45 pm. Following insertion into lunar orbit after a flight of sixty hours, Serpent—Sixth Continent’s two-ton probe—was approaching the lunar south pole. The control room was responsible for spacecraft tracking and control as well as data acquisition. Twenty-eight control positions faced the bank of monitors, arranged in four rows, including Flight Dynamics; Guidance, Navigation and Control; Propulsion; Instrumentation and Communications, or INCO; Collection and Recovery; and Data Processing. The controllers stared tensely at their monitors. In the last row, TGT flight director Hideto Hibiki stared at the backs of their heads with a dour expression.
+
+
+The tension was even greater than usual, and for good reason. Many aspects of this mission were extremely difficult or involved some unprecedented element. The launch of TGT’s new rocket, Eve I. Sending a probe to the moon. Placing the probe into polar, rather than equatorial, orbit. A soft landing at the pole. Collection of ice samples. Return of the samples to Earth. All carried out by private enterprise. A test mission would not have been unusual for any of these elements, but none had been conducted. It was hardly surprising that TGT’s staff was under tremendous pressure.
+
+
+Still, nearly half of the previously untested hurdles were behind them. Eve I, the first launch vehicle equipped with a transforming scram rocket engine, carried the probe into Earth orbit. The second stage, equipped with a conventional LE-9S engine, executed a perfect translunar injection burn. The insertion into polar orbit was also successful. Now Serpent was a hundred kilometers above the surface, waiting for the command to initiate descent.
+
+
+Sohya and the others entered the observation booth at the rear of the control room. The glassed-in booth looking out over the controllers was crowded with journalists. Among them was a figure that seemed out of place: a tall man in a worn lab coat.
+
+
+The man waved to Sohya. “Hey, Aomine. I hear the multidozers passed the final test. Congratulations.”
+
+
+“We wrapped the shakedown sequence less than an hour ago. How’d you know?”
+
+
+“Everyone knows. Sixth Continent’s portal went live in April.” Shinji waved his wearcom.
+
+
+Sohya smiled. “The news is up already. Gotenba is really on the ball.”
+
+
+“No point in having a site if you don’t update it constantly, and not just for the public. The project partners are on the VPN all the time, swapping information.”
+
+
+Shinji smiled at Tae, who was standing behind Sohya. She was the website designer and ELE’s head of PR. It was her idea to have each participant in the Sixth Continent project input updates directly to the site rather than running everything through her. Shinji was right: to keep the attention of the public over the project’s decade-long timeline, regular updates were essential. Tae’s decentralized approach spared ELE’s PR team a lot of work. The project participants liked it as well. It gave them a chance to describe their hard-won success in their own words and made for effective communication. In addition to Gotoba, ELE, and TGT, there were over two hundred Sixth Continent partner companies—aerospace, airlines, engineering, construction, electronics, machinery, physical and life sciences, tourism, and advertising firms. The VPN was indispensable for efficiently sharing information across so many entities.
+
+
+Sohya brought chairs for Tae and Sennosuke and sat down next to them with Shinji.
+
+
+“If you’re up to speed I don’t need to explain,” said Sohya. “My group’s work is finished for the moment. I can spend the rest of the day here. When’s touchdown?”
+
+
+“Another half hour or so.”
+
+
+“In thirty minutes our fingertips will touch the moon.”
+
+
+“Yep. We’ve been reaching for four years. We’re just brushing the surface this time.”
+
+
+“Has it seemed like a long time to you?” asked Sohya.
+
+
+“No. I’m having so much fun I don’t notice the time passing. Don’t tell me it’s any different for you.”
+
+
+The two men looked at each other and burst out laughing. Perhaps because they were so close in age—the childlike materials scientist would be thirty soon—Shinji and Sohya had become fast friends.
+
+
+“Another half hour.” Sohya folded his arms and watched the displays through the booth’s bay window. The blue line representing Serpent’s orbit slowly extended itself across the map of the lunar surface. In a corner of the display was a six-figure number indicating the Earth–moon distance in kilometers: 389,121.
+
+
+Now everything was up to the probe, a machine about the size of a compact car, thirty Earth diameters away from Flight Control. Not much to inspire confidence, thought Sohya.
+
+
+Suddenly the control room began to buzz. GNC began calling out updates.
+
+
+“Losing telemetry. Readout interrupted.”
+
+
+“Unable to access attitude control.”
+
+
+INCO called, “Switching high gain to omni…No response. Unable to reestablish link with orbiter.”
+
+
+Flight’s response followed instantly. “Switch to CORE 3.”
+
+
+“Roger, handing over from CORE 1 to CORE 3…We have contact!”
+
+
+“Telemetry recovered.”
+
+
+“Reacquired attitude control. Orbiter is responding to commands.” The controllers sounded relieved. Hibiki didn’t relax.
+
+
+“Confirm telemetry and go back to high gain. Support Room Two, troubleshoot CORE 1.”
+
+
+The commotion died down, and tense silence reigned again. Sohya and the others exchanged glances—they had watched the short burst of activity with bated breath but did not fully understand what had just taken place.
+
+
+“What’s CORE 1?” asked Tae.
+
+
+“It sounded like the communication link was broken. Shinji?”
+
+
+“CORE 1 is a geostationary satellite that links the probe and Flight Control. There are three communications satellites giving full coverage of the moon. I guess there was a problem with one of them. Say, why don’t we go in and ask?”
+
+
+“Are you sure?” said Sohya. “That room’s pretty crowded.”
+
+
+“Why not? We’re with the VIPs.”
+
+
+Shinji looked over at Tae and Sennosuke, who blinked uncomprehendingly, then glanced at each other shyly.
+
+
+“Grandfather, we should have ringside seats.”
+
+
+“All right, as long as we’re not in the way.”
+
+
+With Shinji in the lead, the group headed toward the door leading to the control room. They showed their IDs to security and passed through. The journalists watching them go fumed with envy.
+
+
+Shinji approached Hibiki, who was sitting in the last row of control positions. “Can we ask you a question?”
+
+
+“Hold it.” Hibiki held up a hand as he spoke into his headset. “Go ahead, Support…What do you mean, someone blanked our frequency? Cut the crap. Who’d be jamming us? Rerun the diagnostics!” he shouted into his headset, then glared at Shinji. “If I had the budget, I’d hire a public affairs officer,” he muttered. “What is it?”
+
+
+“Is there a problem with CORE?”
+
+
+“We don’t know whether it’s a malfunction yet. But the probe is fine. Don’t worry.” Nicknamed “the Japanese Gene Kranz,” Hibiki had worked on the H-IIC rocket and was one of TGT’s most seasoned flight directors.
+
+
+“Serpent’s telemetry was interrupted, so we switched to a different frequency. That didn’t help, so we tried a different comm sat and recovered the link. There are always two CORE satellites available at any time. Even if we lost all three, we have a ground link. There’s nothing to worry about.”
+
+
+“Okay, thanks.” As Shinji spoke, one of the controllers put a hand on Hibiki’s shoulder and pointed at the console.
+
+
+“Um-hm…what? Goddard Space Flight Center? The Americans?” Hibiki stiffened. The console phone was buzzing. Baffled, he picked up the receiver. Apparently it was an outside call. The conversation was short, with no visual. The call ended, and Hibiki slammed the receiver into its cradle. “Those bastards! Who do they think they are?”
+
+
+“What happened?” asked Shinji in surprise. The other controllers swiveled in their chairs and looked questioningly at Hibiki. He ignored them and roared into his headset.
+
+
+“Support Two! Cancel CORE 1 troubleshoot. Resume normal operation…What? I don’t know. Maybe aliens are messing with the probe!” Hibiki lowered his voice. “Keep this quiet for now,” he said to Shinji. “We’ve just been treated to a NASA prank. That was Goddard Space Flight Center.”
+
+
+Shinji stared at him, mouth agape. Hibiki seemed ready to bite the mic off his headset. “They used a satellite in CORE 1’s line of sight to jam our signal.”
+
+
+“Can they do that?” asked Shinji.
+
+
+“It’s not hard if they pump out enough power on a frequency close to ours. Ever listen to the radio next to a freeway? You get a lot of interference from CB traffic. It’s the same thing. All they have to do is point a high-gain antenna on one of their ATDRS comm sats at CORE. To change the satellite’s attitude, they just use their gyros. No need to waste propellant.”
+
+
+“Yes, but…can they do that?” Normally mild-mannered Shinji’s expression was uncharacteristically severe. “Serpent is entering its most critical phase. Messing with our communications now could blow the mission!”
+
+
+“No. The interference only lasted a few seconds. And they just hinted at the solution. Of course, they knew we’d have it fixed by now. But just in case we couldn’t recover the signal, they wanted to make sure we knew how—without admitting anything, of course.”
+
+
+“But why?”
+
+
+“I told you. It was a prank.” Hibiki frowned and muttered, “Probably a test of our emergency-response capability. They’ve been guiding spacecraft a couple of generations longer than we have, so they gave us a poke just to see how we took it. That’s bad enough, but what really burns me is how soft the poke was. They must think we’re amateurs!”
+
+
+Shinji and Sohya exchanged glances. Tae was confused. “Does this kind of thing happen often? Interfering with another nation’s space missions? If they pushed it too far, a huge amount of work could be wasted. It seems like a terrible thing to do.”
+
+
+“Don’t forget—America’s space program started out as a missile program.” Hibiki looked weary. “All the major space powers’ rocketry started with the military. The Soviets even put a heavy machine gun on one of their manned spacecraft. If they wanted to, these guys could attack us.”
+
+
+“Isn’t that something that went out with the Cold War?” said Shinji.
+
+
+“We’re in a cold war right now with our competitors. The prize is the moon’s water.” Hibiki’s words pointed to another problematic aspect of the mission. Building a moon base was not something that everyone everywhere would necessarily welcome. Certain parties with vested interests were already uncomfortable, if not in open opposition. There was even some opposition to TGT’s engine technology, since many nations were eagerly working to develop new, cheaper launch vehicles using TROPHY.
+
+
+“Don’t forget, we’re going after a gold mine here…Okay, we’re getting close. Take a seat in the corner over there.”
+
+
+Hibiki broke off the conversation and turned to his console. Sohya sighed. “A gold mine. I guess he’s right. The only reason we’re going through the trouble of sending a probe is to find water. It’s ironic. NASA just showed how important that is.”
+
+
+“If Serpent brings back samples, I bet they offer us a million dollars for them.”
+
+
+“No way. Ten kilos is all Serpent can carry. And we’re paying for it.”
+
+
+“I’m paying for it, actually,” said Sennosuke with an innocent air. He laughed quietly and turned back to the mission screens.
+
+
+Serpent was scheduled to bring back no more than ten kilograms of lunar material—a stark testament to the difficulty posed by a round-trip to the moon.
+
+
+Eve I was forty-one meters long and weighed 148 tons fully loaded. It was capable of carrying fifty tons of payload into low earth orbit, ten times as much as other vehicles of similar size. For lunar orbit, its payload was ten tons. But since this was Eve’s first launch, the payload was limited to 20 percent of maximum: two tons. That determined Serpent’s total weight and the payload it could ferry back to Earth.
+
+
+Half the probe’s weight was accounted for by the orbital module. This was the heart of the probe, containing the satellite bus—power supply, communications gear, and attitude controls—as well as the engine, propellant for insertion into lunar orbit, a small relay subsatellite christened Figu, and a remote-sensing system for surveying the lunar surface. Using the capabilities of this module, Serpent made several passes over the south pole, using lasers and a spectrometer to pinpoint promising locations for water ice.
+
+
+The remaining ton of mass was accounted for by the landing module. After the landing area was selected, this module would separate from the orbital module, maintain communication with Earth via Figu, and land on the moon.
+
+
+Half of the landing module’s mass was propellant: nitrogen tetroxide and hydrazine. This would allow the module to hover over the surface and carry out a more detailed search for the best landing area. Once the area was selected, the module would fire its engine, lower itself to the surface, and collect samples.
+
+
+The mission’s goal was to explore the nature of the ice-bearing material. It was virtually certain ice would be found, but its form was unknown. Water molecules deposited over hundreds of millions of years might be distributed like snow or as frozen lakes with an overblanket of regolith. It might be buried deep beneath the surface or mixed with particles of regolith in a kind of permafrost. It might even lie in scattered basins separated by tens of kilometers free of ice. Scientists had proposed a variety of such scenarios. Before the water could be utilized, Serpent had to determine which if any of these models was correct.
+
+
+Great care had been taken to configure the landing module so it could return with samples regardless of the nature of the ice deposits. First, Serpent had to touch down on an ice deposit. To ensure this, it was equipped with active sensors in everything from microwave to infrared frequencies, and it was equipped with drills that would allow it to access ice on, as well as below, the surface. To prevent the torque of drilling from rotating the lander in the weak gravity, the drills would operate simultaneously. If one of them were to break, a sample could still be obtained. Even if drilling proved impossible, a contingency sampler—a collection bucket fired onto the surface with a small explosive charge and then reeled back with a wire—could recover a sample by scraping the surface.
+
+
+Serpent’s collection hardware totaled around a hundred kilograms. More than half of the remaining four hundred kilos was propellant to send the upper half of the landing module, known as the return module, back into lunar orbit. The descent engine, landing struts, and sampling gear would all be left behind. The lunar escape velocity is 1.68 kilometers per second, around Mach 5. But because of the moon’s weak gravity, attaining this velocity would be comparatively easy.
+
+
+Once back in orbit, the module would execute a trans-Earth injection burn and leave the moon behind. The propellant it carried was required to take it to this point.
+
+
+Now reduced to one-hundred-odd kilos, the module would reenter Earth’s atmosphere a few days later, deploy a parafoil, and glide to New Tanegashima Airport. Its final weight, after loss of its parafoil and the ablation shield to protect it against the heat of reentry, would be just over forty kilos. The weight of the sample was ten kilos.
+
+
+This was the reality of round-trip lunar travel. One hundred and forty-eight thousand kilos launched, forty-odd kilos returned. To escape from the gravitational pull of two celestial bodies and make a journey of over a million kilometers, a huge amount of propellant was required for multiple engine burns.
+
+
+Still, the terms of space travel could be improved. Eve had demonstrated only a fifth of its lifting capacity. This first mission incorporated many design approaches that were proven but not especially efficient—for example, using the same type of hydrazine engines that had served the Apollo program over half a century earlier. Optimizing these systems on subsequent missions with more advanced hardware would mean more efficient round-trips. Two Eve rockets would be launched simultaneously, allowing five passengers and a pilot to make the round-trip journey to the moon. Yet space travel would still be similar to a solitary, perilous journey across a desert in which one was forced to carry all needed provisions.
+
+
+But the moon’s water could turn everything on its head.
+
+
+The moon receives continuous sunlight. Convert that sunlight to electricity, and water could be electrolyzed into oxygen and hydrogen, two extremely efficient chemical fuels for powering a rocket returning to Earth. Not only that, since the fuel required for the last leg of the journey need not be ferried to the moon, fuel requirements for the outbound leg would be that much less. It would be as if there were an oasis at the midpoint of the desert journey, waiting with provisions required for the journey’s second half. Provisions that before were necessary just to supply the energy required to carry supplies to the midpoint would not be needed either. Travelers could set out across the desert with a deceptively light amount of baggage.
+
+
+The moon’s water would not only make concrete production possible. It would transform lunar travel as well as the viability of settlement on the surface. TROPHY was essential to make use of atmospheric oxygen for escape from the atmosphere, but carrying a heavy load of oxygen into space still imposed significant limitations. Oxygen could be recovered from the moon’s regolith, but only through complex processes. Electrolysis of water was straightforward. Oxygen produced at low cost in large volume was the best news people living on the moon could have. There was more than the future of Sixth Continent on the line; space agencies around the world were closely monitoring this mission to see if the moon’s water could be easily accessed.
+
+
+At 1830, Flight Director Hibiki gave the word. “Separate LM. Initiate descent.”
+
+
+“Undocking LM. Starting descent.” Then, “First LM descent burn complete. Serpent is in the corridor.”
+
+
+“Figu nominal. LM telemetry is five by five.”
+
+
+“LM passing moon’s limb. Starting countdown to loss of signal. Five, four, three, two, one, LOS. LOS error, minus 0.2 seconds.”
+
+
+“Signal handoff to Figu.”
+
+
+“LM to auto control,” said Hibiki.
+
+
+“Handing off LM to auto control.”
+
+
+From now on, the lander would be engaging in critical maneuvers that could not wait for signals from Earth, so control was handed off to Serpent’s own computer. Beyond that, there was nothing to do but trust the AI, the same program refined through four years of hard work and used by Gotoba’s dozers. The software had already proven itself.
+
+
+The landing module descended rapidly from its altitude of one hundred kilometers. There was no video feed; this would occupy too much transmission bandwidth. But the numerical data flowing in from the lander allowed the controllers to track its progress as if they were watching it with their own eyes.
+
+
+“Twelve thousand…eleven thousand…ten thousand. LM is in permanent shadow zone.”
+
+
+“LM pitch over. Floodlights on. Ground radar on. Spectrometer engaged.” The lander flew over several pitch-black craters. Everyone’s nerves were taut.
+
+
+“Getting solid returns. We’ve got clear absorption lines close to 2.15 microns near-infrared.”
+
+
+“Ice on the surface,” Hibiki murmured, relaxing slightly. Checking for near-infrared absorption lines was the best way to confirm the presence of ice, but it required a light source. In the eternal darkness of the shadow zone, the lack of sunlight had made such investigations impossible. Serpent’s floodlights allowed readings to be taken for the first time. Furthermore, it seemed the ice was not buried. “Verify ground radar telemetry,” barked Hibiki. “I don’t want to get this far and plow into a mountain.”
+
+
+“We’re fine,” said the GNC officer. “Readings from the last orbit confirm no areas of major elevation…Altitude eight hundred. Down at ten, fifteen forward.”
+
+
+“Scanning for touchdown point. Fuel consumption is running slightly ahead of schedule. Should we move up touchdown?”
+
+
+“No. Let Serpent decide. I’d rather risk a few extra burns to avoid a hard landing.”
+
+
+“Roger.”
+
+
+“Tae, do you know what’s going on?” Sohya saw the answer in her faint smile.
+
+
+“Yes. It’s going well, isn’t it?”
+
+
+“Seems like it.” Sohya nodded and looked at the displays.
+
+
+Then it happened. GNC raised the first warning. “We’ve got metal!”
+
+
+“What?” Hibiki craned forward in his chair. “What metal? What’s the data, what telemetry are you looking at?”
+
+
+“Ah…I don’t know, the radar spiked suddenly. Like bouncing off a car.”
+
+
+“Probably a flat boulder. Don’t worry about little anomalies.” But as Hibiki was dismissing the reading, shouting came from Flight Dynamics and INCO.
+
+
+“LM pitch over complete! AI has initiated touchdown sequence!”
+
+
+“Telemetry off nominal! Range finder spike!”
+
+
+Again Hibiki responded instantly. “Terminate descent! Camera on! Altitude?”
+
+
+“Eighty!”
+
+
+“What’s going on? Did Serpent confirm the touchdown point?”
+
+
+“No. She skipped confirmation. She’s proceeding with the landing sequence.”
+
+
+“What is that, a system error? Give me a visual!”
+
+
+“That will use most of our bandwidth.”
+
+
+“I don’t care!” shouted Hibiki. “Forget the spectrograph. If we go down, I want to see it with my own eyes!”
+
+
+GNC brought the feed from the lander’s belly camera onto the center display. The image that loomed into view was met with stunned silence.
+
+
+Hibiki stared, face frozen in surprise. “What is that? Gold dust?” he whispered.
+
+
+The image before them looked like flecks of gold scattered across the bottom of a river, or perhaps countless golden breakers whipped by the wind. Against a brown background, the fine particles spread endlessly, sparkling in the lander’s floodlights.
+
+
+Hibiki stiffened. “It’s getting closer! Are we descending?”
+
+
+“Yes! The hover command was ignored. Kill the autopilot?”
+
+
+“No—wait! Velocity?”
+
+
+“One point one down. Right on the money.”
+
+
+“Let her go!” Hibiki gave the command without hesitation. The lander’s computer might be malfunctioning, but he decided to leave it in control of the descent. “Passing twenty. We’re beyond the abort limit. On your toes, gentlemen!”
+
+
+The controllers were huddled in front of their screens, faces drained of color. The lander descended smoothly toward the sparkling surface. It was hard to believe it might be malfunctioning.
+
+
+The halo of illumination from the floodlights narrowed toward the center of the display. At the same time, the surface began to blur, concentric circles of pale dust radiating rapidly outward. The room started buzzing.
+
+
+“Steam?” called out Hibiki.
+
+
+“No. Ice crystals. The vacuum is too high to sustain the liquid state. The ice sublimates and freezes again instantly.”
+
+
+“Diamond dust!”
+
+
+“Maybe dry ice?”
+
+
+“She’s touching down,” said Hibiki. “Don’t sink…” He swallowed hard. The room fell silent again. This was a worry. Even if the surface could not support the weight of the lander, it would be viable as long as it sank only as far as the landing struts. If the sinkage were any worse than that, there would be no liftoff.
+
+
+There was no sound, but everyone imagined it: three landing pads making hard contact with the surface. That was how abrupt the shock of contact was. The image jerked. The stream of fog kicked up by the lander engine abated. The LM engine shut down on sensing contact. Fine white dust streamed in all directions in a classic parabola and slowly fell to the surface. When the rain of particles ceased, the image cleared. The surface was clearly visible.
+
+
+The controllers were glued to their monitors. Then, as if coming to his senses, one of them began calling out the data at his position.
+
+
+“Flight, we have contact! Elevation, zero. Slope, zero. Sinkage, zero. Touchdown successful.”
+
+
+“Success?”
+
+
+“Success!” The room shook with triumphant cheering.
+
+
+“Quiet!” Hibiki rose slightly from his chair and pounded his console. “Figu won’t be overhead for long. There’s no time for celebration. DPS! Disengage autopilot. Don’t go to backup yet! GNC, check telemetry and diagnose the dropout prior to touchdown. C&R, deploy the contingency sampler. Then the drills! Hurry!”
+
+
+The controllers began calling out a stream of status updates. After a few moments the Data Processing Systems engineer advised, “Telemetry analysis points to a dropout triggered by circuit noise.”
+
+
+“Noise? From where?” pressed Hibiki.
+
+
+“Flight, I think I have it!” GNC put a ground radar plot on one of the forward screens. “The metal reading. That was clearly anomalous—the reflection was so strong it interfered with auto control. We didn’t expect this. The circuits are well shielded.”
+
+
+“All problems are unexpected,” snapped Hibiki. “Can you recover?”
+
+
+“Primary, secondary, and tertiary system diagnostics are all nominal. Whatever it was, it was transient.”
+
+
+“Go to secondary just in case. Are we going to have the same problem on the way out?”
+
+
+“No. We won’t be using ground radar on the way back to orbit.”
+
+
+“All right then! Good so far…” For the first time, Hibiki sat back in his chair and took a deep breath. Then he turned to his visitors.
+
+
+“Shall we take a look at the scenery?”
+
+
+“By all means,” said Sennosuke.
+
+
+“Hold it. Aren’t you Mr. Toenji?” said Hibiki, finally noticing the project sponsor. “Perfect timing.” He grinned. “Take a look at your new continent.”
+
+
+He engaged the color CCD camera atop the 120-centimetertall lander. Something appeared on the main display, but the image was nearly dark. The lower half was a white blur.
+
+
+“Is that a camera malfunction?” asked Sohya.
+
+
+“No. The default sensitivity is very low. Once an Apollo astronaut fried his camera by accidentally pointing it at the sun. Let’s bring it up slowly…” As he spoke, the image gradually brightened and sharpened.
+
+
+The white portion was the surface, illuminated from the underside of the lander. The long shadow of a landing strut cut across a fine carpet of sparkling particles, like a ski slope at night. Beyond the circle of light lay impenetrable darkness. There was no sign of surface, horizon, or space.
+
+
+Tae’s voice broke the silence. “So this is the three-billion-year night of the shadow zone.”
+
+
+“Yes,” said Hibiki. “Let’s switch on the floods.” The lander’s two-hundred-thousand-candlepower LED floodlights flashed on. For the first time, the team saw where they were.
+
+
+It was a titanic, naturally occurring coliseum. The floor of the crater was draped in glistening white, like a blanket of snow reflecting light in all directions. Softball-size rocks were scattered across the surface. A wall of jagged cliffs was visible just above the horizon. Hibiki panned the camera. The cliffs stretched unbroken around the compass. That must have been the crater rim. The lander had touched down in the center of the crater.
+
+
+“Radar puts the height of the rim at 140 meters. If they’re on the horizon, that makes the crater diameter four kilometers. How steep are those cliffs?” said Hibiki.
+
+
+INCO answered, “Slope is thirty degrees. Might be difficult to lay cables from the solar array over the rim.” If ice were detected where the lander touched down, the equipment to gather it would need power. To supply power in the darkness of the crater, solar panels would have to be set up outside the crater, where sunlight was available, and cables laid into the crater. One of Serpent’s goals was to locate a crater where this would be feasible.
+
+
+Then one of the controllers spoke up. He was looking at a detailed map of the terrain.
+
+
+“This is too good to be true. The height of the rim doesn’t matter. In fact, we’re lucky it’s so high.”
+
+
+“What do you mean?” said Hibiki. The controller was rotating the map. The controllers on either side of her were staring at it as well.
+
+
+“The crater’s elevation is slightly higher than average. It’s relatively isolated. That means sunlight will strike all along the rim. If the rim were lower, the crater wouldn’t be in shadow.”
+
+
+Hibiki was skeptical. “There must be other craters with that profile.”
+
+
+“Yes, but they’re at least twenty or thirty kilometers across. They’d need panel arrays on opposite sides of the crater to maintain power as the moon rotates with the earth around the sun. Here the panels can be spaced around a circumference of twelve klicks or so. The cables can be shorter. People on the surface will have less ground to cover.”
+
+
+“This is prime south pole real estate!”
+
+
+“Hold on, everyone!” Hibiki raised his voice again. “You’re assuming we’ve got H2O. Don’t get carried away. That ice might be methane or CO2.” He was right. The excitement died down. “Start drilling. Save the celebration till we’re finished.”
+
+
+“Will that give you the answer?” asked Tae.
+
+
+“It’s a simple test. We heat a sample in a chamber inside the lander. If the ice liquefies at zero and boils at a hundred degrees Celsius, it’s definitely water. Now that we’re on the surface, that’s all we need to find out.”
+
+
+“Mr. Hibiki?” Sohya raised his hand. “Can I sit with the C&R team? I’d like to check the site statics.”
+
+
+“You want to watch the dynamic load test? That’s right, you’re a structural engineer.”
+
+
+A dynamic load test applied a standard shock to a pile inserted into the ground. The change in pile depth was measured to calculate the bearing strength of the ground, an essential piece of information needed before constructing a building. Furthermore, if the surface were composed of water ice, knowing the hardness of the ground would be useful in estimating the difficulty of digging to recover the ice.
+
+
+With Hibiki’s permission, Sohya approached the C&R team. The engineer was already drilling into the surface. “The load on the drill right now is thirty-two newtons—about the resistance of cork. The habitat modules won’t be in any danger of sinking.”
+
+
+The second team engineer added, “Unfortunately, the ice is full of regolith. Not gravel, but particles of all sizes. Well, it’s still permafrost. There’s more than enough ice—oh shit!”
+
+
+A warning flashed red on one of the subscreens. The controller sighed in frustration. “Drill one is jammed. We better stop drill two.”
+
+
+“A rock?” asked Hibiki, craning forward across his console to look.
+
+
+“It’s not a rock. But drill one is locked up tight. We won’t be getting a sample from this one.”
+
+
+“You stopped drill two, right?” said Hibiki. “Okay, that’s far enough. Bring it up.”
+
+
+Drill two was reversed and drawn upward. Images from the belly camera were still visible on the main display. One of the controllers said, “Look. What’s that?”
+
+
+Everyone looked up at the display. The room went silent.
+
+
+The two drills were visible to the left and right on the display. The drill on the left was withdrawing from the surface. As it rotated, a substance resembling gold thread stuck out at all angles.
+
+
+“That almost looks like coconut fiber,” said Hibiki.
+
+
+“The reflections must’ve been from this material. It looks pretty densely tangled around the drill.”
+
+
+“So what is it?” said Hibiki. No one knew; there was no way they could have known. Neither the moon’s ice nor the comets that brought it were theorized to contain anything like these fibers.
+
+
+Drill two was free of the surface. The C&R team placed several grams of material in Serpent’s test chamber. The rest of the sample was placed inside the return module. The probe sent its answer within minutes.
+
+
+“Melting point: minus 0.41 degrees Celsius. Boiling point is 99.22 degrees. That’s it. The sample is water ice.”
+
+
+“From how deep?” asked Hibiki.
+
+
+“About 2,850 millimeters. We were expecting it at four thousand.”
+
+
+“That means—”
+
+
+“The moon has water,” said Sohya. “The surface is soft enough for digging but strong enough to support engineering equipment.”
+
+
+“Congratulations,” Hibiki said to Tae and Sennosuke. “You have everything you need, Mr. Toenji. There’s nothing to stand in the way of Sixth Continent.”
+
+
+Tae looked at her grandfather. They both stood and faced the observation booth. Sennosuke borrowed a headset so the journalists could hear him.
+
+
+“I want to thank you all, and I ask for your continued support. Now the real work begins.”
+
+
+The sound of applause gradually rose and filled the room. TGT was not applauding their own success, hard-won as it had been. By discovering water on the moon, their groundbreaking mission would become the foundation for an even grander vision. It was that vision they were applauding.
+
+
+Tae looked at Sohya, who gave her two thumbs-up. Shinji joined in the applause. Their faces strobed white from the journalists’ cameras.
+
+
+The mission was not over. But for once, Hibiki waited a few seconds before shouting his next command.
+
+
+
+
+[3]
+
+
+FOUR DAYS LATER, Serpent touched down at Tanegashima with three kilograms of surface samples. Careful testing revealed their exact composition.
+
+
+Fifty-five percent of the sample was water ice by weight. Another 40 percent was composed of regolith particles. The water contained small amounts of dissolved aluminum, calcium, iron, silicon, and other minerals from the regolith, along with minute amounts of glycine, serine, and other amino acids. This closely matched one of the proposed models.
+
+
+Eons before, a comet composed of water and amino acids had struck one of the craters in perpetual shadow. The intense heat and shock of impact had vaporized the ice, blowing regolith upward and mixing the water vapor with it. But in the cold of perpetual shadow, the vapor quickly refroze and fell to the crater floor as ice. Comets are more fragile than asteroids—sometimes enough to be vaporized by the sun’s heat—and rarely leave impact craters. The shallow depression created by the comet was soon covered by falling ice. This was the origin of the plain of ice and regolith within the craters in perpetual shadow.
+
+
+The sample’s remaining 5 percent was composed of those mysterious metallic threads, which proved to be an alloy of aluminum and silicon. Their composition did not differ from elements that could be found on the moon, but there was no known natural process that could create a threadlike alloy. Electron microscopy revealed a regular, tubelike structure similar to the branching structure of plant roots, but the tensile force applied by the drill as it snapped the threads had destroyed any fine structural detail. Clearly, the material possessed high tensile strength.
+
+
+The threads also solved at least two mysteries: the strong metallic radar response and the jamming of the drill as it bored into the densely packed threads. Still, the material posed far more questions than it answered.
+
+
+Gotoba was inundated with requests from scientists around the world for even a tiny sample of the material, but the firm decided to use two kilograms for experimental concrete production. The last kilogram would be donated to research institutions. This didn’t prevent a storm of criticism from the scientific community—using samples with such research value merely for concrete production! But Gotoba was unperturbed.
+
+
+The moon’s water was indeed suitable for making concrete. That was all they needed to know. The team standing by in Yamaguchi Prefecture began working feverishly with a large local cementmanufacturing firm to design a production module that could process lunar permafrost containing 55 percent water and produce cement in a vibration kiln designed to operate at one-sixth G.
+
+
+The first task in building a structure on Earth was site selection. Once the site was chosen, surveying and soil-bearing capacity tests were carried out. Serpent not only confirmed the characteristics of the lunar water but also answered the question of site selection. Sixth Continent would be built outside the crater—quickly christened Eden—on the side facing Earth.
+
+
+Dynamic load tests were unnecessary. The moon had no alluvial soils, no active fault lines, and virtually no quakes. Though Sohya had worried about the simple siting technique used at Kunlun Base, the approach used by the Chinese was more than adequate.
+
+
+Still, it would not do to replicate Kunlun Base. The Chinese had simply placed their modules on the surface, but Sixth Continent would carry out full-scale construction using concrete blocks. Leveling the site would mean moving large amounts of surface material. With no erosion from wind and water, the lunar surface bore the record of three billion years of asteroid impacts and volcanic activity. There were no truly level sites, but without one the robotic engineering equipment could not be put to best use. Base design would face major limitations.
+
+
+“Space development” usually brought to mind rockets rising into the sky on pillars of fire or satellites with huge solar arrays. But aerospace-related activity was only one facet of space development. What was needed on the moon was nothing less than the engineering technology developed for construction on Earth. Manufacturers of launch vehicles and satellites might pretend to offer such expertise, but those claims were just talk. The lunar environment would quickly punish any half-baked development effort. What was needed was for construction engineering firms to start participating in space development.
+
+
+That she saw this from the start was proof of Tae Toenji’s genius. And Gotoba Engineering & Construction was the only organization capable of realizing her vision.
+
+
+For a company with Gotoba’s experience in construction for extreme environments, designing a base on the moon was straightforward. What they realized early on was that the engineering equipment was a far greater challenge. Multidozer development was a key step; once that was accomplished, one of the most challenging hurdles had been cleared.
+
+
+In September 2029, TGT’s Adam 1 heavy-lift launch vehicle lifted off with the first ten tons of cargo—half its rated capacity—for lunar orbit. The payload consisted of one multidozer and 340 square meters of solar panels capable of generating 150 kilowatts of electricity.
+
+
+Four days later, the cargo safely touched down outside Eden Crater. TGT’s minimalist landing module had been given the unprepossessing name Turtle. It was far simpler than the highly advanced Serpent lander—a simple metal frame with retro-rockets and a fuel tank, radio altimeter, GPS system, and communications antenna. It was designed solely as a mass-produced space truck capable of putting seven tons of cargo on the lunar surface.
+
+
+On landing, Turtle deployed the solar panels with a spring-loaded device. The panels were deployed perpendicular to the sun, which sat just above the polar horizon. The flexible panel unrolled like a carpet four meters wide by eighty-five meters long, launched outward in a parabolic curve. As it unrolled, support struts on the back unfolded. The panel fell to the surface and landed on these struts with its power-generating side toward the sun. The entire deployment took all of ten seconds. The method was crude, but in the airless environment it was possible to precisely calculate how the panel would unfold. Spring-loaded deployment would play a major role in future cargo deployments.
+
+
+The news that the moon held abundant supplies of water was greeted with widespread excitement. Second only in importance to water was generation of electricity. The multidozers were not equipped with solar arrays because this would hinder their movements. Instead, they would derive power from the stationary solar panel via a cable. At the moon’s polar regions, the sunlight struck at such a low angle that vertical solar panels were the only way to generate a stable supply of power.
+
+
+Once word came—“The panels are up!”—the success of the mission was assured. Now power would be plentiful as long as sunlight was falling on the deployment side of the crater.
+
+
+With electric power, everything else was straightforward. The multidozers were tough enough to handle heavy work. Even if one flipped over, it could right itself by anchoring its ripper claw and using a lifting lever. The dozers were also intelligent enough to solve most problems they might encounter. Drawing power from the panel, Dozer 1 rolled off the lander and began moving surface material, the first step in base construction. An absolutely flat area was required for future landers, to prevent their engines from kicking up regolith and contaminating the solar array. In a pinch, the dozer was capable of shaking the panel to loosen any collected regolith.
+
+
+The video feed from Dozer 1 showed no large boulders or ground fissures in the area, indicating that operations would go smoothly. Unfortunately, Dozer 1 itself could not be observed from Earth. Like Sir Edmund Hillary on Mount Everest, Dozer 1 could take pictures of everything but itself. Nevertheless, the images it sent as it vigorously moved about pushing rocks out of the way and packing the surface flat demonstrated that it was successfully fulfilling its objectives. The project teams, especially the staff of Gotoba Engineering, crowded around the monitors in a state of high excitement to watch the work in progress. For the first time since he had joined the company, Sohya even saw Takasumi Iwaki smile.
+
+
+
+
+
+
+SHINJI TAI LOOKED out the window, then back to the monitor in front of him, comparing the views. “Yes, I guess that would make him happy,” he said to Sohya.
+
+
+Shinji and Sohya were at the Gotenba multidozer production facility and proving ground at the base of Mount Fuji. The facility also served as the control center for multidozers on the lunar surface. Shinji shuttled back and forth between Gotenba, Tsukuba, Tanegashima Space Center, and other research facilities, helping to maintain the virtual private network between the different project teams.
+
+
+“I’ve only met him a few times, but Iwaki seems to like efficiency,” said Shinji. “Sending robots to the moon is more efficient than sending people, so he should be happy with that.”
+
+
+Sohya was calibrating the telemetry data sent by Dozer 1 with the data coming from the multidozers at the proving ground. “Now that you mention it, I remember him saying that when a machine makes a mistake, it’s a mistake of the people who built it. If a machine’s reliable, it’s not necessary for humans to go to the moon.”
+
+
+“So why are we working so hard to send people there?” murmured Shinji.
+
+
+“If you want a technologist’s opinion, the answer is simple: because it’s possible.”
+
+
+“Because it’s possible? That’s backward. First you’ve got to have a goal. What you want to find out is whether your goal is feasible or not.”
+
+
+“That’s what most people would do,” said Sohya. “Take Kennedy—he started the Apollo program before he even knew if a moon landing was possible.”
+
+
+Shinji smiled faintly and shook his head. “We’re a different breed. If it’s doable, we do it, whether it’s necessary or not. Oppenheimer built the bomb. Genentech made Nellie and Mary, the first human clones. The last big general construction company built a tunnel under Tsushima Strait. Ethics and cost/benefit aren’t in the equation.”
+
+
+“Are you saying Sixth Continent is another boondoggle, Shinji?”
+
+
+“History books a hundred years from now may say it was the biggest folly of the twenty-first century—wasting precious resources to colonize a planet with no practical potential for development. We could just stick close to home and look after the environment.”
+
+
+Sohya frowned. Shinji added casually, “But folly is all right. Even folly can advance human culture. Even if Sixth Continent shuts down after a year of operation, it will have been worth it as far as I’m concerned—even if all we get out of it is pure technological advancement.”
+
+
+“You’re more of a cynic than I thought.”
+
+
+“People who might be working on the next A-bomb should at least be aware of the possibility. I mean, look—are you certain this project is for the best?”
+
+
+“Well, I’m like you. I can only see so far. But I agree with Gotoba’s take on things. Progress means creating something where previously there was nothing. Building habitats for people on a desolate place like the moon is proof of that progress.”
+
+
+“Sounds like your take isn’t that different from mine,” said Shinji.
+
+
+“You’re right. We’ve both got swelled heads.” Sohya chuckled. Shinji looked up from his monitor and stretched.
+
+
+“With my personality, I could’ve easily ended up doing obscure research for some metal refiner rather than developing something revolutionary like TROPHY. But I’m not, thanks to Ryuichi. I have to hand it to him, he’s got a lot of passion.”
+
+
+“I envy him. He’s a straight shooter. I can easily picture what he’d think of this discussion.”
+
+
+“No, you’re wrong about that,” said Shinji before Sohya could say anything further. “He’d say, ‘Young people shouldn’t worry about other people’s opinions. Don’t think. Get moving!’”
+
+
+“You’re probably right.” The two men laughed.
+
+
+“Come to think of it, it’s amazing that so many people with different viewpoints are working on the same project. Some of us want to test the technology, some of us want to build, and some of us just want to go there.”
+
+
+“You forgot one motivation. Some of us want to make money.”
+
+
+This caught Sohya off guard. “You mean Reika Hozumi? I guess money should really be the main reason. This whole thing is private enterprise. It’s hard to think of a project less suited to making money though.”
+
+
+“As far as Reika’s concerned, money’s the only thing. Oh well, whatever it takes to motivate her.” Shinji whistled as he began running a stress test on the link to TGT’s Yokohama Data Processing Center. “Ah yes, money…”
+
+
+As ELE’s auditor, Reika was like a human calculator. Was she interested in anything else? Shinji glanced at Sohya a few times before speaking.
+
+
+“I’d say you have less to worry about than anyone else on that account.”
+
+
+“What do you mean?”
+
+
+“You have just the right balance of enthusiasm and doubt. I envy Ryuichi, but I also envy you.”
+
+
+“I’m not sure what that means.”
+
+
+“See?” Shinji laughed again. “That lack of self-awareness. Just what TGT’s president preaches: no doubts.”
+
+
+“Thanks a lot,” said Sohya. He pretended to be hurt, but in fact he didn’t mind Shinji’s ribbing. Representatives from space agencies around the world referred to him as “Professor Tai,” yet he was as unaffected as ever, liked by everyone. Sohya felt fortunate to be able to work with a man like Shinji. He was certain that someday Shinji would be mentioned in the same breath with pathfinders like von Braun and Korolyov.
+
+
+
+
+
+
+TROPHY’S SUCCESS GENERATED a storm of calls and emails to Tenryu Galaxy Transport. As usual, many came from crackpots and clueless amateurs, but there were also more than three hundred serious offers from space development companies. Most of these feelers were for launch services using the revolutionary Adam and Eve rockets, for purchase of entire launch vehicles, or for TROPHY engines. But Ryuichi had to choke back his tears and refuse them all. Sixth Continent had booked all of TGT’s launch capacity for the next six years. Ryuichi would be unable to service other clients for quite some time.
+
+
+Launch vehicles and engine sales also presented problems. In 1969, Japan’s Diet had resolved that the nation would use rockets only for peaceful purposes. But in those days, “rocket” meant “missile,” and the resolution became an obstacle for exports. This Cold War holdover prevented Japan from exporting the LE-5A, its first domestically produced rocket engine. That was in 1988.
+
+
+Japan’s government had grown more pragmatic on such matters, but the ’69 resolution continued to hinder space-related commerce, like a useless antique no one was willing to discard. Japan’s bureaucrats winced at the prospect of exporting TROPHY. TGT might be a private company, but most of its facilities, technology, and personnel had formerly been under government control. In the end, TGT did not have the leverage to overcome bureaucratic resistance. If overseas buyers could not lay their hands on the real thing, they would have to examine published documents and attempt to build a TROPHY engine themselves.
+
+
+Still, for a world groaning under the unbelievable cost of putting a payload into space—three hundred thousand yen to put a single gram into low earth orbit—TROPHY was a gift from heaven. For only 1.6 billion yen, an Adam rocket could put as much payload into low earth orbit—a hundred tons—as the Soviet Union’s titanic N1 rocket.
+
+
+In the seventeenth century, passage across the Atlantic in a sailing ship cost the equivalent of two years’ wages for a laborer; jet aircraft reduced the cost to a few tens of thousands of yen. Now nations and corporations around the world were vying to develop TROPHY-equipped launch vehicles. The wheel was about to turn once more.
+
+
+
+
+
+
+ON HER FIRST flight to Tanegashima, Reika Hozumi realized that her outlook on life had changed.
+
+
+Until then, everything for her had been about numbers. As ELE’s auditor, she had reviewed the expenses for every division. The only question on her mind was whether spending would yield profit. ELE was an integrated entertainment enterprise, but life on the inside was not all dreams and fantasy. Instead, just as the company delivered a carefully calibrated experience to its visitors, it stringently tracked each and every yen, reckoning its profits precisely. This was Reika’s job. In her mind, if an activity did not create profit, it was nothing less than chicanery, even if it was positioned as service to society.
+
+
+Then Ryuichi had thrown her world into chaos.
+
+
+Profits? Unnecessary. Service to society? Secondary. The goal was pure flight. To Reika, Ryuichi’s obsession seemed a frighteningly personal, almost childish hobby. Yet she could only be astounded that this hobbyist had taken on the government and giant corporations, built a private company as his personal vehicle, nurtured an astonishing new invention, and was now positioned to make enormous profits.
+
+
+By working with him, her world had broadened. It was not only that Ryuichi was extremely capable. He was continually pushing forward, almost heedless of those around him. The passion, the psychological fire that animated him, burned brightly. Sometimes this energy was destructive. How many times had he bellowed at her when she’d tried to knock some sense into him with graphs, charts, and formulas? “That’s beside the point!” was his mantra. Everything that stood in the way of successfully launching Eve, Adam, and Apple was irrelevant. Return on investment? Cost/ benefit? Beside the point—things would work out in the end. And indeed they had, and he kept moving ahead, always confident that they would. In a sense, Reika saw him as wisely reckless.
+
+
+So when Ryuichi said he’d be in the Apple capsule for the first training exercise of Japan’s first manned spacecraft, Reika was hardly surprised. Instead she was concerned, and for the first time she worried about his recklessness and where it might lead, rather than simply viewing his seemingly rash decisions with contempt.
+
+
+Reika got the news flash from TGT during an auditing meeting at ELE headquarters. It was then that she realized just how afraid she had been. There had been a wiring fault in the capsule—and a fire.
+
+
+All that was needed to send her running out of the meeting were the words “capsule” and “fire.” TGT’s Tobishima factory was close to ELE. She rushed there in a taxi, but Ryuichi had already been taken to a hospital. When she arrived at the emergency room, Ryuichi had embraced her with his bandaged arms.
+
+
+That was a year ago. Since then, Reika had come to realize that no woman before her had ever argued so much with TGT’s president. She hadn’t laughed at his dreams or stood noncommittally watching from a distance. She was the first to meet him head-on, the first to refuse to bend.
+
+
+“I have to admit, it’s fun having a worthy opponent.” Ryuichi stood with Reika on the catwalk at TGT, looking down on the first flight-ready Apple spacecraft. “And you certainly are worthy, Ms. Hozumi. Hey, it’s a compliment.”
+
+
+“Can’t you find a better way to compliment me?” Reika sulked and looked away, then leaned her shoulder against Ryuichi. “And please don’t call me ‘Ms. Hozumi.’ My name is Reika.”
+
+
+“Sure. Reika. As I said, I do enjoy catching hell from you.”
+
+
+“That is not a compliment!”
+
+
+They watched the activity in the assembly room as they bickered. Surrounded by technicians swathed in clean suits, Apple awaited its baptism by fire.
+
+
+
+
+
+
+IMAGES OF CONSTRUCTION on the moon were broadcast around the world. In a single day, the Sixth Continent website received an unprecedented 140 million hits. Viewers of 1,200 web dailies in 115 countries saw Dozer 1 lift the largest boulder on the construction site, dubbed Ayers Rock. Twenty-two toy companies requested permission from Gotoba Engineering to market plastic multidozer models. While they waited for an answer, pirate versions spread across Asia and South America.
+
+
+Companies selling lunar real estate had been around since the last century; now there were companies purporting to sell homes on the moon. Lured by virtual tours and slick presentations, more than five thousand people made hefty down payments. The media assumed Gotoba Engineering was behind it—it was, after all, a construction company—and the company became a target of fierce criticism. After struggling unsuccessfully to explain that they were in partnership with two other companies to build a wedding palace, were not in a position to sell homes on their own, and were not going to build homes in any case, Gotoba’s PR team threw up their hands.
+
+
+Most of the victims were in the United States, where a class action suit was brought against Gotoba. The suit alleged that the company never made it clear they did not actually build homes. With Gotoba’s PR people on the ropes, Tae brought in Eden’s own experts to fight back. They mounted a campaign that adroitly positioned ELE as the victim and assembled their own legal team for a countersuit. Tae’s deep pockets, her understanding of American ways, and her intelligence offset Eden’s disadvantages at mounting a suit in a U.S. court. In three months, the complaint was reluctantly withdrawn, though the Americans refused to concede that Gotoba was blameless. But about half the members of the class action suit ended up applying for tours of Sixth Continent, and five hundred new Tae Toenji fan sites sprang up. The firewall on Tae’s wearcom was strengthened.
+
+
+
+
+
+
+“EXCUSE ME. ARE you Tae Toenji?”
+
+
+The maglev express platform, Tokyo Station. The man was in his thirties and wore a polo shirt and a nervous look. Sohya, walking behind Tae, quickly interposed himself between her and the man.
+
+
+“I’m sorry. You’re mistaken.”
+
+
+“Why, you’re Sohya Aomine! So she must be Tae Toenji.”
+
+
+“I don’t know who you’re talking about.”
+
+
+Tae tugged at Sohya’s sleeve and whispered, “It’s all right, Sohya.”
+
+
+“Hold on.” He turned to the man. “I’m sorry, but I need your name and wearcom number.” The man identified himself as a high school teacher from Kyoto. Sohya input the information and snapped the man’s picture with his wearcom. He had his answer in thirty seconds: the man seemed to be who he said he was. His sophomores were in Tokyo on a field trip, and he was acting as their guide. Sure enough, around a hundred young people in school uniforms were watching with great interest from a short distance. They must have pressured him, thought Sohya. Well, he’s not a deviant or a terrorist.
+
+
+The information came from ELE’s security department. Two of their plainclothes members were on the platform at this very moment, carefully observing the scene. Gotoba headquarters was in the heart of Tokyo, and Tae used the maglev whenever she visited on business. Given her wealth and celebrity, a security detail was a sensible precaution.
+
+
+But Tae did not enjoy having bodyguards, and it became Sohya’s job to accompany her whenever she visited Tokyo. It was his idea, even though it took him away from work.
+
+
+Having confirmed the man was harmless, Sohya bowed. “My apologies. Not everyone approaches Miss Toenji with good intentions.”
+
+
+“No—it’s all right. You need to be careful.”
+
+
+Sohya stepped aside. The man looked at Tae and cleared his throat. “I’m sorry to trouble you. My students wanted your autograph. The only way I could stop them from mobbing you was to approach you myself. I’m sorry, I know we’re bothering you.”
+
+
+“No, I’m flattered.” Tae smiled and waved at the students. They burst into cheers of excitement. “Thanks for your support, everyone,” Tae called. “I hope you’ll visit my Sixth Continent someday!”
+
+
+The boys whistled. The girls squealed. Other people on the platform began to stare. Tae waved to everyone, then spoke to the teacher. “You said something about a signature.” The man held out a copy of the field trip guide. Tae signed it with a flourish.
+
+
+“And, er…could I shake your hand?” Sohya moved to intervene, but Tae shook her head and grasped the man’s hand.
+
+
+“We wish you the best of luck,” the man said. Tae thanked him.
+
+
+He seemed to be gripping her slender fingers harder than necessary. Sohya broke in. “I’m sorry, but we must be going.”
+
+
+“Mr. Aomine, could I shake your hand too?”
+
+
+“Excuse me?”
+
+
+“Your hand. Can I shake it?”
+
+
+Baffled, Sohya extended his hand. The man’s eyes twinkled like a child’s as he gripped Sohya’s hand with both his own. “You went to the moon! It’s so great, I can’t believe I’m actually meeting you. And now you’re building a base up there. What an amazing feat!”
+
+
+Sohya mumbled thanks. The man pumped Sohya’s hand up and down, full of excitement. “Actually, the students are interested in Ms. Toenji, but I really wanted to meet you. I’ve been interested in space travel since I was a kid. I even made a stab at becoming an astronaut.” He reluctantly released Sohya’s hand. “We’re all behind you. Good luck!”
+
+
+Sohya struggled to assume his media smile and thanked the teacher again, who then rejoined his students. Sohya waved, but they didn’t leave. They kept looking at him and Tae.
+
+
+Sohya looked at his open palm, still warm from the man’s grip. “I’m sorry I doubted him. I guess some people are just nice.”
+
+
+“Yes. They’re everywhere.” Tae’s voice was toneless. Sohya looked at her. She glanced away. “Everyone is so nice. They want my signature, but they don’t want to be my friend.”
+
+
+“What do you expect? You’re—”
+
+
+“Different. I know. So what does that make you?”
+
+
+“I’m different too. Anyway, you don’t have to be self-conscious around me,” said Sohya.
+
+
+“Of course I do. The security detail is watching you too.”
+
+
+“Yeah, I noticed that.”
+
+
+“You did?” Tae looked at him. Sohya smiled.
+
+
+“I’m not dumb enough to think I’m trusted by the people who look after you. But that’s fine. The security guys are like your accessories. They’re just there for your safety.”
+
+
+Tae was silent for a moment. “That’s what I like about you,” she said.
+
+
+“I know. I assume I’m still a candidate for boyfriend. Or am I out?”
+
+
+Tae laughed lightly. “Let’s just say you’re still the number one candidate.” Her smile finally returned.
+
+
+“I’m glad I’m number one. I’ll try to make sure I don’t slip to second place. You know…if you had more friends, you might not be building Sixth Continent.” Sohya looked at her questioningly. “You said you wanted people to be able to live on the moon, to make it part of humanity’s world. But you also said there was another reason. What is it?”
+
+
+“Another reason…” The arrival warning sounded, cutting Tae off. The streamlined maglev glided into the station. The doors opened in front of them. Tae looked back at Sohya. “I’ll tell you next time. Let’s say goodbye here.”
+
+
+“Okay. See you.”
+
+
+Tae took her seat in the first-class car. Sohya lifted his hand in farewell. She kept glancing at him. Sohya looked back at her and pondered.
+
+
+The thousands of people working to make Sixth Continent a reality had diverse motives. Tae was the axis around which all these motives revolved. Yet it seemed that she herself had multiple reasons for pursuing the project. What she had let slip so far was somewhat different from what she was telling the world in her PR program. What was her true motive? Sohya still did not quite know, and she wouldn’t tell him. He knew there was no point in asking again. She’d tell him when she was ready.
+
+
+The departure buzzer sounded, and the express silently moved forward. Tae wasn’t looking at him now. That was a bit of a worry.
+
+
+
+
+
+
+ADAM 2 AND 3 delivered full payloads to the moon without incident: more multidozers and a unit called a bulk shooter, a linear-induction drive conveyer system designed to hurl excavated soil over the lunar surface. Prepping and paving roadbeds to transport excavated material would delay the project timeline. Hauling regolith would consume large amounts of energy. The most efficient approach would be to move only the material itself. That meant hurling it across the surface.
+
+
+Dozers 2 and 3 worked together to carry the bulk shooter, which was also standardized at a weight of five tons, into Eden Crater. Dozer 2’s power cable snapped partway through the climb over the crater walls, but once in motion, the multidozers were able to electrolyze their internal water supply to make hydrogen and oxygen for their fuel cells. This allowed Dozer 2 to make its way back to the Turtle and retrieve a new cable.
+
+
+The bulk shooter was safely transported to the center of the crater. It threw permafrost excavated by Dozer 2 a full kilometer at forty meters per second. Once solar panels were installed on the crater’s far side, power would be available round the clock. And once the area around the Turtle was ready to receive the material, the plan was to hurl it all the way out of the crater, a distance of two kilometers.
+
+
+The world was transfixed by images of regolith shot through with golden threads fountaining across the lunar surface. Moonrelated fiction flew off the shelves of bookstores, from science fiction by Arthur C. Clarke to works by storyteller Jules Verne, the founder of the genre. Publishers rushed to meet demand with paperbacks and comics, and representatives from Hollywood visited ELE. The world was engulfed in a passion for anything relating to space.
+
+
+Maybe it was because the world was now so interconnected that strife between peoples had eased, armed conflict had diminished, and the money and resources devoted to military aims were seeking somewhere else to go. Maybe it was because the emerging countries had become more skilled at diplomacy that aid to them had increased. Protection and recovery of their still-significant environmental assets had succeeded, and they were able to stand on their own feet economically, so the world as a whole had become more affluent. Maybe it was because China had closed down Kunlun Base two years ago, and people were hungry for the next big thing in space exploration. Maybe it was the dizzying speed with which new forms of entertainment were appearing and falling out of favor. The people of the developed world were waiting for something new to entertain them, and Sixth Continent was the ideal dream.
+
+
+Whatever the reason, Tae’s vision had become the focus of feverish worldwide expectation.
+
+
+But not everyone welcomed the prospect of a wedding palace on the moon—those who had first sent men to another world. Those who had left twelve sets of footprints on the moon, carried out photoreconnaissance of every planet in the solar system, and boastfully regarded it as their territory. Those who constituted Earth’s most elite and ambitious fraternity…
+
+
+As far as NASA was concerned, they had not been beaten yet.
+
+
+
+
+[4]
+
+
+“WHY IS GOING into space so important?”
+
+
+Reika kicked the tops of the little breakers along the beach with her bare foot, scattering a line of droplets across the tide’s calm surface. Then she sneezed. Even on Tanegashima, the December weather was cold.
+
+
+“Because it’s too comfortable here.” Ryuichi took off his jacket and put it around her shoulders. She whispered thanks and put her hand on her shoulder, where his hand was.
+
+
+“What do you mean?”
+
+
+“The earth is too kind to us. She protects us from space so well that we don’t even need clothes. Otherwise we’d be dead.”
+
+
+“We still get colds.”
+
+
+They exchanged smiles and walked on side by side, carrying their shoes and socks, feeling the sand with their bare feet.
+
+
+“I’m thankful for it, but I don’t like being overprotected,” said Ryuichi.
+
+
+“Why?”
+
+
+“I know what happens to people who are coddled too much. My brother was one of them. We came from a pretty rich family. He had three private tutors all through school. He made it into Tokyo University but spent all his time betting on horses and dropped out. He ended up blowing the family’s wealth. I’ve seen firsthand how money comes. Also how it goes.”
+
+
+“I’m grateful to your brother then. Thanks to him, you’re here with me.”
+
+
+“I think we would’ve met no matter what path my life took.”
+
+
+“Is it fate then?” she asked.
+
+
+“No. I would’ve found you somehow.” He held her closer. Reika didn’t want to say it, but at last she had to.
+
+
+“I wish you wouldn’t go. When I think of you going into space…I can’t bear it.”
+
+
+“I want you to bear it. Whatever it takes.” Ryuichi stopped and looked up. Under a winter sky showing a few patches of blue, they could see the cape at Ozaki. “I’ve got to go. Four years ago it was only a dream. Even a year ago I never thought it would happen. But now—there it is.” Ryuichi pointed at the Eve launch vehicle nestled alongside its service tower. Eve’s unusual shape—its bulging upper stage atop a flask-shaped aerodynamic body—had earned it the nickname “the Mushroom.” Forty-one meters in length and 148 tons fully loaded, it was 80 percent as long as the H-IIA with only half the weight, yet it could send ten tons to the moon, five times more than its predecessor.
+
+
+The “mushroom cap” contained TGT’s Apple 3 manned spacecraft, developed jointly with a consortium of Japanese companies including Mitsubishi Heavy Industries, Kawasaki Heavy Industries, NEC, and JAL. The capsule itself, a first for Japan, weighed two and a half tons fully loaded and could carry a pilot and five passengers into space. Improvements in capsule material and ablation shielding allowed it to carry five passengers, rather than the four originally planned. The trip to the moon would be made with the capsule joined to a two-ton habitat module roughly two and a half meters in diameter, a 5.1-ton landing module, an 8.3-ton return module, and two tons of supplies. The total payload was twenty tons and required two Eve rockets. Smaller than the Adam launch vehicle, Eve had been developed specifically for this purpose. Its smaller payload was offset by the high reliability required to carry humans into space. But reliability was only a matter of degree, as Reika knew well.
+
+
+“Apple 1 crashed, you know. The parafoil wouldn’t deploy.”
+
+
+“It was a mess. Too bad. We got it into orbit, but the East China Sea was as close as it got on the way back.”
+
+
+“And you’d still go?”
+
+
+“Apple 2 made it. Ichiro was fine.”
+
+
+“You are not a macaque!” Reika looked up at him with anger smoldering in her eyes. “If I lose you…If we lose you…”
+
+
+“The parafoil’s been redesigned.” Ryuichi held her tight, but his tone was casual. “And Eve’s reliability is 98.5 percent. That’s 5 percent better than Adam. So we lose two out of a hundred. But the capsule has an advanced escape booster to take it out of harm’s way. I’m not going to get killed.”
+
+
+“You can’t bet your life on a few numbers!”
+
+
+“Come on. If I can’t prove that the rocket’s safe, who’s going to do it for me?” Ryuichi’s look softened, and he smiled. “Japan has never flown a manned spacecraft. No paying passenger who knows anything about space development would agree to go under the circumstances. It’s time for me to step up to the plate and bet everything I have. If I come back alive, we’ll hit the jackpot.”
+
+
+“Look at what you’re risking.”
+
+
+“Look at the odds. If they weren’t in my favor, I wouldn’t be doing this. Odds of 98.5 percent isn’t even a gamble. It’s a sure thing. Stop worrying.”
+
+
+“I’ll worry if I want to.” Reika buried her face in Ryuichi’s broad chest. “I know it’s what you love, but I’m so afraid of your recklessness. When you had that fire, I thought my heart was going to stop.”
+
+
+“We’ve done detailed analyses of all the accidents we’ve had. That’s why I’m confident. I know it’s going to be fine.”
+
+
+“Why?” Reika raised her tear-streaked face. “Why do you personally have to go up? You don’t want to build a base, like Gotoba. You’re not tired of Earth like Tae. You have so much left to accomplish here. Why are you so obsessed with going into space?”
+
+
+“I don’t know.” Ryuichi relaxed, as if a weight had been taken off his mind. “I just do. I want to face the vacuum of space. The cosmic rays. I want to tumble in zero gravity. I want to go into the cold, cruel black where there isn’t even a microbe. That’s what makes it worth going. Because it’s cold and cruel.”
+
+
+“But that sounds so crazy. You’re smarter than that.”
+
+
+“So I’m crazy. No, I guess I’m not. Humans are the only life-form that has gone into deep space. Our intelligence got us there. It’s got to be intelligent behavior for a species to enlarge its habitat. I’m a life-form, a human. I’m also a man. I want to extend our habitat—to the moon, to Mars. To the stars if I can.”
+
+
+Reika began to sob. “I just don’t understand that, no matter how often I hear you say it.” She looked up again and kissed him. He grinned playfully.
+
+
+“Astronauts have their own wisdom about this kind of disagreement. There’s something I’d like you to do for me.”
+
+
+“What is it?”
+
+
+“‘You make the custard, I’ll fire the engine.’”
+
+
+“What?”
+
+
+“Apollo 13. Frank Bormann said that to his wife just before a dangerous retrorocket maneuver on the far side of the moon. At least I think he did. My memory might be a little hazy there.”
+
+
+Ryuichi held her close and whispered, “I’m a man. I don’t expect you to understand me completely. It’s impossible. But I’m not abandoning you. Wait for me. I’ll be back. If you do, I’ll have a little bit more to live for.”
+
+
+“A little bit? That’s not enough. I want you to think about me every minute.”
+
+
+“I will. From liftoff to touchdown.”
+
+
+They quietly embraced. Reika’s wearcom beeped. She stepped away from Ryuichi and answered.
+
+
+“This is Reika.”
+
+
+“It’s Tae. Can I talk to you?”
+
+
+“I’m outside. I’ll go back to the office “No, I’ll come to you. I’m close by.”
+
+
+She ended the call. “Let’s get our shoes on,” said Ryuichi. Reika leaned against him as she dried her legs with his handkerchief.
+
+
+“She’s amazing. Scary, sometimes,” said Ryuichi quietly. “She pretends not to know about us, but she obviously does.” Reika blushed.
+
+
+“I remember the look in her eyes when she heard about the rocket.” He helped Reika put on her shoes. “It wasn’t the look of some teenager discovering the wonders of spaceflight. It wasn’t the look someone interested in astronomy or physics would have either. I should know. We get a lot of them at TGT.”
+
+
+“So how did she look?”
+
+
+“Clear-eyed and looking off into deep space. Not the look of an astronaut—they’re always facing toward Earth. This was different, like she wanted to leave the solar system. Frankly, she might be better suited to what I’m trying to do than I am.”
+
+
+“Don’t say that. She’s a very gentle person.”
+
+
+“I know. But that look seems to come from a place of hopelessness. She’s always so distant.”
+
+
+Ryuichi looked up to see a black-coated figure walking gracefully toward them across the sand, as if floating. He spoke quietly. “Aomine is the ops supervisor. They’re close, I hear. I hope he can stand up to her.”
+
+
+“Stand up to her?” said Reika. “It’s not as if they’re on opposite sides. Sohya has a good heart. He’s a little like you.”
+
+
+“Well, it wouldn’t do if they got involved. Don’t you agree?”
+
+
+“Who can say?” Tae was getting closer, and Reika stopped talking.
+
+
+Tae was in her usual monochrome mode: white beret, black coat, white skirt, and black tights. It might have been her preference in any case, but as her public profile had grown, she was becoming more conscious of style. She was known affectionately in the media as the “Oriental moon princess.” Figures resembling her were a hot item in overseas toy stores, especially in the United States and the UK, and Tae had done nothing to stop it.
+
+
+She walked up to them and said evenly, “Are you finished with your walk?” They nodded. “Then let’s head back. You won’t be able to go tomorrow if you catch a cold, Ryuichi. And I’ve got something important to tell you.”
+
+
+Tae and Reika were on Tanegashima to watch the launch. Tomorrow, Eve I would carry Apple 3 into space, and Ryuichi would be a passenger. This would have been almost unthinkable for previous manned space missions. Astronauts normally had to undergo quarantine and training for several weeks before their flight. But the Apple spacecraft was designed to carry untrained passengers. The fact that Ryuichi could take a walk on the beach the day before liftoff was a testament to Apple’s tourist-friendly design.
+
+
+They set off on the walk back to TGT’s offices, Tae leading the way. Ryuichi said, “I think I should apologize. Reika and I have been keeping things a secret.”
+
+
+“No need to apologize. What you do is your business.” Tae’s reply seemed to indicate that she was already aware of the relationship.
+
+
+“I see,” said Ryuichi, intimidated. He hardly felt guilty, but he did feel uncomfortable taking time away from work to be with Reika.
+
+
+“What was it you wanted to talk to us about, Tae?” asked Reika, looking to change the subject. But Tae was silent for some time before she answered.
+
+
+“NASA just held a press conference at JPL. They announced that they’re going to build a ‘moon city’ on the lunar surface. It’s 9:00 pm in Pasadena. They held the press conference late in the evening to coincide with the landing of their first probe.”
+
+
+“A city…” Ryuichi was at a loss. “That’s the first I’ve heard about it. There weren’t any rumors.”
+
+
+“I’m sure there weren’t,” said Tae. “I have a friend at Caltech. He was caught off guard too. They must’ve been keeping it under wraps till they could maximize the impact on our project.”
+
+
+“But how could they keep something so big a secret? A manned mission like that takes years of preparation,” said Ryuichi.
+
+
+“But they were prepared—for Mars.”
+
+
+Ryuichi and Reika were speechless. Tae was icy calm. “And they failed. Martian weather is very unstable. They discovered that a glide landing is much harder to pull off than they thought. Carrying enough fuel to land using retro-rockets would have added a huge amount to their costs. So Mars is beyond their reach, for the moment. But the moon is another story.”
+
+
+“Yes,” said Ryuichi. “It would be easy with the kind of launch capacity they assembled for the Mars mission.”
+
+
+“Right. And people pay more attention to a simple, successful mission than a difficult, failed one. NASA has always been driven by politics. This was the president’s decision. He doesn’t want Asians to overtake the U.S. in space.” Tae laughed cynically and said over her shoulder, “America plans to take their whole Mars exploration mission and convert it into a lunar settlement project. They’ll have some catching up to do, but Congress will probably approve any needed spending. They’ll have to cancel a lot of Mars research plans, but as usual they’ll justify it by saying they’re putting the will of the American people first. America still likes to dream of itself as number one.”
+
+
+“I hope you won’t let this discourage you,” said Reika, running up beside her. “A research base—whether they call it a city or not—is one thing, a wedding palace is quite another. This shouldn’t have any effect on Sixth Continent.” She put a hand on Tae’s shoulder. Tae stopped to look at her.
+
+
+“NASA’s probe landed in Eden Crater.”
+
+
+Reika froze, thunderstruck. Ryuichi felt dazed. This was a declaration of war, pure and simple. Then Reika realized Tae was trembling with laughter.
+
+
+“This is beautiful. They proved us right.” Her large eyes narrowed with glee. She was laughing from deep inside, without a trace of irony, truly happy. She threw her arms wide, as if about to take flight.
+
+
+“We’ll give them a special welcome. Assemble the multidozers! Hang Apple flags from the power cables! Have the bulk shooter throw up an arch of regolith. Give them a proper reception. But,” she said with a wink, “don’t let them beat us.”

@@ -1,0 +1,835 @@
+CHAPTER 1
+
+
+
+
+
+
+
+
+
+
+PROJECT SITE AND INITIAL PLANNING
+
+
+
+
+
+
+[1]
+
+
+A SERIES OF distant booms reverberated through the bridge of the deep submergence shuttle Leviathan. Startled out of a light doze in the rear jump seat, Sohya Aomine opened his eyes. “What’s that?”
+
+
+“It’s a school of anguiras, sir.”
+
+
+The pilot pointed toward the quartz viewport from his seat at the controls. Countless thousands of bizarre fish the size of a finger were swarming up from the depths.
+
+
+“Eel fry, sir. In Japan we only see the adults. They say the breeding grounds are in the Mariana Trench. What are they doing way out here? This is amazing.”
+
+
+The pilot was struck with wonder at the hordes of willow-shaped fingerlings flooding through the cone of light from the ship’s halogens and back into the inky darkness. Sohya glanced around the bridge uneasily. “No, that’s not what I meant.”
+
+
+“I’m sorry?”
+
+
+“Didn’t you hear that?” said Sohya.
+
+
+“They’re striking all over the hull. Sounds a bit like rain, doesn’t it?”
+
+
+“No. There was something else.” Sohya listened closely. The sound that had awakened him, almost like the low-frequency pealing of a temple bell, seemed to have vanished. Or maybe it was back, like a distant echo? Switching his attention momentarily to the shower of fish outside had left him disoriented. “I’m going to have a look aft.”
+
+
+“You shouldn’t miss this, sir. We may be the first to witness it.”
+
+
+“We had to use ultrasound to keep those things away during construction.” Sohya grinned at the astonished pilot and went into the passenger cabin.
+
+
+Leviathan’s forty VIPs seemed to have settled in following the excitement that had prevailed during boarding. Half of them dozed or looked about to nod off. The rest perused magazines or chatted quietly with seatmates. They seemed little different from airline passengers, blithely unaware of the hostile environment just outside the metal walls of the compartment. Everything in the windowless cabin seemed peaceful. With no portholes, there was no view; there would have been nothing to see anyway. Leviathan was two thousand meters beneath the surface.
+
+
+Looking good, thought Sohya with a sense of satisfaction. If this nervous group of VIPs could feel so relaxed, the transition to commercial operation should be trouble free. A group of elementary school students would be hard to keep quiet in this environment, but otherwise the experience seemed unlikely to spark anxiety in the average traveler.
+
+
+Sohya looked toward the rear of the cabin and stopped in surprise. In the last row, at the end of a long line of heads showing above the roomy seats, a small white beret peeked out, almost concealed by the head of the passenger one row forward. A child? What’s going on… Then Sohya remembered that children hadn’t been banned—just not invited, as far as he knew. She must be with one of the VIPs. A thatch of snow-white hair rose above the next backrest. Yes, someone else must have brought her along. Nothing to worry about.
+
+
+In point of fact, there should have been nothing to worry about at all, at least not from Sohya’s standpoint. His employer was Gotoba Engineering & Construction, the builders of Dragon Palace. Sohya did not answer to the five-nation development consortium that operated the undersea facilities and the shuttle subs. Operational safety was the responsibility of the consortium, which at this precise moment meant the pilot. Safety had been a priority in the shuttles’ development and construction long before the first weld. And even had Sohya been prone to worry, he was in no position to fix a mechanical problem under two kilometers of ocean.
+
+
+Still, the twenty-five-year-old engineer could not shake a feeling of apprehension. Sea trials had gone smoothly, and the vessel was no longer his responsibility, but he still felt that this was his boat. In any case, he was not heading for Dragon Palace to attend the soft-launch party. The last inspection before handoff would occupy every available minute of his time. Right now he had a glitch to track down.
+
+
+He refocused his attention and moved slowly down the aisle toward the rear of the cabin. A well-dressed male passenger in the second row—Sohya guessed he was a member of the Philippine delegation—looked up. “When does coffee service begin, please?”
+
+
+“I’m sorry, the soft drinks distributed before boarding were the only service on this run. Drinking water is available anytime.” Sohya gestured to a small dispenser recessed into the seat back in front of the passenger, whose silent frown suggested he had been expecting more than tap water.
+
+
+Sohya continued down the aisle at a measured pace, wondering if bringing stewards would have been a good idea, but in a moment his attention returned to the sonic anomaly.
+
+
+Leviathan’s layout was straightforward: bridge forward, passenger compartment in the center, power plant aft. Nearly all of the ship’s machinery and control hydraulics were contained inside her twenty-one cylindrical meters of high-tensile steel. Two rudder propellers projecting from the stern provided the only source of propulsion and steering. This seamless, primitive shape was required if Leviathan was to withstand the two-hundred-atmosphere overpressures at this depth. Her only means of ascent and descent were the ranks of ballast tanks arranged in three independent arrays—forward, amidships, and aft—along the underside of the vessel. Compressed air injected into the tanks expelled seawater and provided positive buoyancy; drawing water in to expel the air brought the sub lower. Other than the turbopump for compressed air, the sub’s buoyancy system used no machinery of any kind.
+
+
+This streamlined, compact design was not without its drawbacks. Compared to a thruster-equipped submarine, response was slow and pitch control limited at best. The design was adequate for the stable, slow currents of the deep ocean, but three passengers moving forward or aft was enough to affect the sub’s trim. Providing drinking water at the seats would hopefully limit movement about the cabin. Sohya’s leisurely pace was also intended to ease the pilot’s efforts to maintain trim.
+
+
+Sohya was concerned that the sonic anomaly he heard might signal a design flaw. Gotoba Engineering had acquired the basic design for Leviathan and her sister ships—Kraken and Sea Serpent—from Mitsubishi Heavy Industries, with modifications and design enhancements implemented during construction. The original plans were meant for shallow-water undersea tourism at one hundred meters or less. For deep submergence, passenger viewports were eliminated, and the hull material was switched to the same dependable high-performance alloy used in the outer shell of the Palace domes. The real challenge was building a compressor capable of forcing air into the ballast tanks at ambient pressures far greater than those near the surface. A solution was finally found by licensing hydrogen-turbine technology developed for rocket engines.
+
+
+The Mitsubishi engineer assured Sohya that the turbine design had been verified by multiple tests to destruction (in other words, explosion) and was thoroughly reliable. Sohya was not completely convinced. In fact, compressor problems had detained Leviathan in port for three hours today after her sisters departed.
+
+
+Still, even if they were actually forced to halt and wait on the sea floor, two identical vessels were available for rescue operations. The passenger compartment was designed as an independent unit; no critical power or control circuits were routed through that section of the boat. A blue whale could rest on the compartment without causing a leak. Whatever the origin of that sound, it was not a matter of life or death—at least in theory. But Sohya could not afford to be complacent. He knew too much.
+
+
+Only one man-made structure is fail-safe: the structure no one builds. Any existing structure is inevitably subject to failure. Years earlier, Sohya had heard an English automotive engineer drily make this observation, and with these words echoing in his mind, he reached the rear of the passenger compartment and the door to the aft service area.
+
+
+As he put his hand on the latch, he was stopped by a pure, high voice, like the strings of a harp.
+
+
+“I saw the sound. Right here.” He glanced down to his right. A pair of sparkling round eyes, like a puppy’s, met his.
+
+
+It was the girl. Her large pupils in the shadow of long lashes were calm, open, and direct. Straight black hair flowed out from under her beret, framing smooth white cheeks and falling almost to her waist. A black sailor jacket with a broad white collar, a white flared skirt, ankle socks, spotless loafers. The overall effect, down to the beret, suggested the uniform of some private academy. She sat with knees aligned, one small, balled fist resting on them. To all appearances, a girl of good family, perhaps twelve or thirteen years old.
+
+
+Sohya took three of the five seconds of silence that ensued to observe and draw conclusions. The other two seconds went into analyzing the girl’s statement, but he still had no idea what she might mean.
+
+
+“What’s this all about?” he answered at length. The girl pointed to the water dispenser with a graceful flick of the finger.
+
+
+“I saw the sound right there.”
+
+
+“What sound?” Without thinking, “What sound?” Without thinking, Sohya had raised his voice. He glanced quickly around. None of the passengers seemed to have noticed. He leaned forward and said quietly, “What kind of sound did you hear?”
+
+
+“Booming sounds. Like someone kicking an empty oil drum.”
+
+
+“Why are you telling me this?”
+
+
+“Oh…didn’t you leave the cockpit because you saw it too? You came back here right after it happened.” She looked down at the floor, contrite, but Sohya nodded. The timing matched. She must have heard the same sounds. He hadn’t imagined them.
+
+
+“Look, thanks for letting me know. Do me a favor, okay? Let’s not tell anyone.” He started to enter the service compartment but was stopped again, this time by the old man.
+
+
+“Just a minute, my friend. I don’t think my granddaughter is finished yet.”
+
+
+Sohya winced. “I’m sorry, I’m really in a hurry.” The old gentleman had a neatly trimmed white beard to match his thick hair and was dressed in a white three-piece suit accented by a red bow tie. He reminded Sohya of the life-size mannequins found outside a certain chain of fast food restaurants in Japan. As if to complete the effect, the old man was wearing the right sort of heavy, blackframed glasses. Despite his somewhat loud attire, he had an air of refinement similar to the girl’s.
+
+
+Sohya hadn’t changed his tan Gotoba work jumpsuit in three days and was starting to feel a bit out of place. But this was no time to defer to wealth. “I’ll come back when I’m done and you can tell me all about it.”
+
+
+“Now look here, young man. This little girl’s ears are quite sharp. Or shall we say, her sense of pitch. Either way, it will pay to hear what she has to say. You have my personal guarantee.”
+
+
+“I’m not sure who I’m speaking to here, but—”
+
+
+The man cut him off. “Go on, Tae. You heard something that worried you, isn’t that right?” He gave her hand a squeeze. Sohya felt himself sliding toward a confrontation when the girl spoke up.
+
+
+“Grandfather, don’t be so insistent. I think this man has important business to take care of.” She lowered her eyes timidly again. Now Sohya was trapped. He sighed and squatted next to her seat. “Okay, I’m listening.”
+
+
+“Very good, young man. A true gentleman always bends to the requests of women.”
+
+
+“Don’t preach, Grandfather,” said the girl. Then to Sohya: “Thank you. I know you must be very busy.”
+
+
+He bowed slightly, caught up in the formality. Then something the girl had said struck him. “You said you saw the sound, not heard it. What did you mean?”
+
+
+“Of course I heard it. But I saw the little faucet shake too.”
+
+
+Sohya stared at the push-button water dispenser in front of her. Below the faucet was a simple cup tray. The faucet operated only with a cup in the tray, but water would continue flowing as long as the button was depressed. The system was not protected by an antivibration compensator. But why would it be? And why would the faucet move enough to be visible to the naked eye?
+
+
+“Do you see it shaking now? The ship’s drive makes things vibrate a little too, you know,” said Sohya.
+
+
+“No. That’s different. When I heard the sound, the faucet shook ever so slightly.”
+
+
+“Are you sure?”
+
+
+“I’m sure. I know what I saw.” Tae peered at him intently. For a few moments, Sohya searched his mind for an answer. The pipes feeding the water dispensers extended under the compartment floor into the rear service area. From there they junctioned to a pipe that rose to the ceiling, where the water tank was installed. There was no pump, no control valves—the whole system was gravity fed. To simplify sanitation maintenance, the pipes were separate from the electrical conduits and climate-control systems. If some sort of impulse were traveling down those pipes, it meant the tank was involved.
+
+
+Sohya turned this over in his mind. The water tank…how did we implement that, anyway?
+
+
+Mitsubishi’s original shallow-depth plans had storage for a communications buoy where the water tank was now located. When the boat was submerged, the buoy would float topside on a cable tether, giving the pilot a communications link to the sub tender. This was not an option for Leviathan, which had to be capable of dives exceeding two thousand meters. Instead, a compact, ultra-low-frequency transmitter was installed on the hull, making communication possible even in the depths of the ocean.
+
+
+So the tank was installed where the buoy was originally going to be stowed. Was that the problem?
+
+
+As he considered the possibilities, Sohya froze. There would be some space between the buoy and the compartment walls—enough to accommodate a tiny amount of compression when submerged. At two hundred atmospheres of overpressure, even the ultra-highstrength steel hull would shrink by a few percent. All interior compartments and fittings were designed to take such shrinkage into account.
+
+
+The tank was attached to the pressure hull. That meant hull shrinkage would directly affect the tank, and the system did not incorporate control valves. There was no overflow outlet. So the tank design did not allow for significant pressure shrinkage; but that was not a flaw. With a bit of free air space in the tank, the pressure would be neutralized.
+
+
+Still, there was no operating protocol in place for limiting the amount of water in the tank. And if the tank were filled completely…
+
+
+His thoughts were cut off by a shout coming from a few rows forward. “What the hell?!”
+
+
+The next moments passed in slow motion. Sohya sprang to his feet and ran. The problem was no longer theoretical. He could hear water gushing under high pressure before he reached the seat of the well-dressed man who had asked for coffee. Perhaps the passenger had decided water would be better than nothing at all; in any case, the moment he pushed the dispenser button, the cork was out of the bottle. Sohya yelled back, “Don’t take your thumb off the button! Keep pressing!” At the same time, he reached out for the nearest water dispenser. But he was too late.
+
+
+“Damn!” The passenger took his thumb off the button. A sharp bang immediately reverberated through the compartment—exactly what Sohya had tried to prevent by opening another escape route for the pressure. Water hammer!
+
+
+Bringing the surging water to a sudden stop created a highpressure shock wave that propagated throughout the plumbing system in seconds. That transient spike was far outside the design limit of the dispensers. In the next instant, forty faucets in forty seat backs blew out of their sockets, spewing like fire hoses. The compartment was instantly plunged into pandemonium. Some of the passengers tried to escape by climbing up on their seats. A few were literally blown into the aisles as they tried to stand up. Sohya shouted, “Keep calm! We’re not flooding!”
+
+
+No one paid attention. The screaming, praying, and terror continued unabated. He rushed back aft. The girl was holding on to her beret with one hand and trying to divert the water with the other. He reached out to her. “You okay?”
+
+
+“Yes. My clothes are soaked, but I guess this is one way to do the laundry.” She tugged at the hem of her dress and forced a smile. Her unflappable demeanor in the midst of this confusion was contagious. Sohya grinned.
+
+
+“You’re cooler than you look. You think this is the way to do laundry?”
+
+
+“Not with seawater. But it’s fresh…”
+
+
+Sohya was thunderstruck. A bizarre inspiration flashed through his mind. He turned to the compartment and bellowed:
+
+
+“Drink it!”
+
+
+Instant silence. Some of the VIPs stared at Sohya as if he were crazy. He seized the opening.
+
+
+“Go ahead! It’s not salty. It’s drinking water. We’re not flooding!” A few of the passengers unfroze and began hesitatingly scooping water into their hands.
+
+
+“He’s right!”
+
+
+“It is fresh water!”
+
+
+“So what’s going on? Did someone light up?”
+
+
+“No sprinklers on board,” said Sohya. “Just a plumbing problem. Naturally, smoking is still prohibited.”
+
+
+With this attempt at humor, Sohya managed to gain everyone’s attention. He explained that the water tank had overflowed. With only fifty liters in the tank, the water would soon stop. Since the weight of the water was merely shifting from one place to another, buoyancy would be unaffected.
+
+
+Sure enough, as he was speaking, the flow of water slowed and stopped. The passengers began to calm down. They were distinguished representatives from companies and countries around the world, and no one made a fuss once it was clear there was no danger—other than the one complaint Sohya was expecting.
+
+
+“I went all the way to Savile Row for this suit. Will I have to ruin a four-thousand-euro suit whenever I use this shuttle?” Again, the coffee service guy. Sohya was appropriately apologetic and promised to ensure that compensation would be made.
+
+
+Once the passengers had calmed down, Sohya went to the service compartment. A shock strong enough to blow off the faucets would not have affected the pressure hull, but the tank had to be checked. As he passed the last row, Tae’s grandfather spoke up.
+
+
+“Mind if we take a look?”
+
+
+“Be my guest,” Sohya answered stiffly. He was not used to looking after passengers but was too tired to object. He opened the door to the service compartment and walked past the circuit boxes and CO2 scrubbers toward the back of the small room. He stared up at the tank. It was a simple sheet metal box, but the sides had ballooned outward, as if something had detonated inside it. Tae stood next to him, gazing up and nodding. “So that noise was the sound of this box expanding. I’m sorry,” she said.
+
+
+“For what?”
+
+
+“I should have told you sooner. Then no one would’ve gotten wet.”
+
+
+“You don’t have to apologize. I should’ve at least tried to make sure you didn’t get wet.”
+
+
+“No need to take it so hard,” said the old man. “You’re not one of the crew, are you?”
+
+
+“No. I’m with Gotoba Engineering. We built Dragon Palace and the three shuttles.”
+
+
+“Then this isn’t your problem. Well, no—I guess it is. But it’s not important. You handled the situation perfectly. ‘Drink!’ That was a stroke of genius. ‘Drink!’” The old man laughed briefly. “And your name?”
+
+
+“Sohya Aomine. I work for Gotoba’s Engineering Task Force.”
+
+
+“I’ll remember that. Let’s be going, Tae.”
+
+
+“Yes, Grandfather.”
+
+
+The old man took the girl’s hand, and they headed for their seats. Sohya called after them, “I’m sorry, but who are you?”
+
+
+“Oh, you’ll see us again soon enough. Who we are isn’t important right now. Perhaps you’d better get your passengers some towels?”
+
+
+This obvious measure had escaped Sohya completely. He hurriedly returned to the passengers to explain how to access the blankets under their seats. Back on the bridge, he met a barrage of questions from the pilot, who had had to stay at the controls throughout the entire incident.
+
+
+By the time Sohya finished his explanations, Leviathan’s navigation lights had pierced the darkness to reveal a number of gigantic egg-shaped domes laid out in a geometric pattern on the ocean floor. It was Dragon Palace, the multipurpose undersea city of the Spratly Islands.
+
+
+
+
+[2]
+
+
+TWO THOUSAND KILOMETERS south of Japan, in the South China Sea between the Philippines and Vietnam, an archipelago of more than 650 reefs, atolls, and islands lay like pebbles scattered across the ocean surface. Since the end of World War II, the Spratly Islands had been the focus of a struggle for territorial rights between China, Taiwan, Vietnam, the Philippines, and Malaysia.
+
+
+The prize at stake was not the insignificant bits of land peeking out above the sea. It was the vast, deep-ocean oil fields in the surrounding waters. The islands had been used as an anchorage since the time of Ming dynasty Fleet Admiral Zheng He, and China’s territorial claims were the most insistent. The Chinese had surveyed the area and estimated that it held as much as two hundred billion barrels of oil, nearly as much as Saudi Arabia’s known reserves. In fact, since the end of the twentieth century, Malaysia had been producing millions of cubic feet of natural gas every day from offshore platforms. That enormous treasure lay beneath these waters was a certainty.
+
+
+During the first two decades of the twenty-first century, oil had become increasingly precious, and friction between the five nations surrounding the Spratlys had intensified. They began competing to build structures on the islands, and occasional exchanges of gunfire erupted between rival patrol boats. In 2018, after eighty-five crewmen died when a Chinese frigate exchanged fire with a Philippine missile cruiser, the five nations decided the situation had become too dangerous.
+
+
+By this point, the overall international political climate had turned toward reconciliation and cooperation. The wars between the United States and the Islamic world during the first decade of the century had subsided after an undignified American retreat forced on the president by public opinion. Since then, use of military force in pursuit of national aims had fallen out of sync with the international political climate. No matter how great the value of the Spratlys’ oil, the idea of going to war over it was unacceptable. The five nations agreed to set aside long-held grudges and find a path to peaceful cooperation. They formed a joint consortium to develop the Spratlys, and after casting about for a way forward, they agreed to start with a joint construction project that had no connection with resource exploitation. The project would serve as a symbol of their commitment to avoid armed conflict.
+
+
+The consortium issued a call for competitive submissions from urban planners and civil engineers around the world. Proposals ranged from amusement parks and resorts to a peace memorial, a network of enormous spans to link the islands, and even an eight-hundred-meter observation tower looking out over mostly empty ocean. The winning proposal was Dragon Palace, Gotoba Engineering’s vision of a multipurpose undersea city.
+
+
+Officially, there were two reasons for choosing Gotoba. Because of the islands’ stunning coral atolls, many of the proposals related to tourism. But the Gotoba plan was unique in combining surface recreation with an undersea leisure facility. As Gotoba’s planning division put it: “Close by the shallow waters surrounding the islands, the continental shelf drops off to a depth of two thousand meters. Along with the coral and aquatic life of the atolls, these deeper waters contain rarely seen abyssal fauna. Research into these little-known life-forms can only be carried out here.”
+
+
+The second reason was that the undersea facility could be useful for surveying the sea bottom. In addition to the three passenger shuttles, Gotoba’s plans for Dragon Palace included a long-range commercial exploration sub. The combination of undersea base and exploration sub would allow detailed exploration of seabed resources, an endeavor difficult to coordinate from the surface.
+
+
+There was also a hidden agenda behind the Spratly Islands Development Consortium’s selection of Gotoba’s proposal: the desire to exclude Western companies, which submitted more than half of the proposals, from any involvement. Even if they could no longer rely on military power to help enforce the spread of globalization, the West was still wedded to the old economic strategy: seize any opportunity to tie national markets into a global network for the ultimate benefit of a small number of investors. To combat this, Japan was the perfect partner—a diplomatic superpower that had abandoned its experiment with militarism, had preserved its constitutional commitment to peace, and was strictly neutral. Construction had begun in 2021. The project had three main components. The first, subject to careful environmental assessment, was expansion of the diving resort on Swallow Reef to accommodate more tourists and researchers. The second component was mooring facilities for the shuttle subs, complete with a floating dry dock. Finally, the undersea city: seven thirty-meter domes, two kilometers down on the seabed and five kilometers off Swallow Reef.
+
+
+Once construction began, another reason for choosing Gotoba Engineering became clear to the consortium: no other company could have handled the job.
+
+
+Drawing on the expertise of engineers who had precisely positioned the anchorages for the world’s longest suspension bridge in the fast-flowing currents of Japan’s Inland Sea, Gotoba’s engineers placed the six-hundred-ton footing blocks for the domes on the seabed without breaking a single stalk of coral. In a mere six months, they completed the floating dry dock for maintenance and repair of Leviathan and her sisters with components and materials sourced exclusively from the consortium partners, accommodating their different languages and commercial customs in the process. To oversee this task, Gotoba tapped a maritime logistics expert who, during the Persian Gulf War, had managed the routing of tankers from the North Sea and the Gulf to Japan without delaying a single liter of oil.
+
+
+But the real tour de force was the placement of the seven domes on the seabed. The domes were built in Japan, sealed, and towed all the way to the Spratlys. The sight of these enormous concrete structures moving through the ocean like icebergs was unforgettable. But when Gotoba’s handpicked team deployed a five-thousand-ton sea crane to place the domes on their footings with an accuracy of fifty centimeters—controlling everything from the end of two kilometers of cable—the consortium knew it had witnessed a superhuman feat of engineering. After the two-week operation was completed, Gotoba’s project supervisor just smiled. “The submerged tube tunnels in Tokyo Bay became our reference point. Those tubes were laid over the Yurakucho Layer. That’s softer than tofu. We had to take our competitor’s senior engineer out to the best club in Ginza. The evening cost us a fortune, but what he told us was enough to tweak our approach.”
+
+
+Gotoba Engineering & Construction Co., Ltd. What sort of entity was it? How did it assemble such a crack team of engineers? How did it develop its techniques? As the rest of the world began to sit up and take notice, people were astounded at what they discovered.
+
+
+Gotoba was behind the enormous Sahara Regreening Sector project—complete with an artificial precipitation generator—in a region where year-round humidity stood at zero. Gotoba erected the pitchblende refining facility for uranium extraction on Antarctica’s East Ongul Island, where temperatures fell below minus forty degrees. They designed and built the year-round Upper Atmosphere and Cosmic Ray Observation Facility on the Abruzzi Spur of K2—the world’s second-highest peak, in the Karakoram—with a twenty-five-kilometer aerial tramway access system that boasted a 4,400-meter free span between ropeway towers, the world’s longest. In the field of extreme-environment engineering projects, Gotoba was matched by no organization on earth.
+
+
+The company’s president was fifty-seven-year-old Takumichi Gotoba. Born toward the end of Japan’s high-growth era, he majored in earth science at Kyoto University. In the early 1990s, during the heyday of Japan’s economic bubble, he joined a top construction firm. After working on planning for some of the futuristic projects that were so commonly proposed in those heady days, he quit and spent the next three years networking a broad range of movers and shakers inside and outside the industry.
+
+
+In 2000, he founded the company that bore his name. Since then, this brilliant manager had applied his formidable expertise in civil engineering and applied technology, as well as his carefully nurtured personal connections, to build a leading specialist construction company in a mere twenty years.
+
+
+As Dragon Palace approached completion, it came to light that the Taiwanese representative for the Spratly Islands Development Consortium had known Gotoba well during his days as a foreign student in Japan—they had bunked together in a tiny apartment for two months because the man was penniless. This fact was kept out of the papers, but no one in the consortium viewed it as a conflict of interest. It was obvious that Gotoba Engineering was the only entity capable of carrying the project to a successful completion.
+
+
+Now Dragon Palace, a symbol of five nations’ desire for peace, was about to go into operation far beneath the South China Sea. The next chapter in the Gotoba saga was about to begin.
+
+
+
+
+
+
+LEVIATHAN QUIETLY SETTLED into the docking trench in the seafloor below Dome I, the gateway to the complex. The sub’s two-hour journey ended when sixty air lock bolts snapped into place around its debarkation hatch. Submersible robots moved around the ship, examining the hull. Eventually, shuttles would be able to use an air lock dock in Dome VII, which was still being outfitted. This would allow manned maintenance at normal atmospheric pressure.
+
+
+Sohya was first off the sub. He hurriedly briefed the waiting hospitality representatives—all in Hawaiian shirts to add to the resort atmosphere—on the unwanted cold shower the guests had just endured and ensured they would have first-class treatment at check-in. Then he quickly left. He had much more on his plate than leis and towels.
+
+
+First he buttonholed one of the shuttle operations personnel to inform her of the incident. Next he visited the tourism manager to describe the unusual sighting of eel fry on the way to the complex. Then he made his way to the environmental control room to request a manned inspection of Leviathan by surfacing the boat ahead of schedule in Dome VII. But he was rebuffed by the supervisor on duty, who objected that there was not enough atmosphere in the dome to carry out the procedure.
+
+
+All three subs faced the same danger, but the best way to address the problem was to carefully inspect the vessel where the problem occurred. Sohya’s background was architectural engineering, but since joining Gotoba, he had been force-fed a wide range of knowledge from other engineering disciplines, and he knew that a submarine was a structure with a far lower safety index than a building. A well-designed building might be immediately usable after a major earthquake, but a submarine was different. He was determined to perform an inspection.
+
+
+As he argued his case with the Malaysian supervisor, they were joined by Takasumi Iwaki, a short, tough-looking middle-aged man wearing a Gotoba uniform. He said brusquely, “Where’ve you been, Aomine? I’ve been looking all over for you.”
+
+
+“Mr. Iwaki, we have a problem. The water tank design is flawed. I want to do a visual inspection of the hull.”
+
+
+Iwaki was the head of Gotoba’s Special Projects Task Force and Sohya’s boss. The task force was a standing unit responsible for assembling and managing specialists from other departments for unusually challenging projects. Though it was small and independent, the task force held division status, and its members were known as Gotoba’s “shock troops” for their rapid-response capability. As chief, Iwaki was naturally endowed with formidable intelligence. After hearing the bare details of the problem from Sohya, he nodded and raised his wrist to tap out calculations on the touch panel of his wearable computer. After a few moments he looked up.
+
+
+“We brought one of the power units down early. The electrolytic oxygen generator is already in place. Use the spare power to generate atmosphere and get the rest of the water out of the dome. Keep the O2 tanks in reserve. It’ll take you twelve hours, but the VIPs are spending the night anyway.”
+
+
+The environmental control supervisor started sputtering. “Are you sure? We aren’t scheduled to run the full power output test till just before oil exploration starts. If you do it now, you’ll scramble my whole timeline.”
+
+
+Iwaki stared at him calmly. “Better to get it out of the way. It’ll make things easier later. Just move your timeline forward.”
+
+
+“But that will throw us out of sync with the entire—”
+
+
+“It’s fine. I’ve already reconciled the plan.” Iwaki held out his wearcom for the supervisor to see. The man groaned.
+
+
+“Okay, everything fits. But the plan has more than two thousand dependencies. How…?”
+
+
+“Gotoba knows how to handle changes on the spot. This is routine. Leave it to us. All you have to do is follow the revised master plan and open Dome VII.”
+
+
+The supervisor pulled out his phone—Iwaki had already emailed him the new timelines—and began contacting his counterparts in Materials Supply and Operations. Iwaki pointed to the exit. “I’ll handle this. Better get moving.”
+
+
+“To Dome VII?”
+
+
+“No. Dome V, the theater. The president’s looking for you.”
+
+
+“Gotoba?” Sohya gulped. “What does he want with me?”
+
+
+“I didn’t know before, but I do now. It must be about your little incident. Just be careful.”
+
+
+Sohya gulped again. “Okay.” He hurried toward the tube that gave access to the other domes.
+
+
+The theater on the first floor of Dome V was the largest single space in the complex. As the name implied, its main purpose was for screening films, but it could also be used for staging plays, as a restaurant, or as an event space.
+
+
+Today the theater was hosting a party to celebrate the completion of major work on the complex. Sohya and Iwaki still had a daunting amount of work ahead of them, but the hotel dome, deep-sea aquarium dome, and convention dome had already begun operations. As he walked into the theater, Sohya saw more than a hundred guests from the consortium nations enjoying a stand-up meal. Some of the passengers from Leviathan were there too. Apparently the hotel’s express dry cleaning services were up and running.
+
+
+Sohya spotted Gotoba almost immediately. He was standing in the center of the room, a broad-shouldered, vigorous-looking man with a drink in one hand. When Sohya saw him with the old man and the little girl from the shuttle, he understood why Gotoba was looking for him.
+
+
+Since joining the company, Sohya had spoken to the president scarcely half a dozen times. He nervously fastened the top button of his uniform and approached.
+
+
+“Mr. Gotoba? I’m Aomine.”
+
+
+“Ah, there you are.” Gotoba smiled at him broadly. Sohya did not relax. The president was known for putting people at ease before suddenly lowering the boom. Rumor had it that real praise was dispensed with a word or two and little expression; that was when you knew he really meant it.
+
+
+“Mr. Toenji here tells me you showed some quick thinking on the shuttle today. I’m proud of you.”
+
+
+“Thank you,” Sohya answered.
+
+
+“Do you have a solution worked out?” Gotoba was still smiling, but Sohya sensed that a casual answer would not do. He paused, then said calmly, “A temporary overflow outlet to limit the level of water in the tank. These will be installed on all three vessels right away. Once the shuttles are on the surface, we’ll add proper drain-pipes and pressure gauges, followed by another round of sea trials.”
+
+
+Sohya thought that would be enough, but Gotoba’s expression did not change. He was a scientist as well as a businessman. Clearly Gotoba had an answer of his own already. Sohya hurriedly added, “And before we leave, we’ll upgrade all the insulation on the nearby circuits. The water from the overflow outlet could cause a 220-volt short. That would be hazardous.”
+
+
+“Yes, that should do it.” Gotoba cocked an eye at Sohya and nodded expressionlessly. So the rumor was true. A moment later Gotoba’s jovial expression was back. He turned to the old man. “See? Everything’s under control. No need to worry about the trip home.”
+
+
+Toenji smiled. “Goodness, we’re not worried,” he said with a casual wave of his hand. “I’ve heard about your company and its achievements. It seems the reputation is well earned. The most advanced technology, the best people. If that’s the case, I might even be able to use you.”
+
+
+“Well, thank you for that,” Gotoba replied with a smile. “What did you have in mind?”
+
+
+“Oh, it’s right up your alley. I need you to build me a structure. Very difficult location. Only Gotoba Engineering can handle it.”
+
+
+“What kind of location? We’ve worked in blistering heat and freezing cold, at high altitudes where a man can hardly breathe, and deep in the ocean under crushing pressure. I was looking forward to a slightly less challenging setting for our next project,” Gotoba said, still smiling.
+
+
+“Then I’m sorry. My project has all of those things.” Toenji seemed to be joking, and Gotoba was about to repay the favor when he noticed the old man’s eyes twinkling strangely.
+
+
+“All of them?” asked Gotoba.
+
+
+“Correct. Temperature from minus 120 to plus 160. Atmospheric pressure, oh, a hundred-billionth of that at sea level. It’s the kind of place where I’ll need your help.”
+
+
+“I don’t understand.”
+
+
+“Tae?” Toenji looked down at the girl, who was holding a glass of orange juice. With her free hand, she pointed at the ceiling. “There!”
+
+
+They all glanced up. The ceiling was fiber-reinforced concrete, with a blown ceramic surface. Gotoba and Sohya were baffled.
+
+
+“The moon.” Toenji smiled, as if enjoying a particularly choice joke. “Care to consider it?”
+
+
+Gotoba and Sohya stared at each other, speechless.
+
+
+
+
+[3]
+
+
+THE DOOR OF the airbus opened. From the moment Sohya stepped out onto the moving walkway, he was immersed in hot, humid air and the faint smell of foliage. Light perspiration immediately started under his long-sleeved shirt. He murmured to himself, “Summer in Japan…”
+
+
+“Huh?” said Iwaki, a few steps ahead of him. He looked back at Sohya, who was wiping the nape of his neck with a handkerchief.
+
+
+“The smell. The humidity. I notice it every time I step off the plane. It’s nice to be home, but it’s not exactly Swallow Reef, is it?”
+
+
+“You smell something?” answered Iwaki. “You’re pretty sensitive.” He began sniffing the air intently. Sohya walked past him toward Customs and Immigration. Maybe the smell was a trick of his senses, but the air enclosing him was like a steaming towel. The only other place he’d encountered this kind of humidity was the Amazon.
+
+
+He felt the sense of homecoming again at the immigration gate, which was little different from the wicket in a train station. Armed security personnel were a thing of the past. Japan had managed to break free from the endless economic competition between Asian nations that had reigned during the late twentieth century. It maintained its primacy in industrial technology through national commitment. There must have been hidden broad-spectrum cameras, metal detectors, and other high-tech observation devices all over the airport. But to the eye of the visitor, there were no heavyhanded security arrangements. Even though the world as a whole had become a much safer place, the atmosphere around the gate struck Sohya as especially peaceful.
+
+
+“Eyes, please.” The immigration officer leaned out of her glass booth at the gate and held a device like a cordless shaver in front of Sohya’s face. The device trilled softly as it scanned his retinas, and an ID number came up on the display in the booth. The officer glanced at the screen, pulled Sohya’s passport from the slot below the display, and held it out with a smile. “Welcome home.”
+
+
+The whole procedure was almost as simple as buying something in one of the convenience stores that used to dot every city block in Tokyo, but Iwaki always bridled at the inefficiency of it. Over Sohya’s shoulder, he muttered, “Airports should catch up with the times. When I ride the train, all I do is walk through a gate, a high-resolution camera scans my face, and the fare comes out of my account.”
+
+
+“Not good enough for an airport,” said Sohya. “Those systems miss one or two faces in a thousand. Japan Rail loses a few yen, but in an airport it could mean missing a terrorist or letting someone enter illegally.”
+
+
+“A human can recognize a face even if the traveler shaves his head,” added the officer. “And we don’t malfunction. Eyes, please.” She held the scanner up before Iwaki, who muttered that machines make mistakes because the people who build them make mistakes.
+
+
+“And that, Takasumi Iwaki, is why we use machines and people here. Have you lost a little weight?” The officer looked from Iwaki to the video in his passport. Iwaki frowned. “Too much spicy food.”
+
+
+The officer smiled. “Welcome home.” She held out the passport.
+
+
+“See? People are necessary. Who wants to be greeted by a machine?” quipped Sohya, and turned to the officer. “Is the air conditioning down? It feels like thirty-two degrees in here.”
+
+
+“It’s cold in the plane. We’re at twenty-nine degrees. If it hits thirty, the air conditioning comes on. We apologize.”
+
+
+“So it’s like this outside?” pressed Sohya.
+
+
+“Yes, we’re just using the ventilators. Mustn’t waste energy. Next, please.”
+
+
+Sohya exited the gate, slightly surprised. So the smell was coming from outside after all. It suddenly occurred to him that he’d always passed through this airport in winter. The winds blowing off China washed gently over New Haneda International Airport, floating in Tokyo Bay off Odaiba.
+
+
+The men picked up their baggage and headed for the monorail station, but the walkway to the platform was blocked by construction. They stepped outside the terminal. Sure enough, the temperature difference was negligible. Paradoxically, the roar of jets arriving and departing from the airport’s two runways almost made it seem cooler.
+
+
+Looking northwest toward the center of the city, they saw what appeared to be a forest of gigantic, moss-covered tombstones topped by flashing red aerial warning beacons. Beginning around 2015, the practice of sheathing high-rise buildings with living vegetation had become widely popular. In addition to cooling the urban heat island and improving energy efficiency, people seemed to like the unusual, beautiful effect.
+
+
+Sohya and Iwaki walked the short distance to the monorail platform.
+
+
+“It’s not just cool today, is it? They’ve basically shut the air conditioning off in the terminal. Global warming is trailing off,” said Sohya, impressed.
+
+
+“Here and around the world,” answered Iwaki. “It was like this when we changed planes in Hong Kong.”
+
+
+“Climate change was such a big deal when I was little.”
+
+
+“Yes, and because of that things are getting better now. We helped out too, with the Sahara project.”
+
+
+“It would be great if we made a difference,” replied Sohya. They boarded the monorail. As the train pulled out of the station, the enormous spaces of Tokyo’s waterfront spread out before them.
+
+
+The construction industry had changed profoundly in the past two decades. Before, construction companies had built buildings, erected bridges and dams, and laid endless miles of asphalt. Nature’s domain was carved away, and the human domain expanded ceaselessly. As often as not, self-interest was behind all this development: the interlocking networks of influential people who depended on the profits from construction made sure that it continued unabated.
+
+
+But that mindset had changed. Of course, the human domain had to expand. Global population growth had slowed, but people in the developing world were seeking more space and a higher standard of living. To give people a better life, farmland, factories, and modern homes continued to be necessities.
+
+
+Still, construction did not just mean replacing nature with the man-made. The construction industry had the potential to enlarge nature’s domain as well. The Sahara project was just one example. Gotoba Engineering had planted huge numbers of drought-resistant plants such as eucalyptus trees, then built a rain-generation facility for irrigation. Today the Sahara was slowly reverting to what it had been before the construction of the pyramids: a vast green region. Some of the inhabitants disliked the new, more humid climate. But across the globe, the flora and fauna that mankind had begun exterminating four millennia ago were beginning to rise again.
+
+
+This restoration of the planet was not just taking place far from human habitation. It was promoted in the middle of large cities. Sohya watched the metropolis moving past as the monorail slid along, suspended in the air. Houses, buildings, warehouses, and factories were covered with lush foliage. Water-retaining polymer sheeting was widely used as a covering for roofs and walls. It was cheap and durable, and it protected the underlying structure against moisture. And thanks to a well-conceived system of government subsidies for such technology, the polymer was widely used. Protruding from the greenery at uniform intervals were rank upon rank of glittering, silvery purple mirrors pointing toward the southern sky—photovoltaic panels. With an efficiency of better than 50 percent at the earth’s surface, these panels provided energy at less than nine yen per kilowatt hour—cheaper than power from an oil-fired power plant—and had become as widespread as foliage sheathing for buildings. Gotoba Engineering did not engage in residential construction, but virtually no structure was built without solar panels.
+
+
+Political reform had accelerated the industry’s transformation. The biggest change was the elimination of fixed electoral districts. Instead of standing for election from defined regions, candidates for the national Diet ran as representatives of local communities. Campaign pledges were posted on the web, and the entire nation voted on each candidate. Regional politics was left to local government instead of the central government using the power of the purse to meddle in local affairs. National office meant responsibility for national issues and diplomacy. Most politicians who relied on personal and financial connections lost their seats, and this led to the extinction of the old construction industry’s vested interests and its struggle to gain advantage by backing handpicked elected officials. Politicians who used the industry to funnel funds for wasteful construction to the countryside disappeared from the scene.
+
+
+Old-school construction companies were unable to survive amid the changes. One after another they went bankrupt. At the same time, environmental and technology projects and the revolution in energy production meant the construction business was healthier than ever. Nimble start-ups able to ride this new wave had grown into large concerns. Gotoba Engineering was one such company. Today, Japan was in the midst of an economic growth renaissance.
+
+
+Since the completion a year previously of the Edogawa Riverbed Renewal project, which facilitated the treatment of wastewater with microorganisms, the waters of Tokyo Bay had reverted to their original crystalline blue with startling speed. As Sohya gazed out on the sparkling waters, he was struck by how bright the future seemed. Yes, life was good.
+
+
+Yet, something about the current era smacked of stagnation. Sohya remembered the speech Takumichi Gotoba had given the new employees when he joined the company: construction is progressive. Harmony with nature? By all means. Restoration of the environment? Very necessary. But ultimately, construction means creating the new. Past generations had used this power in a way that harmed the planet. This generation would use that same power to repair the damage.
+
+
+But what about generations to come? Would they be as active in maintaining and tending the biosphere? If every corner of this little planet were made amenable to human habitation, would the construction industry lay down its tools?
+
+
+“No,” was the president’s aggressive answer. “Construction will never end. Even if there are no commissions, we ourselves can create projects. We have the capability to propose, initiate, and execute projects that would be impossible for almost any other organization. The proof stands today in the Sahara, in Antarctica, in the Himalayas. These projects are monuments to the power of human will made real, to the next stage in human history.”
+
+
+Gotoba was famous for bombast, especially when motivating new employees. Probably 80 percent of what he said was exaggeration. Yet as Sohya listened to the president gradually being carried away by his own rhetoric, he was deeply moved. Who knew what they might build next?
+
+
+Sohya was more than blessed with the passion of youth, but for all that he was still levelheaded by nature. He found much to agree with in Gotoba’s words, but those views were only natural for someone in the industry. Others would see things differently. Construction was merely a means to an end. Gotoba and companies like it had a role to play only when people required it. That was what they needed—huge challenges to test the very limits of their ability.
+
+
+“Hey! We’re here.” Iwaki shook his shoulder. Sohya opened his eyes. He must have fallen asleep while contemplating the scenery. The monorail’s doors stood open at the platform at Shimbashi Station. This new station had just opened eighty meters below the surface of Tokyo Bay.
+
+
+“Hurry up. Get your things,” barked Iwaki.
+
+
+“Are we transferring here?”
+
+
+“No—yes, we just pulled into Shimbashi Station. Aomine is with me.” Iwaki was in the middle of a telecall on his wearcom even as he stretched on tiptoes and tugged at his luggage in the overhead rack. Sohya was nearly a head taller. He reached up and took down the luggage. “Head office?” he asked.
+
+
+“Yes. Yes? Yeah, I’m coming straight in. Aomine has to stop off at home.”
+
+
+Sohya leaned toward Iwaki. “I don’t have to go home.” Iwaki held his hand up for silence. He nodded several times and ended the call.
+
+
+“Go ahead, go home. Sounds like the meeting is going to take a while. My wife is used to me going straight in.”
+
+
+“I don’t have a wife to worry about,” protested Sohya.
+
+
+“Aomine. You’ve been out of the country for three months. There must be someone waiting for you.”
+
+
+Sohya had never seen this warm, fuzzy side to Iwaki before, but it was wasted on him. They stepped out onto the platform. “Look, no one’s waiting for me.”
+
+
+“You’re kidding.” Iwaki’s eyes grew large with surprise behind his thick lenses. “What have you been doing with yourself? In this kind of job, you wake up one day and you’re past forty and still single.”
+
+
+“Come on, Mr. Iwaki. How did you find a wife?”
+
+
+“My wife was in the industry, and we just—look, Really…so you don’t have anyone yet?” Iwaki shook his head. “Just get yourself back home. Repack your bags and come back to the office.”
+
+
+“Excuse me?”
+
+
+“Looks like we’re sending you out to the field again.”
+
+
+“Overseas?” asked Sohya, astonished.
+
+
+“You could say that,” said Iwaki with an odd expression. Sohya stopped.
+
+
+“What does that mean?”
+
+
+“That’s a direct quote. Don’t ask me, I don’t know what it means either.” Sohya stood for a moment in blank bewilderment. Iwaki clapped him on the shoulder. “Now get going.” Sohya ran to catch the train home.
+
+
+
+
+
+
+HE WAS SOON home: an apartment in Ogikubo, on the west side of the vast metropolis. A few minutes later he was back at the station with newly packed bags, but a downed power line had paralyzed the train service. He had no choice but to grab one of the hydrogen-powered cabs that were authorized to use express lanes throughout the city.
+
+
+As he rushed through the entrance of Gotoba headquarters in Shinjuku, an alert receptionist directed him not to the sixth floor where the task force had its offices, but to the twelfth floor main conference room. It’s something big, thought Sohya. He usually participated in conferences via the interface at his desk. Face-to-face meetings were strictly for limited-access discussions.
+
+
+When he reached the floor, he found Iwaki, the other division heads, and President Gotoba huddled in a tight knot at the opposite end of the large room. They seemed to be in the middle of a heated discussion with someone sitting in one of the high-back conference chairs, but the chair was facing away from Sohya.
+
+
+Noticing him standing near the door, Iwaki quickly strode over, looking impatient and irritated. “What have you been doing?”
+
+
+“The trains were stopped, so I took a cab. Is the meeting that urgent?”
+
+
+“New project. Unbelievable.”
+
+
+“We got something big?” Sohya excitedly tossed his bags in a corner. Iwaki motioned him to sit at the oblong conference table, which was equipped with monitors set flush with the surface. Iwaki punched his wearcom, sending data to Sohya’s monitor.
+
+
+“Remember Mr. Toenji?” said Iwaki.
+
+
+“Toenji…” Sohya was momentarily nonplussed.
+
+
+“The launch party.”
+
+
+“Ah, right.” Sohya nodded. “Mr. Kentucky.”
+
+
+“What are you talking about? He’s Japanese.” Iwaki raised an eyebrow.
+
+
+“No, go on. He just reminded me of somebody. So what’s going on?”
+
+
+“Doesn’t the name Toenji mean anything to you? Well, I didn’t recognize him right away either. He’s the chairman of Toenji Group.”
+
+
+“The amusement park Toenji?”
+
+
+“The amusement park and a lot more.” Iwaki pointed to Sohya’s monitor, which now displayed the Toenji home page. “The group’s main business is their wholly owned subsidiary—ELE, Eden Leisure Entertainment. They run Tokai Eden, the leisure resort near Nagoya. The construction budget was 160 billion yen. They get seven million guests a year. The park is huge. Only Tokyo Disney World and Universal Studios Japan do more turnover. The group has subsidiaries in the hotel and travel business, fast food, magazine publishing, entertainment programming, music, you name it. You must have seen some of their promotions.”
+
+
+“I know Eve and Adam,” Sohya answered quickly. “I have a friend who’s up on all that stuff. Toenji’s characters are more popular in Japan than the ones from overseas.”
+
+
+“They’re a major ice-skating sponsor—” Iwaki started to go on, but Sohya rubbed his temples. “What’s this about?”
+
+
+“The group has 1.25 trillion yen in assets. Sennosuke Toenji is the founder and chairman.”
+
+
+“So that’s who that old guy was. I’d almost say he doesn’t look the part, but then again…” Sohya had a hard time grasping the concept of all that wealth concentrated in one man. The numbers were too large. Iwaki droned on, all business.
+
+
+“He’s fond of scotch and likes to surprise people, but that’s not enough reason to travel all the way to the Spratlys, even if he does have the money. Do you remember what he said down there?”
+
+
+“The moon.” Sohya found himself quoting from memory. Iwaki nodded, but Sohya was blank. “So what about it?”
+
+
+“He wants Gotoba to build a base there,” said Iwaki.
+
+
+“He can’t be serious.”
+
+
+“It looks like he is. ELE sent us a formal request.” Iwaki punched the keyboard on his left wrist, and the display switched to a document titled request for construction. “It’s not a design solicitation. Nothing specific yet. We don’t even know what they plan to do with it. But they did send this. They want a facility to accommodate ten people indefinitely, with future expansion for up to fifty. Feasibility studies, design, development, transport, execution, even initial operations management—they want us to handle everything, in coordination with ELE. The timeline is ten years. The budget is 150 billion yen.”
+
+
+“But…I mean…” Sohya’s head was swimming. He held his hands in front of his chest and waved his fingers absently. “Is any of this possible?”
+
+
+“That’s what we’re trying to figure out.” Iwaki pointed to the group at the other end of the room. The discussion was proceeding more quietly than before.
+
+
+“We can discuss it, but is it doable?” repeated Sohya.
+
+
+“Humanity reached the moon decades ago.” The deep voice cutting across the room was that of the president. The division chiefs stood around him with expressions ranging from resigned to dazed. One by one, they took seats around the conference table. Gotoba stood at the end of the table.
+
+
+“I was a year old on July 20, 1969, when Armstrong and Aldrin walked on the surface of the moon. It was possible then. It can’t be impossible now.” Gotoba spoke slowly and quietly, intent on convincing his listeners. “The Chinese have a small base there already. But everything has been the work of governments, not private enterprise. Our quick review today indicates that this project is well within our reach. Wouldn’t you think so, Sando?”
+
+
+“Well, yes. So it seems.” Tetsuo Sando was Gotoba’s Technology Development Division chief. He was also a visiting professor at a major institute of science and engineering. Sando stood with one balled fist on the conference room’s large display monitor, his face raised toward the ceiling. His eyes were closed. “Near-vacuum conditions. Huge temperature ranges. Ionizing radiation. Extreme conditions of every type. Build and maintain a facility in such an environment? Yes, we have the expertise. Robotic operations, remote surveying, communications, power transmission—we’re very comfortable operating remotely via telepresence. We have experience building special-application construction equipment from the Spratly project. Obviously we would have no energy-supply problems. Solar radiation will be intense and abundant, with no intervening atmosphere to speak of.
+
+
+“The question is transport. We need more time to study this, but concrete can be produced using surface material, so the heaviest and bulkiest of the necessary construction materials is up there waiting for us. Sending payloads into space has become fairly routine. I think current launch vehicles can lift payloads up to around twenty tons. Assume twenty-ton payloads of materials and machinery. Planning should not be difficult. Yes, twenty tons will do nicely. Gravity is one-sixth of Earth’s, so we won’t need heavy-lift equipment.”
+
+
+Sando lowered his head—what hair he had left had gone completely gray—and opened his eyes. He stated crisply, “I would say this project is feasible.”
+
+
+“There it is,” said Gotoba as he surveyed the room. “To build a base on the moon. What a project!”
+
+
+Not construct. Build. Suddenly everyone in the room understood. In the mind of this man of rare imagination and dynamism, equipment was already crisscrossing the moon. The outlines of the base were steadily emerging from the surface. The vision was complete in every detail. His mind was made up. This was how the Saharan, Antarctic, Himalayan, and Spratly projects had started: with a single, definitive statement of unshakable intent.
+
+
+“This is Gotoba Engineering & Construction’s next challenge. I take it there are no objections?”
+
+
+No one uttered a word of dissent. Far from it—faces relaxed. Some of the division chiefs began shaking with anticipation, the kind of trembling that seizes soldiers before an assault. This was why they had entered the extreme construction field—to execute large, difficult projects. It was what they lived for.
+
+
+“Then we’ll do it!” Gotoba had both hands flat on the table. He exhaled loudly, as if the project were already complete. Suddenly he stared across the room at Sohya. “Aomine!”
+
+
+“Sir!” Without hesitation Sohya leapt to his feet, back straight. At the next words he nearly collapsed back into his chair.
+
+
+“You’re going to the moon.”
+
+
+“Wha-at?” Sohya’s jaw dropped.
+
+
+“Site evaluation is first. Go see what it’s like. As I said, the Chinese have a base there. They send a shuttle up every year to resupply and rotate personnel. The next launch is only a month from now. We’ll handle the arrangements. I want you on that shuttle.”
+
+
+“To the—me? Why moon?” Sohya scrambled his grammar in his excitement. “I mean, I’m too junior. There must be someone else. From another division. I don’t have the background or the qualifications. It’s not that I’m afraid to go. But—”
+
+
+“Young people get the tough assignments. Your division will lead the charge once things get rolling. And who said you’re not qualified? You don’t need a diploma to travel to the moon,” said Gotoba.
+
+
+“But, sir, you hardly know me.”
+
+
+“I chose you because I’ve witnessed what you can do. And Iwaki is not a man to keep anyone but the best under his wing for three years.” Having dismissed Sohya’s stammered protests out of hand, Gotoba leaned forward abruptly. “Anyway, it’s what the client wants.”
+
+
+“Senno—I mean, Mr. Toenji?” The chair that had been facing in the opposite direction the entire time swiveled around. Sohya nearly groaned. “Tae?”
+
+
+White beret and collar were set off, as before, by the girl’s long, jet-black hair. She smiled. “Nice to see you again, Mr. Aomine. My grandfather asked me to go with you. He’s too old to travel to the moon. He wants me to travel in his place and see what it’s like. Grandfather doesn’t want me to go alone, and he was wondering who could go with me. Then we met you. We both agree you’re very trustworthy.”
+
+
+“You’re going to the moon?” This was really too much for Sohya.
+
+
+“That’s right. It’s so interesting—Did you know there’s a junior discount for space travel? The less you weigh, the less they charge. For the first time, I’m glad to be kind of skinny.”
+
+
+Gotoba cut in. “The fare for you is two billion yen. Miss Toenji’s ticket is a billion. Three billion for two, round-trip. The client is footing the bill. We’re counting on you, Aomine.”
+
+
+“Three billion…for a site evaluation…” Sohya lapsed into speechlessness. His silence lasted so long that Gotoba added, as if playing his trump card: “Look, Aomine. If you won’t go…”
+
+
+The unspoken part of Gotoba’s statement struck home so sharply Sohya thought for an instant he had actually heard it. If I were you, I would go. In fact, I will go.
+
+
+There was no way Gotoba could go. He was the heart and brains of the company. And since he could not, he was trusting Sohya with everything. Of course, Sohya could not refuse, nor did he want to. The power of Gotoba’s trust was like a slap that brought his confusion and doubt into sudden clarity. He straightened up. “I’ll go.”
+
+
+“Then it’s settled.” Gotoba nodded with satisfaction. “We’ll be working on the details till you get back. I’ll expect a comprehensive report.”
+
+
+“Yes, sir.”
+
+
+“Good. This conference is over,” said Gotoba. “Get moving!” He slapped the table. Everyone rose to their feet. “Starting now, Gotoba Engineering & Construction will mobilize to build a base on the moon. It will be a ten-year marathon, but we’ll see it through, no matter what. Give it everything you’ve got!”
+
+
+The roar that came in reply was a chorus announcing the birth of the Next Continent project.

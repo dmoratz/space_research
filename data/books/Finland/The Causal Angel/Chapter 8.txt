@@ -1,0 +1,380 @@
+8
+
+
+THE THIEF AND THE HAUNTED SHIP
+
+
+
+
+
+
+My ship is haunted.
+
+
+It’s a feeling I can’t shake as I steer the Leblanc through the lower cloud layers of Saturn, trying to hide us in the winter blue swirls of ammonia hydrosulfide pockets and egg-white water vapour clouds. It is a gnawing anxiety that mingles with the faint tickle of motion in my stomach that the interface Realm translates the ship’s slow dive into, a chilly sense of someone looking over my shoulder.
+
+
+It could be some echo of my past self, preserved in the ship’s neural interface. The pilot’s Realm is a floating platform in a cavernous chamber with crystalline walls that provide a fish-eye view of the giant planet’s churning ochre depths. I sit on a velvet-cushioned chair at a control keyboard that looks like the bastard offspring of three pipe organs and a typewriter – it even has pedals. But it is all a shorthand for mental commands. As I brush the keys, the ship’s cool presence enfolds my mind, snug like a well-worn glove. Who knows what fossilised feedback loops were triggered by my touch and now resonate in my brain?
+
+
+Or it could be the ship’s avatar Carabas, a glass-eyed mechanical cat in a flamboyant hat and boots. When I last encountered it on Mars, in my old memory palace, it tried to gut me and turn me into a wax figure. Now it never leaves my side, waiting for my commands with arrogant, feline resignation.
+
+
+Or maybe it is the awareness that the Great Game Zoku is now after me. I shake my head at the notion: worrying about capture at this point is not rational. I am keeping us well away from Supra City’s support structures. The closest zoku presence is the Notch stormcrafter playground near the South Pole, with its fluid dynamics megastructures. There is a calculator made from Karman vortex trains – a region near the Sayanagi belt where chains of swirling vortices the size of continents collide and compute, logic gates larger than moons. Each arithmetic operation involves a mass of gas greater than old Earth’s atmosphere. To find us, the Great Game would have to throw enormous resources into a neutrino scan of the whole planet – and I don’t think they are ready to do that just yet. That will come later.
+
+
+Or perhaps the ghost is Matjek. I know I need to speak to him, sooner or later, but I can’t bring myself to do it. Not yet. Besides, I need to make sure we are well hidden, and the Aun are supposed to be looking after him.
+
+
+In the end, what chills my spine the most are Barbicane’s last words. She is a member of the Great Game now. She told us everything. I cannot imagine Mieli as a zoku member. The Gun Club Elder must have been lying, trying to get back at me for breaking his toys.
+
+
+And yet—
+
+
+After Earth, Mieli must be lost, looking for a direction, looking for guidance. She has served Joséphine nearly her entire adult life. Perhaps the Great Game has exploited that, offered her a new purpose when she needed it the most. And with Perhonen gone, there is no one around to tell her what a bad idea that is.
+
+
+I thought the job would be straightforward. Get to Mieli before they break her, use the Leblanc’s tools to break into whatever Realm they have her in, and steal her. Simple, what I do best. Instead, I now have the Great Game after me – and Mieli is already one of them.
+
+
+Nothing has changed. I still need to get her out.
+
+
+It all depends on how entangled she is with the zoku already, how much freedom the Great Game volition leaves her. That is the paradox of the zoku: the more you achieve, the more entanglement you have, and thus more power to impose your will upon the zoku’s collective reality. But at the same time, as you advance, you are sculpted by the zoku jewel into a perfect member of the collective. If I know Mieli she will rise through the ranks quickly. Soon, she will be like Barbicane, a shell of herself, trapped inside her role in the zoku Circles.
+
+
+I need a better plan. The problem is, Barbicane was right. You are not what you used to be. I almost screwed up the Iapetos job. I didn’t anticipate the Great Game’s paranoia about Dragons following Earth’s destruction. If it hadn’t been for Matjek—
+
+
+I shake my head. I can’t think about the boy, not yet.
+
+
+Infiltrating the Great Game is not an option. They are too well hidden, and screen their members very carefully. I have to draw them out, break Mieli’s link to them. And they only deal with epic, existential threats.
+
+
+I need to become one. To manipulate them, I need to find something that makes them afraid. I need leverage. And I already know what that is: the ghost that has been haunting me since the Highway.
+
+
+I find us a slow-flowing layer not too far from the eyestorms of the South Pole.
+
+
+‘Keep us in the hot stratosphere beacons,’ I tell Carabas. ‘If you see any mermaids, let me know.’
+
+
+‘Yes, Master,’ it says in a whirring, high-pitched voice, and takes my place at the pilot’s seat, short booted feet hanging in the air.
+
+
+I sigh. Evidently, my former self thought his own witty banter was company enough.
+
+
+I leave the cat to its work and head for the ship’s treasure room, to open the qupt that Mars died for.
+
+
+The Leblanc is bigger from the inside than from the outside. Physically, it is a marvel, a picotech creation: zoku subatomic engineering, dense pseudomatter and bizarre metastable quark configurations and nucleon soup, impossibly dense but programmable, all whirling around a tiny black hole like those of the Gun Club ships, only smaller. The passenger space is virtual, a network of interconnected Realms. The main meta-Realm is a blue-lit corridor with a moving walkway, lined with humming Buck Rogers machines and Realmgates.
+
+
+I’ve barely had time to explore them, but this time, I’m only interested in the treasure room. It is a vault in an ancient fantasy castle, full of loot converted into iconic Realm form, potions and weapons and treasure, representing stolen zoku jewels and quantum software. Sobornost tech stored as firmament code on scrolls, exotic gogols as frozen homunculi inside bottles. There is even a green planet, a stolen biosphere, some design from the world-builders of the Belt, with an entire biological history unfolding on its surface. It makes me realise why Joséphine did not allow me to remember the ship: with these resources, I would have been too difficult to control.
+
+
+But I’m not here to admire the spoils of past crimes. I take out the qupt and look at it. The treasure room – a small Realm to itself – translates it into a scroll, sealed with hard candle wax. I break the seal carefully, and Isidore’s message echoes in my mind again.
+
+
+Jean! You can’t believe what I found! It’s not just Earth, it’s the Spike, and the Collapse, you have to look at this.
+
+
+There is an aching weight in my chest when I hear his voice, but I grit my teeth and focus on the task at hand.
+
+
+The quantum state that came with it floats up from the scroll, countless tiny soap bubbles connected by glowing tendrils. I examine it carefully: it is a delicate thing, a tangle of qubits that does not follow any encoding scheme I have come across. Aboard the Wardrobe, I would have no hope of deciphering it. But here in the Leblanc, I do not lack tools.
+
+
+The work takes a long time, and I have to uncork some of the mathematics gogols. Eventually, they inform me that it is a small virtual quantum computer, meant to bootstrap itself in a biological brain, perhaps originally transmitted via complex photon states – a node in a vast distributed machine, computing … something.
+
+
+I imagine what it could have been like for poor Owl Boy: a flash of light in the sky that you look at, and suddenly this thing enters your brain via the optic nerve, infects you, repurposes the microtubules in your neurons to do coherent quantum computations. But what is it for? For making a viral, System-wide zoku?
+
+
+There is only one way to find out. I sandbox myself and increase the fidelity of my neural network emulation to the maximum. A full molecular-level simulation of even a single human brain swallows a respectable chunk of the ship’s computational capacity. The feeling is strange. At the level of my consciousness, there should be no perceptible difference, but I could swear that my thoughts feel messier, softer, more eager to copulate with each other and form new ideas.
+
+
+I tell the sandbox to instantiate the contents of Isidore’s qupt in my virtual brain. There is a flash of light in my optic nerve, and then I hear a voice.
+
+
+You live on an island called causality, it says.
+
+
+Like Isidore before me, I listen to the Kaminari speak. When it is over, I seal the scroll again. I feel dizzy. By accident, I lean on the green planet, and almost fall down as my hand slides along its slick, cold atmosphere.
+
+
+The System history speaks of the Spike as a Singularity-class event created by the Kaminari-zoku’s transcendence gone wrong, a destructive echo of a god-birth that the Sobornost tried to contain by starting the Protocol War. Instead, it seems that the event that took out Jupiter was engineered by the Great Game Zoku, an attempt stop the Kaminari’s attempt to break the Planck locks. Spacetime weapons. I bet Barbicane and his cronies had something to do with it.
+
+
+Cold anger comes with the thought. I’m going to keep my promise. I’m going to take more than just your toys for this. For Mars and the Kaminari both.
+
+
+I could try to blackmail the Great Game by threatening to expose them. But that can’t be what they are afraid of. The Sobornost would not care, especially not now, and with their sleeper agents in nearly every zoku, in all likelihood the Great Game would be able to strangle any Deep Throat attempts easily.
+
+
+What the Kaminari did is not enough for the Great Game to destroy Mars. It must be how they did it that they fear. Creating a system-wide viral zoku? How was that supposed to break the locks?
+
+
+We found the answer in the Collapse, the Kaminari said. We need your help.
+
+
+The Collapse is another white spot both in my memory and history itself. If the exomemory was still there, I’m sure I could find further evidence for Great Game interference. The consensus version is a sudden, catastrophic collapse of the global quantum markets used to value upload labour and embodied life on old Earth, a world with a population so large that most people could not afford human bodies. A time of chaos and madness, when the ancestors of the zokus and the Oortians and other System civilisations fled a dying world, leaving it to the wildcode and the—
+
+
+It is as if a white-hot pen wrote the word in my brain. The Aun. They were there. They were the ones who took over after the Collapse. They must know what happened. They will know what the Great Game fears so much they destroyed two worlds to hide it.
+
+
+I close the treasure room behind me and head for the bookshop vir.
+
+
+I pass the gate to the main leisure Realm of the ship: the transatlantic liner Provence on a never-ending journey across a sunlit sea, offering the charms of a swimming pool, tennis on the deck, and the delightful company of a Miss Nellie Underdown. I pause in front of it, and listen to the faint echoes of sea birds and the rushing waves. Suddenly, I feel tired after my efforts. Perhaps that is what I need: a few quiet subjective hours in a deck chair with a good book laid over my eyes. The smell of sun and old paper and sweat, a dip in the pool, an evening with a charming young lady, even an imaginary one.
+
+
+A sudden sharp thought stops me.
+
+
+What would Perhonen say?
+
+
+I can hear the Oortian ship’s voice in my head, fluttering like a butterfly’s wing.
+
+
+I know what you are doing, Jean. You are avoiding the boy. And time is ticking away. I’m not getting any deader, and Mieli is still not free. Stop whining and do what you have to do.
+
+
+That’s what is missing in the Leblanc, with all its treasures. A voice that only speaks things that are true.
+
+
+The bookshop vir looks the same – almost suspiciously so – but Matjek is different. He is older now – eleven or twelve, perhaps. He looks up from his book when I enter, frowns and continues to read. The Aun are nowhere to be seen.
+
+
+I pull up a chair and sit down next to him.
+
+
+‘Hello, Matjek.’
+
+
+He ignores me.
+
+
+‘How are you doing?’
+
+
+Silence.
+
+
+I look at him more closely. His hair is longer, and there is just a hint of grey in it. His eyes have acquired a piercing blue hue, like little shards of ice. I wonder if he has been playing with clockspeed again. I have done my best to make sure that the vir is sandboxed, isolated from the ship’s systems, but I’m not sure that provides enough protection from the future Father of Dragons if he gets bored. Still, it could just be mindshell customisation.
+
+
+‘What are you reading?’ A lot of the books in the vir represent the fractally compressed city of Sirr and its inhabitants, and the minds of the Aun. Actually reading them is not a good idea, unless you want to be possessed by a jinn or a body thief. ‘Are your friends around?’
+
+
+‘Why do you care?’ Matjek says finally.
+
+
+I clear my throat. ‘Well, I thought it was time for us to have a little chat, man to man.’
+
+
+He slams the book shut, holds it close to his chest with both hands and looks at me.
+
+
+‘About what?’
+
+
+‘About a lot of things. I wanted to thank you for your help and—’
+
+
+‘You mean about about how you stole me? About how my mum and dad are dead?’
+
+
+There is a cold rage in his eyes that is far too familiar from the older Matjek I know.
+
+
+‘Why didn’t you tell me?’ He throws the book at the shop window, hard: it doesn’t shatter, but rings in its hinges. ‘When are you going to let me out of here?’
+
+
+I squeeze the bridge of my nose. Everything feels solid now, sharper. The Leblanc has enough computational power to run a full physics emulation: the dreamlike feel of the previous version is gone. I wonder if it’s entirely a good thing.
+
+
+‘Look, Matjek,’ I say carefully. ‘You know why your parents put you in that vir? That place on the beach? They wanted to keep you safe. In case something bad happened to the world, in case they could not protect you themselves anymore. And I’m just trying to—’
+
+
+I swallow. I’m pretty sure Bojan and Naomi Chen would not approve of me using their son as a viral weapon of mass destruction. But sometimes, I’m just as much of a slave to patterns as my almost-son Isidore was: when things click, when I can see a way out, it’s hard not to seize whatever tool there is at hand.
+
+
+I can’t bear to look at him, so I stand up and walk to the nearest bookshelf. I lean on it. The blue and silver backs of the thousand books of Sirr stare at me accusingly.
+
+
+‘I just want you to know that I never meant for you to get hurt. You helped a lot on Iapetus, and I’m sure Mieli will be grateful.’
+
+
+‘I don’t care. I hate you both.’
+
+
+‘You have to believe me. I would have told you, when you were ready. I did not want to find out like that, I swear. Who told you? Was it the Aun – your friends?’ I may need them, but if they caused this, I swear I’m going to—
+
+
+‘No, it wasn’t them.’ He sniffs. ‘It was the gun.’
+
+
+I turn around. He is hunched on the chair, looking at his hands. His eyes are rimmed with tears.
+
+
+‘It was kind of fun, at first, having a body again, even if it was wispy, like a jinn, coming out of a bottle,’ he says. ‘I found the Leblanc. I thought at it, and it let us in, like you said. And then I found the gunscape. I got bored with waiting, so I played with it. My friends helped me to get in.’
+
+
+I let out an inward groan.
+
+
+‘There was a spime for every gun. Some even had Realms so you could try them out. There was one called a ghostgun, from the First Fedorovist War.’
+
+
+Oh, hell.
+
+
+‘I didn’t know what it was, so I asked. The gun said I started the war, in some place called Iridescent Gateway of Heaven. That it was my fault all those people died. I got angry. I thought it was lying. I wanted it to go away. So I started firing the guns. All of them.’
+
+
+‘Matjek—’
+
+
+‘Was the gun lying, Jean?’
+
+
+I flinch. It is the first time he has used my name.
+
+
+‘You know so much about lying. Was it lying?’
+
+
+I kneel down next to him. I want to touch him, to take his arm, but he is looking at me with a fury so palpable that I can feel it in the air like a static charge.
+
+
+‘No, it wasn’t. But it wasn’t telling the truth either. The person who did all those things was called Matjek Chen, that’s true. But he wasn’t you. Just somebody like you.’
+
+
+‘He was me. The gun told me all about gogols, too.’
+
+
+‘That’s not how it works. Not all gogols are the same. Trust me, I know. Something happened to that one, something bad, and he never got over it.’
+
+
+‘What was it?’
+
+
+I sigh. ‘I don’t know.’
+
+
+‘So how do I know I won’t end up like him?’ His eyes are wide and desperate.
+
+
+‘I don’t know, Matjek. I don’t know. But I believe we can decide who we are. If you don’t like that other Matjek, be someone else.’
+
+
+‘Is that why you do it?’ he asks. ‘Put on faces because you don’t like who you are?’
+
+
+‘Sometimes.’
+
+
+‘I saw you do it. You were just the same underneath.’
+
+
+‘I’m sorry, Matjek,’ I say. ‘I’m not very good at looking after other people. I know you were happy, on the beach. I didn’t want to take you away. But I had no choice.’
+
+
+‘You just said we always have a choice.’
+
+
+‘Not always.’
+
+
+‘How do you know which is which?’ He gets up. ‘You’re just trying to say something that’ll shut me up! You want to get rid of me so you can save your stupid friend! And you don’t even know why!’
+
+
+He shoves me, as hard as the vir will allow, and I almost fall.
+
+
+‘Matjek, that’s not true.’
+
+
+‘Shut up! Everything you say is a lie! That’s what the other you said! Leave me alone!’
+
+
+I blink.
+
+
+‘What do you mean, the other—’
+
+
+Father wants to be alone.
+
+
+The Aun flash in my vision, jagged serpents of light. The vir snaps shut and throws me out. Then I am standing in the blue humming corridor of the Leblanc, and the stinging feeling in my eyes is just a vir-to-Realm translation error, not tears at all.
+
+
+‘All right, you bastards, I screwed up!’ I shout at the empty corridor. ‘But so did you! Why didn’t you stop him?’
+
+
+There is no reply.
+
+
+I scour my mind for the presence of the Aun but find nothing.
+
+
+‘Talk to me! Show yourselves!’
+
+
+Still nothing. A righteous fury erupts in my chest. ‘Come out, or I’m going to take my brain apart to find you. What are you waiting for?’
+
+
+For you to keep your promise, the Chimney Princess says.
+
+
+She stands before me, a little girl in a wooden mask, wearing a sooty dress, barefoot. She looks completely alien in the Leblanc’s blue meta-Realm.
+
+
+I look at her. Her eyes are faint embers behind the eye slits of the mask, and I can’t tell if their glow is anger or pity.
+
+
+‘Why don’t you ever show your face?’ I ask her.
+
+
+Because people give me theirs when they meet me.
+
+
+‘I know the feeling.’
+
+
+Have you found one you like yet?
+
+
+‘Can’t say that I have. But I am trying. I need your help for that. I need to know what happened in the Collapse.’
+
+
+We cannot tell you.
+
+
+‘There is no need for blackmail. I swore to Tawaddud I would—’
+
+
+You don’t understand. Much of us is lost. We are shards and fragments, self-loops and voices. We are Sirr, we are the wildcode desert. That is where your answers are. Bring us and our children back and we will remember for you.
+
+
+I can’t see her face, but it feels like she is smiling behind her mask. Or you can remember yourself.
+
+
+Then she is gone. The corridor smells faintly of smoke.
+
+
+I return to the pilot’s cabin and watch the coffee-and-cream flow of Saturn while Carabas steers the ship.
+
+
+I start thinking about how to rebuild a city, how to get enough entanglement in the Notch-zoku to claim an Earth-sized plate. Slowly, in the calm of the ship’s crystalline heart, a smile returns to my face.
+
+
+Barbicane was right. It is time to play a different game.

@@ -1,0 +1,1327 @@
+CHAPTER 3
+
+
+
+
+LAUNCH VEHICLE DEVELOPMENT AND LAUNCH FACILITY
+
+
+
+
+[1]
+
+
+“HERE’S THE COFFEE, Boss. Whoa!”
+
+
+Shinji Tai opened the door to the president’s office and nearly lost his balance as the two visitors brushed past him. They marched off down the corridor without a word of apology.
+
+
+“Hey, what about the coffee?” Shinji stared after them.
+
+
+“Bring it here. I’ll drink it.”
+
+
+Ryuichi Yaenami motioned to Shinji from behind his desk. The early autumn heat was still fierce on Tanegashima Island, but Tenryu Galaxy Transport’s president was, as always, impeccably dressed. Today’s suit was tailored Italian. His long hair—had it ever been trimmed?—swept over his head and shoulders like a lion’s mane. Shinji set the tray of iced coffees on the table in front of the desk. Ryuichi grabbed one and gulped it down.
+
+
+“Should I bring them back?” said Shinji anxiously.
+
+
+“Don’t bother. The whole thing’s off. Norvalt’s going with somebody else.”
+
+
+“What did we screw up? Their organ synthesis satellite went up without a hitch.”
+
+
+“We didn’t screw anything up,” Ryuichi said. “The launch team did the job perfectly—like always. They worked like slaves. Nobody slept for a week. You know what they accomplished.”
+
+
+Shinji nodded. He was the director of TGT’s Advanced Research Department. “’Course, I’m not on the launch team. I wasn’t even in the blockhouse yesterday. I was kicking back with a can of juice, watching everything from Takesaki.”
+
+
+“The control center? You jackass! Stay the hell away from the press. What if they start asking questions?”
+
+
+“No worries. The only ones there were this NHK reporter and some deadwood from MEXT. No way would they recognize me.”
+
+
+Ryuichi’s face fell. “No commercial broadcasters? Oh well. With only two launches a year they were bound to forget us sooner or later.” His shoulders sagged.
+
+
+“So what were the Norvalt guys unhappy about?” asked Shinji.
+
+
+“‘Not enough depth.’ ‘People who work without sleep for days on end are going to screw up sooner or later.’ They want people who look more ‘experienced.’ More ‘proficient.’ They’ll probably take their next launch to China or India,” said Ryuichi.
+
+
+Ryuichi slapped the table angrily. “What the hell do you expect? We don’t have enough experience! We’re lucky to get two launches a year. How do we work out the kinks? I’m busting my ass rotating our people into different jobs. Holding seminars with the old industry veterans. Anything to help the younger guys get seasoned. Anything!”
+
+
+“Our competitors launch pretty much every month. I’m not surprised Norvalt thinks we’re greenhorns.” Shinji sounded dejected. “That’s why we kill ourselves doing a good job, and it pushes our fees up. Higher fees mean less work. And that means less experience.”
+
+
+“It’s a vicious cycle. God damn it! The least the government could do is give us their satellites.”
+
+
+“Now that we’re privatized, they treat us like outsiders,” said Shinji. “They send all their astronauts to NASA. Foreign rockets launch Japanese satellites. Get this—yesterday the guys from MEXT said it was amazing that Japan had developed the capability to launch such great rockets. ‘Developed’? We’ve been building launch vehicles for thirty years. What’s amazing is how little attention anyone is paying.”
+
+
+“What do you expect?” muttered Ryuichi. “They don’t have a stake in the industry. We might as well be invisible. These bureaucrats should be chosen via the web, just like the politicians.”
+
+
+“On the other hand, we only managed to grab this facility because it wasn’t making money.”
+
+
+“The place was going to waste. All they were launching were birds.”
+
+
+Ryuichi looked out the window. Shinji followed his gaze. TGT’s headquarters looked out across a primeval forest of intense green. Mangroves thrived in pristine wetlands. The lush foliage rippled lazily in the offshore breeze. In the distance, TGT’s launch complex rose from its cape jutting into the Pacific. The Vehicle Assembly Building, a gigantic white tombstone, shimmered in the heat like a mirage. Other than the flora and fauna, everything in the ten kilometers between the three-story headquarters building and the twin launchpads was under the control of Tenryu Galaxy Transport.
+
+
+Ryuichi lit a domestic cigarette with a Longines lighter and absently blew a cloud of smoke. “Maybe it’s time to get into the safari-land business.”
+
+
+“Or better yet, sell this place, take the money, and run.”
+
+
+The two men sighed.
+
+
+Tenryu Galaxy Transport had been founded by Ryuichi Yaenami to offer commercial satellite launch services. TGT was now Japan’s only rocket manufacturer and launch facility. Until the turn of the century, rocket manufacturing and launches were controlled by twin government entities, the National Space Development Agency and the Institute of Space and Aeronautical Science. The fact that TGT was now in control was the outcome of administrative restructuring carried out by Japan’s government.
+
+
+Deregulation, privatization, and cost reduction were the bywords of restructuring, and no exception was made for space development. In 2003, NASDA and ISAS had been merged with the National Aerospace Laboratory of Japan to form the Japan Aerospace Exploration Agency—JAXA. As if that wasn’t enough restructuring, a large percentage of JAXA’s staff was soon spun off to the private sector. Rocket development would now depend on profit and loss accounting, not the public purse. Inexpensive foreign launch vehicles would put Japan’s satellites into orbit.
+
+
+Until the waves of change hit, Japan’s launch vehicles had been built jointly by NASDA, ISAS, and two giant corporations, Mitsubishi Heavy Industries and IHI. But space development was under MEXT, the Ministry of Education, Culture, Sports, Science and Technology. Following the government’s mandate, the ministry slashed funding for NASDA and ISAS. Launching Japanese satellites and astronauts was left completely in American hands. With little work coming in, Mitsubishi and IHI backed away from space development, and the Japanese launch industry languished.
+
+
+That was when Ryuichi saw his opportunity. The son of a wealthy businessman, he had been fascinated by rockets as a child. As he grew up, he watched in frustration as Japan’s space program struggled to maintain its focus while China forged ahead and sent men into space. Like many of the sons of wealthy fathers, however, Ryuichi seemed unable to find his footing as an adult. He audited university aerospace lectures, worked as a parallel importer of foreign autos, managed to obtain a light aircraft license, knocked around Southeast Asia selling used industrial equipment, and generally drifted through life. Then five years ago, he had stumbled across Shinji Tai, and his path in life was set.
+
+
+Shinji was a graduate student incubating revolutionary ideas in aerospace materials science. But in Japan’s hierarchical academic environment, he couldn’t get the funding or support to verify his concepts. One evening he was impatiently expounding his theories to several slower-witted friends in a local pub. Ryuichi was at the next table. He bought Shinji a beer, and in ten minutes the two men were off in a corner, deep in a discussion of Shinji’s ideas.
+
+
+Ryuichi was electrified. If Shinji were right, the course of history would be altered. But the young man had nothing he needed to pursue his ideas: no experience, no money, no staff, no time. At this rate, by the time he made real progress, some foreign competitor would be far ahead. Ryuichi vowed to help.
+
+
+He moved quickly. After convincing Shinji to join him, he approached people Shinji recommended as capable and persuaded them to work with him. He liquidated several business ventures to generate working capital. When the grapevine brought news that Mitsubishi Heavy Industries was looking to sell their Space Development Group, he called in every favor in his Rolodex and actually succeeded in bagging it.
+
+
+This was the beginning of Tenryu Galaxy Transport. Ryuichi’s success in negotiating the deal with a colossus of Japanese industry—without powerful backers—and in navigating MEXT’s bureaucracy to obtain approval for the deal sent ripples of astonishment through Japan’s business circles.
+
+
+After that, it was all downhill. Ryuichi intended to use TGT to implement the sort of drastic restructuring that old-line companies like Mitsubishi found impossible. Then he would put the business on a paying basis, gain experience, and wait for an opportunity to commercialize Shinji’s theories. But it was far harder than he thought.
+
+
+Simply put, there was no demand. Ryuichi planned to staunch the red ink of Mitsubishi’s cast-off division by reorganizing it. But once it was under his control, he discovered that a bloated organization was the least of his problems. There was no demand. Under the wing of government, almost all of Mitsubishi’s space-related revenues had arrived courtesy of the taxpayer. Ryuichi was forced to admit that getting out of the business was probably a smart move for the government.
+
+
+Without official patronage, he had no choice but to go to the private sector for launch business. But this proved equally tough. The global market for satellite launches was around twenty trillion yen, which seemed a large enough number. But the telecommunications market—the source for most launches—was twenty times larger. Absolute demand for launches was limited. And unlike the telecommunications industry, where new ventures were continually sprouting up and disappearing, success in the launch business was critically dependent on having an established track record and the trust of your customers. There was little opportunity for a newcomer like TGT to grab a piece of the business.
+
+
+Ironically, one of TGT’s few selling points was the fact that it was ignored by its own government. The major players—including the national space agencies of America, Russia, and the EU—were strongly influenced by national defense and economic policies. This sometimes made them reluctant to service certain customers. By promoting TGT as a neutral party with no political or military entanglements, Ryuichi managed to keep just enough business coming through the door to keep from folding.
+
+
+A typical “orphan” project was this September’s launch of an H-3C rocket carrying an experimental satellite for a Swiss multinational pharmaceuticals conglomerate. Norvalt Pharmaceuticals was making major investments in the development of artificial organs for regenerative medicine, and the satellite was designed for microgravity cultivation of tissue for organ synthesis. Organs are three-dimensional organizations of cells, but in a lab culture dish on Earth the cells would only grow horizontally. Cultivating a three-axis structure called for tissue engineering; the cells had to be grown in an environment that allowed them to adhere to a framework of biodegradable polymer. The tissue could then be cultivated in a liquid matrix. But failure to create tissue with the required blood vessel density, along with structural distortions caused by convection in the liquid, was holding up future research.
+
+
+In a microgravity environment, three-dimensional structures could be cultivated free of distortion. But Norvalt’s attempts to do this had run into another roadblock. The cell line they were using was immortal, with enhanced glycolysis capability and viability in a low-oxygen environment—not unlike cancer cells. Most space agencies were extremely nervous about putting payload like that into orbit over their territory. NASA would not approve a launch without reams of documentation guaranteeing public safety in the event of an accident.
+
+
+Norvalt’s experiment, however, was meant to generate profit. Their competitors would be climbing over each other to get copies of the disclosure documents. This knocked the leading space agencies out of contention. At the same time, the few nations with a fledgling launch capability could not deliver the kind of lowvibration lifting necessary to ensure the functioning of Norvalt’s delicate satellite.
+
+
+TGT stepped up to fill the gap, and the launch went flawlessly. Like its H-series predecessors, the H-3C, first launched in 2019, was the cutting edge of the art and science of rocketry. Norvalt’s twenty-two-ton satellite was the fifteenth successful launch for the H-3C, which carried it into orbit with an astonishing vibration ceiling of 100 dB. The final four-hundred-kilometer orbit had a variance of only forty meters. China’s National Space Administration probably could have beaten TGT’s seven-billion-yen launch fee by 20 percent. But thanks to meticulous vehicle and facilities maintenance, the Japanese company boasted a higher successful launch rate. Without a doubt, TGT delivered satisfactory service.
+
+
+Yet Norvalt had just turned down a deal for additional launches. If the concerns they’d stated were real, they would probably take their next launch to a relatively experienced space agency—probably India or China. Chinese and Indian launch vehicles were crude compared to the H-3C, but with some investment in vibration damping, they could probably be made serviceable. Had Norvalt decided that the extra cost would offset the advantages of using TGT? If so, Ryuichi and Shinji had good reason to be depressed.
+
+
+“Well, we’re in a pickle now. There’s nothing on the schedule.” Shinji was stuffing himself with the sweet potato pastries, an island delicacy, that he’d brought in with the coffee. He knew TGT was in dire straits, but he was optimistic by nature and had boundless confidence in this man who had plucked him from academic obscurity. “What should we do?” he added. “Borrow money for another demo launch?”
+
+
+Launching for the sake of launching was part of rocket development. Technology required honing, and TGT’s hundreds of technicians and launch specialists needed to keep their skills sharp. Better to isolate and deal with problems on test launches than with a customer’s payload. It allowed TGT engineers to tweak their designs and maintain their edge and motivation.
+
+
+Of course, test launches didn’t pay. Ryuichi was going to almost pathetic lengths to squeeze costs in an effort to ensure continued funding for employee motivation, which mostly meant drinking sessions. He’d recently switched his company car from an expensive foreign model to a used domestic clunker.
+
+
+Ryuichi’s usual comeback to Shinji’s laid-back observations was humorous dismissal, but now he plunged a hand into his lion’s mane and scratched thoughtfully. “There’s one more angle. We’ve got some more visitors today.”
+
+
+“Oh? From where?”
+
+
+“Japan. Gotoba Engineering, and Eden something. Some kind of park operator. Heard of them?”
+
+
+“Sure, I’ve heard of Eden. Tokai Eden is right next to our Tobishima plant in Nagoya. What are they coming here for?” said Shinji. He shook his head. “An amusement park operator and an engineering company. What would they need a rocket for? Maybe it’s some kind of ride.”
+
+
+“They sounded serious on the phone about putting something into orbit,” said Ryuichi. “But they obviously know zip about rockets. I need you in the meeting. You’re good at explaining this sort of thing to the uninitiated.”
+
+
+“Is that why you called me down from Tobishima? I thought I was just here to serve coffee.”
+
+
+“Why the hell would I need a scruffy mutt like you to serve coffee? My assistant’s off today.” Ryuichi stared at him and chuckled. Shinji’s rumpled white lab coat was as much a part of his image as the president’s tailored suits. It only made him look busier when it got dirty, and it saved him from explaining where he fit in at the company. He wore it everywhere. “Great hair, ’cept for the dandruff” was the saying around the office. Clean but rarely combed, it looked like a sparrow’s nest. Behind gold-rimmed wire frames, his eyes seemed perpetually narrowed in amusement. Tall and stooped, he shuffled rather than walked. One could not exactly say he was handsome.
+
+
+Ryuichi glanced at his gold wearcom—he used to have a Rolex, but the device on his wrist was now a lowly Seiko—and said, “They should be here about now. Is there a taxi outside?”
+
+
+“What taxi? The taxi company went bust, remember? Didn’t you send someone to meet them?”
+
+
+“Damn! I totally forgot. I was too busy thinking about those Norvalt guys.” Ryuichi snapped his fingers in frustration. Shinji was dialing the airport on his wearcom when the room was filled with the whirling boom of engines. The two men stuck their heads outside and looked up into a vast cerulean sky, far bluer than over the main islands.
+
+
+“Whoa!” shouted Shinji. “Pretty swank, coming in a helicopter. See? There’s the Eden logo.”
+
+
+“That’s no helicopter. It’s a Boeing tilt-rotor. They must’ve flown nonstop from Nagoya. That’s why they didn’t call from the airport. Shinji, you better clear the parking lot.”
+
+
+“Is it okay for them to land? This isn’t a heliport. Won’t air traffic control come down on us?”
+
+
+“Rockets are a lot more dangerous. The control tower won’t mind. Helicopters don’t have a habit of exploding,” Ryuichi deadpanned.
+
+
+Shinji left the room. Soon TGT staff began streaming out of the building. As the tilt-rotor hovered motionless, employees ran through the propwash to their cars and began moving them to the periphery. A few moments later the small aircraft, each wing tipped with a single proprotor engine, floated down onto the parking lot.
+
+
+First off the plane was a red-haired woman in a business suit, followed by a man who appeared younger than Shinji. The woman shielded her head with a briefcase but was buffeted by the wind and fell to the pavement before she was clear of the propwash. The man with her moved to help her up, but instead of accepting his outstretched hand she yelled at him. Apparently these two were not exactly on the same team.
+
+
+Watching from the third floor, Ryuichi chuckled to himself. “Well, well. This should be interesting.”
+
+
+A few minutes later Shinji was back with the visitors. The woman had done her best to rearrange her hair. She assumed a winning smile and thrust a hand toward Ryuichi. The man did the same.
+
+
+“Reika Hozumi, Eden Leisure Entertainment. This is Sohya Aomine from Gotoba Engineering.”
+
+
+“Sohya Aomine, Gotoba Engineering. This is Reika Hozumi from ELE.”
+
+
+The two spoke simultaneously, eyed each other suspiciously, and kept their hands extended. If Ryuichi was amused, he was also discouraged. This pair didn’t look much like the saviors TGT desperately needed now.
+
+
+“Ryuichi Yaenami. President of Tenryu Galaxy Transport.” Ryuichi grabbed both outstretched hands and pumped them simultaneously. Realizing how ridiculous they looked, his visitors blushed.
+
+
+“Very efficient. Egalitarian, even.” Shinji was dead earnest.
+
+
+
+
+[2]
+
+
+HANDSHAKES OUT OF the way, they moved on to the formality of exchanging business e-cards via wearcom. Reika’s Frenchmade designer unit relied on a tiny touch panel and voice recognition rather than the usual panel/keyboard combo. Ryuichi briefly praised its refined design, but the tension in the air didn’t ease. Both visitors seemed to have their guards well up.
+
+
+As soon as everyone was seated, Ryuichi cut to the chase. “You said over the phone you wanted to send a heavy payload into space. How much mass are we talking?”
+
+
+Reika answered without hesitation. She had already reviewed Gotoba’s estimate and operational analysis in detail. Sohya was still not totally familiar with the plan and kept glancing at his wearcom.
+
+
+“For Phase One, we’ll need to launch a probe. That’s two tons. Over the next ten years, we want to send around two hundred tons of equipment and materials.”
+
+
+“Two hundred tons? That’s quite a lot.” Ryuichi sat back and nodded. He tried not to look surprised. If the deal went through, this one client would be enough to feed TGT for the whole ten years. Then again, it wasn’t at all unusual for clients to throw out a number like this early in the discussion. Then sticker shock set in as they discovered how much it would cost to launch their payload.
+
+
+“In that case, you’d need at least nine launches, assuming efficient payload distribution. Our H-3Cs can put 23.5 tons into low earth orbit, so long as you allocate your payload according to that capacity…”
+
+
+“And how much would the fee for nine launches be?”
+
+
+“Well, launch vehicles are pretty much made to order,” said Ryuichi. “They take a lot of craftsmanship. Building one can take several years. Foreign exchange fluctuations and new technology can affect the bottom line, so it’s hard to quote an exact figure. But based on experience to date? Seven billion yen per launch. Nine launches…say fifty-five billion, give or take three billion or so. We save a bit on scale economies.”
+
+
+Sohya looked up from his wearcom and nudged Reika. “Too low.”
+
+
+“Perhaps,” she said. “Maybe the metrics we used for our projections are out of date. Mr. Yaenami, how much could those costs vary in practice? Could they end up being, say, ten times higher?”
+
+
+“Not a chance. Last century the yen went from 240 to the dollar down to around 80, so in dollar terms, yeah, the price tripled. But this is a domestic transaction, correct? There’s no way the final price could even double.”
+
+
+Reika paused for a moment. “I’m sorry. We seem to have made a mistake. We assumed the costs would be higher.”
+
+
+Ryuichi smiled. “If we can give you what you want at a lower price, is that a problem?”
+
+
+“No, of course not. It’s just…Tell me, is there only one type of rocket? We thought sending a payload to the moon would require something different from what you have.”
+
+
+“The moon?” Ryuichi wasn’t sure he’d heard correctly. “You want to put two hundred tons on the moon?”
+
+
+“That’s right.”
+
+
+“Two hundred—wait, what’s the payload? Are you going to explore the surface?”
+
+
+“We’re going to build a base at the moon’s south pole. A manned base.” Sohya nodded.
+
+
+Ryuichi was now speechless. His visitors had struck him as unsophisticated, but he hadn’t guessed that they’d be crazy. So far he’d heard many outlandish proposals, all completely impractical. But for sheer stupidity, this latest proposal beat everything hollow.
+
+
+Reika looked at him with a hint of nervousness. “Is getting to the moon harder than launching satellites?”
+
+
+“Hard?” Ryuichi finally mustered a response. “You know how far away that is?”
+
+
+“It varies between 356,000 and 406,000 kilometers,” she answered brightly. “That’s about a thousand times farther than low earth orbit. But there’s no gravity in space, right? Once you’re outside the atmosphere, we thought the distance wouldn’t matter much.”
+
+
+Right. In other words, you dug out your high school astronomy textbook and brushed up for half an hour. And that’s about all you know. Hey, wait a minute…As he groped for a diplomatic answer, Ryuichi suddenly realized that his other visitor looked oddly familiar. Wasn’t this the guy from the evening news?
+
+
+“Mr. Aomine? Are you the Aomine who went to China’s moon base?”
+
+
+“Yes, that would be me.”
+
+
+“Your training and orientation must’ve been quite a challenge. How much time did it take to get ready for launch? A year?”
+
+
+“I’m embarrassed to say this, but we actually trained very little. We had to make the next supply mission, so a month was all we had. Other than the physical exams, all we did was train for basic emergencies.”
+
+
+Ryuichi groaned inwardly. And this one’s just a space tourist. He was glad Shinji was here. He looked at his research director.
+
+
+“Shinji, I think this would be a good time to explain something about rocket capabilities.”
+
+
+“Should I start with Goddard?”
+
+
+“Better start with Jules Verne. No, just start anywhere.”
+
+
+Shinji nodded and turned to the visitors. Without further ado he said, “Do you know how fast a satellite travels?”
+
+
+Reika answered immediately. “Seven point nine two kilometers per second.”
+
+
+Shinji nodded. “And why does it travel that fast?”
+
+
+“So it can perform its functions efficiently, I guess. Like monitor the earth’s surface. There’s no atmosphere to slow it down, so it can go a good deal faster than an airplane.”
+
+
+“I see. Okay, maybe I better back up.” Shinji scratched his head and started in again. “A satellite travels as fast as it does to continue falling around the earth. The only reason it goes faster than an aircraft is because if it doesn’t, it won’t stay in orbit. A ball thrown horizontally to the earth’s surface will hit the ground eventually. But if you throw it fast enough, it will keep falling around the curvature of the earth forever. You’d need to throw it at 7.9 kilometers per second. This is known as the first cosmic velocity.”
+
+
+“I see.” Reika seemed slightly mystified.
+
+
+“If you throw it even faster, it flies out into the solar system. This is the second cosmic velocity, escape velocity: 11.2 kilometers per second. If you want to reach the moon, you have to be traveling at least this fast. Please remember this number.
+
+
+“Now, the gross weight of the H-3C launch vehicle is 520 tons. Do you know what percentage of that weight is taken up by fuel?”
+
+
+Reika greeted this sudden shift in topic with puzzled silence. Shinji plunged ahead.
+
+
+“Eighty percent, about 420 tons. This is called the fuel fraction. For a jet airliner the fuel fraction would be about 40 percent. Why carry this much fuel? Because the first cosmic velocity is so high. To use the usual comparison, it’s eight times the speed of a rifle bullet or twenty-five times the speed of an airliner. You don’t get that kind of speed from just any engine. A rocket engine is designed to squeeze the theoretical limit of power, or pretty close to it, out of the exothermic reaction of rocket fuel combustion. By feeding a huge amount of fuel into an engine like that, we can escape Earth’s gravity—but just barely.”
+
+
+“So it’s not possible to reach the moon?” Reika broke in, seemingly irritated at this long-winded digression. Shinji laughed and waved his hand, no.
+
+
+“Of course it’s possible. All I’m saying is that spacecraft travel at unbelievably high speeds. The differential between the first and second cosmic velocities is 3.3 kilometers per second. That’s the extra speed you need to get out of low earth orbit. This differential alone is 12,000 kilometers an hour. So we’ll have to carry even more fuel to boost ourselves up to that speed. And the weight of that fuel comes out of your payload.”
+
+
+“How much payload do we have to sacrifice to carry the extra fuel?”
+
+
+“Eighty percent. That means you can carry about five tons to the moon,” said Shinji.
+
+
+“So the cost goes up by a factor of five?”
+
+
+“I wish it were that simple. If you plan to build a base, you want to put your payload on the moon, not just in orbit around it. That means you need a lunar lander. The lander will account for around half the mass you can put on the surface. And there’s another problem on top of that.”
+
+
+“What now?” Reika frowned.
+
+
+“Look, I’m just telling you how it is,” said Shinji.
+
+
+Sohya spoke up. “The base will be manned.”
+
+
+“Exactly.” Shinji smiled.
+
+
+“The Chinese invested a huge amount on their Long March rocket to make it safe enough to carry passengers,” said Sohya. “The total cost of our launch was almost eight billion yen, with four passengers and the twenty-one-ton Xiwangmu module. But no Japanese rocket has ever taken passengers into space, and the extra safety margin is going to cost us.”
+
+
+“That’s right. We’ve successfully launched the H-3C fifteen times in a row. Based on the design, the expected success rate is actually 95 percent. Still, that’s quite high. Ten years ago, 90 percent was considered enough. Launch ten, lose one. Launch fifty, lose three, maybe four. Failures are expected. Most of them take place early when your design is new. Japanese rockets have a low total success rate for the simple reason that not many have been launched.”
+
+
+“One out of every ten!” Reika was astonished. “Then how can we put people on them?”
+
+
+“Well, we’re talking about unmanned rockets. For manned flight, you have to work like the devil to get your reliability up to 98 percent, at least. Still, failures happen. NASA’s space shuttle flew 150 times in forty years. They lost three vehicles, two with crews. If your chance of failure is about the same as winning a prize in a supermarket drawing, you can’t operate commercially.
+
+
+You have to get your failure rate below 1 percent. But that’s a tough one.” Shinji scratched his head again.
+
+
+“Take the LE-11 engine on the H-3C. Any engine running on LOX and liquid hydrogen is going to be a delicate beast, but the LE-11’s two-stage combustion system is unbelievably complex. It uses dual 50,000 rpm turbines. Starting with its direct ancestor, the experimental H-2, then the production-model H-2A, the cluster-engine H-2C, the H-3 using the LE-11, and now the cluster-engine H-3C, we’ve brought the design as far as we can. That is, without TROPHY.”
+
+
+“Shinji!” Ryuichi cocked an eyebrow. Shinji’s mouth snapped shut.
+
+
+“So you see how things are,” continued Ryuichi. “Sending people to the moon is a whole different ball game from launching satellites. If you want a crew of people with engineering equipment hauling building materials around on the surface, you can’t bunk them in a telephone booth, the way NASA did with the Apollo astronauts. You need to build long-term habitats, rotate your crews, that kind of thing. The operational scale gets very big, very quickly.” He turned to Shinji. “About how much total payload do you think they’d need to launch?”
+
+
+“Well, if we use the Apollo program as a baseline…” Shinji’s gaze floated toward the ceiling as he worked the numbers in his head. He brought his eyes level again and frowned. “Putting two hundred tons on the surface would require a hundred, maybe two hundred tons of support payload. On top of that, sending people there and back, even with current technology, you’ll need about five tons of support payload per person. How many you were thinking?”
+
+
+“We’re planning for ten people in the beginning,” said Reika. “Ultimately we want fifty people on the base.”
+
+
+“Say a hundred people or more over ten years, with rotations. That’s five hundred tons. So you’d have to put eight hundred tons of payload on the moon. That’s the same as putting four thousand tons into low earth orbit. A ton in low orbit runs a bit over three hundred million yen, so the total would be—”
+
+
+“One point two trillion…” Reika’s voice was hoarse.
+
+
+Sohya stared at her. “See?”
+
+
+“Yes, I do. That was the estimate. But for everything: payload, salaries, operations—not just the launches.” Reika looked sadly at her wearcom. She and Sohya exchanged glances. Some shared sense of disappointment seemed to have brought them together for a moment. They lowered their heads.
+
+
+Sohya whispered, “What are you going to do? That’s way over your budget.”
+
+
+“Mr. Toenji gave me a trump card.” Reika looked up and said innocently, “Everything we’ve been discussing assumes that we use conventional rockets.”
+
+
+“Well, of course,” said Ryuichi. “But as I told you, the vehicle is the same for low earth orbit or a trip to the moon. The H-3C is all we can offer you.”
+
+
+“As of now. But we understand you’ve got a new engine on the drawing board.”
+
+
+“A new engine? No, we don’t have anything like that.”
+
+
+“Something called TROPHY?”
+
+
+Ryuichi and Shinji flinched in surprise. Yes, thought Reika.
+
+
+“I believe it stands for TRansfOrming Power source HYbrid engine. We hear you’re working on it right now. Why, Mr. Tai even mentioned it a moment ago.”
+
+
+“Where did you hear that?” asked Shinji, astonished.
+
+
+“Shinji, would you please?” Ryuichi winced. But Shinji had already taken the bait.
+
+
+“We’re not at liberty to say.” Reika smiled. “But are we in agreement that such a project is under way?”
+
+
+“Yes, it does exist,” said Ryuichi. “But we’re not at the stage where—”
+
+
+“Thanks for confirming it. If development is successful, we presume our costs would drop significantly.”
+
+
+“That would be speculation.” Ryuichi stalled for time. He was scrambling to think through the pros and cons of the situation.
+
+
+TROPHY was extremely confidential. It might be TGT’s sole long-term chance for survival. At the heart of the project were Shinji’s revolutionary theories—theories Ryuichi was betting the company’s future on.
+
+
+It was his dream to someday apply those ideas to a launch vehicle. Yet if TGT’s current dry spell continued, the dream might never be realized. That was something he wanted to avoid at all costs. The alternatives seemed to be getting government approval to seek outside investors or, in the worst case, selling the development rights to TROPHY. If they sold the rights, NASA or ESA could probably finish the work, but it would be impossible for Ryuichi or Shinji to share in the triumph.
+
+
+Was knowledge of TROPHY something he could entrust to these two people? Perhaps they were industrial spies, posing as greenhorns? That seemed a real possibility.
+
+
+Reika interrupted Ryuichi’s train of thought. “It’s not speculation. If TROPHY is feasible, we’ll cover your development costs,” she said as Ryuichi’s jaw dropped. “Does that interest you?”
+
+
+“Do you realize how much we’re talking here?” said Ryuichi, returning to reality. “It costs ten times as much to develop a rocket as it does to build one unit. It can’t be done for a billion or two.”
+
+
+“We’re prepared to pay twenty billion if you can develop the engine. With economies of scale, TROPHY could cut today’s launch costs by 95 percent.”
+
+
+“Where did you find all this out?” marveled Ryuichi.
+
+
+“Boss!” Shinji slapped his forehead. “My master’s thesis. My academic advisor posted the abstract on the institute’s website. Other than that, he hardly paid attention to it. Someone probably read the abstract and remembered it.”
+
+
+“It’s always something, isn’t it?” Ryuichi said with a sigh. “Well, I guess you’re not just fishing.”
+
+
+He was in a quandary. His visitors didn’t seem to be bluffing.
+
+
+He was no longer concerned about how much they knew. His foreign competitors probably had far more information concerning TROPHY and its workings than these two did. The question was, could he trust them to deliver? Did they really share his determination to go into space?
+
+
+“I’ll be frank,” said Ryuichi. “You have to understand: if TROPHY succeeds, humanity’s future will completely change. I’m betting everything I have on it. Give me your firm commitment to stick with this all the way to the end and not bail out when the going gets tough, and I’ll do the same. Can you promise me that?”
+
+
+Sohya straightened up and peered at Ryuichi, who was more than a dozen years older. Ryuichi couldn’t help but smile at the fire in his eyes.
+
+
+“If that’s what you want, you have my promise. I’m sure my bosses will agree. In fact, I’ll make sure they do.”
+
+
+Ryuichi was impressed. This young man had none of the cynicism so typical of others his age. They were on the same wavelength. Of course, Sohya’s assurances didn’t amount to a signature on a contract. But then again, his company wouldn’t have sent him unless they trusted him to carry the ball. Ryuichi suddenly recalled that Gotoba’s founder and president was a bit of an enfant terrible himself.
+
+
+Reika had a different response, just as simple and straightforward. “If we’re going to fund you, we expect a return on our investment. If this technology is going to change mankind’s future, the demand will be enormous. As long as there’s a possibility for that kind of return, ELE will commit to going the distance. Shall we discuss the allocation of profits?” Reika’s fingertips floated over her wearcom.
+
+
+I might have guessed, thought Ryuichi. ELE is the client, Gotoba is the contractor. Of course the client is going to talk about money, not about some dream. Still, if both his visitors had been prepared to move ahead without even trying to negotiate, that would have been suspicious indeed. The fact that ELE’s representative was a blinkered bean counter couldn’t be helped. Later, however, Ryuichi would discover that his impression was off the mark.
+
+
+“Let’s count our chickens later. First you’d better take a look at TROPHY.”
+
+
+“You already have a prototype?” Reika was astonished.
+
+
+“If all we had to show you were blueprints, I wouldn’t be making such a big deal out of it. Let’s take a drive,” said Shinji. He stood up. He wore a different smile now, the smile of a man whose quest was about to be fulfilled.
+
+
+
+
+
+
+TANEGASHIMA SPACE CENTER sprawled across more than two thousand acres of developed and undeveloped land on the southern tip of the island. After driving several kilometers through a wild forest, they emerged onto a beach edged by the ultramarine waters of the Pacific. They left the car and walked toward a strange structure, about ten meters high and thirty meters deep. A huge metal shutter, closed now, was set into the front of the building facing south toward the ocean.
+
+
+It seemed to be a conventional warehouse, but the sides and rear were enclosed by high earthen embankments, like gigantic levees. A telephone pole stood at each corner. Steel cables were strung between the poles, enclosing the top, sides, and rear of the structure. To the south, between building and ocean, was another embankment, faced with concrete and sloping gently upward. It almost seemed as if an aircraft coming out of the warehouse could use the ramp to quickly gain altitude. Sohya easily walked up it and stood at the top, looking out over the ocean. “Looks like the catapult on an aircraft carrier,” he called to Reika, who was standing at the bottom.
+
+
+“I don’t think catapults are this beat-up,” she replied.
+
+
+“Beat-up?” said Sohya. Reika pointed at his feet. He looked down at a huge grayish pink blotch, roughly star-shaped, in the center of the ramp. The surface seemed to have been blasted off in some spots. Looking closer, he saw that the concrete was roughened by fused particles of aggregate, all flowing in one direction like stalactites in a limestone cave. Like the side of a building after a fire, thought Sohya. But this was very different from the usual fire damage. The fused particles seemed to be straining upward, as if intense fire had flowed up the sloping surface.
+
+
+“This way!” Ryuichi called from the warehouse. Sohya ran down the embankment and joined him.
+
+
+“What kind of place is this?” he asked.
+
+
+“Our SRB-R firing facility,” said Ryuichi. “For testing solid boosters like the ones on the H-3C.”
+
+
+“Oh, those cute crayon things on the side of the rocket,” said Sohya.
+
+
+“You call several hundred tons of solid propellant ‘cute’?” said Ryuichi.
+
+
+“Could we dispense with the word games?” said Reika, frowning. Sohya shrugged, then realized what Ryuichi had just said.
+
+
+“When you say ‘test,’ you mean you ignite those things right here?”
+
+
+“That’s exactly what we do,” answered Ryuichi. He motioned to the shutter, then the concrete ramp. “The booster fires horizontally toward the ocean. The flame deflector guides the exhaust toward the sky. The solid propellant is rubber based. Imagine burning eighty tons of tires in a minute and forty seconds. The smoke is unbelievable.”
+
+
+“Do the boosters ever explode?” asked Reika.
+
+
+“That’s why we have embankments around the building. If there’s an explosion, we at least want to funnel the blast wave up-ward. The steel cables are lightning rods. Fortunately we’ve never needed them so far.” Ryuichi looked in through the service door. “Today it just so happens we’ve got TROPHY set up for an ignition test. Officially, we’re doing a conventional SRB test burn. Shinji, open the shutter.”
+
+
+“Yes, sir.” The voice came from inside. As the huge door rose, sunlight advanced along the floor and up across the business end of a strange-looking device. It resembled a wind tunnel with an exhaust slit like the maw of a shark. Shinji strolled out from among the technicians busily swarming around the engine. He extended his palm toward the device.
+
+
+“This is TROPHY-E103. Pretty simple, don’t you think?”
+
+
+Sohya and Reika walked deeper into the building and began inspecting the engine, which rested horizontally on its test stand. Pointing out to sea, the nozzle was a simple box shape, unlike the bell-shaped nozzles of conventional rocket engines. There was little if any constriction between the silver-gray nozzle and the next section, which continued the one-meter square profile for another four meters, except that its cross section expanded gently, making it fatter toward the end. The far end of this section seemed to be a wedge-shaped air intake that could be constricted with a simple vent. The only other visible mechanisms around the intake were a few pipes that apparently served as sensors and actuators.
+
+
+Beyond and in line with this was a hulking, bewilderingly complicated mass of tubes and piping, several of which extended into the intake. The cluster of piping looked like some gigantic, metallic internal organ. Neither Sohya nor Reika knew what to make of it, but as they approached it, Shinji said, “Everything from there on back is just the supply module for this experiment. It’s not part of the final build.”
+
+
+“From where on back?” asked Sohya.
+
+
+“From there. The square section is TROPHY itself.” Shinji pointed from the nozzle to the wedge-shaped intake. The entire device was only seven meters long. Clearly a simple design, even suspiciously simple. The thing certainly didn’t look like some new technology that was poised to change the world.
+
+
+“You look surprised,” Shinji said, as if he’d read their minds. He happily launched into his explanation. “This is TROPHY test engine three. As you can see, it’s not a conventional engine. The lower section acts as a rocket engine, while the upper section is an air-breathing engine for use in the atmosphere.”
+
+
+“Air-breathing? For space travel?” said Sohya.
+
+
+“A launch vehicle operates in the atmosphere at first, of course. That’s where TROPHY functions as a ramjet—technically, a ducted scramjet. Outside the atmosphere, it operates as a straightforward rocket engine. That’s why we call it a transforming power source. Back at headquarters we were talking about fuel fractions, the percentage of a vehicle’s gross weight accounted for by fuel. For a rocket, the fuel fraction is 80 percent, but you need more than two-thirds of that just to reach an altitude of fifty kilometers and a ground speed of 1.6 kilometers per second. All that fuel is consumed before you even leave the atmosphere. Cut the fuel requirement and you can carry more payload.
+
+
+“We can’t reduce the amount of hydrogen we carry, but the atmosphere has all the oxygen we need to get to space. By making use of this oxygen, TROPHY achieves an extremely high specific impulse.”
+
+
+“I don’t understand,” said Sohya.
+
+
+“Okay. Roughly speaking, specific impulse is the number of pounds of thrust the engine can produce each second, per pound of fuel. The mass units drop out when we do the calculation, so we measure specific impulse in seconds. It’s slightly complicated, but you can think of it as something like fuel efficiency. The practical limit for liquid-fueled rockets is a specific impulse of around 450 seconds. With TROPHY, we can get as much as four thousand seconds of specific impulse.”
+
+
+Shinji looked at Reika and Sohya as if waiting for them to be impressed, but they just stared blankly. He looked slightly disappointed.
+
+
+“Scientists have been trying to break five hundred seconds of specific impulse in a practical rocket engine for half a century. Everyone thought it was impossible.”
+
+
+“That’s quite an achievement.” Sohya nodded, but he didn’t really grasp what Shinji was saying. Reika looked at Shinji doubtfully.
+
+
+“If a simple engine like this can break such an impossible barrier, why has it taken so long for someone to do it?”
+
+
+Shinji brightened. “The design is simple, sure. But only TGT can fabricate the components. The type of air-breathing engine I mentioned just now is called a ramjet. An engine like this, which is capable of burning fuel in a supersonic airflow, is a faster variation of a ramjet called a scramjet. You see, if the air coming through the intake is faster than the speed of sound, it’s nearly impossible to keep your fuel burning as it feeds into the engine. The shock wave blows your burning fuel out like a candle. And at high speeds, air friction generates tremendous heat all over the surface of the rocket. Conventional materials can’t stand up to it. What makes TROPHY possible is a certain material I’ve developed.”
+
+
+Shinji placed his hand on the nozzle. Sohya suddenly realized that its outer surface was completely smooth, unlike the ribbed structure he recalled from other nozzles.
+
+
+“This is it. We used a specialized cermet—a ceramic metal alloy. Metal is hard but not very heat resistant. Ceramics are brittle but stand up well to high temperatures. This material gives us the advantages of both. I discovered that cladding the engine with this cermet makes for efficient laminar flow control, and that gives you smooth fuel mixing and combustion in a supersonic airstream. So you can see why no one’s succeeded in developing a practical scramjet till now. They didn’t have this material.
+
+
+“A scramjet’s just the start. The alloy allowed us to make several revolutionary improvements. There’s no need to wrap hydrogen cooling lines around the nozzle, for example. That makes manufacturing simpler, gives you a safer motor, and reduces weight all at once. The intake is simpler, lighter, and stronger. Our cermet will be used in the rocket fairing and body, so the vehicle itself will generate less drag when passing through the atmosphere—but we haven’t built a test rocket yet.”
+
+
+“Mr. Tai…?” Sohya tapped Shinji on the shoulder. TGT’s research director’s voice had grown feverish, as if he were addressing a huge crowd. “We’ll leave the technical details to you. Just tell me, what kind of rocket will this engine power?”
+
+
+“One the same size as the H-3C but with ten times more payload,” Shinji said casually. Sohya gasped.
+
+
+“You mean instead of twenty-four tons, you’ll be able to lift 240?”
+
+
+“Yes. At half the cost.”
+
+
+“Half…” Sohya was in shock.
+
+
+“Structural strength and manufacturing tolerances will no longer be a major issue. Parts will be fewer and simpler. I’d guess a single rocket will have around three hundred thousand parts. That’s a tenth of what’s needed now.”
+
+
+“That’s…that’s unbelievable.” Sohya was beginning to grasp the significance of this engine. He said to Reika, “Did you hear that? You’re going to make a fortune with this thing.”
+
+
+“I wonder.” She pressed her palms anxiously against her cheeks. “There’s something important I have to ask. Have you patented any of this?”
+
+
+Shinji looked deflated. “Not yet. If we drop the veil and apply now, the rest of the world will discover what we’re onto. But if we keep quiet, someone might beat us to the punch. We figured we’d apply once we had a working prototype. It’s a real dilemma.”
+
+
+Ryuichi spoke up. “Let’s do it now. It’s time. With backing, we can make this happen. We don’t have to keep it secret anymore. We should file defensive patents now to make sure no one gets the jump on us.”
+
+
+“Good idea,” said Reika. “And you can start collecting patent royalties.”
+
+
+“This isn’t about money,” Ryuichi said. “Let’s encourage everybody to use the technology free of charge. As long as they don’t try to interfere with us, who cares who uses it?”
+
+
+“Mr. Yaenami, you can’t just give your technology away,” scolded Reika.
+
+
+“Why not give it away? If TROPHY becomes the world standard, space development will explode. There’ll be hundreds of launches a year. The space age will arrive—at last. TGT will be fine. No one knows more about TROPHY’s core technologies than Shinji. He’s a materials scientist. If someone tries to replicate the technology, we can easily stay a step or two ahead. We’ll be first to reach the moon, and Mars, and Jupiter, with hardly a backward glance at NASA or Roskosmos. And we’re just a private company. It doesn’t get any better than that!”
+
+
+Ryuichi was beside himself with excitement. Reika goggled at him. Sohya tried to keep a straight face. “Reika, I think he’s gotten the better of you. He’s right, you know. Patent the technology and give it away. In the long run, you’re sure to do better.”
+
+
+“Well, perhaps…”
+
+
+Ryuichi stamped the floor triumphantly. Reika was appalled.
+
+
+“Ready for ignition!” one of the technicians called out. “Please move to the observation bunker. You’ll be able to see our one-gun salute from there.”
+
+
+“Right. I almost forgot!” Ryuichi said.
+
+
+Everyone left the firing facility and walked the hundred meters to the observation bunker. The bunker was filled with telemetry equipment. Sheltered by its embankments, the firing facility was visible through thick layers of Plexiglas. Members of the test team began calling out data from the readouts.
+
+
+“H2 temperature and pressure, nominal.”
+
+
+“LOX vaporizer pressure steady. Opening valves one through eight. Injection system looks good.”
+
+
+Shinji spoke quickly, flushed with excitement. “The actual vehicle will use an SRB to boost TROPHY to its initial operating envelope. Today we’re using a turbine to push a supersonic stream of oxygen into the combustion chamber while we monitor the operation of the rocket.”
+
+
+Shinji was not responsible for the rocket subsystem itself and was not involved in monitoring the telemetry console. Still, he stared through the window with as much intensity as if his entire concept depended on today’s test.
+
+
+“Five…four…three…two…one…ignition start. One…two…”
+
+
+The firing facility seemed to radiate light. A tongue of blue-white flame shot out of the building and hit the deflector. The edges of the flame quickly stabilized, becoming sharply defined.
+
+
+The fire was supersonic now, hurling itself against the deflector with staggering power. In an instant, a cloud of white steam shot hundreds of meters into the cloudless sky.
+
+
+The observation bunker was submerged in a roar so loud it seemed to be coming from the bowels of the earth. Ryuichi and Shinji stood with foreheads pressed against the vibrations of the heavy observation window, eyes on the flame. Sohya and Reika looked back and forth between the two men and the exhaust flinging hundreds of tons of pressure against the deflector.
+
+
+The test was over quickly. The technician kept calling the count. After thirty seconds he ordered engine shutdown.
+
+
+As the flame was extinguished, a cheer went up in the bunker. Ryuichi turned to Reika and yelled excitedly, “Now what do you think? Will you help her fly?”
+
+
+“Yes, let’s do it. I’m just glad it didn’t blow up.”
+
+
+“Of course it didn’t!” Ryuichi shouted. He grabbed her hands and pumped them up and down, shouting “thank you” over and over as Reika looked at him awkwardly.
+
+
+Sohya was grinning when Reika freed herself from Ryuichi’s grip and walked over to him, hands fluttering. She sighed. “Why are men always acting like children? He’s just like the chairman.”
+
+
+“I’m no different,” said Sohya. “I’d say Shinji’s the same too.”
+
+
+“Well, it would be nice if you could contain yourselves.” She looked at him with embarrassment.
+
+
+He nodded sympathetically. “Look, don’t worry about it. This project won’t succeed if we don’t start trusting each other. If it’s all right with you, I’d like us to deal with each other openly.”
+
+
+“All right, but don’t get carried away. I don’t think we can afford to be overly familiar, given our respective positions.”
+
+
+“That works for me.” Sohya’s eyes twinkled as he nodded. Reika suddenly seemed overcome with fatigue. She looked at him and said, “Well, we’ve found a way to get to the moon. Now everything is up to Gotoba Engineering.”
+
+
+“You’re in good hands,” said Sohya. He had a brief vision of the men and women who had faced and overcome almost impossible obstacles. “We’re all kids at heart too.”
+
+
+
+
+[3]
+
+
+GOTOBA ENGINEERING’S DESIGN lab, in Shinjuku. This was the room that had spawned the plans for a bewildering array of specialized structures for extreme environments. A project screen came down from the ceiling. Sando, the head of Gotoba’s Technology Development Division rose from his seat, shook his head, and smiled.
+
+
+“No, we didn’t generate the basic concept. That came from ELE.”
+
+
+Sohya was astonished. “You came up with the base concept?”
+
+
+Tae smiled. “If we don’t tell you what kind of base we want, how will you know what to build?” She was back in her “uniform” and seated with Sohya, Reika, and Iwaki in scattered chairs around Sando.
+
+
+“So we decided how big the base should be,” she said crisply. “That told us what kind of building material we’d need. The kind of building material told us where to build the base. We’re leaving the details to your company.”
+
+
+“Oh.” Sohya nodded, still mystified. Sando picked up the thread.
+
+
+“ELE’s design request included a basic concept. A crew of ten will occupy the base for the first year. This detail tells us two things. The base will be larger than Kunlun, and it will be permanent. This tells us the method of construction we’ll be using: cast concrete.”
+
+
+“Is that the only option?” asked Sohya.
+
+
+“We could go with metal alloy structures similar to what the Chinese have. We could use inflatable structures, even a volcanic cave. Alloy structures would mean bringing everything up the gravity well from Earth. Very expensive. The flexible elements on inflatable structures tend to deteriorate in the constant sunlight. Caves offer limited space and flexibility for expansion. So the alternatives have their disadvantages.”
+
+
+“Interesting,” Reika muttered. She was taking notes with her wearcom, as if this were the first she’d heard on the subject.
+
+
+“Concrete, on the other hand, has more than enough strength and toughness to withstand vacuum conditions. And only concrete can be produced on-site. This is a huge advantage. It’s the ideal material for a base that will initially accommodate ten and ultimately fifty people. Aomine, what would you need to make cement for concrete?”
+
+
+Sohya answered without hesitation. “For Portland cement: clay, limestone, and gypsum. For calcium aluminate cement, we’d need limestone and bauxite.”
+
+
+Sando nodded. “We can produce calcium aluminate cement relatively easily with moon rock, which is mostly anorthite. If we heat anorthite to around fourteen hundred degrees, the constituents we don’t need for cement production will melt out. Further heating should yield something close to aluminate clinker. We should be able to produce it in a solar furnace. There are two other things we need to produce concrete: aggregate and water.”
+
+
+Sando lifted his teacup and sloshed the contents back and forth. “Here’s the problem. There’s none of this on the moon.”
+
+
+“Well, of course,” said Reika. “It’s nothing but a huge desert.”
+
+
+“Not quite.” Sando shook his head. “True, there’s no water on the surface. The moon is very dry, with almost no hydrogen in its composition. This is a consequence of the moon’s formation. The giant impact theory posits that the moon was created around four and a half billion years ago after a collision between the primitive earth and a planet-size body. A large amount of the earth’s mantle was melted and blown into space, where it coalesced as the moon. The heat of collision drove off most of the lighter elements in the mantle, including hydrogen.”
+
+
+“Then how do you propose to make concrete?”
+
+
+“With water from somewhere else.” Sando narrowed his eyes mischievously and chuckled. “Comets. A comet’s core is like a slushy snowball. It contains large amounts of water. What do you suppose happens when a comet strikes the moon?”
+
+
+“It blows apart and evaporates, I guess,” said Reika.
+
+
+“Right—if it hits where the surface receives sunlight. In twenty-four hours or so, the water molecules are broken apart and scattered by photons coming from the sun. But if the comet strikes where the sun can’t reach, ice might accumulate on the surface.”
+
+
+“On the moon’s far side then. Water could stay frozen there.” As soon as she spoke, Reika realized her mistake. “But the moon revolves with the earth around the sun, so sunlight would reach wherever a comet would hit.”
+
+
+“Actually, no. The earth is covered with ice at the poles, where the sun is extremely weak. Sunlight is also limited at the moon’s poles. Furthermore, the moon’s axis is nowhere near as inclined as Earth’s—it’s tilted off the vertical by only one and a half degrees or so. Sunlight has never penetrated some of the craters at the moon’s poles. If a lump of ice fell into a zone of eternal shadow—”
+
+
+“But has that happened?”
+
+
+“There’s no reason to think it hasn’t. We’re talking about a several-billion year time span. Logically, there must have been such impacts. Since the temperature in these permanent shadow zones is 220 degrees below freezing, there could even be large amounts of accumulated ice.”
+
+
+“Fascinating,” said Reika.
+
+
+“Do we have confirmation of that?” Sohya’s tone was challenging and skeptical. Reika was unused to arguing on scientific grounds and was easily convinced by “expert” opinion. Not Sohya; he was trained to accept logical arguments only when buttressed with facts.
+
+
+Sando returned his gaze with a half-amused, half-frustrated expression, and shook his head. “Allow me to rephrase your question. What would we need to confirm it?”
+
+
+“And…?”
+
+
+“This goes back to NASA’s Clementine lunar orbiter and radar data indicating the possible presence of ice at the moon’s south pole. In 1998, the neutron spectrometer aboard NASA’s Lunar Prospector also indicated the presence of polar hydrogen. At the conclusion of the mission, the orbiter was deliberately crashed into a crater near the south pole. NASA hoped the impact would raise a plume of water vapor that could be observed from Earth, but the experiment failed. No such plume was observed.
+
+
+“Subsequent missions by the U.S. and Japan have also suggested the presence of ice, at least based on radar and laser data. So is this confirmed then? Strictly speaking, no. There are other ways to check for ice, including evaluation of near-infrared absorption spectra, X-ray diffraction imaging, construction of phase diagrams, and so on. Still, at some point you have to draw a line and say you’ve got enough data. Of course, the only way to be really certain is to bring back a sample.”
+
+
+His specialty was construction engineering, but Sando was a veteran scientist, thoroughly familiar with a broad range of disciplines. His explanation was beyond Sohya’s ability to challenge, much less Reika’s. Sohya conceded the point. “All right, understood. In other words, we can’t start till we’ve confirmed the presence of ice.”
+
+
+“Yes. We need to put a probe on the surface. But for the moment, let’s assume the ice is there. Two thousand square kilometers are in perpetual shadow at the south pole, with what some say is as much as six billion tons of ice. That’s several times more water than you’d find in a large reservoir and certainly all the water we need to make our concrete. All this is in the proposal we received from ELE.” He looked at Tae.
+
+
+“The proposal was that detailed?” Reika looked confused.
+
+
+“Hardly,” said Tae. “After all, it came from ELE’s planning division. I mean, even I can understand it. The difficult part will be figuring out how to do it.”
+
+
+“Out of the loop?” Sohya asked Reika coolly.
+
+
+Reika looked down, flushed with embarrassment. “Only a few people at ELE besides the chairman were copied on the plan. All I had were the topline numbers.”
+
+
+Iwaki, sitting toward the back, grunted. Sohya looked round and caught a warning glance. If Tae was privy to things even Reika didn’t know, then close liaison with her was even more important than they’d thought. But for a girl of junior high school age to be let in on the most confidential aspects of the plan also had its risks. Iwaki seemed to be indicating caution on both counts.
+
+
+Reika regained her composure. “So Gotoba Engineering has a detailed plan?”
+
+
+“Yes,” answered Sando. “The rest of this presentation is about why you were right to choose us. Given the long time frame, we propose dividing the work into three phases. Phase One will use unmanned equipment to prepare the site for the arrival of humans.” Sando called up a project flowchart on the room’s wallmounted display.
+
+
+“To start, we’ll launch a probe as soon as possible within the next four years. The probe will determine where we build. The site must be adjacent to a zone of permanent shadow with in situ ice, but the site itself must be in sunlight. Without sunlight we can’t generate power. There must be easy access to anorthite for cement production. By the time the site is selected, we’ll have developed temporary habitats to support manned construction work. These units will probably be similar to the modules used at Kunlun Base. Phase One will consist of site selection, dispatch of habitats sufficient for a crew of ten, and development of specialized engineering equipment. This phase will last for six years, until 2031.”
+
+
+A bar extended across the top of the screen as far as the six-year mark. Another bar now appeared below and extended past Phase One with what looked like ten times the number of milestones and processes.
+
+
+“Phase Two: construction. The base will be progressively expanded, prioritizing elements needed to support a human presence: first a landing facility, then power generation, oxygen production, water supply, a concrete production plant, transport facility, and an operations center, in that order. Only after this infrastructure is in place will we be able to start building concrete structures, and only then will we be in a position to send up large amounts of engineering equipment. This phase will probably be the most demanding and challenging.
+
+
+“The first task will be to prepare the site and build the landing facility for spacecraft arrivals. The exhaust from the landers will throw up a lot of regolith that will contaminate anything nearby. Next comes placement of solar power panels and laying of superconducting cables. Electric bulldozers and scrapers powered by these cables will collect regolith and ice, which will be transported by skid loaders. Concrete will be produced using a solar furnace, a roller mill, and a rotary kiln. A large amount of energy will be needed to melt the ice, so most of it will be crushed and mixed directly with the cement or aggregate. The concrete will be poured into carbon fiber–reinforced forms to make precast blocks. The blocks will be prestressed and cured for several days in a solar furnace, then transported to the site with a forklift or skip loader, where they will be assembled into structures. Then they’ll be bonded to each other using a liquid water sprinkler, much the way the Inuit build their igloos. This is also how early Antarctic bases were created. Given the constant low temperature, an ice shield guarantees an airtight seal. It will also be an effective cosmic ray barrier.”
+
+
+Sando called up an artist’s rendering of the base under construction. The base modules looked like extended Quonset huts linked together in a lattice formation. An inset showed the completed layout, which resembled a circuit diagram. Tae seemed slightly startled.
+
+
+“The key to Phase Two will be constant feedback between Earth and the construction site,” Sando continued. “Nothing on this scale has ever been attempted in vacuum conditions. Anything can happen. If a problem occurs, data must be relayed to Earth immediately, and the robotic engineering equipment must be capable of responding precisely. Operational and safety protocols will be established during this phase. With everything that needs to be done, the phase beginning six years out and continuing for two years after that will be the most difficult.” The bar extending to 2033 ended, and below it, a new bar appeared.
+
+
+“Phase Three starts when the concrete habitat facilities are complete. At this point, all engineering equipment will be on-site and operations will be standardized. There will be fewer vehicles arriving from Earth with equipment, and on-site operations will be the main focus. We’ll continue expanding the habitats and the number of personnel while enlarging areas of the base for other uses and fitting out the interior of the structures. Around this time we’ll also start receiving ELE staff as well as additional personnel from Gotoba. And others as well—”
+
+
+Sando suddenly broke off his narrative. After a short pause, he began again.
+
+
+“Phase Three extends to 2035. This marks the completion of the work Gotoba has been commissioned to execute. In ten years the base will be complete.”
+
+
+Sando’s listeners murmured their approval. Sohya realized his clenched fists were trembling. The presentation had brought a sense of reality to the project that left him shaking with excitement.
+
+
+Sando continued matter-of-factly, “Our equipment and materials projections are nearly complete. Assuming everything goes as planned, 189 tons of engineering equipment, construction material, fuel, provisions, water, and personnel must be sent to the moon. Say two hundred tons with contingent requirements. This is the total we propose to send.”
+
+
+“So that’s where the two hundred tons came from,” said Reika.
+
+
+“Yes.” Sando nodded gravely. “To deliver that to the surface, we’ll have to put additional payload in orbit around the moon. Spacecraft will be needed to rotate personnel back to Earth. After adding in this additional payload, as well as the cost to develop and build the necessary engineering equipment, the total costs amount to 1.2 trillion yen.” Sando looked at Reika questioningly. “But I understand ELE has discovered a magic method to reduce the launch costs by 95 percent.”
+
+
+“Yes, I saw it myself.” Reika leaned forward as if impatient to present her views. “We have a solution. We discovered that Tenryu Galaxy Transport is working on a revolutionary new type of rocket. If it succeeds, we’ll be able to send everything with just a few launches!”
+
+
+“Not likely,” said Sohya dismissively. “It wouldn’t be practical to divide all the cargo needed for a ten-year project into just a few payloads. And the impact if we lost a rocket would be too significant. The launch vehicles will probably be smaller, which will make them cheaper. We’ll launch twenty or thirty of them.”
+
+
+“Oh…Yes, I suppose you’re right.”
+
+
+Sando was observing Sohya and Reika’s exchange with deep interest. He smiled and nodded. “In any event, TROPHY will definitely improve our prospects. Good. This will make all of our hard work worth it.”
+
+
+Sando motioned to the rest of the large room. Everything was in complete disarray. In a mere two months, Sando’s engineers had completed the design for an unprecedented construction project. Judging from the state of the design lab, it looked as if the task had consumed the mental and physical energy of the entire Technology Development Division. The room was awash in documents, maps, and printouts. Several of the younger staff were in the back of the room and under desks, immobile in sleeping bags.
+
+
+Suddenly Iwaki, who had been silent till now, raised a hand. “Sando, I’ve got one concern. You said there’d be other people coming to the base. Do you know who they are?”
+
+
+Sando furrowed his brows in puzzlement. “Guests, I suppose. In fact, ELE’s specifications include the construction of several meeting halls, restaurants, and an unusual glassed-in room. Clearly the base is intended for VIPs of some sort.” Sando noticed Reika staring at him and paused to cleared his throat. “Of course, we don’t need to know everything. Still, the fact that we haven’t been briefed on the intended use of such an extensive facility does make our job somewhat more challenging.”
+
+
+“Mr. Sando?” It was Tae. He looked at her, tolerating the interruption. Iwaki and Sohya leaned forward expectantly—but she changed the topic.
+
+
+“When you decide where the base is going to be, I have a request.”
+
+
+“A request?”
+
+
+“I want it to have a nice view.”
+
+
+“A nice view?” Sando, Iwaki, and Sohya looked at each other.
+
+
+“So you do plan to bring tourists to the base?” asked Sohya.
+
+
+“Tourists…Yes, tourism will probably be one of the uses,” said Tae. Then she smiled. “Mr. Sando, I basically understand how you are going to build the buildings. But there’s something you haven’t talked about yet.” It was unbelievable that such a young girl could have grasped Sando’s complex presentation, but what she said next was even more surprising.
+
+
+“Is Gotoba going to handle all the embellishments?”
+
+
+“The embellishments?” Sando looked blank.
+
+
+“Yes, like beautiful towers, bay windows, little paths with pretty arches, and fountains surrounded by flower beds. Of course, the walls will be white, but it’ll be boring if everything is white, so let’s use colors like green and pink for decoration. You can use templates for frescos, but will it be hard to make statues?”
+
+
+“Listen, Tae,” Sohya broke in, astonished. “What kind of a base is this going to be?”
+
+
+“I told you, didn’t I? A place ordinary people can enjoy.” Tae stood and motioned to Reika. “Let’s go, Reika. I have to report back to Grandfather.”
+
+
+“Ah, okay.” Reika turned to the others. “Well, goodbye.” The bewildered men watched her back as she left.
+
+
+
+
+
+
+TWO DAYS LATER, a list of additional requirements arrived from Eden Leisure Entertainment that seemed to have little to do with a lunar base.
+
+
+The document began with a list of stringent standards for the base’s interior environment: temperature, humidity, ambient noise, vibration, odors, illumination, and more. These parameters were not to be maintained at some minimum level but within the optimum range for comfort. The minimum residential volume per occupant was fifty cubic meters—nearly three times the minimum considered necessary for a space facility—including ten cubic meters of private space. Living quarters for visitors had to be strictly separated from those for base staff. Meal service was to offer a choice of five cuisines: Japanese, French, Chinese, Italian, and pan-Asian fusion, with chefs and staff to oversee each menu. All equipment, piping, ducts, cables, and other infrastructure would be hidden inside the walls. Colors and furnishings were to be commensurate with commercial standards on Earth, and occupant safety had to be fully ensured by means of at least three different safety systems: an escape vehicle, space suits, and an emergency escape tunnel. These systems had to be concealed so as not to clash with the furnishings. Operating personnel were to be provided with a comfortable working environment to enable them to provide the highest levels of service to base visitors. Et cetera. Et cetera.
+
+
+In all there were more than 150 of these stipulations. In effect, Gotoba was being ordered to build a first-class hotel on the moon. The engineer responsible for designing the habitat interiors, where most of the impact would fall, went into shock and sent up a distress rocket to his superiors.
+
+
+“How the hell am I supposed to meet these requirements? You can’t lay paint inside a space station. What about the fumes while it’s curing? Resin-based wallpaper? Wood fittings? How do we handle off-gassing and flammability? I can’t work with this!”
+
+
+The complaints went all the way up the chain to the president, but he brushed them off and told his people to stop complaining. The engineer racked his brains and came up with the idea of polishing the interior walls, finishing them with a special compound that would reflect visible light the same way as a butterfly’s wing or a peacock’s tail, to create the effect of color without pigments.
+
+
+Some of the requirements could be solved through similar kinds of innovation, but others would mean sending extra equipment and material. This would add directly to costs. And the 360 square-meter ball court—one each for guests and staff, “if possible”—would mean further expansion of the habitat area. Even Gotoba himself found this hard to swallow and was forced to summon Sohya to his office.
+
+
+“Have you seen these new requirements? ELE wants a volleyball court for the staff. We’d have to add the equivalent of two new habitat modules. It would push the time required for Phase Two another 10 percent. Do you have any idea why they’re doing this to us?”
+
+
+“Maybe they’re planning to send really athletic people,” ventured Sohya.
+
+
+“Very funny. These guys seem to think the moon is just another Polynesian island. They don’t realize that it costs a million yen to send a volleyball. I want you to go to Nagoya, Sohya. Bow low. Try to get them to cut some of this out.”
+
+
+“Don’t worry about the ball court. All we need to do is come up with a new ball game that doesn’t take much space to play.”
+
+
+“Brilliant! I like it.”
+
+
+“Still, the specifications have gotten a lot tougher for some reason. I’d better find out why,” said Sohya as he left the office. The one thing he’d neglected to mention was the author of the new requirements.
+
+
+It had to be Tae; there was no doubt about it. That “report” she’d been working on during their moon trip had gone to ELE. That was probably the reason she’d been sent—to determine how the moon could be transformed from a place where humans struggled to survive to one that anyone could casually visit.
+
+
+But even so, things didn’t add up. The current plan assumed that the fare for one person to travel to the moon would be at least a hundred million yen, even with the new technology. If they received an average of four visitors a month—nearly a thousand people over the base’s twenty-year operating life—they would still not even break even on the 150 million yen construction cost.
+
+
+Did a base on the moon—with its sand and ice, black skies, and weak gravity—really have that kind of drawing power? It might for a short time, while the concept still had some novelty. But could it keep attracting people year after year? People willing to pay a fortune for a stay of just a few days?
+
+
+And if not, what was the purpose?
+
+
+To find out, Sohya traveled to Aichi Prefecture and the headquarters of Eden Leisure Entertainment.
+
+
+
+
+[4]
+
+
+SOHYA RANG OFF his wearcom from his seat in the Nagoyabound maglev express. Gotoba’s liaison at ELE headquarters in downtown Nagoya was expecting his call. Instead of a meeting at headquarters with ELE staff, Sohya was told to proceed to Tokai Eden, where Tae would be waiting for him.
+
+
+He transferred to the train for Leisure Land at Nagoya. Japan’s third-largest amusement park was spread across seventy-five acres of reclaimed land where the Kiso River flowed into Ise Bay. The early autumn school-excursion season had arrived, and the train was overflowing with students of all ages.
+
+
+Naturally there were no ticket vending machines at the entrance to the park. Just as in the train station, an overhead imaging system tracked people entering the park using face recognition. A few days later, a bill would arrive from the visitor’s credit card company or financial institution. When the system was first introduced, some feared it would miss the faces of rapidly growing children, but that particular problem was solved by simple common sense. Preschool children would not be visiting the park on their own. All the system had to do was identify the parents’ faces. For children visiting in groups, the system could simply identify the face of the teacher accompanying them.
+
+
+Tokai Eden’s monitoring system enhanced its accuracy by linking to visitor wearcoms with electronic toll collection signals, a system first commercialized around 2000 to automate toll collection for highways. Sohya realized this when he passed through the entrance and his wearcom emitted a short beep.
+
+
+The wearable computer was a universal terminal crammed with nearly every conceivable electronic function that could be made portable. No adult was without one. It united the functions of a personal computer and mobile phone in a device that could be worn as an accessory—as a wristwatch, bracelet, or necklace, or embedded in a hair ornament or eyeglasses. One of its main functions was to link to mobile networks in the gigahertz band, which allowed user locations to be pinpointed with great accuracy.
+
+
+Of course, the wearcom providers all made a point of advertising security features that would prevent complete strangers from tracking the owner’s whereabouts. But here in Leisure Land, Sohya was on ELE territory.
+
+
+He suddenly found his path blocked by two charming costumed characters, a boy and girl representing primitive humans wearing clothes made of grass. He stood puzzled for a moment, then heard that pure voice, like a silver bell, calling to him.
+
+
+“Hi, Sohya.”
+
+
+When he looked around, her smile was blossoming just a few feet away. He was astonished that she’d been able to spot him among the hordes of students streaming past on both sides—but then he remembered that park security could track anyone with a wearcom. He scratched his head sheepishly.
+
+
+“Hey there. You found me.”
+
+
+“Welcome to my Eden. It’s good to see you.”
+
+
+Tae approached him with controlled exuberance, one sandaled foot toes-first in front of the other. Her black tresses hung loose as always, but instead of the uniform, she was wearing a one-piece Canton crepe dress that shaded from white at the neck to black just above her knees. With it she wore a cardigan and a broadbrimmed white straw hat and black, open-toed enameled sandals. She radiated girlishness and refinement without a single false note.
+
+
+Sohya wanted to get right to the point, but before he could begin, she took his arm. “Come on.”
+
+
+“Where? I came to discuss the base plans.”
+
+
+“You’re riding on the house today. I got you a free pass.”
+
+
+“To the attractions? But we’ll be in line for hours.”
+
+
+“No, we won’t.”
+
+
+It wasn’t her insistent tugging so much as her intent expression that persuaded Sohya to give in. So he allowed himself to be dragged off, as if Tae were a little sister he’d brought to the park.
+
+
+She was as good as her word; after all, she was the chairman’s daughter. At each attraction, her pendant wearcom was a talisman that passed them through the service entrance and onto every ride. The Viking Ark, the Snake-in-the-Garden Roller Coaster, Go-Carts from Hell—each attraction seemed inspired by a freewheeling, if somewhat mordant, borrowing of themes from the Old Testament. And at each attraction their waiting time was zero. Sohya put up with two rides just to be social, but when the girl refused to give her attention to anything else, he gave up, relaxed, and gave himself over to the fun.
+
+
+“Tae, you don’t have school todaaaay?”
+
+
+“Whaaaat?”
+
+
+“School! Schooool!”
+
+
+“Aaaaaaaah!”
+
+
+The wind howling past their pod on Kokytos, a gigantic roller coaster with a 140-meter drop, snatched her straw hat and sent it spinning off into the sunset over Ise Bay.
+
+
+Back on terra firma, Sohya collapsed on a bench, gasping for breath. He felt something cold on his forehead and sat up. Tae was looking down on him, armed with frozen drinks. She motioned to a giant Ferris wheel.
+
+
+“One last ride. The Apple Tree.”
+
+
+Their apple-shaped gondola climbed slowly, lit by the sun setting beyond the Yoro Mountains. For the first time that day—no, it must have been the first time ever—they were alone together. Sitting opposite her in the gondola, Sohya looked at nothing else for a long time.
+
+
+If called upon, Sohya could honestly express at least 95 percent of his attitude toward Tae. He saw her as a bit too precocious, perhaps, but sincerely appreciated her openhearted nature. She was almost like a lovable younger sister.
+
+
+The other 5 percent of his feelings were harder to get a handle on. At thirteen, Tae was rapidly leaving childhood behind, and Sohya felt a slight tenderness toward her that was new to him. Yet his respect for her overshadowed all else. In a sense, she was even intimidating. There was something about this girl that lay far outside the ordinary. But what? It struck Sohya that he knew almost nothing about her.
+
+
+Tae watched the eastern sky deepen into night. Her lovely profile, half in shadow, was bereft of vitality, but not from the day’s endless round of attractions. Some fatigue beyond her years seemed to suffuse her face.
+
+
+“The lights are so cold.” Her lips, like a tender blossom, moved faintly. Sohya followed her gaze.
+
+
+The lights of Nagoya, the largest city in the Chubu region, were starting to wink on. The numberless tiny points of illumination seemed to display as many colors. Sohya placed his hand on the edge of the window and rested his chin there. “I see red and orange too.”
+
+
+“The colors, yes. But there aren’t any lights out there waiting for me.”
+
+
+“Isn’t your home around here?”
+
+
+“I have a maid and some robots, that’s it. Grandfather’s almost never around, he travels on business so much.”
+
+
+“What about your family?”
+
+
+“My…father is even busier than my grandfather.”
+
+
+Uh-oh. The way Tae said “father” suggested that she was reluctant to call him even that. The reason was not hard to guess. She hadn’t mentioned her mother.
+
+
+Sohya’s attempt to change the subject didn’t fare much better. “But you must be popular at school. You’re very attractive.”
+
+
+“I’m already out of college. I was in California.” Sohya couldn’t think of a response.
+
+
+“Sure, I have a lot of friends on the web, but none of them are within a thousand kilometers of me. Stupid, isn’t it?”
+
+
+“But I’m here.”
+
+
+“I thought you’d be nice enough to say that. That’s why I asked you to come.” She suddenly seemed almost frail, but her eyes were smiling. “That list must be giving you fits. I thought you’d come.”
+
+
+“It reflected everything you learned at Kunlun. You dropped a bombshell, that’s for sure.” Sohya’s next question hardly needed asking. “How we build the base is completely up to you then, isn’t it?”
+
+
+“Yes. I told Grandfather I wanted that more than anything.” She said it casually, as if the base were a doll she fancied. “A hundred and fifty billion is the most he can spend without authorization. He doesn’t think Eden will make a profit. Reika was brought in so things would at least look proper. I feel sorry for her. The base was never intended to make money.”
+
+
+“Sounds like she got a raw deal.”
+
+
+“And you?”
+
+
+“I’m okay, I guess.” They looked at each other and laughed weakly.
+
+
+“I just hope Grandfather lives another ten years so he can see it finished. I don’t have any right to expect that. This is a fairy tale. I’m trying to see how grand I can make it.”
+
+
+“Why are you doing this?”
+
+
+She paused. “Because I’m a special girl.” She looked out the window at the sky. “I don’t have what ordinary girls have. Instead, I’m a little bit smart, and I have, well, a lot of money. So I decided I should at least try to do something no one else can do. Something no one else would try to do.”
+
+
+“And that means building a base on the moon?”
+
+
+“I’m saying goodbye to Earth.” Her tone was frighteningly calm. “I won’t have any regrets. Everything I care about is in cyberspace. I’ve experienced it all—friends, warm waters off Samoa, soft kangaroos in Perth, hot borscht in Moscow, cool winds off Kilimanjaro, slick whales in Koch, the tallest redwoods in Yellowstone, sweet cream puffs on the Champs Elysées. So there’s no need for me to stay. I’m going to make a new place for myself as far away as I can go—the moon.”
+
+
+“So we’re building a home for you on the moon?”
+
+
+Tae gave him a sharp, quick smile, lips like a crescent moon.
+
+
+“You’re building a wedding palace.”
+
+
+Sohya stared. Tae stared straight back at him.
+
+
+“Why do you think I would do that?”
+
+
+He was baffled. “I don’t know.”
+
+
+“Even if it costs a lot, people will come for a wedding. Celebrities will spend hundreds of millions of yen without a second thought. Even regular people will pay, oh, ten million.”
+
+
+“Isn’t that only if they’re from Nagoya?”
+
+
+“Yes, I got the idea because I’m from Nagoya. That old stereotype has an element of truth to it; we do like big weddings. But the world is full of parents wanting to celebrate a young couple’s new start in life. Two hundred million per person, minimum two couples. For four hundred million, they get a two-day, three-night wedding and honeymoon. People will definitely come for a honeymoon like that. Lots and lots of them.”
+
+
+Tae looked down at the park below. “Everything has to be perfect so the guests can enjoy themselves. Look at all the people who pay eight thousand yen to visit Tokai Eden. It’s because we pay such attention to detail. We even use costumed characters to collect the trash. It has to be a place where people can have fun.”
+
+
+“That’s why you want the base to be so luxurious.”
+
+
+“Yes.” She nodded and fell silent, waiting for Sohya’s comment, but he had no idea what to say. He sensed a gap between the audacity and detail of her vision and the idea of having a wedding palace as the core facility.
+
+
+The gondola reached its apogee and began descending quietly. “Sohya? When people set foot in a new world, what do they have to do to be able to say it belongs to them?”
+
+
+“Belongs to them?” It was an abrupt question. Sohya didn’t think too deeply before answering, “Raise a flag, or notify somebody.”
+
+
+“They have to be born there.” Tae spoke with firm conviction. “A person can have the confidence to call a place their own if they were born there. A visit is just exploring. But if they get married there and make a baby there…then that place will really be theirs.”
+
+
+“Is that another reason for the wedding palace?”
+
+
+“One of them. There are others.” Tae fell silent again. She didn’t seem interested in explaining further. Finally she spoke, but as if she were talking to herself.
+
+
+“Two people fall in love…they come to a new place, they marry, they make a baby. Build a home, build farms, build a city. Maybe it won’t be Shangri-la, but it’s sure to be full of life. A big new world. Yes…like the American continent long ago. A new continent, but untouched by mankind.”
+
+
+“An unexplored continent. The sixth continent, like Antarctica,” said Sohya.
+
+
+“Sixth continent…Sure, not everyone counts five continents, but the Olympic flag represents five. Yes, the sixth continent. I like the way that sounds.” A smile she seemed to have forgotten for a short time played across her lips. “Sohya, I’m going to use that name.”
+
+
+“Mm-hm.” His mind was on something else.
+
+
+“Tae, what’s your role in that new world?”
+
+
+She didn’t answer immediately. Apparently the question had caught her by surprise. She glanced around nervously, then looked out the window, as if looking to escape.
+
+
+“I wonder. I don’t want to get married, myself.”
+
+
+“I see. So you don’t have a boyfriend?” Sohya looked out the window.
+
+
+“Sure. He’s right here with me.” She smiled mischievously.
+
+
+Sohya laughed skeptically. “Me?”
+
+
+“Is that bad news?”
+
+
+“Of course not. I’m honored.” Sohya extended his hand. She took it and unhesitatingly moved next to him.
+
+
+That was the real beginning of their relationship. Still, Tae was mature enough for her age not to fall into a girlish infatuation, and Sohya was not naive enough to lose his head over a girl a dozen years his junior.
+
+
+So it started serenely, without fanfare or any surge of romantic feeling—a smooth start to a relationship that would weave itself in curious ways. A girl on a journey, and a young man following close behind.
+
+
+“I guess it’s a bit soon for marriage?” said Sohya gently.
+
+
+“Yes. I don’t want to anyway. I’m still not sure where I fit in.”
+
+
+“No problem, let’s give it time. I’ll always be in touch. I think your plan’s a good one.”
+
+
+Their gondola neared the ground. Tae was still looking at the eastern sky. A line of buildings, and above that the horizon with a silver disk peeking above it. Faint bluish white light—was it the moon or the lights from the park?—lit up Tae’s face and made her look noble, like royalty itself. Like the moon’s harsh mistress…
+
+
+The phrase floated up from somewhere in Sohya’s memory. Somehow it seemed he hadn’t gotten it quite right. Still, he thought it captured Tae at this moment perfectly.
+
+
+Let it be so, then. Let all the sentient beings of this world gather for a magnificent banquet in a palace between endless night and a sun that never sets.
+
+
+Not for the politicians, or the people, or even the earth and its precious biosphere, but simply for the pleasure of a little queen.
+
+
+What could be more sublime?
+
+
+
+
+
+
+ON OCTOBER I, 2025, Gotoba Engineering & Construction, Eden Leisure Entertainment, and Tenryu Galaxy Transport officially announced their joint intention to build Sixth Continent, a wedding palace on the moon.
+
+
+
+
+
+
+
+
+
+
+BOOK II
+
+
+ENGINEERING EQUIPMENT,
+
+
+TRANSPORT, AND SITE
+
+
+PREPARATION, 2029–2033

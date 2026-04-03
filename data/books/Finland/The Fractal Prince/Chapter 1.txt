@@ -1,0 +1,247 @@
+1
+
+
+THE THIEF AND THE BOX
+
+
+On the day the Hunter comes for me, I am killing ghost cats from the Schrödinger Box.
+
+
+Q-dot tendrils like sparks from a Tesla coil trail from my fingers into the little box of lacquered wood floating in the middle of my cabin. Behind it, displayed on one gently curving wall, is the Highway – a constantly flowing river of spaceships and thoughtwisps, a starry brushstroke in the dark. A branch of the gravitational artery through the Solar System our ship, Perhonen, is following from Mars to Earth. But today, I’m blind to its glory. My world is the size of a black box, just big enough to hold a wedding ring, the mind of a god – or the key to my freedom.
+
+
+I lick sweat from my lips. My field of vision is a spiderweb of quantum protocol diagrams. Perhonen’s mathematics gogols whisper and mutter in my head. To help my all-too-human senses and brain, they translate the problem into yosegi: opening a Japanese trick box. The quantum protocols are sensations, imperfections and valleys in the marquetry, pressure points inside the wood like tense muscles, faint grins of sliding sections. I need to find the right sequence that opens it.
+
+
+Except that here, the trick is not opening it too early, the wood patterns are hidden in the countless qubits inside – each zero and one at the same time – and the moves are quantum logic operations, executed by the arrays of lasers and interferometers the gogols have built in the ship’s wings. It all amounts to what the ancients called quantum process tomography: trying to figure out what the Box does to the probe states we ease into it, gently, like lockpicks. It feels like trying to juggle eight-side Rubik’s cubes while trying to solve them at the same time.
+
+
+And every time I drop one, God kills a billion kittens.
+
+
+The gogols light up a section of the diagram, red threads in the tangle. Immediately, I can see another section that is linked. If we rotate this arrow and that state and apply a Hadamard gate and measure—
+
+
+The imaginary wood beneath my fingers groans and clicks.
+
+
+‘Sesame,’ I whisper.
+
+
+Drathdor the zoku elder liked to talk, and it wasn’t that hard to get him to explain what a Box was (without letting on that I had stolen one from their zoku twenty years ago, of course).
+
+
+Imagine a box, he said. Now put a cat in it. Along with a death machine: a bottle of poison, cyanide, say, connected to a mechanism with a hammer and a single atom of a radioactive element. In the next hour, the atom either decays or not, either triggering or not triggering the hammer. So, in the next hour, the cat is either alive or dead.
+
+
+Quantum mechanics claims that there is no definite cat in the box, only a ghost, a superposition of a live cat and a dead cat. That is, until we open it and look. A measurement will collapse the system into one state or the other. So goes Schrödinger’s thought experiment.
+
+
+It is completely wrong, of course. A cat is a macroscopic system, and there is no mysterious intervention by a magical observer needed to make it live or die: just its interaction with the rest of the Universe, a phenomenon called decoherence, provides the collapse into one macrostate. But in the microscopic world – for qubits, quantum-mechanical equivalents of ones and zeroes – the Schrödinger’s cat is real.
+
+
+The Box contains trillions of ghost cats. The live cat states encode information. A mind, even, a living, thinking mind. The Box qubits have been rotated into a limbo state between nothingness and existence. The mind inside would not notice anything – a set of quantum gates can let it continue thinking, feeling, dreaming. If it stays inside, all is well. But if it tries to get out, any interaction with the environment will bring the Universe down on it like a ton of bricks and collapse it into nothingness. Bad kitty, dead kitty.
+
+
+‘So what do you put in a Box like that?’ I asked Drathdor.
+
+
+‘Something very, very dangerous,’ he said.
+
+
+A section of the Box in the qubit map we have created over the last week lights up like a city at night. I can feel it: the unknotting that always comes with a job when you discover the flaw in a lock or a security system or a con mark’s mind. Eagerly, I close my eyes and follow the flow of moves. The wood panels slide beneath my fingers. The gogols sing with the joy of the orgasmic jolts of pleasure they receive from computing spectral sequences of Hilbert space operators. More light in the map. The lid moves, ever so slightly—
+
+
+And snaps shut. The next register dies, for good. The protocol network ties itself into a knot. The last measurement shows only death. I have destroyed another fragment of the contents of the Box.
+
+
+I swear and throw the accursed thing across the cabin. The q-dot tendrils tear and dissolve. The Box bounces from the starry field of the wall and spins in the air.
+
+
+The words that have been ringing in my head for days come back to me.
+
+
+I am not Jean le Flambeur.
+
+
+A small white butterfly lands deftly on the Box and brings its spin to a halt, fluttering its wings.
+
+
+‘Before you break anything,’ the ship says in its soothing, feminine voice, ‘I would like to point out that this was all your idea.’
+
+
+The ship is right: it was my idea. Or, rather, my earlier self’s idea. The original Jean le Flambeur, a thief and mind burglar of legend, an all around nice guy. Who left me with nothing apart from a few fragmented memories, old enemies, a prison sentence – and the thing inside the Box.
+
+
+‘Touché,’ I say.
+
+
+‘That’s three days straight now, Jean. Maybe you should leave it alone for a while.’
+
+
+‘There is no time. You told me it’s decohering.’
+
+
+Fatigue stings my eyes like sand. A reminder that, in spite of appearances, I am not free. Perhonen’s captain Mieli stubbornly refuses to give me root access to my Sobornost-made body, keeping it firmly within baseline human operating parameters in spite of my assurances that my previous attempts to escape our involuntary partnership were misunderstandings and that I am firmly committed to paying my debt of honour to her and her elusive Sobornost employer. Honest.
+
+
+But I can’t give up. When the ship first examined the Box, it found that the quantum information inside is short-lived. In a few days, the kittens will die of old age.
+
+
+‘Almost as if the designer deliberately wanted to introduce a time limit. Like a game,’ Perhonen says.
+
+
+‘As you say, it’s a zoku device. What do you expect?’ There is a great variety of zokus out there, but they are universally game-obsessed. Not that the Sobornost are immune to the lure. A memory of their Dilemma Prison and its deadly games makes me shiver – not to mention its resident monster, the All-Defector: the shapeshifting nightmare who wore my own face to beat me. Whatever job Mieli’s boss got me out for has to be better than that.
+
+
+‘I don’t know what to expect. Neither Mieli nor you have told me what’s inside it. Or what it has to do with our destination. Which I’m less than keen to visit, by the way.’
+
+
+‘Earth isn’t that bad,’ I say.
+
+
+‘Have you been there since the Collapse?’
+
+
+‘I don’t know. But I know we have to go there.’ I spread my hands. ‘Look, I just steal things to earn my keep. If you have a problem with the big picture, take it up with Mieli.’
+
+
+‘Not with the mood she’s in,’ the ship says. The butterfly avatar makes a circuit around my head. ‘But maybe you should talk to her. About the big picture.’
+
+
+Mieli has been acting strangely. She is not the life of the party at the best of times, but she has been even quieter than usual during the slow weeks of our journey from Mars, spending most of her time in the pilot’s crèche or in the main cabin, meditating.
+
+
+‘That,’ I say, ‘seems like an exceptionally bad idea. Usually, I’m the last person in the world she wants to talk to.’ What is the ship talking about?
+
+
+‘You could be surprised.’
+
+
+‘Fine. Right after I get this thing open.’ I frown at the Box. The butterfly avatar settles on my nose, making me blink furiously until I have to brush it away.
+
+
+‘It sounds to me like you are trying to distract yourself from something,’ it says. ‘Is there something you are not telling me?’
+
+
+‘Not a thing. I’m an open book.’ I sigh. ‘Don’t you have better things to do? They created the first psychotherapist bots about four hundred years ago.’
+
+
+‘What makes you think you are not talking to one?’ The avatar dissolves into a bubble of q-dots, leaving behind a faint ozone smell. ‘Get some sleep, Jean.’
+
+
+I touch the Box, feel the solid shape of the warm wood, make it spin in the air again until its edges become a blur. The movement makes me drowsy. The ship is right. It is easier to think about it than about Mars and the castle and the goddess. And as soon as I close my eyes, they all come back.
+
+
+The memory castle on Mars could have been mine: all its rooms with their wax and brass statues, the treasures and zoku jewels, stolen from diamond minds and gods. It’s all gone now, my whole life, eaten by an Archon who turned it into a prison. The only thing left is the Box, and the memories that came with it.
+
+
+I could have reached out and taken it all back, but I didn’t. Why not?
+
+
+I am not Jean le Flambeur.
+
+
+I walk down the gold-and-marble corridor of the castle in my mind and look through the open doors, into the rooms of stolen memories.
+
+
+There is the time I did not want to be Jean le Flambeur. I lived on Mars, in a place of forgetting, the Oubliette. I made a new face. I made a new life. I found a woman called Raymonde. I hid my secrets, even from myself.
+
+
+There is the Spike, a Singularity both in technology and spacetime. A bright flash in the Martian night, a dying Jupiter raining quantum dreams down on the people of the Oubliette.
+
+
+There is the Hallway of Birth and Death, the building I made to remind immortals of how things end.
+
+
+There is the lover of an Oubliette artist whose memories I . . . sought inspiration from. He was touched by the Spike. In his mind, I saw the fire of the gods. And I had to have it.
+
+
+There is the Martian zoku. They brought the Box with them, from the Protocol War. Inside, a captured Sobornost Founder gogol, one of the rulers of the Inner System. A trapped god.
+
+
+There is the girl called Gilbertine – another thing I could not help but want, even when I shouldn’t – whose memories I hid the Box in. I wore a face filled with a cold purpose that feels alien now. Being Prometheus, that sort of thing, the old me told her. That’s what the goddess with the serpent smile who Mieli serves wants me to be.
+
+
+There is the woman Xuexue from the robot garden who was an uploader on Earth. She turned children into deathless software slaves in the sky, in the time before the Collapse, before Sobornost. That is what pulls me to the home of humanity now, the knowledge that this memory has a purpose, that there is something in the world of ghosts that I need.
+
+
+And then there is the closed door.
+
+
+I open my eyes. The Box is still spinning. I have been distracting myself. Earth is where the answers lie – and inside the locked room in my head.
+
+
+What would Jean le Flambeur do?
+
+
+I take the Box and hum a few notes of Stan Getz. A circular opening appears in the curving surface of one of the walls. Much of the ship’s structure is made from Oortian smartcoral – or väki, as they call it – and it responds to music. I have had enough time to watch Mieli to figure that out. No doubt the ship knows what I’m doing, but I like the modicum of privacy that comes from having a hiding place.
+
+
+I put the Box inside and make an inventory of the contents. A couple of zoku jewels – tiny dark amber ovals the size of quail eggs – stolen on Mars when the detective Isidore Beautrelet and I went to his girlfriend Pixil’s reincarnation party. There is also her Realmspace sword, which I brought with me from the battle with my other self, Jean le Roi.
+
+
+It’s not much, but it’s a start.
+
+
+I put a zoku jewel in my pocket for good luck, lock the rest of my paltry secrets away and go looking for Mieli.
+
+
+Mieli prays to the Dark Man in the main cabin of the ship. The songs come to her haltingly at first but, after a while, the sculptures in the walls start moving to the sound of her voice, twisting into the dark countenance of the god of the void. It is a song Grandmother Brihane taught her, only to be sung in dark places, on dark journeys. But as she slips into meditation, the images become her reflections: many Mielis looking at her in the walls, their faces the colour of dirty comet ice.
+
+
+She stops, staring at them. The spherical candles floating in the air, their tiny heart-flames emanating light and a soft cinnamon smell, the song – none of that matters. The hollow feeling inside her is back.
+
+
+There are things she should be doing. Preparing cover identities for the approach to Earth. Reviewing Sobornost databases about the home of mankind – and the place that her people, the Oortians, fled, centuries ago. Instead, she sighs, pulls herself to the comfortably ordered axis of zero-g furniture and spherical bonsai trees in the centre of the cabin, and fabs herself a bulb of liquorice tea.
+
+
+She cradles the rough warm coral of the bulb in her hands. The song to make it comes to her, suddenly: a few simple notes a child could learn. She hums it as she takes a sip. A dark taste, liquorice and bitterness. She has forgotten how foul the stuff could be. But a memory comes with the mouthful, a morning in the koto when the blinds were opened and the Little Sun shone in, turning the thousand scars and cracks of the ice sky into bright winks, the Grandmother pressing the bulb into her hands and giving her a kiss with her withered lips, her dry, sweet smell mingling with the tea, the pumptrees opening, the little anansi catching the morning thermals in their diamond web gliders—
+
+
+Even that memory is not hers anymore. It belongs to her mistress, the pellegrini.
+
+
+It should not feel any different from everything else she has already given. Her flesh, shaped into a container for fusion and death. Her mind, augmented with a metacortex that kills fear, figures out what her enemies are going to do before they know, turns the world into vectors and forces and probabilities. All that for Sydän. So why does the last thing she gave up – uniqueness, the right for the goddess to copy her, to create gogols that think they are Mieli, daughter of Karhu – feel so precious?
+
+
+Perhaps because it was not for Sydän, but for the thief.
+
+
+She brushes aside the old, habitual anger at the thought of his face, features that have become familiar over the last few months: bright eyes beneath heavy eyelids, an easy smile, high eyebrows as if sketched with a sharp pen. For a moment, she almost misses the biot link that her mistress used to bind them together, feeling what he feels. It made him easier to understand.
+
+
+He made her sing, on Mars. Like everything he does, it was a trick, meant to cover up something he was doing behind her back. But through the biot link, she could feel his joy at her song. She had forgotten what it was like.
+
+
+And there was honour. She could not abandon him to die in another prison, discarded by the pellegrini like a broken tool. How could she have done anything else? She touches the jewelled chain around her leg. Precious gems in a chain, one after another, irrevocable choices.
+
+
+She lets go and continues to pray, slowly. The candlelight dances on the faces of the statues, and they start to become Sydän’s face, the wide mouth and high cheekbones, the arrogant pixie smile.
+
+
+‘Why is it that you never pray to me, I wonder?’ the pellegrini says. ‘Gods are so old-fashioned. Memetic noise inside monkey heads. You should pray to me.’
+
+
+The goddess stands in front of Mieli, a shadow framed by the zero-g candles, arms folded. As always, it is as if she is standing in normal gravity: her auburn hair is open and falls across shoulders left bare by a white summer dress.
+
+
+‘I serve and obey,’ Mieli says. ‘But my prayers are my own.’
+
+
+‘Whatever. I am generous. Prayers are overrated anyway.’ She waves a red-nailed hand. ‘You can keep them. I have your body, your loyalty and your mind. Remember what you promised me.’
+
+
+Mieli bows her head. ‘I have not forgotten. What you ask is yours.’
+
+
+‘Who is to say I haven’t already taken it?’
+
+
+Mieli’s mouth goes dry, and there is a cold fist in her stomach. But the pellegrini laughs, a sound like tinkling of glass.
+
+
+‘Not yet. Not yet.’ She sighs. ‘You are so amusing, my dear. But unfortunately, there is little time for amusement. I do, in fact, need your body, if not your soul. My Jean and I need to have a conversation. Circumstances have forced my other selves to set certain things in motion. Something is coming for you. You need to be ready.’
+
+
+The pellegrini steps into Mieli’s body. It feels like plunging into freezing cold water. And then the cabin and the candlelight and the goddess are gone and Mieli is in the spimescape, a ghost among the tangled threads of the Highway.

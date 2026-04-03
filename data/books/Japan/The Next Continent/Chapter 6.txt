@@ -1,0 +1,1996 @@
+CHAPTER 6
+
+
+
+
+RISK MANAGEMENT AND DAMAGE CONTROL
+
+
+
+
+[1]
+
+
+THE LEAVES ENVELOPING the soaring office tower glowed crimson in the sunset over the Yoro Mountains. It was beautiful enough to take one’s breath away.
+
+
+Autumn, 2030. Eden Leisure Entertainment’s headquarters was sheathed in Japanese maples flourishing on projecting ledges. On the twenty-third floor, their scarlet leaves framed a window and a man who stood gazing impassively from it.
+
+
+The man’s hair was parted neatly above his gold-rimmed glasses. Behind the glow reflected in their lenses, his eyes had a gentle softness. His features were clear-cut; age had only begun to touch his slightly hollowed cheeks. He stood on the green carpet of his enormous office like a tree nourished by the sun, feet planted shoulder width apart, spine straight, hands behind his back. A small badge with a logo of a red fruit in a treetop adorned his beige suit lapel.
+
+
+ELE president Kiichiro Toenji was fifty-five years old. He was not admiring the sunset. He had turned his back on a visitor. The visitor’s voice, coming from a sofa facing his desk, was pulsing with irritation.
+
+
+“Why can’t you be more flexible? One company sailing under two flags will only confuse our customers.”
+
+
+“Corporations have multiple brands all the time. Sixth Continent doesn’t have to borrow Tokai Eden’s design concepts,” said Kiichiro, without moving a muscle.
+
+
+“Then at least put a Sixth Continent banner at the top of our home page. Ninety-five percent of our visitors use the web to check the park schedule. You know that. Treating Sixth Continent like any other subsidiary just makes the rift between you and Tae that much more obvious.”
+
+
+“I’m surprised to hear you say that, Mr. Chairman. I think Sixth Continent’s already made the rift obvious with their stance toward ELE. But that doesn’t change the fact that Tae’s moon base is not a core business. It’s just part of our portfolio, like Eden Tourist or Vision of Eden Video. Our publishing division will probably show more profit in the long run. But this is academic. We agreed that she could draw on corporate resources, such as our publicity department, as long as Sixth Continent succeeded or failed on its own.”
+
+
+“Kiichiro, are you refusing to help your own flesh and blood?”
+
+
+At the old man’s sigh, Kiichiro’s blank expression became, if anything, even more inscrutable. He adjusted his glasses on the bridge of his nose with a manicured fingertip. “I’ve faithfully followed the course you set.”
+
+
+“In what way?”
+
+
+“‘A paradise on Earth, a dream, a brief escape from reality—for everyone.’ When you founded Paradise Tours, that was your company’s motto. And in time, Paradise Tours grew into this enormous enterprise. Since I took over this office fifteen years ago, I’ve never forgotten that motto. Not for a single day.”
+
+
+“They’re just words,” said Sennosuke. “You don’t know what they mean!”
+
+
+“Don’t I? I am a purveyor of dreams. It’s you who has forgotten the meaning of those words. Sixth Continent will never be accessible to the public. It’s not a place you can just decide to visit. It’s a palace above the clouds for the superrich. If space travel is always going to be expensive, then the entire venture was ill conceived from the start.”
+
+
+“But the mere fact that there is such a place gives people hope for the future. Tae gets thousands of letters every week that prove it.”
+
+
+“Yes. She’s dangling a dream of the future before the world. Her dream, the dream of a solitary young girl. I’m sure you understand the risks that entails. Offer a product strongly associated with a particular individual, and anything that damages that person’s reputation damages the product. To make matters worse, Sixth Continent has no focus. Is it a wedding palace? A research facility? What happens if she ceases to be associated with it? The whole house of cards collapses. I doubt Tae herself understands why she’s doing this. Her rationale for building a moon base changes depending on whom she’s speaking to, the time, and the place. It’s absurd.”
+
+
+“Kiichiro—don’t you see why she’s doing this?”
+
+
+The son shook his head almost imperceptibly. “If I were unable to grasp the psychology of an eighteen-year-old, I’d hardly be qualified for this job. But to answer your question, yes, I know why she’s doing it. And I can’t give her what she wants.”
+
+
+“Is that why you allowed her to go ahead?” Sennosuke’s shoulders sagged with sudden resignation. “Is this your way of trying to please her?”
+
+
+Kiichiro was silent for a moment.
+
+
+“I didn’t expect the project to snowball the way it has. That was my error. But errors can be corrected. It’s not too late to terminate the project. Once people begin living on the moon it will be impossible to pull the plug. Do we hemorrhage red ink and become an object of derision? Or worse, do we wait for some poor guest to lose his life and become a target of criticism? It’s all too easy to see where this is heading.”
+
+
+“I didn’t raise you to be so pessimistic. You’ve changed, but I saw it too late. Is it because of Shizu?”
+
+
+Kiichiro whirled on him. “Shizu has nothing to do with it. That was an accident.”
+
+
+“So I understand. But it would be natural for you to feel responsible. She didn’t have to be behind the wheel of that car.”
+
+
+“The dead do not assign blame. Nor do they forgive. Second thoughts are wasted thoughts. Please leave ancient history out of this, Mr. Chairman.”
+
+
+“Stop calling me that. I’m your father.” Sennosuke was suddenly stern. “You said mistakes can be corrected. Give Tae the benefit of your experience. Sixth Continent is sure to be a roaring success. It will be a vehicle for her dreams and a hope for millions around the world. That’s the kind of future you should be pursuing.”
+
+
+“We’re talking past each other,” said Kiichiro at length. He shook his head. “ELE’s future is in my hands. I acknowledge your viewpoint. That is all, Mr. Chairman.”
+
+
+“Kiichiro…what she really wants—”
+
+
+“Father.” He raised a hand in warning and looked down at Sennosuke. The old man glowered at him.
+
+
+“I take it back. Don’t call me that again.”
+
+
+“I won’t.” Kiichiro nodded toward the exit. Sennosuke got up and strode out angrily. His son watched the door close, still impassive. He shrugged his shoulders lightly and touched the speed dial on his wearcom. His secretary answered.
+
+
+“It’s me. From now on, when the chairman visits, alert me before you admit him.”
+
+
+“Certainly, sir. Shall I issue him an ID card?”
+
+
+“That won’t be necessary. But things have changed. I’ll need time to compose myself before seeing him.”
+
+
+“I see.” The secretary needed no further explanation. “We’re running short on time. You have a first-class seat on the maglev for tonight’s dinner in Tokyo. I’m concerned about the traffic in Shinkiba. Shall we take the helicopter?”
+
+
+“No. Let’s stay with the maglev. I have some homework to do on the way there.”
+
+
+“How can I help?”
+
+
+“I need a report on Sixth Continent’s risk management from Central Planning. A summary of any factors that could negatively impact the project. Human, financial, technical, political, and anything else. There must still be someone in the division at this hour.”
+
+
+“Just a moment.” There was silence for perhaps twenty seconds. “Yes, they can prepare a summary. The file will be ready in thirty-five minutes.”
+
+
+“Use level three—no, level four encryption. Passwords for the two of us only.”
+
+
+“Understood.”
+
+
+“Shall we be off then?”
+
+
+Before he left his office, Kiichiro looked out the window. High above the setting sun was a sliver of moon. He stared at it intently.
+
+
+The moon is too far. It’s beyond the average person’s reach. Perhaps in dreams…No. Father is wrong. The moon is no escape from reality. It’s a harsh and unforgiving wasteland. Our future is here. On Earth.
+
+
+He turned his back on the dying light and left the office.
+
+
+
+
+
+
+THE IMPERIAL HOTEL, Tokyo.
+
+
+A guard in a dark green military uniform was blocking the corridor. His insignia identified him as a member of the People’s Liberation Army, Second Artillery Corps. Two men in suits stood in front of him, taking turns protesting, trying to gain admittance to the room he blocked. A few steps down the corridor, a middle-aged woman in a tailored suit was waiting with an irritated look.
+
+
+One of the men waved a watermarked document in the soldier’s face and whined, “Don’t you understand? This is Tomoé Hayasaka, a member of the House of Representatives. We are her secretaries. She’s a public figure. This document confirms your government’s approval for this meeting. Please show us in immediately.”
+
+
+“I have no information on anyone named Hayasaka. Therefore, the National Heroes will not see her.” The soldier shook his head obstinately. The other secretary started shouting.
+
+
+“What’s going on here? You’d better explain yourself!”
+
+
+“The National Heroes are tired. My orders are to admit no one.”
+
+
+“Tired? Ms. Hayasaka went to great lengths to make these arrangements. At least let them know she’s here!”
+
+
+“Excuse me.” A new voice. They turned to see a young man in an ill-fitting blue suit. One of the secretaries glared skeptically.
+
+
+“Who are you? This is the Imperial Floor. Did you get on the wrong elevator?”
+
+
+“I don’t think so. Isn’t this where Jinqing Jiang and Penghui Cui are staying? The Chinese astronauts? I’m here to see them.”
+
+
+“You? Go home. Ms. Hayasaka has an appointment.”
+
+
+“I see.” The young man seemed surprised. He took a small object out of his pocket and held it out to the soldier.
+
+
+“Could you just show them this? Ask them to call me later when they have a chance.”
+
+
+The object resembled a blue passport folder. The three visitors smiled condescendingly. Obviously this young man, whoever he thought he was, would get little satisfaction from the pigheaded soldier. But the soldier took one look at the folder and disappeared into the room behind him.
+
+
+Moments later the door opened. Another young man, wearing a polo shirt, stepped into the corridor. The politician and her secretaries listened to the ensuing exchange, conducted in English, in disbelief.
+
+
+“I was hoping you’d come! It’s been five years. How’ve you been?”
+
+
+“Just fine, Jiang. I’m glad you remember me,” said Sohya.
+
+
+“How could I forget a fellow astronaut? Here, this belongs to you.” Jiang handed him the folder, and they shook hands warmly. The two secretaries stood dumbfounded.
+
+
+“Who are you?” said one. “And what was that?”
+
+
+“Oh, just an astronaut’s notebook. Standard CNSA issue,” said Sohya with studied nonchalance. He turned back to Jiang. “Can you spare some time? Though I think these people are ahead of me.”
+
+
+“No, no problem. Let’s—no, let’s not go into the room. How about a walk outside? Show me a bit of Tokyo.”
+
+
+“Sure. I know just the place.” They turned to leave, but the secretaries and the soldier blocked their path.
+
+
+“Please wait, Mr. Jiang. Ms. Hayasaka has been waiting to see you.”
+
+
+“National Hero Jiang, it’s dangerous for you to go out alone!”
+
+
+Jiang smiled and said impishly, “My colleague is in the room. Why don’t you negotiate with him? I’m in good hands with Aomine. He helped us deal with the meteor strike at Kunlun Base.”
+
+
+“He was there?” marveled the soldier.
+
+
+“Yes. So I don’t need an escort.” The two young men headed for the elevator, leaving behind four people who looked as if they’d been bewitched.
+
+
+
+
+
+
+THE COMMUTER CRUSH thinned once the two men emerged from Ueno Station. Jiang sighed with relief. “So this is Tokyo rush hour. Maybe we shouldn’t have gone out.”
+
+
+“Since you’re a National Hero, you must be used to limos.”
+
+
+“No, that’s worse. Imagine being stuck in traffic with Cui.”
+
+
+They laughed and waited for the light to change at the crossing to Ueno Park. Sohya looked off in the direction of the Imperial Palace. “Maybe I should’ve invited him.”
+
+
+“He wouldn’t have come. You saw what happened five years ago.”
+
+
+“Is he still upset about having to stay the extra year?”
+
+
+“You must be joking. When he got home he was a celebrity—the record holder for longest stay on the moon. He’d be embarrassed to be around you, that’s all. So he didn’t come.”
+
+
+“Then how did he feel about whatsername coming just to see him?”
+
+
+“I doubt he was pleased.” Jiang frowned. “I know what she’s after. She’s a member of that faction in your—what do you call it, House of Representatives? The group that’s pushing space development.”
+
+
+“In that case, I would think they’d get along,” said Sohya.
+
+
+“Different agenda. For politicians it’s just self-interest. A Japanese entrepreneur starts Sixth Continent and becomes an international celebrity. Politicians sit up and take notice. Space development gets them votes. But Sixth Continent isn’t a government project. They can’t take credit for it. So they cozy up to our astronauts. It gives them a few names to drop afterward.”
+
+
+“Is that what was happening? I guess I didn’t do Cui much of a favor then.” Sohya laughed briefly and looked at Jiang with admiration. “You see through everything, don’t you?”
+
+
+“It’s not the first time this has happened. We’re here for the Asian Space Agencies Conference, but we’ve already been dragged to all these different conferences and symposiums in different countries. There are always people with impressive titles who want to make contact. I don’t like to be suspicious, but it gets to where you can’t help it.”
+
+
+“Is that why you have a guard?”
+
+
+“For that, and for reactionaries opposed to space development who might want to stir up trouble. But mostly it’s to keep an eye on us. Did you see the insignia? Second Artillery Corps. They control our strategic missiles. They’re worried we’ve gotten too Westernized and liberal from attending all these overseas forums. We might spill some of their secrets.”
+
+
+Jiang looked intently at Sohya. “Thanks to that guard, we haven’t been able to see anything of Tokyo. I’m actually glad I got a chance to ride on a rush hour commuter train,” he said.
+
+
+Sohya laughed.
+
+
+They emerged onto the tree-lined avenue leading to the National Museum of Western Art. A stone building, a bit like a miniature parliament, came into view. The building itself was unremarkable but flanked by two strange objects: a life-size model of a blue whale and a rocket perched on an orange launch rail. Sohya stopped in front of the rocket and motioned toward the building.
+
+
+“This is the National Museum of Nature and Science. I thought you’d rather see this than a movie.”
+
+
+“A museum, huh? It’s much smaller than the Palace Museum.”
+
+
+“Give me a break. Your population is twelve times larger than ours. I know you’re proud of China, but reserve your judgment till you’ve seen it.”
+
+
+“Now that I think of it, the Palace Museum doesn’t have a blue whale.”
+
+
+They sat down on the lawn in front of the rocket and stretched out on their backs, almost in unspoken unison.
+
+
+“Well, no one will overhear us here. So what is it you want, Aomine?”
+
+
+“Sorry. This wasn’t just for old time’s sake.”
+
+
+“Sixth Continent, right?” Jiang looked over at him. “We get the news in China too. You’re one of the key people. And you need help, so you came to me. Am I getting warm?”
+
+
+“Okay.” Sohya held up his hands. He watched the families passing on the tree-lined drive as the breeze sent leaves spinning through the dusk.
+
+
+“I’ll get right to the point,” he said. “We need Xiwangmu.”
+
+
+“Ah, yes. The world’s finest lunar habitat module.”
+
+
+“How much do you know about Sixth Continent’s construction plans?”
+
+
+“Just what I see on the website,” said Jiang, noncommittal.
+
+
+“We’ll be building with concrete. Until the main structures are in place, we’ll need temporary quarters for people on-site. We need a solution.” Sohya looked up at the rocket behind him. “Japan started launching pencil rockets after World War II. We worked hard to develop our space technology. That’s a Lambda, the first Japanese launch vehicle to put a satellite in orbit. One hundred percent Made in Nippon. Later we borrowed some American technology, but today our rockets are completely homegrown.”
+
+
+“The rockets.”
+
+
+“Yes. Only the rockets.” Sohya nodded. “Our manned spacecraft technology is way behind. Developing a spacecraft has monopolized our resources. We haven’t been able to keep the Phase Two habitats on schedule. On paper our plans for construction look foolproof, but once we start building we can’t predict what problems we might run into. The Xiwangmu design is proven. We could learn a lot from it.”
+
+
+“Why don’t you ask the Americans for help?”
+
+
+“We owe them too much already.”
+
+
+“For what?”
+
+
+“Our space tug is a modified Titan X second stage. We’re hoping to start trial runs next spring. We plan to have it in service the year after that. The Americans are building up there too, you know. We can’t afford to put ourselves any deeper in their debt.”
+
+
+Jiang chuckled. “What about the Russians? They have more experience building habitat modules than we do. Xiwangmu is just an extension of the Mir design.”
+
+
+“Russia is participating in ISS. They’ll have their hands full as long as the station is operating. And they’re in no position to irritate the U.S. by helping us.”
+
+
+“I see what you mean.” Jiang folded his arms across his chest.
+
+
+“Not only that, Xiwangmu is the only module we have any direct experience with. We need it. It’s versatile. We think it would answer our requirements.”
+
+
+“You’ve got me cornered.” Jiang shook his head wryly and glanced at Sohya. “Tell me something. If I wasn’t a National Hero, would you still have come to see me?”
+
+
+“What do you mean? Of course.” Sohya smiled broadly. “I came to see you as a friend I met on a long journey. I’d be happy to show you all over Japan, not just to a museum.”
+
+
+“Okay.” Jiang’s eyes narrowed. He nodded several times. “Okay. I’ll talk to the CNSA administrator. Would that do it?”
+
+
+“That would be great. Our senior people are already talking to the National Space Subcommittee, but we could use some covering fire from a local source.”
+
+
+“Well, for the first time I’m glad they made me a National Hero.”
+
+
+Sohya clapped his shoulder in gratitude. “When do you think we could get them? You’d need six months or a year to build one, right? Do you think you could supply them in 2032, when we get the space tug into service?”
+
+
+“If things go smoothly you can have them next month.”
+
+
+“No way!”
+
+
+Jiang shrugged. “There are at least two units at China Great Wall Industry Corporation in Szechuan. We were going to use them to expand Kunlun Base. They were about a month away from launching on a Long March rocket. Then everything was frozen.”
+
+
+“What happened, anyway?”
+
+
+“Budget problems. We’ll reactivate the base eventually. The habitat modules were sealed and put in storage for when the time comes.”
+
+
+“When will that be?”
+
+
+“I don’t know. More than ten years, I’d guess. Maybe twenty or thirty. Not until nuclear fusion technology is ready.”
+
+
+“Nuclear fusion? Are you going to mine helium-3?”
+
+
+“Yes.” Jiang nodded confidently. “Kunlun’s ultimate purpose was to mine helium-3 for pollution-free power generation. We finished the base, but fusion technology is far behind. Still, all we have to do is wait. Once the technology is perfected, we’ll be in a good position to supply the fuel. We can mine enough helium-3 to supply Earth with power for a millennium. It’s worth waiting thirty years. No need to get impatient.”
+
+
+“You’re making our wedding palace sound like a kid’s toy.”
+
+
+“Why not? It definitely sounds like fun.” Jiang laughed. “If you can put those modules to use now, I don’t see a problem. It’ll be an investment. Maybe we can barter for access to your SETI data.”
+
+
+“SETI…That’s not Sixth Continent’s main purpose, though.” Sohya was evasive. Jiang looked at him in surprise.
+
+
+“Really? We were all excited when we heard about it. It’s a brilliant idea.”
+
+
+“Brilliant? I wonder.”
+
+
+“Of course it is. Fusion may take thirty years, but meeting people from another star might be a century away. Pretty impressive to be planning that far into the future.”
+
+
+“All right. We’ll share any SETI data we come up with on a preferential basis. This is Ms. Toenji’s decision to make, but I can speak for her.”
+
+
+“Tae, that’s right. How’s she doing?” Jiang looked suddenly nostalgic.
+
+
+“She’s eighteen. Just as strong willed as ever. She’s got all three partners wrapped around her finger.”
+
+
+“I can see why. I’d like to see her again.”
+
+
+“Unfortunately she’s overseas right now. South Africa.”
+
+
+“Really? Too bad.” Jiang looked up at the sky and sighed. Sohya got to his feet.
+
+
+“Well, that’s it. Maybe we better be getting back. Your guard will be worried.”
+
+
+“Don’t be a party pooper. He can wait,” said Jiang as he stood up. Sohya started back toward the station, but Jiang stopped him. “Hold it a minute, okay? Let’s walk around the park first. This is Ueno, right? There’s something I want to see—that statue of Saigo, the general who stirred up a rebellion against the government. If people tried to put up a statue of someone like that in China, the government would come and knock it down. I’d really like to see it.”
+
+
+“If you say so. But it’s just him and a dog. Don’t expect something grand, like one of those statues of Guan Yu. Actually, there’s someone I’d like you to meet. His name is Tai. He’s with TGT. I think you two would hit it off.”
+
+
+“Sure. Let’s save it for later. First, let’s go see Saigo!”
+
+
+The men walked away through the autumn leaves like two old school chums deep in conversation.
+
+
+
+
+
+
+TAE SIGHED AND tossed the résumé back on the pile in front of her. She was sitting in a window seat on a South African Air Force Falcon SST transport plane. Reika, in the adjacent seat, plucked the folder from the pile and gazed at it sadly.
+
+
+“Not even a chef from Le Grand Vefour?”
+
+
+“He’s not right.”
+
+
+“His restaurant has three Michelin stars.”
+
+
+“I don’t care whether he’s from Vefour or La Tour d’Argent. He’s not right.”
+
+
+“I see. What about the others?”
+
+
+“No one seems right for the job.” Tae stared out the window. Reika reluctantly tidied the pile of folders and began perusing them again. Any gourmet would have been staggered by this collection of topflight résumés from famous restaurants in Paris, Milan, Beijing, and Tokyo.
+
+
+These were the gleanings of Sixth Continent’s global search for a head chef. Over three hundred professionals had responded to Tae’s call for candidates to head the first “off-world restaurant.” Famous establishments had even offered to open a branch on the moon. Yet for Tae, none of them were right. Reika was beginning to lose patience.
+
+
+“I think we’re wasting an opportunity here. If it were me, I’d be bowing in gratitude to these people just for applying.”
+
+
+“But we only need one.” Tae looked out the window again at the featureless white landscape below. “The number of people the base can support is fixed. A wedding palace needs a big staff as it is, and we don’t have room for two or three chefs. Someone who’s an expert in just French or Chinese cuisine won’t work. I want one person who can do it all. Someone versatile.”
+
+
+“I’d think a three-star chef could manage any kind of cuisine.”
+
+
+“First-rate chefs are sensitive and proud. They wouldn’t tolerate the living conditions on the moon. They’d lose their edge. You’re cooped up. Entertainment is limited. You’re far away from home, and the culinary challenge is enormous…”
+
+
+Reika had nothing to say. Tae had been there.
+
+
+“We need someone tougher. Someone with all-around skills who can manage anywhere. Someone with the ability to keep surprising our guests.”
+
+
+“Is that why we came all the way here?” Reika leaned over and looked out the window. Below, Antarctica’s Enderby Land was a single, glistening blue-white expanse.
+
+
+The two women looked down on the snowfield—pure, without a single stone, much less any human presence. Reika was doubtful. “Is there really a chef down there?”
+
+
+“Yes. I just hope he’s surviving in this environment.”
+
+
+Tae had gone straight to the president of South Africa for a seat on the Falcon. The transport began to descend. It landed on a strip cut into the fantastically shaped snow ridges carved by the constant wind.
+
+
+A parched, freezing blast struck their faces as the door opened. The pilot stayed in the cockpit. Hooded and swathed in heavy winter gear, Tae and Reika walked down the steps to find seven flimsy-looking, one-story prefab buildings, surrounded by several snowmobiles and thousands of supply containers. A sign stood just off the runway.
+
+
+DOME FUJI
+
+
+They were a thousand kilometers and three weeks by snowmobile from the Indian Ocean coast. Japan was carrying out its Deep Ice Coring project here.
+
+
+Reika looked round at the unchanging colors from zenith to horizon—a bowl of blue sky over a blue-white ice sheet—and said to Tae, “A top-class chef? In this place?”
+
+
+“I’m telling you, he’s here. See—here they come.” She pointed. People were coming out of the buildings wearing bulky parkas that hid their shape and size. Everyone wore goggles. The only exposed skin was their cheeks, reddened by the wind or browned by the sun. Except for the location, they could just as easily have been Inuits.
+
+
+A knot of six base members approached. One motioned for the others to stop and approached Reika and Tae alone. He stopped in front of Tae and peeled off his goggles. His face, covered with stubble and far from clean, was rough-hewn and weathered. His eyes widened in surprise.
+
+
+“Are you the mogul with weird ideas who wanted to meet me?”
+
+
+“I am indeed. Tae Toenji. And you would be Yoshihisa Kashiwabara?” So saying, Tae pulled back her hood. Her long black hair streamed out in the wind.
+
+
+There was instant pandemonium. The group that had been hanging back gave a shout and rushed forward. They surrounded the two women and began babbling excitedly.
+
+
+“It’s really her! It’s Tae Toenji!”
+
+
+“You’re eighteen, right? Out of high school yet?”
+
+
+“Hey, this one’s female too. She’s good-looking!”
+
+
+Reika shrank back. Tae looked wide eyed at the men.
+
+
+“Welcome to Dome Fuji! C’mon, let’s go inside!” The men crowded closer and began tugging at the women. Suddenly Kashiwabara pulled a kitchen cleaver from his parka. He held the flashing blade out menacingly.
+
+
+“Back off and shut up! They’re just ordinary people!” His colleagues seemed to come to their senses and fell silent. “What are you, teenagers?” Kashiwabara was furious. “You call yourselves scientists! What’s gotten into you, Chief? You’re as bad as the rest of them!”
+
+
+“Um, sorry about that.” The base chief, burnt darker than the others, turned out to be a woman in her forties. A ponytail fell to one side as she removed her hood. “Haven’t seen a young person in I don’t know how long. Guess I’m letting myself get carried away. But she sure is cute.”
+
+
+“Step aside,” growled Kashiwabara. “These people are my guests.” He put the cleaver away and bowed apologetically. “You’ll have to excuse them. We almost never have visitors. Most of the year we’re stuck in a freezing cellar staring at the same ugly faces day in and day out. After a while you forget how to act.” He laughed. “Don’t worry, I’m not crazy. I’ve fed this mob without a single case of food poisoning—not that anything’s going to spoil in this climate.”
+
+
+Tae whispered to Reika, “See? It’s him.”
+
+
+“But he looks like a barbarian.” Reika shook her head, but Tae turned to the chef.
+
+
+“Mr. Kashiwabara, I have a proposal for you. But first, I wonder if I could make a request.”
+
+
+“What?”
+
+
+“I’d like to taste your cooking.” Tae smiled playfully.
+
+
+Kashiwabara took a step closer and squinted at her, puzzled.
+
+
+“All we have is pouch food and freeze-dried.”
+
+
+“Yes, I know. I also know what a great chef you are. You’re ex-Ichinose, right? The restaurant in Shimonoseki.”
+
+
+He grunted, “You know about that, huh? If that’s why you came all the way to this godforsaken place, then we’d better get on with it. I’ll give you a meal you won’t forget.”
+
+
+Reika still looked doubtful. Tae grabbed her arm and started off after him.
+
+
+
+
+
+
+EVEN AFTER THE Falcon transport reached cruising altitude, Reika kept her palms against her reddened cheeks. “That was unbelievable. Everything started out frozen, but I’ve never had better sushi.”
+
+
+“Ichinose is a fugu restaurant. One slip of the knife and someone could die of poisoning. Of course he’s good. With skills like that he can do anything from French to Indian.”
+
+
+“But why is he in Antarctica?”
+
+
+“Because he’s good.” Tae began tapping at her pendant wearcom. She seemed pleased. “When you live with the same people in a closed environment for a long time, it’s stressful. People get on each other’s nerves. That’s how it was at Kunlun. The same thing happened at Biosphere 2 in the 1990s. It happens on submarines and ships at sea. The best way to deal with it is with delicious food. Kashiwabara was chosen for Dome Fuji because of his culinary skills. He’s there to help people get along.”
+
+
+“That makes sense,” said Reika. “But why him? Why not some other chef?”
+
+
+“You saw how he stopped the others from bothering us. He’s fearless.” Tae glanced at the pile of résumés. “Not many chefs would’ve been as bold as that. He has the patience to work exclusively with frozen and preserved foods. He creates meals no one can fault. He has the imagination to develop a culinary repertoire out of a limited range of ingredients. Don’t you think those skills would be very useful for a base on the moon?”
+
+
+Reika nodded. So this was what Tae had been seeking. The man had attributes one wouldn’t expect to find in a chef from a top city restaurant.
+
+
+“Now I understand. It’s like he’s already in training for Sixth Continent.”
+
+
+Tae nodded and looked at her wearcom. The display showed a template for a list of names, but at the moment it was empty.
+
+
+It was a staffing list for Sixth Continent. The Bridal Department required a head chef, a sous chef, three banquet servers, a minister, a beautician, and a photographer: eight staff to conduct the weddings and serve at the banquet.
+
+
+Sending eight people to the moon would cost more than a billion yen, but this was the minimum feasible number of staff. In fact, it really wasn’t enough. To service a wedding on Earth with eighty guests would require at least twenty kitchen staff just for the banquet. Add a host, attendants for each set of in-laws, a train bearer, a drink server, four food servers, a manager and an assistant, and perhaps six people to act as receptionists and in backup roles. That meant something like forty staff members.
+
+
+Weddings at Sixth Continent would have twenty guests, including the bride and groom. Much of the food preparation would be standardized. Still, eight staff was the bare minimum. The same people would also have to serve in hotel and housekeeping roles. They would be extremely busy.
+
+
+But Sixth Continent would require more than just a bridal crew. Keeping the base functioning would require specialists in multiple disciplines—building and machine maintenance, hospitality, medicine, transport, communications, climate control, electric power. These specialists would be on call 24/7, so backup would be a must. Tae was planning for seventeen nonwedding staff.
+
+
+The base would have a total of twenty-five staff. Add twenty wedding guests, a pilot, and four backup staff, and the base’s occupancy would be maxed out.
+
+
+Sixth Continent would be a specialized environment without precedent. Problems were inevitable. Each staff member had to be a trained professional—not only as a member of a lunar base but in terms of customer service. Visitors would be paying a fortune to make the journey. Justifying the fee based on hardware and transport costs alone would not be acceptable. Tae’s guests would expect to be pampered.
+
+
+Even with the right staff, intensive training would be needed before the facility was launched. Pulling this all together was Tae’s job.
+
+
+“This just keeps getting bigger…” she whispered.
+
+
+In the beginning, it had been just her and her grandfather. Since then it had grown far beyond that—Sohya, then Takumichi Gotoba, Ryuichi Yaenami, and the employees of three companies; people throughout Japan, throughout the world, had extended a hand to help. By now the number had grown too large to count.
+
+
+None of these people were the kind of friends who would call her as she lay awake at night, unable to sleep. Even Sohya was different. But on some basic level, relationships with all these individuals brought Tae satisfaction. Being the driving force behind large numbers of people building a huge pyramid—this brought her pleasure. It helped ease her loneliness.
+
+
+“Do your best, everyone.”
+
+
+She smiled and input the first name to her list.
+
+
+
+
+
+
+“DR. TAI, WAKE up. Dr. Tai!”
+
+
+Shinji was curled up on a sofa under a thin blanket. Someone was shaking his shoulder. He opened his eyes, groped around and found his glasses. He sat up and shivered.
+
+
+“It’s chilly in here.”
+
+
+“It’s getting to where one blanket isn’t enough. Look there.”
+
+
+The controller threw back the curtains. Shinji squinted against the sunlight flooding the Gotenba Ground Support staff lounge.
+
+
+“First snow of the year, they say.”
+
+
+Mount Fuji loomed above them in the thin blue of sunrise. The volcano’s summit was dusted with a crown of white that had not been there the day before.
+
+
+Sixth Continent’s Gotenba Ground Support complex, an expansion of the Multidozer Command Center, had started operating the previous summer. In the early years of the project, spacecraft tracking had been handled by TGT’s Tsukuba Space Center, but eventually they would have to track multiple spacecraft in addition to supporting Sixth Continent itself. Tsukuba clearly would not be able to cope with all that traffic. GGS would be responsible for ground-based tracking and serve as Earth’s link with the base.
+
+
+Shinji rarely had a chance to return home. He was too busy shuttling between GGS and TGT headquarters in Nagoya. He swung his feet to the floor and put his arms through the sleeves of the lab coat he wore every day. He looked again at Fuji with its cap of snow.
+
+
+“Did you get me up to show me this?”
+
+
+“Of course not. Actually, there’s good news and bad news. What do you want to hear first?”
+
+
+“Give me the bad news. I always eat the stuff I don’t like first.”
+
+
+“Dozer 6 is down. It’s not responding to commands.”
+
+
+“Uh-oh. Let’s get to the control room.”
+
+
+“Wait, we should wake up the others too.”
+
+
+“Let them sleep. The dozer isn’t going anywhere.”
+
+
+There were half a dozen staff sacked out in the lounge. Shinji hushed the young controller and guided him into the corridor.
+
+
+The center was quiet at this hour. Once the base was manned, these halls would be humming round the clock, but for now there were few personnel. The men’s steps echoed as they traversed the long corridor.
+
+
+“Dozer 6…That’s the unit laying cable from the far side of the crater.”
+
+
+“Right, Dr. Tai. That will give us nearside power throughout the sun cycle.”
+
+
+“So what’s the good news?”
+
+
+“We connected the cable to the farside array before we lost the signal. It happened when number 6 was on its way back through the crater.”
+
+
+“Interesting.”
+
+
+The three controllers on watch at their monitors looked up as Shinji walked into the room. Nothing critical was in progress, so younger technicians from TGT and Gotoba were manning the stations. These three did not yet have much experience. They seemed relieved to see Shinji.
+
+
+“Sorry to roust you out so early, Dr. Tai. We thought about contacting Tsukuba, but we weren’t sure if this was important enough to disturb the flight director.”
+
+
+“When you’re not sure, that’s the time to contact the most senior person you can. But let me take a look. What’s the problem?”
+
+
+Shinji was a materials specialist, not an aerospace engineer, but his invention of TROPHY had made his genius widely known. One of the young controllers began explaining the problem.
+
+
+“Dozer 6 didn’t send an emergency signal. If its power cable had broken, it should still be responding with power from its fuel cell. One minute the signal was there, the next it was just gone.”
+
+
+“What about frequency displacement?”
+
+
+“Frequency displacement?” The controllers looked at each other, caught off guard.
+
+
+“The transmitter is potted in a block of acrylic. You could drop a dump truck on it and it wouldn’t stop working,” said one of the controllers.
+
+
+“Yes, but what about temperature? If the chips are subjected to a drastic ambient temperature change, the transmission frequency could shift. It’s 220 below in the shadow zone.” Shinji looked around at the blank faces staring back at him. “You didn’t think of that, did you? Try a recovery based on that assumption. The signals go through a repeater at the top of the nearside crater rim. Try tuning the repeater to find the dozer.”
+
+
+Somewhat doubtfully, the controllers began varying the repeater frequency. After a few minutes one of them shouted, “Got it! There’s number 6’s status signal!”
+
+
+“Great,” said Shinji. “How’s it doing?”
+
+
+“Green straight across. The AI’s already guiding it to the near side.”
+
+
+“Then it didn’t even need your help, did it?”
+
+
+The controllers sighed with relief. “Sorry,” one of them said to Shinji, looking apologetic. “This was such a minor problem. But how did you figure it out so quickly? This isn’t your specialty.”
+
+
+“NASA ran into the same thing with Mars Pathfinder. It’s not so unusual—hold on. Maybe there is a bigger problem.” Shinji scratched his head. “The dozers are designed for that kind of environment. A transmission issue must mean the insulating shield is damaged.”
+
+
+“What can we do about it?”
+
+
+“Not much. Dozer 6’s generation doesn’t have sensors to pinpoint an insulation breach. The only thing you can do is keep that dozer out of the shadow zone. The temperature outside the crater’s only fifty below.”
+
+
+The controllers exchanged nervous glances, as if they expected to be held responsible for the damage.
+
+
+“I wouldn’t get too concerned,” said Shinji philosophically. “We assumed we’d lose one or two machines during Phase One. Phase Two will start in plenty of time to get people on scene. Then we can do all the repairs we need.” Shinji smiled. “Listen, why don’t we get some breakfast? It’s on me.”
+
+
+The controllers looked sheepish as Shinji touched the commissary’s extension. “You got the farside array hooked up. Now we can operate throughout the month. Let’s celebrate. Hello? Yes, can we get steak and eggs in the control room? For five. Yes, charge it to me.”
+
+
+In a few minutes, the room was filled with the aroma of hot coffee and Kobe beef. Shinji distributed the plates himself—the controllers had been up all night.
+
+
+“We’ve got at least five years ahead of us. We should celebrate every little milestone.”
+
+
+We’ve got a long way to go, he thought as he poured himself some coffee. There were a huge number of challenges to meet before Phase One would be complete.
+
+
+More solar panels to install. GPS satellites to put into lunar orbit for more precise positioning. Further spacecraft development and testing, including translunar injection, landing, and return to Earth. Electrolysis of water from permafrost. Generation, liquefaction, and storage of hydrogen and oxygen for rocket fuel. Space suit development and delivery of temporary habitats. Only after these hurdles were cleared could people begin living and working on the moon—the start of Phase Two.
+
+
+That was not all. The Turtle landing “trucks” would have to return to lunar orbit using fuel synthesized on the surface, where orbital refueling drills would be run with the Titan X tugboat. Add experimental concrete production using a solar-powered kiln…
+
+
+There was so much to do that parts of the project were already behind schedule. Phase One had been scheduled for completion by the end of next year—2031—but problems with the development of Apple had delayed them by six months. Phase Two now looked likely to begin in the spring of 2032.
+
+
+Shinji sipped black coffee. The largely empty control room was filled with the sounds of quiet conversation. Now it really begins. We’ll have to make sure there are no more delays. I’ll practically be living here.
+
+
+He was looking forward to it. Once Phase Two was on track, the lunar tug was operating, and people were traveling to the moon, Ryuichi would deliver on his promise: Shinji would be going into space too.
+
+
+Eighteen months to go. For now, Shinji relaxed into the peace that surrounded him.
+
+
+
+
+
+
+MOUNT FUJI RECEIVED another dusting of snow. It melted, leaving the dark slopes naked again. At night, like a dragon, a procession of lanterns—climbers making the ascent to greet the rising sun—zigzagged up the mountain’s massive bulk. Snow fell again. On the plain below the mountain, small white shapes moved to and fro. Dozers evolved and were shipped out, and the next generation evolved further. Tilt-rotors came and went from dawn till dusk. GGS had countless visitors. Some stayed for weeks.
+
+
+Snow closed the trail up Mount Fuji; no lanterns snaked around the mountain. Spring came to the volcano, and the stream of visitors swelled to a flood. Huge satellite trucks topped with parabolic antennas stood in rows outside the Ground Support complex. Broadcast engineers scanned the skies outside their uplink trailers. The energy was palpable, like a high summer festival out of season.
+
+
+May 2032. Japan’s first manned spacecraft, Apple 7, was about to blast off for the moon.
+
+
+The focus of attention for the media camped at GGS was a young man and a younger woman. This was history in the making—the first humans to pay a second visit to the moon.
+
+
+The disheveled engineer who would ride into space with them attracted hardly any notice.
+
+
+
+
+[2]
+
+
+“IS THERE A problem?”
+
+
+Tae blinked anxiously. She floated across the capsule to the pilot, who was staring bleakly at the environmental control panel. He nodded.
+
+
+“The habitat module’s CO2 scrubber isn’t functioning properly. The absorption filter might be partly blocked.”
+
+
+“Does this mean we can’t go to the moon?” Tae paused, then rephrased her question. “Are we going to survive?”
+
+
+“We’ll be okay for at least a day or two. But even with the filter running flat out, we’re generating more CO2 than the scrubber can handle. Eventually it’s going to get hard to breathe.”
+
+
+“Can you calculate when that will be?”
+
+
+“I already have. The problem isn’t so much the amount of time as the number of people aboard. With six people, the CO2 will rise. Five or fewer, and we can probably maintain safe levels.”
+
+
+“So we do have a problem.”
+
+
+Three other passengers in the habitat module—Sohya and two engineers from Gotoba—looked worried. The sixth passenger, seated near a window, seemed remarkably unconcerned. “What’s the problem? All we have to do is skip every sixth breath.”
+
+
+“Shinji…” Sohya floated over and gave him a playful slug in the arm. “This is no time for joking. You’re having too much fun!”
+
+
+Shinji looked up sheepishly. “Sorry, I’m kind of giddy right now. First time in space.” He consulted his wearcom. “Let’s think this through rationally. We’ve got three more hours to TLI. Either we fix the problem or we head back to Earth. There’s no reason to panic. Gotenba’s working on it as we speak.”
+
+
+Shinji’s casual manner seemed to defuse the tension. I’m glad we brought him along, thought Sohya. They were orbiting at the same altitude Ryuichi had reached in Apple 3. But this mission was going all the way to the moon.
+
+
+Like Apple 3, Apple 7 included the four-meter diameter habitat module and the conical core module with its heat shield for reentry. Beneath the core was the descent module, resembling an insect with three landing struts. This module would take the core to the surface and, with its small engine, return it to lunar orbit.
+
+
+The stack was perched atop the second stage of Eve XVIII, which would carry out the translunar injection burn. In a few hours, another Eve would launch with the return module. With a rocket engine, fuel, and life-support supplies, the return module would make its own way to the moon, where it would wait in orbit to dock with the core and take it back to Earth.
+
+
+Something else would travel with them to the moon: Xiwangmu 6. With support from Jiang, TGT had convinced the Chinese government to sell the module. A week earlier, an Adam rocket had carried it into space. Now it was orbiting Earth, still attached to Adam’s second stage, waiting for the signal to head for the moon.
+
+
+Xiwangmu 6 could accommodate three crew members. The manned phase of Sixth Continent would begin by landing the habitat module on the moon. For Sohya and his two Gotoba colleagues, this was the beginning of a journey that was scheduled to last three months.
+
+
+
+
+
+
+WITH PUBLIC ATTENTION riveted on the ambitious mission, having a CO2 scrubber fail first thing out of the gate was poor timing. The pilot, Toshiyuki Yamagiwa, and GGS examined and rejected a number of possible solutions to the problem.
+
+
+Flight Director Hibiki, surrounded by his controllers, murmured, “How did we end up with the same problem as Apollo 13?”
+
+
+Apollo 13 had suffered an oxygen tank explosion on the way to the moon and was forced to return without landing. During the struggle to survive in their crippled spacecraft, the astronauts had faced a series of problems. One was limited scrubber capacity, a problem they’d solved by modifying scrubbers from the command module and installing them in the lunar module, which was used as a “lifeboat” to bring the crew home.
+
+
+“We’re going to get slammed for not learning from experience,” one of Hibiki’s controllers said with a pained look.
+
+
+“This isn’t quite the same scenario,” said Hibiki. “There’s nothing wrong with the scrubber. Something’s keeping it from doing its job.”
+
+
+The controller went back to his monitor. He suddenly groaned. “One of Gotoba’s crew says he missed a handkerchief just after launch. I bet it’s lodged in the scrubber intake.”
+
+
+“A handkerchief?” Hibiki was incredulous. “What are they doing letting stuff like that float around? It could go right into the filter!”
+
+
+“Unfortunately, yes. The cabin airflow is designed to drive floating particles toward the scrubber intake—dust, hair, drops of perspiration. Stuff you don’t want accumulating and interfering with breathing. A handkerchief is something else. They know passengers will play games in zero G, tossing small objects around. The intake is protected with a grille, but it obviously wasn’t configured to stop a thin, deformable foreign object. That’s going to have to be fixed.”
+
+
+“So why don’t they just pull it out?”
+
+
+“The air line snakes around the support ribs on the inner skin of the module. It’s a single unit. Saves weight. They can’t poke a rod down it, and they can’t take it apart.”
+
+
+“Can’t we detach the scrubber canister and hook it to an improvised air line, like they did on Apollo 13?”
+
+
+“Not possible. Apple’s scrubbers use heat-regenerated metaloxide sorbent material. No need for replenishment, but unfortunately it also means the canisters can’t be swapped out without special tools, which of course they aren’t carrying to save weight. Unintended consequences again.”
+
+
+“Apollo 13 still applies,” said Hibiki. “There’s always the core scrubber.”
+
+
+“The core can only provide life support for six crew for twenty-four hours. That includes CO2 scrubbing. But it’s a week to the moon and back.”
+
+
+“All right, that’s enough.” Hibiki clapped his hands. The control room fell silent. “We’re about out of time, people. We’ve got a decision to make. Getting the scrubber back up to full power is either going to be difficult or it’s going to take a long time. The chances of getting that accomplished before TLI are pretty much zero. The only other option is to use the oxygen candles.”
+
+
+“But that will put us in Emergency Mode.”
+
+
+“That’s what it’s come to. We go to the candles, or we abort. Either way, we’re not in a nominal operational posture.” Hibiki turned to the Capsule Communications officer. “Tell Apple 7 it’s their call.”
+
+
+Aboard Apple 7, the mood after Capcom delivered its message was grim.
+
+
+“Emergency Mode…” Sohya shook his head.
+
+
+“It’s like a new ship springing a leak before it’s out of the harbor,” said Shinji.
+
+
+“Well, I bet I know which option we’ll choose,” said Sohya. He looked at Tae. In a situation like this, the decision would be hers. “Use the candle and continue the mission, right? Aborting wouldn’t be good for Sixth Continent’s image.”
+
+
+“Well, yes,” said Tae at length. “I’d like to avoid that if possible.” She seemed to be pondering. “Whatever we do, we don’t look good. Even if we continue, the world will hear we went to Emergency Mode. I’d prefer a third option.”
+
+
+“And that would be?”
+
+
+“EVA to Xiwangmu 6.”
+
+
+There was a long silence. Yamagiwa stared at Tae in mild bafflement. He wasn’t sure if she was joking or just foolhardy. “EVA isn’t in the mission profile. If you want to advertise to the world that we’re in trouble, that would probably be the best way to do it.”
+
+
+“On the contrary,” said Tae. “We’d just be moving up the field testing of our Manna space suits. We were going to test them on the surface, but we should prove they’re just as useful in zero G.” Sixth Continent’s Manna suits had not only been optimized for easy locomotion on the moon; they also looked chic, courtesy of the noted Italian designer Tae had recruited.
+
+
+Yamagiwa frowned. “There’s no air lock in this module. If one of us EVAs, we all have to suit up. There’s no time for that.”
+
+
+“Exactly. So one of us goes into the core through the top hatch, seals it, puts their suit on, and exits by the side hatch. No one else has to suit up.”
+
+
+“But Xiwangmu is thousands of kilometers away.”
+
+
+“We do the EVA when we rendezvous for TLI. After that, whoever goes to Xiwangmu is just along for the ride. It’s completely automated, no piloting skills required. I’ll go if you want. There’s a lot about Xiwangmu I don’t like, but I’m sure I’ll be comfortable with all that space.” Tae smiled and pointed to the comm button. “Go ahead and ask Flight.”
+
+
+Yamagiwa looked skeptical but began contacting GGS. Tae saw Sohya’s face. She frowned. “You think this is a bad idea.”
+
+
+“Sure do—it increases our risks without being absolutely necessary. The oxygen candle is safe and available, and everything else proceeds as planned. I can’t see the point of an EVA.”
+
+
+“I’m telling you, it’s not pointless. We trained for this in the neutral buoyancy pool. There’ll be a tether too. It’ll be easy.”
+
+
+“We’ve had one-twentieth of the training NASA astronauts get.”
+
+
+“Our suits are twenty times better. What do they call the outer shell, electroconformable? It’s hard till you hit a switch, then gets really flexible. Way softer than those stiff Krechet M suits we used at Kunlun. I was so excited when we got them!”
+
+
+Sohya was suspended from a handhold on the cabin wall. He leaned closer to Tae. “I’ve noticed something about you. Whenever you start talking like this, it means you’re blowing smoke. You know this is dangerous, don’t you? But it’ll be good publicity, so to hell with the risks. How does that scan?”
+
+
+Tae blinked several times, her optimistic expression frozen in place. It was a mask that betrayed no hint of what was going on behind it. Sohya knew he’d struck home.
+
+
+He grinned. “I’m against it.”
+
+
+“What about the rest of you?” said Tae after a pause. “Wouldn’t anyone like to be the first to EVA for Sixth Continent?”
+
+
+The other passengers glanced at each other. The two engineers tentatively raised their hands.
+
+
+“I say let’s do it. I don’t see it being any more risky than walking on the surface.”
+
+
+“I’d have to agree. I’m willing to go.”
+
+
+Yamagiwa was waiting for GGS to make a decision. He silently shook his head. Shinji raised his hand. “I’d like to go if you don’t mind.”
+
+
+Sohya gaped in astonishment. “Shinji! Why?”
+
+
+“It’s what I came for. You do know why I’m here, don’t you?” He smiled without a trace of irony. “Three for Xiwangmu on the surface. We know who they are. Tae is here for publicity, of course. The mission can’t fly without its pilot. But me? I’m not doing anything special.”
+
+
+“Come on, Shinji—”
+
+
+“No, I mean it. Okay, I’m supposed to be gathering TROPHY performance data. But the computer’s doing it for me. I’m just warming the sixth seat. Hey, don’t worry.” He waved a restraining hand at Sohya. “I’m not complaining. I’m so happy I can barely sit still. This is my bonus from the boss for my work on TROPHY. Pretty soon I’ll see what I came to see with my own eyes: Eve XIX, climbing to meet me.” He winked at the other crew members. “Maybe I’ll luck out, and she’ll be coming up just about the time I’m out there. How’s that for a ringside seat?”
+
+
+The two engineers and Yamagiwa chuckled. There was something about Shinji one never quite got used to, something that made others want to help him.
+
+
+Tae cocked her head slightly in thought. She nodded and touched Sohya’s arm. “I think he’s right. Don’t you?”
+
+
+Still, Sohya hesitated. “What does Ground Support say?”
+
+
+“They’re deliberating,” said Yamagiwa. “No, wait a minute.” Yamagiwa listened to his headphones. “They took it all the way to the top. Gotoba is neutral. Yaenami wants to go for it. Flight thinks it might be a viable option.”
+
+
+“That settles it,” said Tae with a look of satisfaction.
+
+
+“But—we’d have to go to TLI as soon as we make the rendezvous. They’re calculating a new orbit that will let us rendezvous with Xiwangmu ahead of schedule. We’re cleared for EVA, but only if we can rendezvous in time.”
+
+
+“Then let’s get started,” said Tae. “Shinji, you’d better get into your suit.”
+
+
+Shinji grinned and pushed off toward his locker. As he passed Sohya, he slapped him lightly on the back. “Don’t worry. Tae’s right.”
+
+
+“Look, Shinji…” For a split second, a look passed between the two men and Sohya understood. If Shinji hadn’t volunteered, Tae probably would have gone, given the publicity potential. His self-effacing speech had prevented that without generating resistance. And if Tae was the first choice from a publicity angle, Sohya himself was number two. He and Tae were the media’s chosen stars. Shinji had been concerned about his friend’s safety as well.
+
+
+“Pretty smooth,” muttered Sohya.
+
+
+“Wouldn’t want you two to be separated,” whispered Shinji.
+
+
+He pulled his suit pack from the locker and gave Sohya and Tae a knowing wink. Sohya’s jaw dropped in indignation. He started to speak, but Shinji waved him into silence. Then he disappeared through the narrow hatch into the core module.
+
+
+
+
+
+
+FOR ANY HOBBY you can name, there are people who go to extremes.
+
+
+The spotter was middle-aged, and the bug had bitten him especially hard. Using the near-ubiquitous wireless Internet, he worked as a website designer from a dilapidated shepherd’s hut in the Peruvian Andes. A telescope taller than he was stood in the center of the room. On clear nights he threw back the corrugated sheet metal that covered one side of the roof, eagerly scanning the heavens. He was a satellite spotter, dedicated enough to leave a home in the city to live year-round on this isolated mountaintop.
+
+
+Night had already come to the Andes. As he worked at his computer, the spotter kept an eye on a live satellite feed from Gotenba Ground Support. The subcarrier channel at the bottom of the screen was datacasting mission-related information. He was anxious to get a glimpse of Apple 7; four times in the past week, he’d successfully identified Xiwangmu 6. Finding the Chinese module hadn’t been particularly challenging given its size. But Apple 7 would be much harder to identify, and the spotter had never tracked an object in this particular orbit, which would position the spacecraft for translunar injection. It was the kind of challenge he lived for.
+
+
+The spotter glanced at the subchannel and froze. How many people were watching this obscure satellite feed at this precise moment—fewer than a hundred worldwide? He stared at the monitor, and he knew he hadn’t imagined it: Apple 7’s orbital components were changing. The ship was altering course.
+
+
+Work forgotten, he feverishly began collating the data. If his orientation was skewed, Apple 7 might easily sail clean through his net.
+
+
+The reason for the course change was quickly apparent: the rendezvous with Xiwangmu 6 had been moved up. But that meant he needed more data, because now there was something else to deal with: verification of the new orbit against that of other known objects. Over forty thousand objects large enough to spot, mostly space debris, were known to be orbiting Earth at various altitudes. If a large object turned up in an orbit similar to Apple’s, the spotter might end up tracking debris instead of the real thing.
+
+
+The spotter loaded his translation software and patched the subchannel into his workstation for a closer look at the Japanese text streaming in from GGS. Sure enough, the Japanese were verifying the new orbit too. They had an even more urgent motivation. It would not do to have Japan’s first moon mission collide with an errant piece of space junk.
+
+
+The spotter said a silent thanks for the raw data coming in from GGS via the broadcaster’s mobile earth station. It simplified his task considerably; all he had to do was consider the objects GGS was looking at. He was not surprised to see that several were expected to cross Apple 7’s path. The object that concerned him most was the size of a compact car, but GGS had already calculated the odds of a collision. The debris had a 0.002 percent chance of hitting Apple 7.
+
+
+This made the spotter slightly uneasy. Apple 7 had already shifted to its new orbit, so the dice had been rolled. Evidently the Japanese had decided the risk was acceptable. At odds of fifty thousand to one, a collision was not a realistic possibility.
+
+
+What bothered the spotter were not the odds of collision. It was the possibility of a near miss. Fifty thousand to one was another way of saying the object would pass within a few kilometers of the six astronauts. At a distance of three hundred kilometers, with a short observation window, the spotter could easily become confused and miss his quarry.
+
+
+Anxiously he began pulling information on the object’s shape; that would give him an idea of its probable brightness. Brightness was the key to satellite spotting. His telescope was good, but even with the best amateur optics he could not make a visual identification based on shape alone. The objects were just too far away.
+
+
+A moment later he was looking at the United States Space Command public website. The site included information on a variety of objects in earth orbit, from functioning satellites to satellites in mothballs or defunct, entire spent rocket stages, fuel tanks, and explosion and collision fragments. GGS would have the same data.
+
+
+He punched up the object’s profile. It was a Russian Cosmos satellite that had “broken up”—exploded—a year and a half earlier. The cause could have been anything from leftover fuel expanding into a gas and rupturing the tanks to a breached fuel cell. Whatever the reason, the satellite was now junk.
+
+
+The spotter paused, something tugging at his memory. He knew this object. Before it had exploded, it had been well-known in the spotting community for its unusual brightness. Tracking it after it broke up with his thirty-five-centimeter reflector, he’d noticed that the central point of brightness was surrounded by a gaseous-looking halo of some sort, about the size of a full moon. This would be a cloud of smaller debris fragments, but it seemed strange that the fragments would stay close to the main body over several months instead of dispersing into different orbits.
+
+
+Now he remembered. One night, with a group of friends—some of them dedicated comet watchers, others consumed by an interest in the planets—he’d spotted the object, and they’d all taken turns examining it, debating what the “cloud” might be. The most plausible theory pointed to a debris cloud embedded in splintered strands of some sort of plastic material, like the smashed remains of a wire-reinforced window. The satellite was almost certainly military, but the Russian Space Forces had issued no comment regarding its fate, so it continued to be a mystery.
+
+
+This was not good news. If this object passed close to Apple 7, it would seriously complicate his observation.
+
+
+Wait a minute… The spotter froze. One-inch devils!
+
+
+Space debris are tracked by radar, which can’t reliably detect objects less than ten centimeters across. Objects smaller than one centimeter would likely vaporize against a spacecraft’s Whipple shield. Objects invisible to radar yet larger than one centimeter represented the biggest threat to spacecraft in low earth orbit. The only way to deal with them was to trust in luck and a prayer. If that debris cloud was thick with objects larger than one centimeter and less than ten…
+
+
+A moment later the spotter was on his feet, lunging toward the ancient rotary-dial satellite phone on the wall of the hut.
+
+
+
+
+
+
+“FLIGHT, YOU HAVE an outside call.” The public affairs officer was responsible for liaison with the media concerning control room operations. Hibiki kept his eyes on his monitor.
+
+
+“Busy.”
+
+
+“Apparently it’s very important. ‘Critical, urgent, life and death.’”
+
+
+“What’s that supposed to mean? Who is it?”
+
+
+“I don’t know. He had a thick accent, Spanish or maybe Portuguese. One of the satellite trucks put him through to us.”
+
+
+“You talk to him.”
+
+
+“Yes, sir.” The officer took the call through his headset, struggling to get the voice recognition package in his wearcom calibrated to the man’s excited stream of speech so it could be translated. As PAO, he was used to dealing with all types, and he made a polite effort to make appropriately sympathetic noises from time to time.
+
+
+Suddenly he went pale. He tore off his headset and shouted, “Flight, he’s saying Object 35665 is a collision risk!”
+
+
+“We ran all the SOC numbers,” said Hibiki, with barely a change of expression. “The crew is aware.”
+
+
+“He says the Standard Object Catalog is incomplete! Object 35665 is being followed by a cloud of debris with minimal radar signature!”
+
+
+“What?” Hibiki turned to stare at the PAO, who was already rushing toward the Flight Dynamics station.
+
+
+“That was a South American satellite spotter, an amateur. He says the object has a debris cloud that was never reported. The mission was classified. He swears it’s trailing thousands of particles smaller than ten centimeters, held together by some kind of weblike structure. We’ve got to evade—immediately!”
+
+
+“Get Roskosmos. I want to know everything about Object 35665. Capcom, tell the crew to suit up without delay. Hurry—closest approach in eighteen minutes.”
+
+
+A wave of quiet alarm spread through the control room. A minute later the GNC officer called out, “Flight! Object 35665 was a Russian Space Forces tethered satellite.”
+
+
+“A tethered pair?”
+
+
+“A base and a subunit, originally linked with forty kilometers of carbon fiber cable. Eighteen months ago a fuel cell exploded, and one of the pair broke up. The explosion created a matrix of tangled fiber that trapped a certain amount of small debris. The Russians estimate the matrix contains around a thousand fragments, maximum five centimeters. This fits what the spotter says he observed.”
+
+
+“What’s the diameter of this so-called matrix?”
+
+
+The officer hesitated. “Apparently it’s roughly spherical. Diameter is eight kilometers. Roskosmos estimates there are around a thousand debris pieces at least a centimeter across, but they can’t say how many are bigger than that.”
+
+
+When Hibiki’s next command came, his voice had a glacial calm, as if the temperature in the room had suddenly dropped.
+
+
+“Tell Roskosmos we need an immediate orbital correction for 35665. If it’s been in the same orbit for eighteen months, the subunit must’ve exploded. The base unit should still be responding to guidance commands.”
+
+
+“In that case, they would’ve deorbited it by now. Moscow says it isn’t responding, but the attitude control system is still powered up and functioning. All they can do is wait for it to run out of fuel.”
+
+
+“Capcom, tell Apple 7 to separate the core module from the stack and go to descent burn immediately.”
+
+
+“They can’t, Flight. Dr. Tai’s already opened the side hatch. He’d have to close it, repressurize, and get everyone into the core. That’d take half an hour.”
+
+
+“Tell him to fire the second stage manually. We can worry about the new orbit later. Anything’s better than a collision.”
+
+
+“The ignition lock is engaged. The main engine can’t be fired, even manually, for at least ten minutes after the hatch is closed. It’s a safety feature to give the crew time to get into their flight couches and prepare for a burn.”
+
+
+“Override the safety system.”
+
+
+“That can only be done from the core control panel. Dr. Tai doesn’t have the training—”
+
+
+“DPS, explain the override procedure to him!”
+
+
+The Data Processing systems engineer leapt over his console and sprinted over to Capcom. He began giving Shinji the override instructions, trying hard to keep the panic out of his voice.
+
+
+The network officer called out, “Flight, TSC just confirmed backup request for Eve XIX.”
+
+
+Everyone froze. For the last few minutes, the fact that Eve XIX was on the pad and about to lift off had been driven from everyone’s mind. GGS was responsible for all phases of flight except the launch itself, which was Tanegashima’s primary responsibility.
+
+
+“Shall we terminate the countdown?” asked the network officer. “This is no time to worry about putting the return module into orbit.”
+
+
+“Don’t terminate,” said Hibiki without hesitation. “Go to backup mode. Who knows, they might need an extra engine.”
+
+
+The controllers’ faces tightened with anxiety. The flight director had just issued a prediction. Apple 7 might find itself adrift. But if his assessment of the situation had just gotten worse, Hibiki showed no outward sign of it.
+
+
+“Whoever’s not on top of something right now should start making calls.”
+
+
+“To whom?” asked the PAO.
+
+
+“Their next of kin.” Hibiki swiveled in his chair and looked up at the bay window of the observation booth behind him. Sennosuke Toenji was standing with both palms pressed against the glass, staring wide-eyed at the mission screens.
+
+
+
+
+
+
+YAMAGIWA AND SOHYA were both in their space suits, perspiring as they worked at the habitat module’s control panel.
+
+
+“Now we have to power off the attitude gyros,” said Yamagiwa. “Can you do it?”
+
+
+“Gyro off…no, the power’s still on. The core won’t hand off.” Sohya was riffling through the operations manual with quiet desperation. Yamagiwa continued working the control panel, trying to use the module’s small attitude thrusters to change the orbit, if only by a fraction. But Shinji was still struggling to manually override the main engine ignition lock. As long as he was preoccupied with that, the core would not relinquish control to the habitat module. Both men were at the limits of their patience.
+
+
+“More unintended consequences. If this was Apollo 13 we’d be able to improvise something,” muttered Sohya.
+
+
+“Apollo was a toggle switch jungle. If Apple hadn’t consolidated everything in one panel, I probably wouldn’t have qualified as pilot.”
+
+
+“All they had to do was give us a second control post. Now we’re screwed!”
+
+
+“Calm down,” said Yamagiwa, putting a hand on Sohya’s shoulder. “There’s nothing we can do. Better do something about her though.” He pointed to Tae, who was motionless next to one of the windows. She wasn’t in her suit.
+
+
+Sohya grabbed her floating suit pack and crossed over to her. “Come on, let’s get this on you.”
+
+
+“…I don’t want to.”
+
+
+“Feeling guilty?”
+
+
+She stiffened. Sohya put a hand on her shoulder and turned her toward him.
+
+
+“Get suited up—now!”
+
+
+“But…”
+
+
+“You can’t help Shinji by exposing yourself to danger. What are you playing at?”
+
+
+She glared at him, resentment smoldering deep in her eyes. Sohya said nothing but began assembling the suit around her—first the two halves of the torso shell, then the arm and leg tubes. He plugged in the power unit for the joints. For ease of movement, the joints were normally electroconformed to their wearer in a process that took a few minutes. There probably was no time for that, but the suit would still be pressurized. Tae angrily snatched the helmet from Sohya’s hand and turned back to the window, as if searching for the invisible enemy stalking them.
+
+
+“Put your helmet on,” Sohya was about to say, but decided it would be pointless. He looked at Yamagiwa. “How much longer?”
+
+
+“Six minutes, maybe a bit more. Dr. Tai, what’s your status?”
+
+
+Shinji was as nonchalant as ever. “Well, gentlemen, I’m afraid a manual system override and main engine burn at short notice is a bit beyond me. I don’t want to make a mistake and send us straight into the Pacific.”
+
+
+“Shinji, don’t give up! At least come back here!”
+
+
+“I would if I wasn’t in this suit. Can’t fit through the top hatch, and there’s not enough time to repressurize. I’m not giving up though. GGS just gave me another option, and it’s a lot simpler.”
+
+
+“What is it?”
+
+
+“Turn the stack end-on to the debris cloud. Use the second stage as a shield. There’s no safety lock on the attitude thrusters, so I can do that right now. Here we go—better hold on to something.”
+
+
+The rest of the crew each took hold of a grip support. A few seconds later there was a jolt. White propellant gas from lateral thrusters at each end of the eighteen-meter-long stack began pushing in opposite directions. Eve’s second-stage main engine moved until it was almost directly oriented toward the North Star. The thrusters continued firing in short bursts as Apple 7 settled into its new attitude.
+
+
+“I’m venting the second-stage tanks now in case they get hit. We won’t be able to go to the moon, but that’s all right. We wouldn’t have been able to go even if I’d figured out the ignition override.”
+
+
+Sohya and the others watched as a huge cloud of vapor escaped from the far end of the stack. Shinji was venting the liquid hydrogen and oxygen into space.
+
+
+“Shinji, is this going to work?” Sohya wasn’t sure.
+
+
+His friend sounded almost cheerful. “Leave it to me. I’ve got the main engine, the second stage, and the descent module between me and the debris. You’re even safer where you are. The main engine is coated in my cermet. A machine gun couldn’t punch a hole in it.”
+
+
+“But the debris has a lot more kinetic energy than a bullet—”
+
+
+“The satellite is in polar orbit, heading south. We’re orbiting at right angles to the equator. You guys are facing the south pole. It’s the safest place to be. Besides, look at it this way. If a thousand ping-pong balls spread out in a bubble eight thousand meters across were heading for you, what’re the chances you’d stop one? If we panic now, they’ll have a good laugh at our expense when this is over.”
+
+
+“But those ‘ping-pong balls’ are tangled in a web of carbon fibers.”
+
+
+“Don’t be so pessimistic, Sohya. It doesn’t suit you.” Shinji paused. “Remember what I said? Even blunders are valuable. Here’s the proof. Whether we make it back or not, we’ll be helping whoever comes after us. I don’t think we need to get too worked up.”
+
+
+For the next minute or so, the only sound in their headsets was Shinji’s labored breathing. Then he spoke again. “I’m going to rotate her just a bit more. I want to get a view of Earth.”
+
+
+The stack rolled slightly. Suddenly they heard him calling like an excited child.
+
+
+“It’s her! I can see her! See there, on the northern horizon? Here she comes!”
+
+
+“It’s Eve XIX,” said Tae. Everyone crowded around the window. Below them, Japan extended over the northern horizon and out of sight. Out of the blue haze, from the southern tip of the archipelago, a tiny column of white was climbing into the atmosphere. The column quickly toppled over toward the horizontal, growing larger and longer above the Pacific.
+
+
+“It looks like a dragon!” Shinji yelled, ecstatic. “Fly! Fly faster. To the stars!”
+
+
+Eve XIX surged through the atmosphere with astonishing speed, trailing its white cloud. Even the atmospheric conditions were special; the dragon kept its tail even after the first stage separation. Eve soared over the equator and rose to meet them on an immense, sharply defined pillar of steam spawned by the combustion of liquid hydrogen and oxygen.
+
+
+“Don’t stop! Keep going! Come on !”
+
+
+There was a sharp bang! and the habitat module shuddered violently. A sheet of orange fire flashed past the window. The stack started yawing slowly.
+
+
+“Shinji! Shinji!” Sohya screamed.
+
+
+No warning lights lit up. No buzzers sounded. In the habitat module, everything was quiet and secure.
+
+
+In the core, there was only silence.
+
+
+
+
+
+
+“SECOND-STAGE TELEMETRY lost. Descent module nominal, core telemetry out. Habitat pressure and power normal, no signs of combustion. Life-support systems nominal.”
+
+
+“Are they still in their suits? Tell them to stay suited up and stand by,” said Hibiki. He turned to the INCO officer. “The only way the debris could reach the core is through the descent module. Why is the core not responding if the descent module is undamaged?”
+
+
+“The main engine was hit first. We lost telemetry from the core three one-hundredths of a second later. Maybe it was hit by secondary debris.”
+
+
+“The second stage was head-on to the debris. There’s no way the core could have sustained a lateral strike. The impact probably knocked out the core’s instrumentation. Keep hailing Tai!”
+
+
+The controllers frantically began analyzing the telemetry. The one thing no one in space or on the ground could do was visually inspect Apple’s exterior, which forced the controllers to try to divine its condition from a jigsaw puzzle of data.
+
+
+Then the network officer stood up. “Flight, Bangalore says they have a visual!”
+
+
+“Bangalore?”
+
+
+“Vardhana was within visual range. They had their cameras on Apple !”
+
+
+“Tell them we’re grateful. Main screen.”
+
+
+The Vardhana Orbital Experimental Facility’s images were beamed from India’s ISTRAC satellite via the Indian space agency’s Bangalore uplink facility. Vardhana was several hundred kilometers from Apple, but the Indians had used the station’s astronomical telescope. The images coming up on the screen were sharp and detailed.
+
+
+The video showed bright flashes of light from the second stage and the core module. Then the entire stack began revolving slowly. Frame-by-frame playback did not yield any additional detail. Each second of video contained thirty frames, but the flashes were visible on only two. One frame was probably an afterimage. No debris was visible; even with unlimited resolution, imaging a small object moving at close to eight kilometers a second was impossible. Still, the images told them everything they needed to know.
+
+
+“That’s a lateral strike,” said the Flight Dynamics officer. “That means the object was moving along a curved path, like a man rappelling down a cliff. The tether material must have snagged on the main engine. That could’ve swung a debris fragment into the core, like a tetherball. It would explain why the descent module was bypassed. But Dr. Tai—”
+
+
+“He might be alive,” said Hibiki.
+
+
+Which meant he was probably dead.
+
+
+“The habitat module was spared. Tell the crew to depressurize, open the core hatch, and see if they can locate Dr. Tai. And tell Tanegashima to get Eve XX on the pad as soon as possible. Apple 8 is their only way home now.”
+
+
+“Flight…the media…” The PAO pointed to the observation booth. A knot of reporters was staring into the control room like vultures, armed with microphones and cameras.
+
+
+“Tell them we confirm five crew safe.” Hibiki spoke quietly. “We’re working on number six. Nothing more.”
+
+
+“What do I tell them about the mission?”
+
+
+“We’re working on it!” Hibiki roared.
+
+
+
+
+
+
+ONCE THE HABITAT module was depressurized, the interlock disengaged automatically. The top hatch opened. Sohya wedged himself headfirst into the opening, as far as his suit would allow.
+
+
+“Shinji!”
+
+
+The interior of the core was roughly the size of a minibus, with two couches forward and four more in a row behind. Now it was wrapped in darkness. As Sohya’s eyes adjusted, he could see faint blue light suffusing the cabin—earthlight. He felt a wave of horror. A ragged breach, about the size of the hatch, yawned in the hull to his right.
+
+
+“Shinji…where are you?”
+
+
+Sohya’s shoulders were jammed in the hatch. No one had considered it might be necessary to pass through the top hatch in a space suit. He craned his neck, peering around the cabin.
+
+
+He saw what he was searching for floating next to the window, opposite the breach. Shinji’s eyes were visible through his visor, narrowed as if looking into the distance. He was smiling faintly. This was how he must have watched Eve XIX climbing into space. It was a look full of hope.
+
+
+But the side of his suit had a sandblasted appearance, riddled with tiny holes. Whatever had hit Apple had vaporized on impact, and the plasma jet had caught Shinji full on.
+
+
+He was dead.
+
+
+Sohya reached out, but it was too far. He felt his strength draining away. “Shinji…goddamn it…”
+
+
+“Sohya? Can you see him?” It was Tae.
+
+
+“Why did this have to happen? He had so much left to do…”
+
+
+“He didn’t make it?” Tae’s voice was maddeningly serene. Sohya slowly extricated himself from the hatch. He choked back his fury and radioed Capcom.
+
+
+“Gotenba, Apple 7. Dr. Tai is dead. Tell his family he saved our lives.”
+
+
+“I’m so sorry.” Tae bowed her head and placed a hand on Sohya’s arm, but he felt nothing through his suit. Her next words were unfathomable.
+
+
+“Gotenba, Apple 7. Please don’t disclose this yet.”
+
+
+“Apple 7, say again?”
+
+
+“The core module is crippled. Please launch Apple 8 and advise ETA immediately.”
+
+
+“Tae, what are you saying?” Shinji stared down at her. She was furiously weighing her next move, eyes tightly shut.
+
+
+After a long pause, Capcom came back. “Apple 7, Gotenba. It will take at least six days to prepare Apple 8 for launch. You’ll have to wait in orbit. What’s this about a news blackout?”
+
+
+“Six days. Understood.” Tae opened her eyes. Her voice was firm. “Eve XIX will rendezvous with us soon. We’ll jettison the return module and our damaged second stage. We’ll dock the other end of the habitat module with Eve XIX’s second stage.”
+
+
+“What are you talking about?” said Sohya.
+
+
+“While we wait for Apple 8, we’ll use a free return trajectory to go around the moon and back to Earth. You can announce Dr. Tai’s death once we’re on our way.”
+
+
+The communication circuits were silent. Those who were listening doubted their ears. Several seconds later a new voice spoke up.
+
+
+“Apple 7, Gotenba. This is Flight Control. Ms. Toenji, your concept has a major flaw. Without the return module, you can’t land on the moon.”
+
+
+“Understood. Even if we land using the descent module, it can’t get us back to Earth. But we’re not going to land. All we’re going to do is loop around the moon. We just need the free return trajectory.”
+
+
+“Free return. Yes, you could do that.” With the right trajectory, one second-stage burn would send Apple around the moon and back to Earth. Until Apple 8 arrived, all they would require was Eve XIX’s second stage and the habitat module. But Hibiki was still doubtful.
+
+
+“What would that prove? We already did it with Apple 6.”
+
+
+“We’re going to take Dr. Tai to the moon.”
+
+
+“You’re not serious!” said Sohya.
+
+
+“I am serious.” Tae looked at him sadly. “We can’t take him back. He’s never going home. We can’t pressurize the core, and we can’t get inside with our suits on. Apple 8 can’t bring him back. The only thing we can do is undock the core and leave him behind. It should be somewhere fitting.”
+
+
+“But why the moon?”
+
+
+“Didn’t you hear him calling to Eve XIX? The stars were always his destination.” Tae’s eyes welled with tears. She clenched her fists. “We won’t give up, just as he wished. We’ll all go together.”
+
+
+Suddenly another voice crackled in their ears—trembling, but full of resolve. It was Ryuichi.
+
+
+“I second that. Do it for him. He’ll be happy, I’m sure. I just…I wish—” He broke off.
+
+
+“Please carry out Xiwangmu’s TLI as planned,” said Tae. “We won’t need it. We’ll rendezvous with Eve XIX and take the next window.”
+
+
+“Tae, wait.” Sohya grasped her shoulder. She looked away.
+
+
+“Let me go.”
+
+
+“Is this more PR?”
+
+
+Yamagiwa broke in. “Aomine, you don’t have to—”
+
+
+“Sorry. I do. I don’t want to say it, but I’m the only one who will. Answer me, Tae. Is this really for Shinji? Or are you just trying to put the best face you can on this?”
+
+
+“Well, what if I am?” Her gaze was unrelenting. “Is it wrong to try to accomplish something? If I cried, and felt terrible, and threw the whole project out the window, would that help Shinji?”
+
+
+“You don’t feel responsible? A few minutes ago you wouldn’t put your suit on. Was that just for show too?”
+
+
+“Would you please just stop talking?” She raised her hands halfway to her ears, as if she wished she could shut out his voice. She was trembling. “It was my fault. Transferring to Xiwangmu. This risky orbit. Everything was my idea. Could you please let me do something right for once?”
+
+
+“Look, that’s enough,” said Yamagiwa firmly. He drew Sohya away from the girl. “She’s right. We’re spending millions of yen every second up here. Even with the accident—no, because of the accident—we’ve got to salvage something from this mission. I know how you feel, but don’t take it out on her.”
+
+
+“I don’t believe it. You too!”
+
+
+“Think, Aomine. Think of the reception waiting for her when she gets back. We can’t just stand by and let them tear her apart. We have responsibilities too.”
+
+
+Sohya was silent. A headstrong girl, a fatal accident—it was the kind of story the media would beat to death.
+
+
+Yamagiwa crossed over to the core hatch. “I’m closing this now. We have to start getting ready.”
+
+
+“Wait,” said Sohya. “I’ll do it.” Sohya put his hand on the hatch lever. He looked into the core for the last time.
+
+
+“You’re going ahead of us all, Shinji.” He closed the hatch.
+
+
+He turned back to the crew. Tae wasn’t watching him. She was staring out a window, the one facing away from Earth.
+
+
+Something about Tae had always eluded Sohya’s understanding. He had worked hard to bridge that gulf. But now he knew that whatever it was that drove her was beyond his comprehension.
+
+
+
+
+
+
+THE CORE MODULE carrying Shinji’s body was released before Apple 7 looped around the moon. The habitat module swung around the moon and back toward Earth, but the core with its descent module braked into orbit and dropped toward the surface. Like Xiwangmu 6’s descent module, the module carrying Shinji in the damaged core had its own guidance system. On the way to the moon, GGS programmed it to touch down atop the rim of Eden Crater. Shinji would be the first of his species to bask in sunlight for unbroken eons.
+
+
+Once back in low earth orbit, the crew docked with the waiting Apple 8 core module. After that, there was nothing to do but transfer to the core and go home.
+
+
+As they expected, their reception was anything but cordial.
+
+
+
+
+[3]
+
+
+THE MORING AFTER touchdown, Sohya woke in the support center’s dormitory to find himself in the eye of the storm. First came an emergency call from Iwaki, ordering him back to headquarters immediately. The agenda: begin investigating the cause of the accident. Prepare for a memorial service for Shinji. Draft a public statement explaining the sacrifice of two Apple spacecraft and three Eve launch vehicles. Revise the project schedule. Media strategy. And on and on.
+
+
+Sohya rousted his two colleagues and told them to get ready to leave. Then he went looking for Tae, but she’d already boarded a tilt-rotor for Nagoya. As he rushed through breakfast with Yamagiwa, he had a feeling he’d been left in the lurch. And then there she was, on the television in the commissary.
+
+
+The footage appeared to have been taped inside the tilt-rotor. First came her apology and condolences to Shinji’s family, segueing into a crisp statement of determination to continue, “as Shinji would have wished.” Next she emphasized that the mission had been hit by a chain of unfortunate accidents that would never be repeated and that she was ready to ride into space again at the next opportunity. Then she laid ultimate responsibility for the accident at the feet of the Russian government. She closed with a promise to add space safety and debris cleanup measures to her plan.
+
+
+Sohya’s openmouthed amazement at this assured performance was interrupted by another call from Iwaki. Sohya didn’t wait for him to speak. “Did you see the TV just now? Tae’s already gone to work.”
+
+
+“Already? She’s late. While you guys were out there, the media was wall-to-wall Shinji Tai.”
+
+
+“We saw it. But I didn’t think the coverage was that critical.”
+
+
+“They were focusing on his achievements and waiting for you to come back. The fact that Sixth Continent isn’t using taxpayer money made it a little harder for them to find a hook. But now she’s back. The fun’s just starting.”
+
+
+“Great. And what should I do?”
+
+
+“Listen, Aomine. Things have gotten a little complicated. Don’t go to the airport. Come back by ferry and train. Stay away from headquarters, and don’t go home. One of our subcontractors has an inn at Hakoné. You like hot springs, don’t you? Get yourself up there. I’ll rendezvous with you.”
+
+
+“What is this? What’s going on?”
+
+
+“The police paid us a visit today. They want a statement from you.”
+
+
+“The police?”
+
+
+“Concerning a case of professional negligence resulting in death. They want to question you about Shinji’s accident. Don’t worry. It wasn’t your fault, but we want you to stay out of sight till things cool down a bit.”
+
+
+“If it wasn’t my fault, why do I have to lie low?”
+
+
+“You idiot—do you think the police know anything about orbital physics or Apple’s design? If they get their hooks into you, you’ll be testifying for years.”
+
+
+Yamagiwa cut in. “He’s right, Aomine. I’d do what he says. You have too much on your plate. If you get mixed up with an investigation, you’ll only be throwing fuel on the fire for the media. Get out of here while you can.” Yamagiwa glanced out the window. A siren sounded faintly in the distance.
+
+
+“And there they are.” Yamagiwa held out a set of car keys to Sohya. “Here. Head for the car pool. They won’t stop you in one of our cars.”
+
+
+Sohya hesitated. “What are you going to do?”
+
+
+“I’m stuck either way. Either I land in jail or I’m on Apple 9. Pilots are useless in hiding.”
+
+
+“Good luck!” Sohya dashed out of the commissary, his two colleagues on his heels.
+
+
+At first they drove toward the hydrofoil pier but thought better of it; too many tourists. Instead they doubled back to a small harbor, where they found a fisherman with a fast boat willing to take them to the southern tip of Kyushu, about four hours away.
+
+
+On Kyushu, they took a roundabout route by taxi and train as far as Miyazaki. As they boarded the late-afternoon train north to Kokura, they started wondering if they might be taking things a bit too seriously. When they saw the news on the train, they changed their minds.
+
+
+Top of the evening news was an in-depth report on Tae—an “exposé” of how a selfish rich girl had foisted a foolhardy and accident-plagued project on her hapless father’s company. Obviously her stock was in the toilet as far as the media was concerned. Before the program broke for a commercial, the host announced the focus for the next segment: Tae’s yes-man, Sohya Aomine…
+
+
+It was time to move. They jumped off at the next station and caught a ferry for Shikoku. The station cameras would eventually allow them to be traced. They would have to stay away from the national railway.
+
+
+They also switched off their wearcoms. It still might take the authorities a few days to get a warrant to track their signals, but then again the police didn’t always follow the legal niceties.
+
+
+Once on Shikoku, the men stayed at a youth hostel. The next day they started moving east across the island, taking local trains and scanning the newspapers and occasional public terminals for updates.
+
+
+Like a dam venting pent-up floodwaters, the media unleashed a wave of bitter condemnation. Their main thrust—that Tae and Hibiki made serious misjudgments leading to Shinji’s death, and that Apple’s designers displayed an astonishing lack of foresight in not allowing for the possibility that going through the top hatch in a space suit might save a life—was tame compared to their other accusations.
+
+
+One station did an interview with Shinji’s grieving parents—heavily edited—to highlight the perils of manned spaceflight. The next day, the station apologized for “selectively” editing the interview but would not disclose what was taken out. Sohya had listened as Shinji took a phone call of encouragement from his parents shortly before boarding Apple 7, so he could guess what had been omitted.
+
+
+One webpaper did an investigative report that accused Tenryu Galaxy Transport of misusing public funds—specifically its infrastructure, which once had been state property—without any attempt to return some of its massive profits to the public. Concerning the privatization of Japan’s space program two decades earlier and of TGT’s years of struggle without public support, the report was silent.
+
+
+This was the reaction from major media, those shapers of public opinion. When it came to the tabloid press, their articles could hardly be read without laughing. A bizarre love triangle between Shinji, Tae, and Sohya. Secret military links to NASA. Enormous kickbacks from China’s space agency.
+
+
+The three men left the train and trudged the final ten kilometers to the hot springs inn at Hakoné. When an exhausted Sohya arrived at his room late that night, Iwaki was waiting.
+
+
+“Has everyone gone totally nuts?” said Sohya, throwing his bags on the floor. “Before, we couldn’t do anything wrong. Now we’re outcasts.”
+
+
+“That’s the way this country works,” said Iwaki, comfortably cross-legged at a low table. “It’s fun to see people fail. If everything goes without a hitch for too long, the media gets fed up. Anyway, I’m glad you made it in one piece.”
+
+
+Iwaki poured him a beer from the refrigerator. Sohya downed it and sighed. “Now I feel human again. The past two days felt like being a criminal on the run.”
+
+
+“Relax. In a month, the media will move on. They’re going after the wrong people.”
+
+
+“I just hope they don’t forget Shinji. Nothing can bring him back.”
+
+
+“I know. Poor guy.” Iwaki looked intently at Sohya. “Have you heard what Tae’s been up to?”
+
+
+“How would I?”
+
+
+“Sounds like you don’t care anymore. I sympathize, but don’t let your personal feelings get in the way. She’s really hanging in there.”
+
+
+“And how is she doing that?”
+
+
+“Her public relations and TV commercials are hitting back hard. Two days after she got back she put a commercial out confirming that Sixth Continent would go on. The same channel aired a special later the same day, criticizing the project. Broadcasters are such pimps.”
+
+
+“Is that it?”
+
+
+“I guess, if you think worldwide coverage isn’t worth much. The reaction overseas has been positive. Experts in the U.S. and Europe have been pretty unanimous in saying there was no negligence. That kind of thing will start having an effect here soon. She’s also suing the Russians for compensation. At least she’s not accusing them of murder.”
+
+
+“Another lawsuit?” Sohya shrugged his shoulders.
+
+
+“No. This time it’s different. I doubt she thinks she can actually win. The Russians are steel-reinforced assholes. All the suit will do is get their back up, and they’ll refuse to apologize. Remember the nuclear waste storage facility we built in Novaya Zemlya? They ask us to build it, then they sue us for supposedly violating their environmental regulations.”
+
+
+“So what’s the point of going after them?”
+
+
+“We’ve got cause. The UN Committee on the Peaceful Uses of Outer Space requires nations to clean up their space junk. But there’s no way to enforce it. The Russians will probably say that dealing with all that debris isn’t practical. I think that’s what Tae’s looking for.”
+
+
+“She wants to lose? That’s new.”
+
+
+“She wants to focus the public’s indignation on the Russians. She’s going to highlight how uncaring they are.”
+
+
+Sohya downed another glass of beer. “I can’t understand what she gets out of all this maneuvering. Is it a game for her?”
+
+
+“I thought you knew the answer to that.”
+
+
+“Not after what happened up there.”
+
+
+“That could be a problem. We met at headquarters yesterday to decide whether to proceed with this project. The decision was unanimous: we proceed. We need our communications conduit with our sponsor more than ever now.”
+
+
+“Is that what I am, a conduit?” Sohya shook his head. “What does TGT say?”
+
+
+“Business as usual. They’re still on board. We can make money here on Earth, but TGT’s only business is in space. Did you hear Yaenami’s statement?”
+
+
+“Yeah. I think he was a little premature.” Sohya sipped a fresh beer. “And too optimistic. I was checking the news on the way up here. There’s this new organization pushing the debris issue, questioning the whole idea of space development. Every time anyone puts something in space, it creates more junk, and that just makes going into space more dangerous. They’re saying we’re going to choke on our own trash. Once we cross the threshold and the debris cascade starts, junk will collide with junk, generating so many more fragments and collisions that low earth orbit will be blanketed with one-inch devils. How did they put it? ‘Space development is inherently self-limiting.’”
+
+
+Iwaki glanced at him sharply, but Sohya was staring at the floor. “It’s not like this just started.” Sohya shook his head. “Why are they making an issue of it now? They’re either out of touch or just trying to make trouble.”
+
+
+“They’re making a lot of trouble, my friend.” Sohya looked up, puzzled. Iwaki frowned as he peeled an edamame.
+
+
+“They started getting their message out right after Shinji was killed. Of course the whole thing is nothing new to us, but it’s news to the public, and it frightens them. These are the people Sixth Continent is trying to appeal to.”
+
+
+“What are you so worried about? The whole thing is just as stupid as the rest of the flack we’ve been getting.”
+
+
+“You know, Aomine, I’m not sure if you really grasp what’s going on here.” Iwaki shook his head and looked at the wall clock. “He should be out of the bath soon.”
+
+
+“Who? The other guys are asleep already.”
+
+
+“Sennosuke Toenji.”
+
+
+Sohya put his glass down. “What’s the chairman doing here?”
+
+
+“He’s not the chairman anymore. I’m here because he is. You think I came down here just for you guys?”
+
+
+Footsteps were already coming down the corridor. The sliding door opened, and the portly old man, wearing a cotton kimono and slippers, paused on the threshold and bowed deeply.
+
+
+“Mr. Aomine. I see you’ve arrived safely. I’m just a private citizen now. I may need to rely on Gotoba Engineering’s kindness and support for some time. Allow me to thank you.”
+
+
+“I don’t understand.” Sohya looked from Sennosuke to Iwaki, stunned.
+
+
+“Mr. Toenji was fired this morning by ELE’s president,” said Iwaki. “As of now, he’s unemployed.”
+
+
+“But—what about the project?”
+
+
+Sennosuke sat down at the table, looking grim. “It’s going forward, at least for the moment. Now it’s up to me to finance it, though my bank account is not quite that large.”
+
+
+“Your bank account? The budget’s 150 billion. How can you pay for that?”
+
+
+“Including the money ELE has spent so far, which I’m afraid I’ll have to repay, I can provide 130 and change. That’s everything I have.”
+
+
+Sohya was staggered that one person could control so much wealth, but that wasn’t important now. “So how are you going to get another twenty billion?”
+
+
+“The banks seem willing to help us. If so, we’ll be able to make the budget.”
+
+
+Iwaki had the same grim expression as the old man. “But of course, we’ll have to pay it back. We can’t expect any more help from ELE. In other words, we’ll be flying without a safety net. We can’t make any more mistakes.”
+
+
+No more mistakes? That was totally impossible. Sohya felt a cold void opening beneath his feet. Sixth Continent had been destined to be a string of problems; it had to be. There certainly had been many setbacks so far, large and small. Sohya was not privy to the financial details, but with every new obstacle they faced, the line between black ink and red moved up and down like a dinghy in heavy seas. What he did know was that right now, their projections showed them barely breaking even. The next shock might send their ship straight to the bottom of the ocean. And that was just the money side of the problem.
+
+
+“What about Tae?”
+
+
+“She’s in the same situation,” said Sennosuke. “She doesn’t represent ELE anymore. She’s using her network of connections for everything from PR to suing the Russian government. We haven’t announced any of this yet. We will soon though.”
+
+
+“How can she do all that by herself?” Sohya suddenly felt cold sober. Sennosuke leaned toward him.
+
+
+“I have a favor to ask, Sohya. Watch over her, please. Support her. She needs it more than ever.”
+
+
+“That group you were talking about,” said Iwaki. “It’s called Joyful Homeland. At first glance they don’t look like much, but their arguments are based on hard science, and they have a lot of influential people behind them. Pretty soon they’re going to start threatening Sixth Continent’s base of support. And they have a backer: Kiichiro Toenji. He wants to make sure ELE isn’t tarnished by everything that’s happened. So he jettisoned Sixth Continent.”
+
+
+“Sohya, do you know Eden Leisure Entertainment’s motto?” asked Sennosuke. “‘Paradise on Earth.’ It was my idea. Somehow it sounds like someone else’s motto now. But for seventy years, we’ve tried to show the public an ideal world. It may surprise you to learn that people whose business it is to bring an ideal world to the public can’t be dreamers themselves. In fact, they have to be brutally pragmatic. We brought our ideal world to the public by shouldering the burden of reality for them. I instilled this in my son from the beginning, and he’s doing what I taught him. He’s never been a dreamer. He’s convinced that reality and ideals are incompatible. That’s what enables him to do his job. It’s thanks mostly to Kiichiro that ELE has grown to its present size. In fact, that’s the problem. It’s too big. ELE is so good at creating ideal worlds it’s trapped by its own success.”
+
+
+Sennosuke rested his fists on his knees and spoke haltingly. “Sixth Continent is a dream of people…who are in the business of making dreams reality. It’s the real thing. There’s no guarantee we can make everyone happy. But my son thinks that dream is a threat to ELE.”
+
+
+“And he’s washing his hands of it while he still has the chance. Now it’s up to Tae—and you,” said Iwaki. Sennosuke nodded sadly.
+
+
+“So thanks to her own father, Tae is an outcast,” said Sohya.
+
+
+“Unfortunately, you are correct.” Sennosuke put his hands on the table in front of him and lowered his head. “My granddaughter’s back is against the wall. If she doesn’t have someone she trusts to give her support, she’s going to fall apart. Sohya, we need your help.”
+
+
+Sohya was speechless. The mission had left him disillusioned and fed up. But now her single-minded pursuit made a little more sense.
+
+
+There was nothing he could say. He was completely hemmed in by his own feelings.
+
+
+
+
+
+
+THE TAXI PULLED into the graveled driveway of the mansion on the shore of Lake Makino and stopped at the entrance. Tae was waiting, wearing a beret and lugging a suitcase almost larger than she was. She maneuvered it into the backseat and was about to get in when a voice called to her.
+
+
+“Where do you suppose you’re going?”
+
+
+Kiichiro was standing at the columned entrance to the Toenji mansion. This place, and her father, had never felt as if they belonged to her. But she turned to look at him, almost against her will.
+
+
+“Are you going to stop me?”
+
+
+“Do you want to be stopped?”
+
+
+“Why are you always like this?”
+
+
+“I’m just trying to respect your wishes.”
+
+
+“How kind. Have you turned over a new leaf?” She stared daggers at him. “I’m not your toy. And neither was Mother.”
+
+
+“That was an accident. How many times do we have to drag that swamp?”
+
+
+“We don’t. I’ve heard enough.” She raised her hand in farewell.
+
+
+“Wait!” Kiichiro stepped toward her. “Sixth Continent will fail.”
+
+
+“You mean you’ll make it fail. I was impressed. You not only paid off the board, you created an ‘independent’ group to harass us. A textbook example of a conspiracy. You taught me something new.”
+
+
+“The board backed me 100 percent! Everyone in the company—”
+
+
+“What about Reika? She quit, didn’t she? Do you know where she is? Tanegashima. If everyone had her guts, ELE would be deserted.”
+
+
+“The threat from debris is real. It killed a man.”
+
+
+“I know what he would say if he were alive. Challenges are something to face, not run away from. And TGT has the solution.”
+
+
+“You actually think they can neutralize the danger? Do you have the funds for that?”
+
+
+“It doesn’t concern you.”
+
+
+“Tae—”
+
+
+“Don’t talk to me.” She looked at him icily. “You never even met him. Now he’s dead, and you’re using him to further your agenda. It’s disgusting. I have nothing left to say to you.”
+
+
+“Tae!”
+
+
+“Goodbye.” She got into the taxi. The car drove slowly through the gates.
+
+
+Kiichiro slammed his fist into a column. In the taxi, Tae’s face was buried in her hands. Her beret had fallen to the floor.
+
+
+
+
+[4]
+
+
+EDEN CRATER, THE lunar south pole. White multidozers shuttled back and forth under the sun, fulfilling their tasks. Several hundred meters away, in the darkness of a smaller crater, the only source of heat was a single linear motor.
+
+
+The Turtle squatting here was different from its compatriots. It bore a machine, a powerful computing unit in a shielded oblong container, topped by a fifteen-meter parabolic antenna that scanned the heavens with exquisite deliberation.
+
+
+Something had drawn the machine’s attention. The antenna was motionless now, pointing toward a distant star. A signal, an anomalous stream of energy emerging from the cosmic background, had stirred the machine’s circuits into activity.
+
+
+Wavelength: sixty megahertz. Flux density: fifty millijanskys. No antenna on Earth could have caught this whisper from space. The atmosphere would have masked it.
+
+
+The machine began running a transform analysis. The signal might be something unremarkable: perhaps the radiation signature of a stream of hot gas, accreting from one star to another in a distant binary system. The machine searched for matches between the signal and known natural sources. It found none.
+
+
+Could the signal be intelligent, from beyond the solar system?
+
+
+The machine was inorganic, free of preconceptions. Without a tremor of anticipation or interest, it initiated its verification subroutine.
+
+
+If the signal were intelligent, its maker would want someone to notice; it should persist long enough to reliably detect and interpret. But five minutes later, it disappeared. The diagnostic software could discern no pattern in that strange signature.
+
+
+The machine consigned its findings to the database. The parabolic antenna resumed its slow revolving scan.
+
+
+Forty minutes later, another signal flashed from Eden Crater toward the star. The machine did not detect it. Its antenna was pointed skyward.

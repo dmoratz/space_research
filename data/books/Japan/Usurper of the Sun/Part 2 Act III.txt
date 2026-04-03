@@ -1,0 +1,127 @@
+ACT III: MARCH 11, 2024
+
+
+3 PM
+
+
+THE RECEIVING CENTER was much larger; this was where the people Aki expected to find in the Transmissions room were working. A matrix of multiscreen setups dominated one wall, displaying real-time graphs and renderings of any anomaly that could possibly be an attempt at communication.
+
+
+“I haven’t told you my greatest fear yet,” Riggins said to Aki.
+
+
+“You are being replaced by robots?” Aki answered quickly.
+
+
+“I worry that they sent a reply and we missed it. The time and energy, what feels like my life, isn’t really wasted, it’s merely dropped phone reception, and I end up feeling like a failure for a tragedy that didn’t actually occur.”
+
+
+Aki stopped smiling. To keep Riggins’s nightmare from becoming a reality, the Receiving Center was connected to a gigantic grid of electromagnetic wave receivers pointed toward Orion’s belt. Three were on at any moment. Which ones were in use shifted on a rolling basis that followed the earth’s rotation. Currently, Chile, Guyana, and Arecibo were online.
+
+
+“These efforts are not in vain, Director Riggins. Subharmonics, overtones. Those possibilities have all been covered and re-examined to prevent the tragedy of your worst-case scenario. There have not been any governmental restrictions on the receiving end. Further, if you apply systems thinking and imagine the complex interplay of factors, intentionally looking for non-linear feedback loops that give surprising futures, you still hit the truth that the Builders would only send a response if they wanted us to see it. I bet a reply would light up half that wall at once.”
+
+
+Aki watched the primary data nodes update. It was like an aerial view of skyscrapers. Despite what she had just said, Aki shared Riggins’s worries. A chill ran through her as she realized that the data crawling by, all the multi-hued graphical renderings of raw and processed assessments of sound, light, frequencies, and vibrations, could potentially contain a missed reply to the signal.
+
+
+“It’s a lot of pretty pictures of reasonably flat power spectral density, isn’t it?” Aki said.
+
+
+“You don’t miss much.” Riggins cleared his throat, then shouted, “Everybody, get quiet. Dick, can you give us audio channel two, loud?”
+
+
+The room filled with the random hiss of white noise. At first, it sounded like waves at the beach, then it sounded like holding a shell over each ear, as if Helmholtz resonance and diminished environmental noise were creating the phenomenon that many people falsely attributed to the amplified ambient noise of blood circulation.
+
+
+“Pure static,” Riggins said loudly.
+
+
+“This is with noise that might be obscuring wanted signals canceled out?” Aki asked. The sound’s textures were surrounding her. Riggins waved to the technician and the flattened din of the stochastic process subsided.
+
+
+“That’s guesswork, but if you go back to your statement about how strong a message they’re likely to broadcast, all it takes is an output as powerful as the proximity sensing lasers the navy uses.” He pointed to a display on the other wall. It had even higher resolution.
+
+
+“This one has a dedicated supercomputer for subtleties that might otherwise get drowned out. All it does is crank out Fourier expansion analysis, Lebesgue integration, anything that can use trig or calc to analyze the waveforms and find a pattern that might catch a ghost sound or a stray vibration in wavelength. Eight people or more are in this room at all times, analyzing for patterns, keeping the servers hot and trying to catch anything a computer might miss. Close watch day and night.”
+
+
+“Is the public data unadulterated?”
+
+
+“Nothing to hide. Can’t you tell, Aki? I’m not letting anybody play turf wars on this. I couldn’t care less if I get the word personally or if someone who is half-drunk and halfway around the world faxes me with ‘Wow!’ We take a closer look if more than three people blog about a specific graph.”
+
+
+“How often does that happen?”
+
+
+“We’ve done hyperanalysis of pulse height, edges, continuum shapes, even gamma rays, somewhere close to a half a million times. Now I’ll show you the supercomputer. Half the guys who work here would marry her over a real woman,” Riggins said.
+
+
+They were within two steps of the door when an alarm began clamoring and strobes flashed.
+
+
+“Audio. Segment four-zero-two,” the tech said. One of the central monitors flashed red several times. Then the monitor showed what Aki thought looked like a cross section of a mountain range. Riggins ushered her back to the far wall.
+
+
+“How significant is this signal?” she asked.
+
+
+“Abnorm level four’s not too unusual. It happens once or twice a week. I was at a five once.”
+
+
+The tech rose from his chair and stepped closer to the monitor. A second sound joined the clamor of the alarm. The rhythm of the lights changed. “Six, now seven,” said the tech, pointing to an array of numbers and tall orange bars. The tech gritted his teeth, then calmly stated, “This has to be an earthbound spoof. We’re reading a series of primes sixty-eight digits long, longer than what we sent.”
+
+
+“How sustainable?” Riggins shouted.
+
+
+“Eighty seconds. I’ll secure the backup line.”
+
+
+The mood of the dozen or so men changed palpably. Riggins pulled his phone from his pocket. “I’ll call the Op Center down the hall.” Into his phone, he said, “Yeah, you’re seeing it? Seven at this point? Anything that—”
+
+
+“Status normal but we’re not triangulating the source well. Abnorm unchanged.”
+
+
+A side door that Aki had barely noticed swung open quickly.
+
+
+“It’s a breach,” barked a large man who looked upset.
+
+
+“Tom, we’re at…oh.” Watching him speak, then watching him lean back against the wall, Aki could imagine how Dan Riggins felt.
+
+
+“Phreaked. False positive through an audio channel.”
+
+
+The large man waved Director Riggins and Aki toward him, then grunted that they should follow him through the door. Unsure where she was at first, Aki realized it was this man’s office and also where the parallel supercomputer was housed, protected by a soundproof glass partition.
+
+
+“You scanned the terminals in the building?”
+
+
+“I’m one of three people who’re authorized to go outside the intranet, and there are maybe three others who work in the building and would be able to chew through the security walls,” said the man that Dan had called Tom. Aki concluded that Tom was some sort of sysadmin. “I loaded a sniffer. This was done using a keystroke logger on a news server. It shouldn’t have been able to get in from there but someone squirmed in through a back door. It’s always social engineering. I bet the hacker got multiple morons to divulge their passes and then pretexted or baited.” Tom swore and punched his desk hard. Aki stepped as far away from him as she could considering the small dimensions of the room.
+
+
+“I’m sorry I’m upset. They’re as smart as we are and use the same tools. I just hate that someone would try to screw over the vestiges of humanity who actually care enough to try to rebuild this godforsaken planet.”
+
+
+“Calm down, Tom,” Riggins said gently, then looked at Aki. “I’m sorry you had to see this. I’m sorry that you were here for this at all. Let’s go back to my office.”
+
+
+“Problems are as much a part of the scientific method as solutions. It was resolved quickly and did not spin out of control.”
+
+
+“This event was a first, Ms. Shiraishi,” he said, opening the door for her. Tom had his head in his hands but looked calmer.
+
+
+“Director Riggins, I am going to let you focus on the follow-up and excuse myself. I will return tomorrow around ten.” Walking down the hallway and reaching the elevator, the doors opened as soon as Aki arrived. She held her hand in the way to prevent them from closing.
+
+
+“Of course, that sounds fine.” Riggins looked relieved.
+
+
+Stepping into the elevator, Aki put her hands to her sides and bowed as the doors began to close. Dan Riggins imitated as best he could, bending awkwardly. Aki appreciated his attempt at politeness and responded with a curt Western nod and smile.

@@ -1,0 +1,119 @@
+4
+
+
+YUKIKAZE’S MESSAGE LEFT Lieutenant Katsuragi in a state of shock. Here was something to indicate that he might have been wrong about Rei’s “delusions.” He stared at the display for several moments, his breath ragged, then shouted.
+“What the hell is this? What’s Yukikaze saying?”
+Rei shifted his eyes back to the display and read the message as well. She was going to try communicating with the enemy plane and didn’t want Lieutenant Katsuragi to interfere or Rei to attack the target.
+“This is impossible,” Lieutenant Katsuragi said. “Captain, you brought that message onto the display, didn’t you?”
+“And how would I do that?”
+It was utterly ridiculous, of course. He hadn’t had time
+to do any such thing. If anyone on this plane could, it would be Lieutenant Katsuragi. If this is a trap, then he’s a JAM, Rei thought. He quickly extended the air brake, letting the target plane slip past, then nimbly accelerated to close range and took up the optimal position to ﬁre his gun. The target plane, however, made no moves to shake them oﬀ. Rei ﬂew Yukikaze onto its starboard side. It responded by turning in a wide leftward arc.
+
+
+As though beckoning Rei to follow. Yukikaze was ﬂying faster, but since she was turning in a wider arc, the two planes ended up ﬂying roughly next to each other. Despite the fact that the JAM was in the midst of a turn, it wasn’t banking at all.
+Lieutenant Katsuragi could clearly see that it had lowered its landing gear. Its fuselage was as black as a shadow. Even bathed in the light of Faery’s twin suns, you couldn’t tell the surface of the plane from the shadows cast upon it. Even though it was ﬂying close enough that Rei felt he could reach out his hand and touch it, it was diﬃcult to make out what its actual shape was. It almost looked like a section of the background scenery had been clipped out and replaced with a black shape, and it was impossible to tell at a glance what sort of three-dimensional shape this ﬁghter had.
+The smaller JAM planes reestablished their escort formation around the main one, splitting into three groups and moving to intercept the approaching FAF planes. Lieutenant Katsuragi touched the control panel, preparing to contact them, when a warning chimed and Yukikaze again ﬂashed a message onto the display.
+Do NOT touch me.
+She was telling him not to interfere with her communications system. Even Lieutenant Katsuragi would have to admit that, although Rei himself would say that she didn’t need to possess consciousness in order to do that.
+Whether this was a simple programmed response or possibly caused by the unexplainable “something” in Yukikaze really didn’t matter in an emergency like this. The truth was that she was making high-level judgments. The question was, should they just sit there and do as she told them to?
+Rei could imagine how confused Lieutenant Katsuragi was at this point. As a ﬂight oﬃcer, he wouldn’t be able to
+
+
+stand just sitting there doing nothing and was probably wondering whose fault this was.
+“Do what Yukikaze says.” “But, Captain!”
+“It’s my call, Lieutenant. Pilot’s orders. Do what she says. It’d be dangerous to disobey her.”
+If he wasn’t careful, Yukikaze could quite easily eject the rear seat from the plane. The front seat too. Rei didn’t consider that some wild delusion. Yukikaze could do that if she wanted to.
+Inside his ﬂight gloves, Rei’s palms were growing moist from tension. He wasn’t just concerned about Lieutenant Katsuragi doing what he was told. There was also the matter of his not being able to predict what would happen next. Besides that, Rei was desperate to keep Yukikaze away from the target plane. While it hadn’t appeared to change its ﬂight attitude, the radius of its turns was slowly decreasing.
+Don’t lose track of BOGEY…Capt.
+She was telling Rei not to shake the plane oﬀ, but to follow and maintain distance.
+G forces were increasing with each revolution. Soon he wouldn’t be able to move his arms freely. Yet the target plane continued to turn serenely through the air. Yukikaze began to drift slightly away from it.
+Increase power.
+The G limiter automatically cut out. No good, Rei thought. My body can’t take this. He manually reset the limiter to tell Yukikaze that he was refusing her request. The limiter automatically cut out again.
+They needed to increase power to keep up with the target plane, but they couldn’t keep turning in a smaller radius at the speed they were traveling. The airframe would eventually tear itself apart, though the humans aboard her would be dead before then. It was like they’d been placed in
+
+
+a centrifuge, and even if he could ignore the stress it was placing on him, he couldn’t ignore the loss of maneuverability the tight turns were causing. Even now, the plane threatened to snap out of the turn line it was describing. One mistake in control and this dangerous balance would be upset, and Rei could foresee it sending them into an unrecoverable spin.
+He kept setting the G limiter, and Yukikaze kept cutting it out. Holy shit, Rei thought. We’re having an argument! He was ﬁghting out of concern for his own safety, while Yukikaze wanted to keep going just as badly. They repeated the exchange four times, then Yukikaze spoke again.
+Maintain stability/increase power right now/you can do it…Capt.
+To keep following the JAM, Yukikaze ﬁrst wanted him to increase her engine output in order to maintain her own stability, Rei realized.
+It was certain that, if he tried to carelessly reduce her speed and pitch her nose while they were still turning like this, Yukikaze would be sent into an uncontrollable spin. To avoid that danger, Rei understood that the logical thing he needed to do now was carefully increase power to the engines.
+Yukikaze was telling him that, as the pilot, he should understand that. She probably ﬁgured that he’d have to go along with her message if she put it in those terms. And he did understand. But what would happen after he did it?
+“Yukikaze, are you trying to kill me?” Rei said, his voice straining against the G forces punishing his body. “What’s this JAM trying to do? Answer me, Yukikaze! I can’t do what you want me to unless you tell me what’s going on! Explain it so that I can understand. Yukikaze, do you understand me?”
+Increase power immediately/just do it…Capt.
+
+
+Had Yukikaze judged her pilot useless, she could have requested him to turn over maneuvering control to her by turning her automaneuver switch to ON. She probably could have done it even without sending a message to him. And yet she hadn’t. Deciding that she was saying that she depended on him, Rei answered her request by moving the throttle lever in his left hand slightly forward. Yukikaze continued with a new message:
+I have T-FACPro II/use it…Capt.
+“Lieutenant! Open the utility warehouse in Yukikaze’s central computer! Run the program called T-FACPro II! Hurry!”
+Lieutenant Katsuragi had also read Yukikaze’s message, but he had no idea what sort of utility T-FACPro II was. He couldn’t remember ever being told that Yukikaze had such a program. But there was no time to think about it. Rei was the pilot, and so Katsuragi obeyed. He accessed the utility program memory area called the warehouse and found T-FACPro II there. The startup indicator was shown, then the display changed completely.
+“What am I supposed to do with this?” Lieutenant Katsuragi asked.
+The running program itself answered him, displaying a message on the screen.
+This is a psychological tool designed to predict a target subject’s behavior. Please input target data. Now inputting…
+A section of the main display showed Rei what was happening. Data was being entered automatically. He could guess that Yukikaze was inputting the PAX code for the JAM. Was the program going to output a behavior prediction for the target plane?
+No, Rei thought. Even without using T-FACPro II, Yukikaze should have been able to predict what the JAM was doing now. No, she was expressly using the program not as a
+
+
+behavior prediction tool, but rather so that she could translate her intentions into a language comprehensible by the humans aboard her. T-FACPro II had a natural language processing engine to speak ﬂuently to humans. It also had an extensive vocabulary dictionary and apparently could use speech input as well. Rei had a hunch that Yukikaze was using that engine in order to communicate with her human crewmen.
+Yukikaze was going to be able to speak freely to him, not just in halting baby talk.
+“Yukikaze, what is this JAM doing?”
+The answer came immediately. And just as he’d expected, it wasn’t a behavior prediction from T-FACPro II. It was clearly communicating thoughts from Yukikaze. Rei would have been deeply moved if there’d been time for him to be.
+The target plane is carrying out communication by means of modulated ultraviolet light. According to the SSL 1.03 protocol, it keeps repeating the tag [follow me].
+Prior research had established that JAM planes would conﬁrm each other’s position within visual range by emitting UV light through a slit located near their noses. It could be thought of as the equivalent of the nighttime running lights FAF planes were equipped with. Right now, the target plane was modulating the intensity and wavelength of the light to try and use it as a means of communication. It was saying “follow me” over and over, although none of this could be discerned with the naked eye.
+“Impossible,” Lieutenant Katsuragi said. “You mean the JAM have cracked our SSL encryption?”
+Having the JAM just come out and tell them that they’d cracked the SAF’s coded communications system came as a shock to Lieutenant Katsuragi. The tag that Yukikaze had mentioned referred to a prepared reference code set used
+
+
+for such things as identifying a message’s sender or marking the end of a transmission. If you had something very simple to convey, it was possible to just use the code number by itself.
+To Rei, however, it hardly mattered. Version 1.03 was the one in use when the old Yukikaze had ﬂown her missions. He wasn’t surprised at all that the JAM had cracked it.
+Okay, ﬁne. The target plane was saying “follow me.” By why was it turning in smaller and smaller circles? Were the JAM just trying to see how far Yukikaze would go along with
+it? The G forces the turns were generating were threatening to exceed the limits of human endurance. Maybe the target plane was trying to see at what point a human body would just break, Rei wondered.
+“Do you understand the reason for these turning maneuvers, Yukikaze? Answer me. What is this JAM trying to do?”
+T-FACPro II predicts, Yukikaze displayed on the monitor, that the target plane desires direct communication with you. It can also predict, however, that the target plane does not want any other FAF plane to hear the contents of the communication, and so it is in the midst of guiding you to a place where you will not be disturbed. I also judge T-FACPro II’s prediction to be correct.
+“And where is this place where we won’t be disturbed?” MYSTERIOUS BATTLE ZONE.
+Rei reﬂexively choked as he read the message. The G forces were making it hard enough to breathe as it was, but Rei didn’t want to accept the reply Yukikaze had just given him. She might as well have been inviting him back to a hell he hoped he’d never have to return to.
+“What’s it mean by ‘mysterious battle zone,’ Captain?” Lieutenant Katsuragi asked.
+
+
+The G-stress on Lieutenant Katsuragi must be even worse than what I’m feeling, Rei thought. That medical exam had been spot on. It was an odd thing to think about, all things considered. The Gs were so bad now that Rei couldn’t even turn his head.
+The mysterious battle zone…the place where he’d tasted the ﬂesh of Lieutenant Burgadish. And no, that hadn’t been the ﬁrst time he’d visited it. He’d been there before, with that journalist Andy Lander, who’d come from Earth to do a story on the FAF. He’d been ﬂying with Rei in Yukikaze to experience it for himself when they were pulled into that bizarre space. They’d found a yellow swamp in a forest that seemed to be made of mechanical devices, and when Lander had reached his hand out to touch it, he’d lost his hand up to his wrist… The entire thing had seemed like a waking dream, but when they’d returned to normal space, Lander’s hand was still gone. They’d never found the zone’s exact location. Indeed, Rei had even written in his report that the zone might not be on Faery at all. That was when he’d named that unknown space the “mysterious battle zone.” It was a unique name, one that Yukikaze knew but Lieutenant Katsuragi did not.
+When they’d ﬂown there before, the fuel transfer system had been interfered with, causing Yukikaze’s engines to shut down. They had to defeat the JAM’s intense electronic warfare in order to escape. Yukikaze had been the one who had beaten them. All I’d been able to do was hope that she didn’t lose, Rei thought. This time, the JAM were probably after him, the human component of this partnership.
+Even so, there was no way he could run back home after coming so far. This was exactly the situation that Major Booker had hoped would arise, so Rei steeled himself in resignation. Make contact with the JAM, then bring that information back to base. Come back alive, no matter what.
+
+
+“Yukikaze, get ready for EW jamming from the target plane. Don’t let your guard down. Remember, it’s a JAM.”
+Everything is ready/I don’t lose/trust me…Capt. Yukikaze had switched back to her own words. And Rei
+did trust her. As much as he trusted his own judgment. “Lieutenant, monitor the passive air space radar. I’m
+expecting the JAM to try some sort of trick. Keep your eyes on it and brace for a shock.”
+Lieutenant Katsuragi had no idea what Rei and Yukikaze were agreeing to, but they seemed to know what was going to happen, at least.
+The information from the various radars was integrated for display on the electronic warfare monitor panel. This time, there was no interference from Yukikaze. Apparently, she was obeying the pilot’s instructions as well.
+Well, I can deﬁnitely perceive some form of consciousness, but what exactly is this machine intelligence? Asking that question was useless, Lieutenant Katsuragi concluded coldly. The plane would probably just answer, “I am Yukikaze.” He’d just as likely get the same response from Captain Fukai. “I am what I am, Lieutenant,” he’d say. What he was more interested in was what Rei was doing and just what his relationship was with the JAM. Aside from that, there was no need to ask them what was about to happen. He was about to learn that through personal experience.
+Lieutenant Katsuragi coolly followed his pilot’s instructions. When you want to know the truth about something, nothing beats personal experience, as Colonel Rombert would say. The lieutenant thought back on the colonel’s favorite phrase. The colonel generally followed that up with, “However, there’s no need for you to judge the value of that experience. That’s for me to do.” In short, the colonel saw the people who worked under him as his eyes
+
+
+and ears, while he was the head, and he made it very clear that he didn’t want them interfering where they shouldn’t.
+Lieutenant Katsuragi thought nothing of this. He understood it to mean that all that mattered to the colonel was that his subordinates were able to do their job well. Issues of human trust or betrayal never even came into the picture, as far as he was concerned. It wasn’t that Katsuragi didn’t want to establish any deep relationships out of a fear of betrayal. Rather, he just didn’t see any value in sharing feelings of trust with other people and viewed those sorts of relationships as foolish and troublesome. As far as Colonel Rombert was concerned, a subordinate like Lieutenant Katsuragi made for an excellent agent. Here was a man who would do what it took to satisfy his curiosity without any concern for the feelings or endangerment of others. For Lieutenant Katsuragi’s part, a superior like Colonel Rombert, who didn’t demand him to pursue annoying human relationships, was easy to work for.
+Katsuragi understood that Colonel Rombert had released him from service because he wanted information about the SAF. It didn’t matter what conditions the colonel had set up with them, though. He was free to live his life as he wanted and was under no obligation to answer any questions the colonel might have for him. If the colonel were to appeal to the lieutenant, Katsuragi would just tell him that he didn’t work for intel anymore. He could just imagine the look on the colonel’s face were he to say that. Katsuragi lived for his own sake, not for anyone else’s, and couldn’t care less about what their expectations were. He’d do whatever he felt was best for himself. He couldn’t believe that there was anyone in this world who’d criticize him for such a stance…
+That was why Lieutenant Katsuragi couldn’t understand how Captain Fukai could trust this machine intelligence called Yukikaze, especially in matters of life or death. He
+
+
+might as well have been taking an action based on an unreliable instrument gauge without any idea of how far oﬀ its readings were. An action that may be tantamount to suicide, Lieutenant Katsuragi thought as he watched the display panel.
+The formations of FAF planes and the small JAM ﬁghters moving to intercept them had yet to make contact. Only about a minute had passed since they’d begun following the target plane’s ﬂight path. It felt like they’d circled round and round, but the truth was that they hadn’t even made two circuits yet. The target plane and Yukikaze were tracing a whirlpool-shaped course through the sky, the turning radius growing ever smaller as they approached the center.
+He could see on the passive air space radar the shock wave the target plane produced as it crossed the sound barrier. Yukikaze was ﬂying out of its range, but Katsuragi realized that it would be dangerous if that shock wave struck them head-on.
+Suddenly, a shining white spot appeared on the display panel right before his eyes. Lieutenant Katsuragi couldn’t believe what he was looking at. He thought at ﬁrst that it was some sort of shock wave caused by an intense explosion, but it didn’t propagate like a shock wave. Instead, the shining spot just stayed as it was. Fighting the G forces tearing at him, he looked out of the cockpit in the direction where the spot should have been. It seemed to be centered over the crater where the JAM had self-destructed and caused the cave-in, but with his naked eyes, he could see no diﬀerence from before. He wondered if the radar had broken down. The display appeared frozen.
+It had clearly picked up the shock wave of the base’s self-destruction. Enlarging its range to maximum, he could see the traces of the pressure-change waves from the blast still spreading outward, the sound of the explosion itself. So
+
+
+the radar was still working ﬁne, but that glowing dot on the display still wasn’t moving. What did it mean?
+The lieutenant knew that the passive air space radar was nicknamed “Frozen Eye” and operated by means of a cryogenically cooled ultra-high sensitivity visual sensor. He didn’t know the details of how it worked, as that was a closely guarded FAF secret, but he imagined that the Frozen Eye picked up irregularities in air density, similar to how heat mirages would cause whatever one saw behind them to seemingly shimmer. Katsuragi understood that these microchanges in air density, invisible to the eye, would then be image-processed by a high-speed computer. If that were the case, it wouldn’t be able to sense diﬀerences in density unless there were observable moment-by-moment changes taking place. In short, the lines and points Frozen Eye was displaying on the panel had to be constantly moving.
+So, this dot had to be vibrating. The instant he had decided it, the dot became a circle and began to slowly expand. And Yukikaze and the target plane were ﬂying straight into it.
+Rei realized this too. The airframe was violently shaking now. It seemed about ready to shake itself apart, but he
+knew that the plane could handle it. The question was whether or not his body could. Here we go, he thought, bracing himself for the impact. Their turning radius continued to shrink as he maintained power.
+Lieutenant Katsuragi felt his eyes burn as sweat ran into them. He knew his body was trembling with a fear he unconsciously felt. His head kept telling himself that he was just experiencing what it was that Captain Fukai and Yukikaze were doing, as though this was all somebody else’s problem. His body, on the other hand, wasn’t buying any of it.
+For ﬁrst time, the lieutenant felt that he was behaving as suicidally as his pilot; he was terriﬁed of these
+
+
+maneuvers Yukikaze was pulling. His life was in danger. He could die here, and he couldn’t accept why he was doing this. Even so, this was real. It was happening, and there was no use in trying to deny it.
+That was when he saw something outside of the plane that made him wonder if any of this was real at all.
+The air space indicated by Frozen Eye was distorting the scenery around it. The changes there were now visible to the naked eye. It almost seemed like an enormous transparent lens was ﬂoating over the ruined base. It extended up and down, in a spindle shape. And it was growing larger.
+It’s like the Passageway, the lieutenant realized. The Passageway to hyperspace. He tried to twist his head down to check the display panel, but the G forces were just too strong now. He couldn’t move his body at all.
+He saw the target JAM plane suddenly roll over, white vapor trailing behind it. A contrail, he thought, caused by the sudden maneuver. An instant later, he felt a shock like an enormous invisible hand swatting Yukikaze.

@@ -1,0 +1,1241 @@
+12 Seed Pod
+
+
+
+
+                        Wed, 16 Dec 2020, 09:02 -0700 (2020-12-16T16:02 GMT)
+
+
+Peterson Air Force Base
+
+
+
+
+                        “Our weapon for this operation is the ASM-140, a piece of equipment none of you have used before. Colonel Claude Lintz, chief of Orbital Surveillance at NORAD, where the R&D for this weapon was carried out, has agreed to be here today.”
+
+
+                        The voice of Operation Seed Pod’s operational commander, Colonel Waabboy, reverberated throughout the briefing room where the team members were assembled, seated neatly in rows. Lintz raised one hand briefly and then turned his eyes to the map of North America that hung from the ceiling. Frowning, he noticed that the words “Rod from God” were written beside the line drawn from west to east that designated their target. He had pushed for the name “SAFIR 3 R/B,” but apparently he had been unsuccessful.
+
+
+                        “The air force’s knowledge of space is limited,” Waabboy said. “So please listen closely. Colonel, if you please.” He retreated to the other side of the whiteboard.
+
+
+                        Lintz was hoping for a quick escape from this performance. Whether the team understood how the ASM-140 worked or not was irrelevant: it launched automatically, and once it had approached its target, it operated automatically.
+
+
+                        “Let me put our objective in simple terms,” Lintz said, tapping the map with his baton. “Our target will follow this route into sector 26 of the North Pacific Air Defense Zone. Its altitude is 390 kilometers, and current observations suggest that its velocity upon entry will be 7.6 kilometers per sec—yes?”
+
+
+                        Captain Ricky McGillis had his hand raised. McGillis, Lintz knew, was the F-15 pilot who’d actually have the ASM-140 on board.
+
+
+                        “Pardon me, sir,” McGillis said, “but could we have those figures in feet? Mach numbers for velocities would also be helpful, sir.”
+
+
+                        The woman sitting beside McGillis—Second Lieutenant Madu Abbot, who was to pilot the accompanying F-22 Raptor carrying the observational equipment—looked at him sideways. “You haven’t read the briefing material yet?” she hissed.
+
+
+                        “Sure, I read it,” McGillis said, then turned back to Lintz. “I just want to make sure we all share the same mental image, sir.”
+
+
+                        A few members of the maintenance team were nodding as well. Lintz smiled thinly. They’d asked for it.
+
+
+                        “It seems we have some attendees who don’t know the speed of sound,” he said. “Fine. I’ll start again from the beginning.”
+
+
+                        Sighs filled the briefing room. “Take it back, Ricky,” someone muttered. Lintz ignored them and held the tip of the baton in his other hand like a teacher.
+
+
+                        “Is everyone here at least aware that the speed of sound varies depending on air pressure and humidity? In fact, what we call the speed of sound is a figure defined by the physical properties of the medium we call the atmosphere—yes, Captain McGillis?”
+
+
+                        “I apologize, sir. Metric units are fine.”
+
+
+                        “Oh, it’s no trouble for me. There appear to be quite a few team members who find them hard to visualize. It can’t hurt to do the conversion.” Lintz wrote two figures on the whiteboard beside the map. “The altitude is 1,280,000 feet, entry velocity is Mach 23.”
+
+
+                        The room erupted with chatter. “Did he say million?” “Mach 23? Really?”
+
+
+                        “Colonel, if I may?” Waabboy said, taking up a position before the whiteboard. “Surprised?” he barked at the assembled members. “The figures are correct. This mission involves shooting down the fastest target, at the highest altitude, the US Air Force has ever engaged. It contravenes COPUOS guidelines and as such is being conducted in secret. But eventually—maybe ten years from now, maybe thirty—the details will be made public. And by that time, we will most likely have entered an age of competition for hegemony over space.”
+
+
+                        Waabboy fell silent and raised his clenched fist to his breast.
+
+
+                        “When that day comes, your successful interception and neutralization of the Rod from God during Operation Seed Pod will be revealed as the shining milestone it was. Wherever, whenever, whatever the objective, the US Air Force defeats its enemies. I am certain you will have no trouble demonstrating this. Understood?”
+
+
+                        “Yes, sir!” said the team in unison, sitting up straight. Ricky McGillis’s face had lost its smirk and was sober and tense.
+
+
+                        “Please continue, Colonel,” Waabboy said, returning the reins to Lintz.
+
+
+                        Referring to the orders posted on one side of the whiteboard as he went, Lintz explained the dimensions and other physical characteristics of the ASM-140. The team members flipped hurriedly through their copies of the orders, nodding and taking notes.
+
+
+                        “The ASM-140 has two armaments designed to minimize the chances of creating debris,” Lintz said, pointing at the diagram of the ASM-140 with his baton. “The first is known as ‘Blackout.’ The second is extremely small-caliber ammunition.”
+
+
+                        “Sir,” said one of the attendees. “Captain Gehner, serving as chief of maintenance. I have a question. Blackout is said to be effective only against civilian electrical equipment. Will it work on the Rod from God?”
+
+
+                        “Good question. Satellites are usually built to be as light as possible, so most are not adequately hardened against attacks of this sort. The CPU might be safely behind a shield, but if the exposed sensors can be killed, that will do the trick. Clear enough?”
+
+
+                        “Yes, sir.”
+
+
+                        “Blackout’s range is five kilometers. Sixteen thousand feet.” Lintz drew a point on the whiteboard, then, careful not to let his bitterness show, wrote “Rod from God” beside it. As he drew a circle indicating Blackout’s range, he was struck by a sense of déjà vu. Hadn’t he recently seen this same diagram before? That attachment from Freeman?
+
+
+                        “Colonel Lintz?” Waabboy called to Lintz, who had paused to rack his brains.
+
+
+                        “My apologies. Armament number two: slugs, just three millimeters in diameter. The basic principle is similar to that of a shotgun …”
+
+
+                        Lintz continued his explanation, but all he could think about was that email from Freeman. What had it said—a large number of space tethers floating around SAFIR 3? The ASM-140 warhead would have to pass through that dense crowd of space tethers. But what would happen if it hit one?
+
+
+                        “The ammunition seems too small to do much damage,” said Gehner. “Will it really get through the Rod from God’s shielding?”
+
+
+                        “Nothing to be concerned about. The ammunition has a two-layer structure. When the outer layer strikes the shielding, both are vaporized together, and the core flies in. Same principle as an antitank missile.”
+
+
+                        “Is the core tungsten or DU?”
+
+
+                        “DU.”
+
+
+                        Lintz sensed the tension rise slightly among the team members. The armed forces denied that the radiation from depleted uranium could have health effects. Even if such effects did exist, they were negligible. This common sense had penetrated the surface-bound members of the army and navy but not yet the air force.
+
+
+                        “There’s no need to worry about special handling precautions,” Lintz said. “The rounds are completely shielded. If the shotgun mechanism functions normally, they’ll sink into the atmosphere and burn up a few weeks later.”
+
+
+                        “Thank you, sir. That is very reassuring.”
+
+
+                        As the team members visibly relaxed, Lintz’s sense of foreboding continued to swell within him. It was that email. He had to read the report from Freeman as soon as he could.
+
+
+                        Noticing Lintz glance at the clock on the wall, Waabboy rose to his feet. “Any further questions?” he asked.
+
+
+                        Only the sound of paper being folded came from the audience.
+
+
+                        “I’ll take that as a no. This concludes the briefing. Thank you, Colonel Lintz. Attention!”
+
+
+                        The attendees rose to their feet and prepared to salute.
+
+
+
+
+
+
+
+
+
+
+                        Lintz sat in the passenger seat of Fernandez’s Ford, open laptop wedged in the narrow space between his belly and the dashboard. Fernandez glanced at the screen from the driver’s seat.
+
+
+                        “Daryl’s report?” he asked.
+
+
+                        Lintz grunted in the affirmative. “You read it?”
+
+
+                        “Sorry. It was way over my head. Space tethers, right? Crazy stuff. Hard for me to follow.”
+
+
+                        “I see …”
+
+
+                        The email from Daryl, sent from his new base of operations provided by the CIA, was full of surprises. An engineer from Japan named Kazumi Kimura had used a radar system borrowed from a Seychelles billionaire to observe the space tethers. Now Daryl was requesting that NORAD replicate the observations.
+
+
+                        Opening the attached diagram again, Lintz saw that his sense of déjà vu before had been warranted. SAFIR 3 was densely surrounded by the mass of space tethers known as the Cloud. Apparently there were twenty thousand pairs—far more than he had imagined.
+
+
+                        These space tethers were already past the hypothesis stage. They were a real and pressing threat.
+
+
+                        “I should have read this before the briefing,” he muttered. “Operation Seed Pod is pointless.”
+
+
+                        At best, Lintz thought, but kept it to himself. He thought of the two civilians who would be in the area when Operation Seed Pod went into action.
+
+
+                        Fernandez shrugged. “No stopping it now,” he said.
+
+
+                        Lintz groaned and closed his laptop, stowing it in the map pocket on the passenger’s side. “How many staff do we have not involved with Seed Pod who we can use to make orbital observations?” he asked.
+
+
+                        “Twelve,” Fernandez said. “They’re scheduled for video-call training for NORAD Tracks Santa. Which is next week, by the way.”
+
+
+                        “Cancel the training,” Lintz said. “I’m redirecting all resources to support Daryl—the Seattle team. Gather everyone in my office. We need to be prepared for a video call from Seattle at any time.”
+
+
+                        “An emergency, then. Understood, sir.”
+
+
+                        Fernandez stepped on the gas. The Ford accelerated quickly to forty miles per hour, the on-base speed limit.
+
+
+
+
+
+
+
+
+
+
+Wed, 16 Dec 2020, 09:14 -0800 (2020-12-16T17:14 GMT)
+
+
+Western Days Hotel
+
+
+
+
+                        Bruce watched Akari’s shoulders sink as she stood miserably in front of him.
+
+
+                        “All right,” she said at last. “But I’d like to see it for myself. Can I have the data?”
+
+
+                        The results of the search he had asked the CIA to perform last night had been nothing like what Akari had expected. Scanning all communications for messages containing three numbers indicating ID, time, and two three-dimensional decimal vectors indicating coordinates and heading had smoked out a vast number of computers. Between two and six hundred thousand devices had been sending data in that format—four orders of magnitude more than the few dozen space tether base stations they had expected. What was more, the data was extremely unwieldy. Most of the search results also included an enormous binary attachment. “These are not the sort of messages that one expects to be transmitted from orbit,” the CIA search team had observed drily in an attachment of their own.
+
+
+                        “It’s nothing to worry about, Akari,” Bruce said. “As long as you can find the needle you’re looking for somewhere in that haystack.”
+
+
+                        Akari silently opened the data and expanded the window, filling three whole monitors with rows of figures.
+
+
+                        Jamshed’s voice came somewhat hesitantly from the display that had been set aside for video calls.
+
+
+                        “What has happened?” he asked. “Is that the communications with the base stations? May I read it too?”
+
+
+                        Still silent, Akari projected the figures on the whiteboard so that Jamshed could see them. On-screen, he stroked his chin and pulled one of the pieces of paper that dangled behind him closer.
+
+
+                        “Doctor Jahanshah,” Bruce said. “You can wait until we’ve narrowed it down to the likely candidates before you begin your analysis, if you like. Let’s leave this part to Akari. Right, Kazumi … Kazumi?”
+
+
+                        Kazumi was standing before the figure-filled whiteboard. He had his index finger up and his eyes half-closed as his lips moved silently, trying to use that mysterious power of his to perceive objects in orbit. Daryl, too, was sitting before a computer, waiting for Kazumi to open his mouth.
+
+
+                        So that’s how it is, thought Bruce. The whole team’s bonkers except for me. Whatever Kazumi’s forecasting methods were, they were completely impenetrable to Bruce. The CIA agent watched as Kazumi slowly lowered his index finger to one side, his entire body leaning as he did so. “Look out!” he said.
+
+
+                        Kazumi took a half-step forward, regaining his balance. Daryl turned around to see what was happening.
+
+
+                        “Overlay it on a globe,” Kazumi said. “This data is longitude, latitude, altitude, in that order. Latitude is reversed north-south. Altitude is a floating-point number with the Earth’s surface at 1.0.”
+
+
+                        Jamshed held up a yellow piece of paper. “Kazumi is right,” he said. “This is the order I used on my paper too. Location indicated by first line of data is—”
+
+
+                        “First line of data is—” Kazumi said, speaking at the same time.
+
+
+                        “Edge of Washington state, directly overhead,” Jamshed continued.
+
+
+                        “Seattle airspace,” Kazumi finished.
+
+
+                        “Roger,” said Daryl. “Putting it on-screen now.” He tapped at his keyboard, and a single dot appeared on the globe projected on the whiteboard. The dot was at the western edge of North America, right near the border with Canada. Seattle. The city they were in right now.
+
+
+                        “Adding the data,” Daryl continued, and clattered at his keyboard again. One dot after another appeared on the whiteboard. Their locations matched the predictions Kazumi had made based on the Cloud observed by Ozzy.
+
+
+                        “Wait a minute,” Bruce said, waving his hand and stepping in front of the whiteboard. “You’re joking, right? There are two to six hundred thousand PCs worldwide acting as base stations? That’s imposs—”
+
+
+                        “I’ve figured out what the attachments are,” Akari interrupted. “JPEGs.” She placed a new portable projector on her table. A blue and white gradient appeared overlaid on the globe.
+
+
+                        “Photos?”
+
+
+                        “Yes,” Akari said curtly, and began to open more of the images, all of the same sort, one after another. Blue and white stripes. Sometimes a fade from blue to black, or a stripy pattern of green and blue. Daryl and Kazumi cocked their heads in confusion. Bruce, of course, had no idea what he was seeing. Only Akari seemed on top of the situation as she opened image after image.
+
+
+                        “These photos don’t mean anything on their own,” she said. “I’ll write a program to stitch them together. Just let me check to see if anyone’s already coded some bits and pieces I could use in it.”
+
+
+                        The crowdsourcing site MegaHands appeared. Akari entered a few search keywords and brought up a list of parts and libraries for image-processing programs. Bruce looked closely at the “Ordered by” field. The same name appeared in every line: Kirilo Panchenko. The pseudonym Shiraishi had used. Bruce wasn’t sure what Shiraishi had been up to, but once again Akari had managed to follow her uncle’s thinking perfectly. He glanced at Chris, who nodded with apparent satisfaction.
+
+
+                        Akari scanned through the project results, clicking the Buy button on item after item. “Looks like someone commissioned a similar program but split the task up,” she said. “Most … no, almost all of the parts we need are here. Surprising. The design is a little old-fashioned, but I know how to use nearly everything without modifications. Even the naming conventions are familiar.”
+
+
+                        Akari opened the source code she had downloaded and began to combine it into a single program. A sphere popped up on the whiteboard. A blurred photograph appeared pasted to it on an angle and then disappeared.
+
+
+                        “Well, I’m done,” said Akari. “All I did was join the libraries together, mind you.”
+
+
+                        She tapped one final key on her keyboard. A small window containing “Building project …” appeared, and then the whiteboard was awash in blue. A rainbow-colored balloon spun on the screen as the image began to divide into four, then eight, gradually taking recognizable form.
+
+
+                        “Whoa!” Bruce said before he could stop himself.
+
+
+                        In two blinks, the whiteboard was displaying a high-resolution image of the Earth. They could see the breathtakingly beautiful pattern of the oceans and the billowing swirls of storm cloud on the horizons. And a single small but brightly shining white spot in space. Then another white spot appeared beside it. To judge from their location, the bright spot was probably SAFIR 3, while the one beside it was the orbital hotel.
+
+
+                        Daryl peered at Akari’s hands. “A light field,” he said. “Photographs overlaid to create a 3-D space.”
+
+
+                        “Yes,” Akari said. “I joined together the eighty thousand digital cameras inside the space tethers’ terminal apparatuses. This image might have been taken by the largest camera in history.”
+
+
+                        The image grew more vivid even as they spoke, revealing the Earth in finer detail than they had ever seen. The swirls of clouds bathed in morning sunlight looked like they might move at any moment—no, they were moving, turning slowly in the sun’s rays.
+
+
+                        “This is a feed?” Bruce asked, astonished.
+
+
+                        “From a few hours ago,” Akari said. She pointed at the whiteboard. “Our point of view is above the Pacific Ocean. The camera is pointed toward Seattle.”
+
+
+                        Chris stood up from her boss’s seat and gazed at the whiteboard from beside the table. “So that swirl is the blizzard we’re in right now?” she asked. “Does the camera move, Akari?”
+
+
+                        “Of course. It’s a 3-D light field. I set it up so that you can stand here and move both your hands to rotate the Earth.”
+
+
+                        Chris waved her hands. The Earth lurched. The feeling of actually being in orbit looking down at the Earth was so strong that Bruce gasped.
+
+
+                        “Akari, is this only for looking?” he asked. “No two-way interaction?”
+
+
+                        “Right.”
+
+
+                        “How, and why, is this kind of data being sent back? It makes the transmissions bulky. Must eat up the batteries, too. And wouldn’t it also increase the risk that the messages would be detected?”
+
+
+                        “It’s obvious why they’re doing it,” Akari said. “They want to see Earth.”
+
+
+                        That was it? Bruce was about to raise an objection when a husky voice spoke from the monitor. “What am I looking at? You say this image was taken from space tethers? Overlaying individual photos to create three-dimensional Earth? This is possible in theory. I know that, but …”
+
+
+                        Jamshed’s eyes were wide open, face in close-up after he had brought it right up to the camera. The knuckled fingers raised before his face were trembling. This was bad. Akari had stepped into a domain Jamshed was not prepared to understand.
+
+
+                        “The space tethers can be used this way too, then, Doctor Jahanshah?” Bruce asked.
+
+
+                        There was a pause. “I did not realize this,” Jahanshah said finally. “It never occurred to me.”
+
+
+                        “Please, come to America. You’ll find it a very inspiring place for ideas,” Bruce said.
+
+
+                        “You think so?”
+
+
+                        “Of course,” Chris said. “Environment is everything.” Despite her efforts to smooth things over, the shock had not left Jamshed’s features. They needed a topic where he was a crucial player, and fast, or he would start to feel worthless.
+
+
+                        “Next I will identify the transmitting stations,” Akari said, determination in her voice. “Chris, can I show the base station locations to Professor Jahanshah? The data has geographical information from the CIA’s Internet positioning system attached.”
+
+
+                        After a moment’s hesitation, Chris granted her permission. Yellow dots appeared all over the projected globe.
+
+
+                        “Six hundred thousand transmission stations,” Akari said.
+
+
+                        “These are the base stations?!” Bruce exclaimed. It made no sense. North America, Japan, South America, Africa … Yellow dots shone almost everywhere there was human habitation. How could North Korea possibly have built a worldwide transmission network like this—in secret?
+
+
+                        “Bruce, you saw the live feed earlier,” Kazumi said. “That video could only have been shot from the space tethers. There is no mistake. There are this many computers exchanging data with the space tethers.”
+
+
+                        “All right, fine,” Bruce said after a pause. “But where are they?”
+
+
+                        “Why don’t we take a look?” Akari waved her arms and spun the Earth to center on Seattle. Hovering over it were billowing storm clouds and a dense field of hundreds of dots. She zoomed in on the swirl of the blizzard. It filled the screen, and then the familiar Google 3-D map appeared.
+
+
+                        “Functionality from the original game engine,” Kazumi explained to the surprised team members.
+
+
+                        Near the Seattle landmark that was the Space Needle, a single point was displayed. Akari increased the zoom ratio.
+
+
+                        “Hey!” said Bruce. “That’s our hotel!”
+
+
+                        Akari moved the mouse on the table until the arrow was directly over the Western Days. An IP address and port number appeared.
+
+
+                        “I see that the router’s IP masquerade table is already decoded,” she said. Benefits of working with the CIA. “The original address is 10.0.0.2. That’s the lobby.” Akari crammed a Raspberry Pi that had been lying out on the table into her pocket and stood up. “I’m going to go find it,” she said.
+
+
+                        “Akari!” Kazumi tried to follow her out of the room, but Chris stood in his way.
+
+
+                        “Kazumi, you stay here,” she said. “Bruce!”
+
+
+                        But Bruce was already dashing out of the room in pursuit. The elevator had left the floor. Bruce pushed open the fire doors that led to the emergency staircase.
+
+
+                        “Who are these people?” he muttered as he began to descend. “It’s only day two!”
+
+
+
+
+
+
+
+
+
+
+Wed, 16 Dec 2020, 10:32 -0700 (2020-12-16T17:32 GMT)
+
+
+Peterson Air Force Base
+
+
+
+
+                        “Lookin’ good, flyboy,” said Madu, pounding Ricky on the shoulder.
+
+
+                        Unfortunately, as he was just then being lowered by crane into his aircraft while strapped into an ejector seat, this caused him to swing and spin like a pendulum, stretching the writing on the preflight checklist stuck to his thighs.
+
+
+                        “Hey, no jostling,” he said. “I’ve still got some checks left.”
+
+
+                        Madu waved over her shoulder and disappeared behind the F-15 Eagle in the direction of her own ride, the latest F-22 Raptor. A gigantic reconnaissance pod hung from the belly of the fighter. Definitely not standard issue.
+
+
+                        “Ricky, we all like to play Tarzan, but try to stay focused here.”
+
+
+                        Gehner, the maintenance crew chief, stopped Ricky’s wild spinning. Looking down, he called “Clear!” and pulled out two ribbons. There hadn’t been enough space in the cockpit for the compressor that pumped oxygen into the pressure suit, so they’d had to bolt it to the base of the ejector seat.
+
+
+                        Ricky raised his head. The runway extended out from the hangar’s entrance, and in the distance beyond that rose Pikes Peak, pure white with snow. The sprawling mass below it was Cheyenne Mountain, where NORAD had once been headquartered. Though inhabited now only by mice, during the Cold War the underground complex had been filled day and night with hundreds of operators, all monitoring the Soviets.
+
+
+                        Ricky’s beloved F-15, greatest fighter plane of the twentieth century, his orange pressure suit, and the original form of the ASM-140 now loaded into the F-15 were also products of that era. They had all been developed in an age of intense competition to soar higher, move faster, hit harder than the other side.
+
+
+                        Anything, anywhere, anytime: the fundamental attitude of the US Air Force was the same even today in the twenty-first century, when there was no one left to compete with. But how it operated in practice had changed profoundly. Today it was all about stealth fighters like the F-22, drones, and cyberwar. Once Operation Seed Pod was over, even this spectacular F-15 would be restored to its standard equipment profile and added to the wait list for retirement from service, just like Ricky himself.
+
+
+                        Ricky dropped his gaze to his thighs and began filling in the checklist, picking up where Madu had interrupted him. He was just considering the possibility that this would be his last real mission when Gehner called out to him.
+
+
+                        “Check it out!”
+
+
+                        Ricky raised his head and saw a few crew members stenciling something onto the F-15’s nose cone with spray paint.
+
+
+                        “Clear breach of regulations, but they insisted.”
+
+
+                        One of the crew members brandishing a template waved in Rick’s direction. The letters now painted on the nose cone in gray paint were sharp and clear: shooting star.
+
+
+                        “Once Seed Pod is finished, we’ll add a big star and take a photo together,” Gehner said. “This is the first time a plane has ever taken down a satellite. I want a picture of me alongside the pilot who shot down the highest, farthest target ever.”
+
+
+                        Ricky stretched his back. The smooth material, so different from that of his usual pilot suit, caressed his entire body. Their target today was the North Korean Rod from God. He would go up there for the sake of Judy Smark and her angry upraised finger, for her father, and indeed to restore the freedom of space itself.
+
+
+                        “All right, let’s go. If the visor’s ultraviolet shield gets in the way, just pull it off.” Gehner placed the transparent helmet over Ricky’s head and locked it into place at his shoulders. “All clear. Take him up!”
+
+
+                        The winch groaned and the seat was hoisted into the air, Ricky and all. He saw the F-15’s main wing spread out below him. So large it was known as the “tennis court,” it smoothly merged with the fuselage to create one unified winged form, giving the fighter a balance of power and agility. Enjoying the rare view, Ricky clenched his gloved first tight.
+
+
+                        A monstrous orbital weapon: another idea from the Cold War. Fitting that he was flying out to meet it in the greatest fighter of the Cold War era, if not the entire twentieth century. He was going to take his F-15 up there and annihilate this Rod from God completely. The F-15 deserved no less for its final send-off.
+
+
+
+
+
+
+
+
+
+
+Wed, 16 Dec 2020, 10:15 -0800 (2020-12-16T18:15 GMT)
+
+
+Western Days Hotel
+
+
+
+
+                        Hearing a knock at the door of their suite, Chris rose to her feet, checked the image from the security camera, and opened the door to allow Bruce in. He was pushing a luggage cart with a computer on it.
+
+
+                        “Kazumi,” said Bruce, “can you have a word with your girlfriend? She’s out of control.”
+
+
+                        Akari slunk in after him.
+
+
+                        “What happened?” asked Chris. “Isn’t that the computer from down in the lobby?”
+
+
+                        “You should have seen her down there,” Bruce said, pushing the cart up against the table with a wry smile.
+
+
+                        He had arrived at the ground floor, he said, to find Akari already clinging to the front desk engaged in a shouting match with the clerk. While he was explaining things to the clerk and peeling Akari off the desk, she had knocked over a hundred thousand–dollar white speaker, had moved the sofa, and was pulling up the carpet in the lobby.
+
+
+                        To calm the uproar from the guests and staff members who didn’t understand the situation, Bruce had said “Metropolitan police investigation!” and flashed the fake badge he’d used to apprehend the illustrator Jose Juarez in Los Angeles.
+
+
+                        “Unbelievable,” Bruce finished. “Good thing none of the guests realized it was an LA police badge.”
+
+
+                        “And did Akari find the base station?” Chris asked.
+
+
+                        “If she hadn’t, I’d be kicking her out into the blizzard right now,” Bruce said, flashing his dazzling smile. He pointed at the computer on the luggage cart. “They were using this to control the audio in the lobby. Akari left them a replacement she made with her Raspberry Pi.”
+
+
+                        “The audio?” Chris said.
+
+
+                        “We know what the base stations look like,” Akari said.
+
+
+                        Bruce lifted a thickly insulated USB cable from the cart. Just under an inch in diameter, the cable had a D-Fi logo printed on it. When Bruce drew the cable through his hand to smooth out the twists, Chris got a whiff of the same rosy fragrance she had smelled in the lobby.
+
+
+                        “A USB cable?” Chris said.
+
+
+                        “Yes, the best audiophile USB cable money can buy,” Bruce said. “Sold by a Japanese company called Sound Technica. The technology they use was developed by a Portland audio research lab called D-Fi based on analysis of sound data from around the world. It uses audio profile information to open up the high-frequency range. A two-foot cable costs $300. They were discontinued recently, but they’ve been popular for a long time. Maybe a million sold in all?”
+
+
+                        “You’re oddly knowledgeable about all this,” said Chris.
+
+
+                        Akari laughed. “He told me he owns one,” she said, pointing at Bruce.
+
+
+                        “You believe that audiophile woo?” Daryl laughed.
+
+
+                        “Oh, so you’re on her side too? Yeah, you got me—I fell for it. But I just called my housekeeper and had her pull the cable out.”
+
+
+                        Bruce scratched his head and put the D-Fi cable on the table. Then he produced a pocketknife and cut into the cable’s insulation to pull out not only the vinyl-covered USB cable itself but also a long copper wire that came with it.
+
+
+                        “This is the antenna,” Bruce said. Then he cut into the USB terminal itself. He twisted the tip of the knife, and a tiny chip tumbled out. It was a black resin package with a European chip maker’s logo printed on it. “And this is a VHF transceiver. That settles it. This cable itself is the antenna, and the transmitter-receiver circuitry is built into the USB terminal.”
+
+
+                        Akari placed the computer on her desk. “When you plug this USB cable into a computer, D-Fi’s audio drivers are automatically installed,” she said.
+
+
+                        “Plug and play, eh?” said Daryl.
+
+
+                        “Except what gets installed is the space tether base station software.”
+
+
+                        As Akari explained, once resident in the system, the D-Fi drivers sent the space tether telemetry received via the USB cable antenna to servers scattered around the world. When they received orbital-maneuver commands in fragmentary form from those same servers, they transmitted them back into orbit. Genuine drivers from approved manufacturers ran on PCs with administrative privileges, so security software did nothing to stop this.
+
+
+                        Bruce went to the kitchen and started making some coffee. “Akari’s explanation came as a surprise,” he said. “They manufactured their own hit product just to install a Trojan … That’s something the CIA should put in their textbooks. We ought to have Akari come lecture on it, too.”
+
+
+                        He returned with several cups of espresso and lined them up on the table. “Let’s take a breather,” he said. “Not much point in being in Seattle if we’re going to drink coffee from a machine, but once this is all over we can go out to celebrate at the original Starbucks at First and Pike.”
+
+
+                        “I saw that yesterday,” Kazumi said. “With the brown logo, right?”
+
+
+                        “Nope,” Bruce said. “The real one’s farther in. Tastes the same, though,” he added with a wink.
+
+
+                        “Bruce, you have work to do,” said Chris. “Raise a research request for information related to this D-Fi place.”
+
+
+                        “Already done,” Bruce said. “Fast service back at headquarters, day or night.” He took his seat and touched his mustache to his espresso cup. “These cables were made by an assembly company in Singapore called Falang. Three years ago, it started buying up smartphone boards by the thousand. Tens of thousands in all. And do you think they ever shipped a single handset?”
+
+
+                        Daryl took a break from his work and sat down at the table, coffee in hand. “So they were actually making space tethers,” he said. “Do you think they knew that?”
+
+
+                        “You’d have to ask them,” Bruce said. “Seems they were also buying up a lot of graphene, which Dr. Jahanshah said would work for the tether component. You have to admire whoever thought that strategy up. Building orbital weapons right out in the open in a civilian facility. Manufacturing costs were probably about a hundred bucks a tether, given five-digit production volumes.”
+
+
+                        Bruce took a sip of his espresso, looking more than satisfied with the taste.
+
+
+                        “One more fun fact,” Bruce said. “The address D-Fi give for their research lab in Portland is a dummy, but they did rent a warehouse on Pier 37 in Seattle. And according to our sources, it’s still piled high with containers returned from Sound Technica.”
+
+
+                        Chris picked up a coffee cup. The resinous scent typical of capsule coffee machines mingled with the fragrance of roses. She took a deep breath. “Did you say that these cables cost $300?” she asked.
+
+
+                        “Please, don’t ask,” Bruce said. “I thought it improved the sound. But it was just a regular USB cable inside. I was imagining it.”
+
+
+                        “I doubt that’s all there was to it.”
+
+
+                        “But the data comes through exactly the same.”
+
+
+                        “That’s right,” Akari pouted. “Only data in standard USB audio formats comes through.”
+
+
+                        Chris picked up the cable and squeezed it in one hand. The scent of roses grew stronger.
+
+
+                        “Perfume,” she said. “Probably essential oils in microcapsules designed to melt slowly from the heat. Our sense of hearing is surprisingly malleable. If a gullible audiophile comes home bursting with expectation after spending $300 on one of these, they aren’t going to hear the same thing as the day before. A little perfume helps make an impression. I’m not surprised these things were popular.”
+
+
+                        Chris tossed the cable aside and reached for her coffee cup again.
+
+
+                        Presumably the perfume idea had been Shiraishi’s, just like the strategy of making a hit product to spread the Trojan. Neither would occur to the average thinker. But by weaving together scraps of information, this team would uncover all of his schemes. This was intelligence work in its ideal form.
+
+
+                        Perhaps taking a cue from the report Bruce had sent in, headquarters had dubbed them “Team Seattle” and recognized them as an official CIA base of operations. They had even arranged to have all of the communications between the space tethers and the base stations bounced to Akari’s cluster of Raspberry Pis. The movement of the space tethers would now be communicated to Team Seattle in real time. And they knew where the base stations were, too.
+
+
+                        They could win this. Chris was full of confidence. All they had to do now was find that man whose twisted ideas had given the CIA the runaround.
+
+
+                        “Just you wait, Ageha Shiraishi …”
+
+
+                        “Uncle Ageha?” Akari stared at Chris, returning the espresso cup she was holding to the table. She frowned, and her lips quivered.
+
+
+                        Chris realized her mistake. She had revealed too much.
+
+
+                        Akari gritted her teeth and glared at Chris. “Hey,” she said. “Do you think Uncle Ageha did all this?”
+
+
+                        Bruce was glaring at Chris too. Just then, a notification appeared on a monitor.
+
+
+                        China Mobility Wi-Fi activation.
+
+
+Washington - Seattle - Pier 37
+
+
+                        A smartphone using a China Mobility SIM card had connected to one of the honeypots Kazumi and Daryl had planted the previous day. The location matched D-Fi’s warehouse.
+
+
+                        “You’re wrong!” Akari shouted. “There’s no way that’s true!” She dashed out of the room.
+
+
+                        After a moment of surprise, Kazumi ran after her. “Akari!” he cried.
+
+
+                        He was closely followed by Daryl, who said, “Meet you at the car!”
+
+
+                        Once they were out in the hall, Chris heard Kazumi shout “The stairs!” over the heavy sound of the fire doors opening.
+
+
+                        “I blew it,” Chris said, left alone in the room with Bruce.
+
+
+                        “Save it for later, would you?” Bruce said. “I’m going after her too. She’ll be on a bike at best—I can cut her off.” He pulled his Walther PPS from his ankle holster and checked the loaded chamber indicator on the slide before wedging the weapon into his belt at the small of his back. “I’ll need more than this peashooter. Better make a stop along the way.”
+
+
+                        “Where?”
+
+
+                        “The coast guard just beyond Pier 37. We need M4s and ammunition. I’ll also be borrowing someone with on-the-ground army experience, so please make the necessary preparations.”
+
+
+
+
+
+
+
+
+
+
+Wed, 16 Dec 2020, 11:02 -0800 (2020-12-11T19:02 GMT)
+
+
+Pier 37 Warehouse, Seattle
+
+
+
+
+                        Chance snapped the SIM card free of its credit card–sized plastic frame and handed it to Shiraishi.
+
+
+                        “Change yours, too,” she said.
+
+
+                        “It’s only Wednesday,” Shiraishi replied.
+
+
+                        “Lot of network access last week. Today’s the move, too—perfect timing. We’ll burn the old one here.”
+
+
+                        Chance pointed at the zinc box in the corner of the room, a so-called incineration box. It contained a powdered mixture of iron oxide and aluminum along with some thermite, designed to burn at a high temperature. They would use gasoline on the warehouse itself, but anything they wanted to eliminate completely would go into the box.
+
+
+                        Shiraishi changed his SIM card and entered the numbers Chance read out. As the SIM activated, the “No service” message was replaced by a 4G signal indicator and a Wi-Fi connection was established.
+
+
+                        “Huh?” he said.
+
+
+                        Wi-Fi? Shiraishi checked the log in the notifications center. The device was connected to a hotspot run by “China Mobilility Services.”
+
+
+                        “Hey, show me your phone,” he said.
+
+
+                        Chance’s smartphone was connected to the same hotspot as his. Shiraishi pulled the torn-up card out of the incineration box and turned it over. “China Mobility Services” was on the list of free Wi-Fi spots that the card would connect to automatically. But why would China Mobility offer Wi-Fi service in Seattle?
+
+
+                        Shiraishi brought up a UNIX terminal and checked the network they were connected to. It was running from a Raspberry Pi device, a seventy-dollar kit computer. No one would offer commercial service through something like that.
+
+
+                        They’d been set up.
+
+
+                        “Turn off Wi-Fi,” he said.
+
+
+                        “What’s wrong?” Chance said
+
+
+                        “Someone set a trap for us. They know we’re here now.”
+
+
+                        Chance looked up from her smartphone, frowning.
+
+
+                        Shiraishi explained that one of the services their roaming cards were designed to connect to upon activation was being spoofed.
+
+
+                        “NORAD … ? No, they couldn’t pull off something like this. The CIA?”
+
+
+                        “I don’t know. Although I wouldn’t expect the CIA to use a cheap gadget like a Raspberry Pi.”
+
+
+                        Chance opened her right hand and gazed down at it. “Can the mission still be salvaged, I wonder?”
+
+
+                        She took hold of her little finger and wrenched the resin cover off. Then she repeated the operation for her ring finger. In the places where her flesh had been ground away, the bones of her fingers showed palely through the thin layer of skin that clung to them.
+
+
+                        “Let me just say this,” she said, producing an oddly shaped pistol from her handbag. Her bone-thin fingers fit snugly into the custom-molded resin grip. A quick motion of her other hand saw the magazine slide partway out. Chance checked it, pushed it back into place, and then pulled the slide. The first round was in the chamber. A bright-red beam of light stretched from underneath the barrel into the room. Chance shone the laser sight onto Shiraishi’s chest.
+
+
+                        “I will protect you right down to the wire,” she said. “But if you are about to fall into the hands of the US government, I will not hesitate.”
+
+
+                        Chance crammed the smooth pistol, now merged with her right hand, into her coat pocket. “You follow my orders.”
+
+
+                        Shiraishi nodded.
+
+
+                        Chance reached into her bag again and pulled out a few passports, then tossed the bag into the incineration box. She turned as if remembering something. “Did you finish preparing for the Cloud handover?”
+
+
+                        “Not yet. I need until tomorrow.”
+
+
+                        Give up control of the Cloud in a situation like this? If he did that, this woman would kill him without blinking, long before he was “about to fall into the hands of the US government.” Right now, his only choice was to do exactly what she told him to.
+
+
+
+
+
+
+
+
+
+
+Wed, 16 Dec 2020, 13:03 -0700 (2020-12-16T20:03 GMT)
+
+
+Rocky Mountain Airspace
+
+
+
+
+                        The roar that rattled Ricky’s transparent helmet came in through the headset that was supposed to be soundproofed and hit his ears like thunder. Orders from Control came thick and fast.
+
+
+                        “Shooting Star, go to maximum thrust.”
+
+
+                        “Roger,” Ricky said.
+
+
+                        Carefully but promptly, Ricky pushed the throttle forward. Through the thick gloves of his pressure suit, he felt the faint click that told him where to stop. Pushing the throttle farther than this would engage the afterburner and leave him short of fuel before the mission was over. The trembling F-15 didn’t move an inch. It was still bound to the runway by its own brakes and wires.
+
+
+                        “Maximum thrust confirmed,” Ricky said.
+
+
+                        “Go!”
+
+
+                        A slight jolt. The wires had been cut with incendiary charges. The thrust of the F-15 slammed Ricky’s back against the ejector seat. In anticipation of recoil throwing him forward, Ricky tried to push back with his feet planted firmly on the floor, but the seat just kept on pressing into his back.
+
+
+                        The view from the canopy flew past with terrifying speed. Passing the four hundred–foot marker, Ricky pulled lightly at the control stick. The vibration transmitted up from the ground vanished. He was airborne. But he could not raise the fighter’s nose. He had to pass Mach 0.6 horizontally first. That was the liftoff protocol for challenging the altitude record.
+
+
+                        The headrest pressed against his head. His eyeballs wouldn’t stay in place. Ricky let out an internal whoop of joy. The power of the F-15!
+
+
+                        The custom airspeed indicator recorded Mach 0.65. A green LED lit up.
+
+
+                        Ricky slowly pulled the control stick toward him. The plan was for him to perform half an inside loop at 2.5 G and then go straight up to thirty thousand feet. The mountain range at the edge of his vision shrank suddenly, and he saw the sky ahead of him. “Above” and “below” swapped places in an instant.
+
+
+                        He saw the ground above his head. Returning the control stick to the center, he slowly pushed it to the left to roll once, completing an irregular Immelmann turn. He was gradually getting used to the feel of the pressure suit’s gloves.
+
+
+                        “Altitude thirty thousand feet, heading west,” Ricky said, using pedal and control stick to turn the fighter’s nose westward. He saw a pitch-black shadow to the right of the fighter. It was Madu’s F-22. She was maintaining her relative position precisely, the underside of her plane with its observation pod visible.
+
+
+                        “Mission leader, do you copy?” came her voice over the radio. “Looked pretty good there, Ricky.”
+
+
+                        “This is Control,” crackled the radio next. “Thanks to Madu, we’ll be putting our feet up and watching the show from here on out. Go for it.”
+
+
+                        Ricky turned his head from side to side, taking in the white-capped Rockies at the foot of the blue sky. The transparent helmet offered a fantastic panorama. But he wasn’t entirely happy with his high-altitude pressure suit.
+
+
+                        “Control, I’m freezing up here!” he yelled into the mic. “My fingers are going numb.” The suit’s heater wasn’t switching on. The AC unit had been removed from the cockpit, too. He didn’t want to think what the temperature must be.
+
+
+                        “This is Gehner. The heater is active. Go ahead and adjust its output. Over.”
+
+
+                        “I can do that? Where?”
+
+
+                        “Behind your head. Oh, you can’t reach?”
+
+
+                        Ricky groaned. What idiot had designed this suit? Now that the pressure in the cockpit had dropped, the suit was so overinflated he could hardly bend his arms.
+
+
+                        “AC malfunction? Sounds rough.” Madu’s cool tones came through clearly.
+
+
+                        “Can it. Hey, what am I supposed to do?”
+
+
+                        “We value your feedback,” Control said drily. “Expect improvements in future.”
+
+
+                        Sure—they weren’t the ones getting flash frozen. Confirming that the autopilot was on, Ricky pulled his digits in from the fingers of his inflated glove. He made a fist to let the blood flow through them. Okay. That should do it.
+
+
+                        “Mission Leader, do you see the ISS straight ahead?” asked Control.
+
+
+                        “The space station? Hold on. I see something like a dot …” Ricky squinted. There, in the dark-blue sky, was a sharp point of shining light. “That’s it! Visible to the naked eye, huh?”
+
+
+                        According to what he’d picked up at the briefing, the ISS’s orbital altitude was 1.3 million feet. That made it the farthest man-made object Ricky had ever seen unaided. Even at the F-15’s operational altitude, the horizon was only 150 miles—a million feet—away, and you couldn’t see an aircraft at that distance with the naked eye anyway. The atmosphere was too thick; it misted up the view.
+
+
+                        “You didn’t know?” Control said. “In the evening you can even see it from the ground. There’s six people on that thing. As we get higher, the orbital hotel will enter our field of view. Judy and Ronnie Smark are on board that one.”
+
+
+                        Ricky squinted at the ISS. He knew that it should have two great solar panels spread wide, but it was so far away that all he could see was a dot. He was finally getting an intuitive grasp of their mission.
+
+
+                        “Ten seconds left till seventy-degree climb,” came the voice from Control. “Ready afterburner.”
+
+
+                        “Good luck,” came Madu’s cool voice again. She needed no such words of encouragement herself. She was flying the latest fighter model, with supercruise capabilities that let it break the sound barrier without any afterburner at all.
+
+
+                        “Readying afterburner,” Ricky said. With his left hand, he pulled the throttle back half an inch, then carefully began to push it forward again. He was waiting to feel the click through the pressure suit’s thick glove that signaled military power, maximum thrust without afterburner. This would be his second ignition, the first one coming when he had broken the sound barrier. From here they would climb straight up to an altitude of seventy thousand feet.
+
+
+                        “How much colder is it gonna get?” Ricky felt the faint click from the throttle. His hand stopped.
+
+
+                        “You’re a mammal,” said Control. “Generate your own heat. And—go!”
+
+
+                        “Engaging afterburner,” Ricky said. He pushed the throttle forward as far as it would go. An instant later, the fighter shook violently. Jet fuel was injected into the nozzles burning at high temperature.
+
+
+                        “Acceleration as expected,” said Control. “Don’t black out now. Begin climb.”
+
+
+                        Ricky put his warmed-up fingers back into the fingers of his glove, switched autopilot off, and pulled the control stick toward him. In a more contemporary aircraft like the F-22 flying alongside him, the tail assembly vibrating like a bee’s wings would cancel out the shaking of his hand, but this model from the nineties was sensitivity itself.
+
+
+                        Pitch-black sky spread out before his eyes. There was hardly any atmosphere above him. This was space.
+
+
+                        “Target coming from below, twelve o’clock. Mission Leader, you see the stars?”
+
+
+                        “Nope. The target’s below?”
+
+
+                        Ricky carefully moved his head to the side and peered down through the gap in the instrument panel. Right about where pitch-black became tinged with blue, he saw two white dots that looked the same as the ISS. The objective.
+
+
+                        “I see them. The hotel and the Rod from God. Both moving pretty fast, aren’t they?” The two dots rose higher as he watched.
+
+
+                        And then Ricky saw something impossible. He put his finger under a corner of the ultraviolet visor and peeled off the film. There in the pitch-black sky, which had been clear just a moment ago, was a faint strand of cloud.
+
+
+                        “Hey,” he said. “What’s that? Control, do you copy?”
+
+
+                        “What is it?
+
+
+                        “The Rod from God’s wrapped up in a cloud.”
+
+
+                        “Clouds don’t drift out of the atmosphere, Mission Leader.”
+
+
+                        “I see it too,” came Madu’s voice. “Really does look like a cloud.”
+
+
+                        “Observation craft, can you get it on camera?”
+
+
+                        Were they crazy? The two of them were climbing at Mach 2. The observation pod on the belly of the F-22 could only film what was under the fighter.
+
+
+                        “I’ll give it a try.”
+
+
+                        What was she doing? This was the stratosphere. She’d lose velocity. But before Ricky could object, the black shadow beside him began to move. Madu’s F-22 had pulled up farther and was losing airspeed rapidly. Twisting his head to see behind him, Ricky caught a glimpse of the F-22 with its belly pointed in the direction they were traveling. The woman was executing a Cobra, on a real mission, at this incredible altitude.
+
+
+                        Ricky focused his nerves on his control stick and maintained his course straight ahead. At some point the altimeter had reached 75,000 feet. This was the highest altitude a standard F-15 had ever reached. But the number didn’t even register for Ricky. The faint cloud of light around the Rod from God was connected all the way to the Wyvern Orbital Hotel in a tattered string of glittering fragments. What the heck was it?
+
+
+                        “This is Control. Madu, we see it. A cloud. An orbital cloud!”
+
+
+                        “Watch this!” Ricky shouted into the mic. “Launching!”
+
+
+                        There was a faint jolt as something kicked into Ricky’s back. Unburdening itself of the ASM-140’s weight had allowed the F-15 to accelerate farther. A moment later, the F-15 was illuminated from straight below by a brilliant flash of light.
+
+
+                        Ignition.
+
+
+                        The newly independent ASM-140 flew off through the pitch-black sky in a straight line, trailing smoke behind it.
+
+
+                        Ricky watched the smoke stretch out like a living thing. At the edge of his field of vision, the altimeter showed eighty thousand feet.
+
+
+
+
+
+
+
+
+
+
+Wed, 16 Dec 2020, 12:08 -0800 (2020-12-16T20:08 GMT)
+
+
+Western Days Hotel
+
+
+
+
+                        Alone in the room, Chris watched the video projected on the whiteboard, sent direct from the Operation Seed Pod control center at NORAD’s Oregon site. The ASM-140’s first stage had just disengaged, and the second stage was beginning its acceleration.
+
+
+                        In geographical terms, the two pilots had flown over the Rockies and were now directly above the West Coast region and its swirling blizzard. Chris craned her neck and cast a glance at the display on the table, which showed two dots moving on a map of Seattle. One was Daryl and Kazumi, while the other was Bruce, who was trying to cut Akari off. Would they catch her? Alaskan Way, the road that ran along the waterfront directly to the piers, was closed due to the blizzard, but that was the route Akari would probably take on her mountain bike.
+
+
+                        Who had activated the new China Mobility SIM card in Pier 37—Shiraishi himself, or another operative based in Seattle? If Shiraishi was there in person, he had to have some kind of observer or guard with him. They would be armed. And there was no guarantee that their weapons would be limited to what the law permitted.
+
+
+                        “Talk about bad timing.” Chris moved her chair so that she could see the map and the Oregon operations center together. There was movement in the image on the whiteboard.
+
+
+                        “Second stage disengaged. Visual contact made with objective.”
+
+
+                        The Oregon staff cheered, and a new image source was added. It was the feed from the ASM-140’s warhead camera, currently showing two dots in a pitch-black field. SAFIR 3 and the Wyvern Orbital Hotel. The space between the two dots widened. The dot at the center of the screen gradually grew larger. As it became visible as a three-dimensional body, an uncertain voice came from the Oregon video.
+
+
+                        “Hey … is that right? A satellite? Looks like a wreck to me.” The screen showed a battered metallic mass.
+
+
+                        Chris breathed a sigh of relief at the knowledge that Team Seattle’s prediction had been correct. This was no Rod from God. It was just the wreck of a rocket, kicked across the sky by a swarm of space tethers. Operation Seed Pod was a failure. An overgrown bottle rocket, come all this way just to bathe a hunk of scrap iron in electromagnetic rays and ventilate it with a barrage of depleted uranium pellets.
+
+
+                        The voice of Colonel Daniel Waabboy, operational commander at Peterson Air Force Base, came over the video. “Stop grumbling,” he said. “Mission proceeds.”
+
+
+                        Chris thought back on the Operation Seed Pod orders. The ASM-140’s armaments all fired automatically. All that could be done from the surface was to stop them. Once the warhead was within five kilometers, it first used its electronic armament Blackout to burn out the electrical equipment on board the target satellite with powerful microwaves. It was only expected to be effective against civilian equipment, but it should work just fine on any sensors, cameras, or antenna protruding from a satellite. Just to be safe, the nearby orbital hotel had been asked to temporarily shut down all its electrical equipment.
+
+
+                        “Roger. Blackout firing … What was that?”
+
+
+                        The image from the camera was just a white screen. Chris blinked. The image flashed between white and black. For a moment, she saw a blue surface at an angle.
+
+
+                        “Commander! The ASM warhead is revolving!”
+
+
+                        At that moment, in the image being sent by the warhead camera, a number of bright-red lines raced across the black screen. Sounds of chaos rose from the ASM’s Oregon control center.
+
+
+                        Chris gritted her teeth. She needed Kazumi and Daryl here. The video was being recorded. She would have to ask their thoughts on the revolving and the red lines later.
+
+
+                        “The orbital hotel … Oh no!”
+
+
+                        “What happened? Make your report!”
+
+
+                        “The microwaves from the spinning Blackout have passed through the orbital hotel.”
+
+
+                        “What did you say?!”
+
+
+                        Chris felt as if the blood were draining from her body. The orbital hotel, with Ronnie and Judy Smark aboard, had received a dose of microwave radiation strong enough to fry sensors. They didn’t know yet if any damage had been done. But it couldn’t have escaped unscathed. The orbital hotel was a civilian structure with no reason to be shielded against electromagnetic warfare.
+
+
+                        The vacuum of space … On the orbital hotel, life support was left entirely to the computers. Even a small amount of damage could have serious implications for the people on board.
+
+
+                        Chris heard Waabboy’s voice again. “Abort! Stop all armaments! What’s the meaning of this? Why is the damn warhead spinning?”
+
+
+                        Suddenly, Chris realized what was behind the spin. One of the space tethers clustered densely around SAFIR 3 had given the ASM-140 warhead a kick. Chris recalled Shiraishi’s sneering photograph.
+
+
+                        “He’s a demon,” she muttered, glaring at the video from the ASM-140 warhead. It was still flashing black and white. She had expected Operation Seed Pod to be a waste of time but had never imagined that it might actually damage the orbital hotel. One way or another, they had to stop this. Should she tell Oregon, or perhaps Waabboy, why Operation Seed Pod had failed? No, that would be pointless. Giving them the background at this stage wouldn’t improve the situation.
+
+
+                        Chris shook off her uncertainty and reviewed the cards in her hand. They had confirmed the existence of space tethers floating like a cloud in orbit. All transmissions to and from the base stations were being sent to the mountain of handmade computers Akari had thrown together. And they had located the mastermind behind it all.
+
+
+                        Not too bad!
+
+
+                        With the superior brains and bottomless motivation this team had, they were sure to come up with a way to stop the space tethers. Yet another reason why she absolutely needed Akari, Bruce, and Daryl to return safely.
+
+
+                        Chris glanced at the map. Daryl’s Chevy was stopped in the middle of the market. The snow. The dot indicating Bruce’s Mustang was tearing down Alaskan Way at breakneck speed.
+
+
+
+
+
+
+
+
+
+
+2020-12-16T21:00 GMT
+
+
+Project Wyvern
+
+
+
+
+                        It wasn’t on the schedule, but today we had a disaster-preparedness drill. Let me tell you all about it.
+
+
+                        The Wyvern Orbital Hotel is designed so that your routine is as close to an earthbound one as possible, but there’s one thing that’s completely different: the types of disasters that might happen here.
+
+
+                        There’ll never be an earthquake in orbit, or lightning, or torrential rains, or a hurricane or cyclone. What there is instead is equipment failure, collisions with debris, and bursts of solar wind. (Equipment failure could happen on Earth too, but in orbit it could be fatal.)
+
+
+                        Today, we turned off almost all the power in the Wyvern to perform a blackout test. Broadly speaking, the Wyvern has seven electrical systems. Power is generated by two fuel cells and a solar panel array, and stored in five separate batteries.
+
+
+                        Today’s test cut everything but the light support battery, simulating what would happen in case of an equipment malfunction
+
+
+                        Judy stopped typing on the laptop held to her lap by Velcro and pressed her palm to the display. Her skin, illuminated only by earthlight through the oval window, looked like a sculpture trapped in solid ice. The light was slightly dappled from the condensation on the cupola window.
+
+
+                        Judy closed her laptop and peeled it off her lap. Once the ripping sound had faded away, the only noise was her father, Ronnie Smark, grunting one side of a conversation into his headset. He was floating free and ramrod straight in the middle of the room. During the forty-five minute “night” when the sun was blocked by the Earth, the water in their walls quickly chilled. Floating in midair like that was the best way to stay warm.
+
+
+                        Ronnie raised his hand to his ear and switched the headset off. He arched his back like a cat and waved his arms to turn his body toward her, still clinging to the window frame.
+
+
+                        “It’s always something,” he said. “We’re just lucky there aren’t guests on board yet.”
+
+
+                        His breath came out in puffs of white. The temperature was just above freezing. Information from the CIA suggested that their air conditioning had stopped as a result of an accident during a USNORTHCOM operation called Operation Seed Pod. Countless other electrical devices had died too, including every one exposed on the exterior of the hotel and half the solar batteries. All that had survived had been the orbital maneuvering system, powerfully shielded against the possibility of solar bursts, and the core life-support functionality.
+
+
+                        “More bad news?” asked Judy.
+
+
+                        Ronnie bent forward and attached the strap that extended from his belt to a hook on the wall. This was the spider monkey technique, one of the many methods for relaxing in the hotel’s microgravity that they had been testing.
+
+
+                        “Nothing serious,” Ronnie said. “Just our life expectancy. As things stand, apparently we have two weeks.”
+
+
+                        Judy clenched her fists.
+
+
+                        “One more thing,” Ronnie added. “Apparently some dangerous craft are flying around in low orbit. Let’s change into our space suits, just in case.”
+
+
+                        Ronnie glanced at a container in the corner of the room and winked. “Hopefully we won’t have to ruin our first space walk experiments,” he said.
+
+
+                        “I wouldn’t mind. At least it’d slim me down,” Judy said.
+
+
+                        One of the hidden innovations of Project Wyvern was a pressure suit that didn’t use air pressure. Instead, the person inside was wrapped in countless belts containing tubes of water, the result adding up to one standard atmosphere of pressure. This “strap suit” had been tested countless times in chambers on Earth but had never actually been used in space. Either way, if there was an accident in orbit causing a hull breach, they would die from lack of oxygen before help arrived. The strap suit, designed for emergency evacuation, was nothing more than a temporary comfort.
+
+
+                        “A space walk would be exciting, too.”
+
+
+                        “Spare me the bravado,” Ronnie said. “Faking good cheer makes you hungry. Losing our microwave ovens—that hurt. Our molecular gastronomy packs aren’t any good if they thaw out on their own. What are we going to do?”
+
+
+                        A ringtone that sounded like a pigeon’s coo came from Ronnie’s thigh. Judy remembered that ringtone. Whenever Ronnie heard it, he would throw whatever he was doing aside and tear out of the house, headed for his warehouse office. That had been fifteen years ago, when Ronne had been just another entrepreneur.
+
+
+                        “Hotmail?” Judy asked. “You still have that account?”
+
+
+                        “It’s a handy way for old friends to reach me,” Ronnie said.
+
+
+                        He reached into the thigh pocket of his overalls, reciting names from his start-up days: Ethan, Farrell, Mike … Judy remembered the faces of at least half of them.
+
+
+                        “Unbelievable. Can’t you think of a better way to keep in touch?”
+
+
+                        “For some reason, it’s hard to give it up,” Ronnie said. “Hey, it’s Ozzy. Remember him?”
+
+
+                        “Mr. Cunningham, the landlord? Based in Seychelles now, right?”
+
+
+                        Ronnie stroked his smartphone. “He’s living like a hermit on an uninhabited island he converted to an observation base,” Ronnie said. “Huh, so he was the one who made up this Rod from God thing. Well, he would.”
+
+
+                        Ronnie laughed, no doubt picturing the world in a panic over Ozzy’s tall tale.
+
+
+                        “And what does he have to say now?”
+
+
+                        “Hold on. The guy’s not known for his brevity,” Ronnie said, attaching the strap that extended from the wall to a loop on his belt and floating lightly in the air. He curled up and stared at his smartphone. Apparently what Ozzy had to say was of great interest. After a while, he finally looked up.
+
+
+                        “You’ll like this, Judy,” he said. “Go ahead and read it.”
+
+
+                        He pushed his smartphone with his finger and sent it sailing toward Judy’s chest without any spin. After getting comfortable in microgravity, the two of them had spent the past two days competing to see who could handle the center of gravity in small objects more accurately.
+
+
+                        Judy allowed the smartphone’s mass to come to rest against her gently yielding index finger, then spun it around and pressed it against her palm. One set of phrases leaped out at her immediately from the avalanche of text.
+
+
+                        Tether-propulsion system. Space tether. Really?
+
+
+                        “Like father, like daughter,” Ronnie said.
+
+
+                        “What do you mean?” Judy asked.
+
+
+                        “You’re smiling,” Ronnie said. “Just after being told you have two weeks to live.”
+
+
+                        “But isn’t this amazing? A tether-propulsion system. Really in use. Who should we go to to talk about it? This Kazumi guy? Let’s invest in it!”
+
+
+                        “I knew you’d say that. But apparently he doesn’t have a company for tether propulsion.”
+
+
+                        “We can figure something out, can’t we? I thought you were Ronnie Smark!”
+
+
+                        Ronnie doubled over with laughter. “You’re right,” he said. “Let’s get right on it.”
+
+
+                        “It’ll be a development company, so we’ll start up as an LLC. Okay? Next we have to decide on a DBA and business address so that we can obtain an EIN …”
+
+
+                        “It takes two weeks to register an EIN.”
+
+
+                        “Let’s ask Ozzy to take care of the rest. He may be fat, but he’s a start-up pro, right?”
+
+
+                        “He’s in Seychelles now.”
+
+
+                        “Who cares where he is?”
+
+
+                        Judy kicked the wall and flew across to the oval window that faced up toward Earth. She wiped off the condensation. “We can still get people working on things,” she said. “If this becomes the next big step for space exploration, how great would that be? Can I call a board meeting to get approval for investment from Project Wyvern?”
+
+
+                        “Why would we want to do that when I can just invest from my personal funds?”

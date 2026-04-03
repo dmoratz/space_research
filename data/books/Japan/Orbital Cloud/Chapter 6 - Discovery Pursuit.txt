@@ -1,0 +1,888 @@
+6 Discovery/Pursuit
+
+
+
+
+                        Mon, 14 Dec 2020, 15:23 +0900 (2020-12-14T06:23 GMT)
+
+
+The Nippon Grand Hotel, Iidabashi, Tokyo
+
+
+
+
+                        As Kazumi sank into the soft leather of an immaculate sofa, Kurosaki tipped the sofa facing it back at an angle and ran his hand along the bottom.
+
+
+                        Sekiguchi smiled as he watched from the built-in bar counter. “I told you already,” he said. “There’s no need to get all paranoid. This hotel is used by Chinese officials too. So please forget the couches and tell me what you want to drink.”
+
+
+                        Sekiguchi ducked beneath the counter, made of a single slab of natural green stone. The wall behind him was lined with crystal glass brandy bottles. The wood of the shelf showed a complex grain.
+
+
+                        Akari sank hip deep into the same sofa as Kazumi and swept her gaze around the room curiously. Of the four of them, only Sekiguchi seemed accustomed to the sophisticated decor.
+
+
+                        “Will cola do?” he asked them, placing a plastic bottle moist with condensation on the counter.
+
+
+                        They were at a luxury accommodation called the Nippon Grand Hotel, right near Tokyo’s Iidabashi Station. After hailing a cab from Fool’s Launchpad and riding it in circles all over the downtown core to lose their tail, they had had the driver bring the car up beside the entrance to a secret elevator in the semi-underground employee parking lot before being escorted up to this windowless suite.
+
+
+                        For the first time, Kazumi understood the true meaning of the expression “nothing but the clothes on their backs.” He’d managed to bring the laptop he’d been using in the meeting room but had left behind the bag he kept his writing implements in, and Akari had had to rush off without the cart loaded with her larger luggage.
+
+
+                        “Who’s paranoid? I bet spies stay here all the time,” said Kurosaki, righting the sofa irritably but softly so as not to scratch it and sitting down on the carpet.
+
+
+                        “I’m telling you it’s fine. There are probably bugs in here, but there’s no way amateurs like us will find them,” said Sekiguchi with a smile as he poured the cola evenly into four mugs. “Our top priority right now is to protect these two from North Korean agents, right? And since this place is basically a safe haven used by Chinese government agencies, there’s simply no chance Northern agents are going to sneak in here undetected.”
+
+
+                        Sekiguchi’s point sounded plausible enough, Kazumi thought, but surely Japan had its own intelligence agencies. Kurosaki seemed to be one step ahead of him, saying, “Sure, but why on earth do we have to seek refuge with China? Didn’t you say earlier that you were going to call someone you knew at the National Security Council?”
+
+
+                        Inside the taxi, Sekiguchi had explained to Kazumi and Akari that he was a career bureaucrat on temporary assignment to JAXA as of the beginning of the year.
+
+
+                        “I did. This is where he said to go.”
+
+
+                        “What?! A Japanese spy told you to use a Chinese safe house?” Kurosaki let his shoulders sag as his gaze paused on something atop the coffee table between the matching couches: an ashtray. Seeing the troubled look in his eyes, Kazumi and Akari both told him to go ahead. Kurosaki got up from the floor and started to reach for his breast pocket but then sighed, seeming to change his mind, and sat on one of the couches. “Thanks, but I’ll light up in my bedroom later,” he said. “Just knowing I can have a smoke if I want one is good enough for now.”
+
+
+                        Sekiguchi placed the mugs of cola on a silver-colored tray and brought it to the table. “Let’s just have a breather here for a moment,” he said. “Once we’ve calmed down a bit, we can contact each of the agencies. I’m going to get in touch with our superiors at JAXA. Oh—Kimura-san, Numata-san, please don’t use the hotel Wi-Fi.”
+
+
+                        There was no need to give any information away to China for free, he explained, recommending that they use their cell networks instead. There might be no way to know how far North Korean intelligence operations had penetrated, but Japan’s information infrastructure was likely safe. Akari nodded, apparently convinced, which told Kazumi he could probably trust the logic behind Sekiguchi’s risk assessment.
+
+
+                        “Kurosaki-san,” Sekiguchi continued, “as I requested earlier, I’d appreciate if you could inform some foreign space agencies about Kimura-san’s report and current situation if that’s possible. Please try to find somewhere that will provide protection for these two.”
+
+
+                        “How about NASA? I can contact high-level officials there.”
+
+
+                        “America would be great. But it might take a bit too much time …” NASA, it seemed, was not an organization particularly well suited to dealing with messes like the one they were in.
+
+
+                        Sekiguchi scratched his chin. Kurosaki took out his smartphone and squinted at his list of contacts.
+
+
+                        Kazumi thought back on the small number of communications he’d had with government officials. The UN manager he’d exchanged emails with when posting the Debris Catalog data worked at the lowest rung of his organization. Not useful at all in the present case. Then there was the man he’d contacted at USSTRATCOM when asking them to disclose the TLEs … The email address had belonged to a high-ranking officer, but the body had just been a template response. Kazumi doubted the guy even remembered who he was.
+
+
+                        Then he remembered another organization. Also American military. Kazumi had never contacted them personally, but he expected JAXA would have some connections. “How about NORAD?”
+
+
+                        “Ah. I know someone there,” said Kurosaki. “I can contact Colonel Lintz in Orbital Surveillance. We’ve already exchanged PGP keys, so I can send him encrypted emails. How’s that sound?” He looked toward Sekiguchi.
+
+
+                        “Sounds good,” said Sekiguchi. “No less than I’d expect from the head of international cooperation.”
+
+
+                        Kurosaki smiled wryly. He seemed to be wondering which one of them was in charge. For his part, Kazumi appreciated the way Sekiguchi had taken the reins to keep them on track. Fleeing Fool’s Launchpad, Sekiguchi had seemed like a different person. Now he was back to his cheerful self again, but he continued to lead them as though savoring the unusual situation they found themselves in. By calling the shots decisively, Sekiguchi prevented the other members from succumbing to anxiety. Though he and Kazumi were around the same age, Kazumi saw this confident side of Sekiguchi and found himself beginning to look up to him.
+
+
+                        Sekiguchi inserted his index finger into the knot of his necktie and pulled it off in one tug. “All right, let’s take a break and maybe have a little chat for a while. I know we’ll probably start to worry about everything if we don’t keep ourselves busy, but it’s not over yet, and we won’t hold up if we don’t rest.”
+
+
+                        Kazumi picked up his glass of fizzing cola and took a sip. He tasted nothing. As though in reaction to the cold liquid, a chill ran from his thighs up his spine. Kazumi began to wonder what he was doing in this luxury hotel. According to Sekiguchi, the agent at Fool’s Launchpad had likely located Kazumi by calling Mary and had been trying to take a picture of him. He had also asked for his address and cell phone number. If Kurosaki and the others hadn’t been visiting, he would’ve been photographed and then—kidnapped?
+
+
+                        Kazumi trembled. It wasn’t even 4:00 p.m. yet. Kurosaki and Sekiguchi had stopped by just after noon, but already they were in a suite used by Chinese spies. It was just as Sekiguchi had said. They were still in the thick of it.
+
+
+                        Kazumi found himself staring at the floor. Looking up, he noticed a relief of two female gods adorning the wall below where a clock hung. Their legs were slender like snakes and intertwined with each other like the strands of a rope. One of them held up a square ruler, while the other had a scale dangling from her hand. The relief had been carved out of some sort of pottery that looked like hardened sand, but the ruler and scale were made out of metal.
+
+
+                        “What’s that?” Kazumi asked.
+
+
+                        Sekiguchi, who was loosening the buttons on his shirt, glanced at it and said, “Looks like Fuxi. One of China’s first emperors … More like a god, really. That scale is strange. Usually they should have a compass and a ruler.”
+
+
+                        Kazumi approached the wall and touched one of the pans of the scale, making the chain held in the god-emperor’s hand shake and the other pan sway. Looking at the seesawing beam of the scale, Kazumi remembered the space tether. Constructed of two devices tethered together, this spacecraft revolved in orbit like a pair of dancers holding hands and could move around freely without using any propellant. Most likely North Korea was behind it, but what was the purpose of having so many of them floating around near SAFIR 3? The tethers that collided with it were scattered in all directions and lost forever. Was this just a demonstration of what North Korea was capable of or a rehearsal for terrorism? An uneasy feeling rose in Kazumi’s chest.
+
+
+                        What a waste, he thought. Jamshed’s space tether could be put to much more practical use. His design had been painstakingly tested through the crude method of sending up balloons in Tehran, where both funding and research facilities had to be sorely lacking. It didn’t seem right that it would be used as a tool for anything to do with terrorism. To Kazumi, its potential seemed so much greater than that.
+
+
+                        Sticking out his index finger, Kazumi raised it in front of his face and stopped it in the spot where it overlapped in his visual field with the center of the scale’s beam held up by the emperor. He imagined the two pans as the devices on each side of the tether and rotated them parallel to the ground in his mind’s eye.
+
+
+                        If Ozzy’s observational data was correct, the space tethers would spin at a velocity of one rotation every two seconds. If the radius was 1 km, the velocity of the terminal apparatuses would be 3 km/s. If the tether was long enough or rotating even faster, it might be possible to hurl an object into an even higher orbit. If you adjusted the tether’s velocity of rotation and tied it to a habitation such as Project Wyvern’s space hotel, you could generate an analog of gravity inside the room. Kazumi wondered if there was some way to discuss this possibility with Jamshed, who had surely spent years thinking about the space tether and—
+
+
+                        “What’s he doing? Calculating the time difference or something?” Kurosaki’s voice suddenly broke into Kazumi’s thoughts. Apparently he had been concentrating so hard that the conversation around him had not reached his ears. Looking toward the sofas, he saw Kurosaki pointing at him smiling.
+
+
+                        “Time difference? Sorry about that. I know I was supposed to be taking a break, but I was thinking about the tethers.”
+
+
+                        “Oh. So you can hear what we’re saying down here again, eh? Welcome back to Earth,” said Kurosaki with a laugh. He motioned Kazumi toward one of the empty spots on the couch. “Seeing you concentrating like that reminded me of an old colleague. He wore an expression just like yours when he was calculating time differences. He also helped send up satellites and such.”
+
+
+                        Akari gave him a quizzical look and said, “You don’t by any chance mean Uncle Ageha?”
+
+
+                        “You know Shiraishi?” said Kurosaki, staring at Akari.
+
+
+                        “He’s my uncle. I knew already that he used to work for JAXA.”
+
+
+                        “What a coincidence. Who could have guessed I’d run into his niece in a situation like this? Did you by any chance pick up your computer trade from him?”
+
+
+                        “Yes. He was my mentor,” said Akari, suddenly looking happy, and Kurosaki nodded as though something that had been puzzling him now made sense.
+
+
+                        “I see. Well, that explains your planetarium. That’s just the kind of design I’d expect from a protégé of Shiraishi’s.”
+
+
+                        “If it compiles, it’s correct!” said Akari and Kurosaki at once and then laughed together.
+
+
+                        “What kind of person was he?” Kazumi asked, and Kurosaki narrowed his eyes wistfully.
+
+
+                        “He was an engineer who entered JAXA the same year as me. An astoundingly intelligent character. Numata-san seems to have inherited the same hacker’s mind. But he also loved grappling with urgent problems, and that side of him kind of reminds me of Sekiguchi …”
+
+
+                        “What are you saying? I hate problems!” said Sekiguchi, kicking his legs out onto the footrest in exaggerated denial of the claim.
+
+
+                        “Then get back to Ochanomizu and do some paperwork. Nothing doing, right?”
+
+
+                        “Not going to happen.”
+
+
+                        “See? That’s just what I mean.”
+
+
+                        The suite filled with laughter. When it died down, Kurosaki began to tell them what had happened to Akari’s Uncle Ageha. Shiraishi’s first assignment at JAXA, Kurosaki explained, was an information-satellite project managed by the cabinet. The enormous amount of observational data transmitted from their four groups of reconnaissance satellites was too great for the mere two hundred or so regular workers who staffed the Satellite Intelligence Center to analyze. Meanwhile, the team of bureaucrats in charge handed over responsibility for everything about the satellites, from their design to their operation, to domestic corporations and lacked even rudimentary knowledge about orbital objects. Soon it became clear that they needed someone with expertise in both IT and analysis of the steadily accumulating satellite data to work as a go-between for the engineers and bureaucrats. It was for this job that Shiraishi was specially selected.
+
+
+                        Torn between the demands of the manufacturers who insisted on sticking with the technical specifications in their original work orders, the unrealistic expectations of the analysis team, and the ignorance of the bureaucrats, Shiraishi was constantly instigating squabbles. It was in this context that the minister of space policy, who’d been shown pictures of a spy satellite taken by an amateur astronomer, ordered JAXA to make orbit confidential.
+
+
+                        “He was panicked that North Korea might find our spy sats.”
+
+
+                        “Was he an idiot?” asked Sekiguchi.
+
+
+                        “That’s exactly what Shiraishi called him, right to his face.”
+
+
+                        Military satellite or not, it wasn’t possible to keep objects above a certain size secret in orbit. Kazumi was shocked to hear that such ignorant politicians and bureaucrats were pouring hundreds of billions of yen annually into operating the spy satellites.
+
+
+                        “It’s okay to laugh, Kimura-kun. I happened to be present at one of their meetings, and all the government engineers in attendance were trying not to laugh too.”
+
+
+                        Once Shiraishi was removed from his post, he was banished to a window-gazing position in the “Reserves” and became involved with maintaining JAXA’s IT infrastructure. Apparently, he did a lot of exceptional work there given the circumstances, including facilitating the adoption of smartphones.
+
+
+                        “So that’s why he was suddenly so absorbed in security work,” sighed Akari. “I had no idea.”
+
+
+                        “Today, JAXA spends a third of its budget on those spy satellites. I wonder if those costs will go up yet … Anyways, Japan’s space development isn’t exactly all rosy. Projects in this field take a long time to get off the ground. With most of them, it’s ten years before they even reach the experimental stage, but the Ministry of Science and Education rotates civil servants through different departments every five years, so none of them have the chance to really understand what they’re doing.”
+
+
+                        “I’m sad to say that I’m one of them,” said Sekiguchi. “However much I learn about astronautics, I’m set to be transferred in four years. Then I’ll just move from ministry to ministry for the next twenty years or so, though I might be able to come back someday if no young workers come in to replace our aging workforce.”
+
+
+                        “You’re doing a great job here,” said Kurosaki. “Anyways, to get back to my story, one day, without saying anything to anyone, Shiraishi quit and went to China. I guess the fact that the inductive-tether project he supported hit a snag may have had something to do with it …”
+
+
+                        Kurosaki tried to insert his fingers into his already loosened necktie and then gazed at his fingers gripping empty space. “I’m exhausted. Must be getting old …” He gave a wry smile. “The truth is, it wasn’t just Shiraishi. China got a number of other engineers as well. Thanks to the Tiangong-2 space station, the space industry is booming over there. Japanese engineers are probably highly attractive to China because most of them have become jacks-of-all-trades from working on small teams.”
+
+
+                        “Don’t any of them go off to America?” Kazumi asked.
+
+
+                        “I hate to admit this, but us government engineers aren’t seen as valuable over there … or maybe that’s just our perception. We probably see it that way because private enterprises like Project Wyvern are just full of specialists from NASA and Lockheed. What they’re ultimately looking for is people with the design skill to come up with outrageous plans like orbital hotels. If you can pull off a Dr. Jahanshah and develop a known technology like an inductive tether into something like those space tethers, I bet that would get you in the door too …”
+
+
+                        Kazumi looked at the scale hanging from the relief on the wall. Kurosaki was probably right, he thought, that something like the space tether would pass muster in America.
+
+
+                        “I don’t know who’s scouting them out, but since the beginning of the year, twenty of us have already gone over to China. And they’ve all left knowing they’ll be highly disposable. That’s how little of a future they see in Japan …”
+
+
+                        “Well, it’s not all that bad.” Sekiguchi swirled the cola around in his glass, tinkling the ice cubes together. “The staff who’ve gone over are probably enjoying it.”
+
+
+                        “… Let’s hope so, for their sake. And I hope that’s true for Shiraishi too, wherever he is and whatever he’s doing. You know I check Chinese academic journals now and then to— But excuse me. I’m going to have a smoke.”
+
+
+                        Kurosaki stood up, raising two fingers as though holding an invisible cigarette.
+
+
+
+
+
+
+
+
+
+
+Mon, 14 Dec 2020, 01:12 -0800 (2020-12-14T09:12 GMT)
+
+
+Pier 37 Warehouse, Seattle
+
+
+
+
+                        “So the young guy who threw you for a loop is a rookie named Sekiguchi. Come on, Chance! A pencil-pushing bureaucrat?” Shiraishi pointed to the TV screen.
+
+
+                        “Makoto Sekiguchi, hmm? Entered this year? I’ll have our team look into it.”
+
+
+                        “Forget about him. He doesn’t matter. What’s important is that we know where Kurosaki is! So send in Mr. Park!”
+
+
+                        Shiraishi hit the keys a few times, and a large intersection with half a dozen intersecting roads appeared on the screen. Several arrows pointed to a hotel in the vicinity of Iidabashi Station. Once Chance saw the building, she shook her head.
+
+
+                        “Isn’t that the Nippon Grand Hotel? If so, our hands are tied. That’s a Chinese safe house.”
+
+
+                        As Chance explained to Shiraishi, half the staff were either soldiers or spooks. Sending agents in there would be sure to stir up serious trouble. The Clouds and the Great Leap that would follow had been kept secret from China. There was no way they could compromise that secrecy for such a minor operation.
+
+
+                        “The best we can do is have people watch the perimeter,” said Chance. “Also, China isn’t our only worry. With America beginning negotiations to partially relax space treaties and guidelines concerning debris—”
+
+
+                        Suddenly Shiraishi grabbed Chance’s shoulders and spun her around. “You didn’t think to tell me? Since when? Who’s your source? Give me the details!” Shiraishi’s grip on Chance’s shoulders tightened as he glared at her with an unwavering gaze.
+
+
+                        “It was a cable sent to WikiLeaks. An anonymous tip. It all began immediately after the Supreme Leader’s speech. America wants to initiate discussions to relax a section of the regulations, that’s all.”
+
+
+                        Shiraishi stared up at the ceiling, apparently thinking. “The part of COPUOS they’d be relaxing is guideline 4: “Avoid intentional destruction and other harmful activities.”
+
+
+                        Looking at Chance, Shiraishi curled his lips in a smirk.
+
+
+                        “This is fantastic!” he said. “It looks like the CIA has fallen for the Rod from God. Just to be sure, send someone into the Smithsonian National Air and Space Museum. The ASAT weapon ASM-135 and fire control system should be on display. If not, have them ask when they took them off display and if the display item is a model or the original. If the agent poses as some kind of space geek, the staff will be glad to answer all their questions.”
+
+
+                        As Shiraishi briefly explained to Chance, the ASM-135 had been developed and tested in the eighties. It was one of the best weapons available for disposing of orbital weapons like the Rod from God. But destruction of orbital objects violated space-debris reduction guidelines. Shiraishi’s guess was that America was trying to get around the rules by changing them in advance.
+
+
+                        “If we give them one more push, they’re bound to panic and fire off something, whether it’s the ASM-135 or one of its predecessors. Oh, the embarrassment!”
+
+
+                        “What kind of ‘push’ do you mean, exactly?” Chance looked at him quizzically.
+
+
+                        “I mean we’ll bring the Rod from God within range of the Wyvern Orbital Hotel.”
+
+
+                        “… I don’t think I understand. The Rod from God is just X-Man’s wild fantasy, right?”
+
+
+                        “Nope. The plans used as the basis for the illustration may never have actually been realized, but it was conceived as a serious possibility. Its range as a weapon could be calculated.”
+
+
+                        Chance shrugged. “Your plan is hopeless. Do you seriously think the American military and the CIA believe in the Rod from God? Even amateurs like Kazumi see right through it.”
+
+
+                        “They may have their doubts, but I bet they haven’t totally ruled it out. That’s why I’m saying we give them one more push. The Rod from God illustration is modeled after an American military orbital weapon that hurls a tungsten projectile at Mach 22 into the Earth’s surface. Let’s redirect their sights on to this wild goose. Then they’ll be desperately thinking up a way to stop it.”
+
+
+                        “You really expect everything to go so smoothly? First, we have to silence Kazumi. And I’m sure NASA experts will talk sense into the CIA.”
+
+
+                        “No one’s going to listen to a bunch of rocket geeks.”
+
+
+                        “How are you so sure?”
+
+
+                        “If politicians paid any attention to engineers, I’d still be building rockets in Japan. Science, technology, reason—people simply aren’t wise enough to entrust their lives to such cold ideals. Tell the general and the Supreme Leader: pretend to be scared. Those fools are going to take my ruse—hook, line, and sinker!”
+
+
+                        Chance shrugged and let out a sigh. “Understood,” she said. “But how about you sleep for a bit?”
+
+
+                        Shiraishi turned toward the television displaying the map of Iidabashi. “No sleeping just yet. The night is getting on in Japan. Right! So how about we wait until our targets stop moving? Then we can get it on too, Chancey babe.”
+
+
+                        “Sounds good! It’s six hours until the date changes in Tokyo … I’ll go pick up some coffee.”
+
+
+
+
+
+
+
+
+
+
+Mon, 14 Dec 2020, 19:20 +0900 (2020-12-14T10:20 GMT)
+
+
+The Nippon Grand Hotel, Iidabashi, Tokyo
+
+
+
+
+                        Kazumi stared at the large slips of paper stuck all over the whiteboard he’d had brought into the suite. They charted the structure of the email they were planning to send to Colonel Claude Lintz, head of Orbital Surveillance at NORAD. Written on each slip were sections they intended to include, such as “Greeting,” “Request for Protection,” “North Korea,” and “Space Tethers,” and they had been arranged into a particular order by Sekiguchi.
+
+
+                        “I’m going to write up the request to have Kazumi-san protected personally,” he said. “Kazumi-san. Can you draft an analysis of the objects around SAFIR 3 in a register suitable for engineers and also draft a summary of the space tether?”
+
+
+                        “Yes,” said Kazumi with a nod. “I can handle that.” All he had to do was reorganize the presentation he’d given today. And he wasn’t expecting it to take very long, either, because most of the documents he was relying on were in English.
+
+
+                        Sekiguchi nodded to acknowledge Kazumi’s reply, peeled off two notes from the whiteboard, and turned to Akari. “About the contamination of the translation engine … Can you take care of that?”
+
+
+                        “I’ll write it up if you don’t mind correcting it for me later,” she replied.
+
+
+                        “Please,” said Sekiguchi, putting his hand to his chin and staring at the list of items lined up on the board. During their break, Sekiguchi seemed to have decided to call Kazumi and Akari by their given names. The first time he addressed them in this more familiar way, Kurosaki gave him a sour look, but Sekiguchi brushed off his disapproval with a vague excuse, saying, “From here on out, we’re all going to be writing emails in English, so we’d better get used to it.”
+
+
+                        Akari raised her hand. “In the information we send them,” she said, “should we mention the advertisement and the shadow-ware?”
+
+
+                        “Can you remind me about that again?” asked Sekiguchi with a puzzled look.
+
+
+                        “I was planning to explain it to you at Fool’s Launchpad.” When Akari tapped at the keyboard on her left arm and pulled the Geeple Rod from God article up on the whiteboard, the cat in a banner advertisement leaped out. “This cat food ad can be found on numerous websites related to the Rod from God, and I’ve figured out what conditions make it appear.”
+
+
+                        Akari pulled up another display on the whiteboard. On a page with a white background was English text—regular words that didn’t serve as advertisement keywords. Written in the page’s title and caption was the name “Jamshed Jahanshah.” And in the upper-right advertisement area the familiar cat banner was displayed.
+
+
+                        “ ‘Rod from God,’ ‘space tethers,’ ‘SAFIR 3,’ and then ‘Jamshed Jahanshah.’ On every page with any one of these strings of text, the advertisement appears.”
+
+
+                        Kazumi and Sekiguchi stopped what they were doing and stared intently at Akari.
+
+
+                        “So, Akari-san,” said Sekiguchi, “you’re saying this advertiser is …”
+
+
+                        “Exactly. Whoever’s placing ads for Kitten Master knows about Jamshed Jahanshah and the space tethers.”
+
+
+                        Kurosaki finally seemed to clue in and opened his eyes wide. “You mean they know Jahanshah’s name? So who on earth … Well, I guess we’re pretty sure it’s North Korea, but why?”
+
+
+                        “To lure whoever reacts to these keywords out into the open.” Akari dragged the cursor over to the advertisement and opened a menu item called Display Element Details. “I discovered a program built into the advertisement. Do you understand what this means? A fragment of an executable file is included in the image data.”
+
+
+                        Web Inspector, which Kazumi often used himself, popped up. When Akari dumped out the raw image data and scrolled down to an area near the bottom, there, mixed in with the image’s color information, the code for a script could be deciphered.
+
+
+                        “Of course, this wouldn’t pass the screening if the program were operational. But only half the code is included in this image. The rest has been built into a separate banner ad.” Akari pointed to a less flashy advertisement. “When these two advertisements are displayed together on a single site, a shadow awakens.”
+
+
+                        “A … shadow?” said Sekiguchi. “What does the program do?”
+
+
+                        “What I’ve been able to determine so far is that it transmits the IP address, browser type, display size, and so on of any computer that views it to a server in America.”
+
+
+                        “Hmm,” Sekiguchi said with concern. “This sounds like some sophisticated stuff. But I’ve never heard of shadow-ware. What does it mean?”
+
+
+                        “Tracking,” Akari replied, and Sekiguchi looked at her perplexed. Kazumi felt the same way. From what he knew, a better word for something that functioned in this way was “tracer.”
+
+
+                        “Oh, so you don’t know,” said Kurosaki, looking toward Kazumi, and then turned to Akari. “Did Shiraishi teach you that, about this shadow-ware?”
+
+
+                        “Huh?” Akari’s face tensed up.
+
+
+                        “It’s an old expression. You hear it sometimes in Cold War spy films and such. Shiraishi and I used to talk about movies like that all the time. I hit the mark, didn’t I?”
+
+
+                        Akari began to shake her head, but then, seeming to reconsider, she nodded. “… Yes, Uncle Ageha came up with the idea.”
+
+
+                        With apparent resignation, Akari began to explain. During a period when Shiraishi was absorbed in the task of finding security holes, he came up with a method for activating a program by linking two advertisements together. Shiraishi and Akari created a program to verify that it would work and then reported the system weakness to a company that propagated advertisements, but they were dismissed because the company deemed the cost of fixing it unrealistic. The truth was, there was no small number of security holes left unfilled due to the apparent lack of economic and political feasibility to do so. Even from what Kazumi had heard, there had been a case in which a smartphone and PC manufacturer bought out by a Chinese corporation had unknowingly installed Trojan horse viruses in their devices.
+
+
+                        “But until I saw this advertisement,” Akari continued, “I didn’t think there was anyone actually using the method.”
+
+
+                        “Well, yeah, having two advertisements appear side by side costs a huge amount of money, doesn’t it?” said Sekiguchi.
+
+
+                        Most websites had fixed widgets for displaying several advertisements, and apparently someone was using this convention to merge fragments into a program and steal personal information.
+
+
+                        “So where’s the information going?” asked Sekiguchi.
+
+
+                        “The IP address is assigned by AT&T in Washington.” The MAC address containing the manufacturer name, device name, and serial number for the receiving server, Akari explained, indicated that it was a Chinese brand of mobile router. The information was probably being received with a laptop or tablet rather than a virtual server in a data center.
+
+
+                        “We definitely need to report this,” said Sekiguchi, and wrote “Shadow-Ware: Transmission Destination Washington State” on one of the slips of paper on the whiteboard. “Let’s have NORAD contact the CIA or FBI about it.”
+
+
+                        Sekiguchi went on to explain that the CIA and NSA held on to the web connection records of AT&T. If they had NORAD inquire with these two organizations about it, they would know immediately which antenna had been used to go online at that time.
+
+
+                        “There’s also the phone number and voice record,” said Akari, projecting a fourteen-digit number starting with 01125 onto the whiteboard. After a pop from the projector speakers, Kazumi heard the cheering of a familiar voice. Next was the voice of someone who sounded like an announcer. Overlaid on this was faint breathing and a woman saying in English, “Hello, Mary. Mary? Can you hear me?”
+
+
+                        Sekiguchi stared at Akari in wide-eyed astonishment. “What? How? Numbers with 125 after the country code 01 are for Chinese cell phones. They must have been using a roaming SIM card!”
+
+
+                        “I’m the one who set up the call tracking system that Mary uses for customer support. This recording is an answering machine message left last night. Sekiguchi-san, do you recognize the voice?”
+
+
+                        “Yes, it’s the woman from earlier. She called once to scope out the situation. Please play it again. When I heard it before, there was no background noise.”
+
+
+                        The cheer played again, and Kazumi realized who it was. The voice was Judy Smark’s. And the announcer was praising the success of the Loki 9 launch. Whoever the woman was, she had called Mary from a room with a television.
+
+
+                        “The television is playing KFFV Television, right, Akari?” said Sekiguchi.
+
+
+                        “Yes, Seattle,” Akari replied immediately. “Apparently KFFV is a local, independent terrestrial station. They seem to have a weak signal because there are some reviews online complaining that it’s difficult to tune in from other cities.”
+
+
+                        “You’re incredible,” said Sekiguchi, “figuring all this out.” On the whiteboard he wrote “Agent Hideout: Seattle.”
+
+
+                        Akari stood up, pulled a display out of her ’fro, and put it on the table, as text continued to flow across the screen. “I’m going to Seattle, too,” she said. “We’re going to catch whomever the shadow-ware is transmitting to.”
+
+
+                        Kurosaki leaned forward in his seat and said, “Hold on! What are you thinking here? You think I’m going to let you play spy like that? And—right! Passports. Do both of you have passports?”
+
+
+                        “I have one,” said Kazumi, pulling his passport out of his pocket. Akari also held out the red-covered booklet of a Japanese passport, and then Sekiguchi produced his as well with a smile.
+
+
+                        “Kurosaki-san,” he said. “People these days use it instead of a driver’s license. It’s one of the few photo IDs available. And it’s not such a bad idea for Akari to go to Seattle.”
+
+
+                        “Hold on! Sekiguchi—”
+
+
+                        “Either way,” Sekiguchi interrupted, “we were planning to have Kazumi flee overseas, right? In that case, I think it makes sense for Akari, who can provide engineering support, to accompany him. But more importantly than that, she says she wants to go.”
+
+
+                        Akari pointed to the word Seattle on the whiteboard. “If I go, I can help out in all kinds of ways. The only way I can figure out the rules AT&T uses to supply IPs, for example, is by being on the ground in America.”
+
+
+                        “So you think Shiraishi has something to do with this, do you?” said Kurosaki, staring at Akari.
+
+
+                        Kurosaki’s low voice made Akari tremble. “… That’s not it. It’s the shadow-ware destination, I—”
+
+
+                        “Just hypothetically speaking,” said Kurosaki, “if you did find Shiraishi, what would you do?”
+
+
+                        Akari bit her lip and cast her gaze down. It wasn’t just about the advertisement. It was also about the successor for the tether-propulsion system, the space tether, that Shiraishi was said to have been involved in.
+
+
+                        Sekiguchi broke the tension in the air with a clap. “Let’s definitely have these two head off to Seattle,” he said. “It’s a nice town. Maybe a bit cold, but the coffee and clam chowder are delicious. As long as it’s okay with Kazumi, that is.”
+
+
+                        “If Akari doesn’t mind,” said Kazumi. “I’d be happy to have her along.” He was going to need her help with analysis of the space tethers. And if she was going to search for the man called Shiraishi, he wanted to help with that, too. Then Kazumi might be able to discuss the space tethers with him.
+
+
+                        “Sekiguchi,” said Kurosaki. “Do you have any idea what you’re saying?”
+
+
+                        “Kurosaki-san, let’s not waste time like this,” said Sekiguchi. “We still have no idea what North Korea is after. The English translation of the speech was saying they might target the ISS, but it’s hard to imagine they’d do that with Russia’s involvement in it. We’d be best off teaming up with America, since its relationship with North Korea is frigid to begin with. We can’t overlook the possibility that the Wyvern Orbital Hotel could be their target. If they’re planning something, they’re bound to strike this week while the two Smarks are aboard.”
+
+
+                        Sekuguchi went on to outline the rest of his plan. The two JAXA employees, Sekiguchi and Kurosaki, would be in charge of contacting the Ministry of Defense, the cabinet, and other relevant foreign organizations. That way, they could seek the cooperation of specialists in analyzing and observing the space tethers. However, while they spent their time bringing these specialists up to speed with the knowledge already held by Kazumi, the space tethers would continue to fly around freely in orbit.
+
+
+                        Crossing his arms and closing his eyes, Sekiguchi said, “Let’s narrow down our potential collaborators to the ones who can actually get things done. NORAD is ideal. Also, if we take refuge overseas, we can force North Korea to start their hunt over again from square one. And if Akari accompanies Kazumi, she can take care of his Internet security. Really, if we start fresh in a new location, anywhere will do. So how about Seattle, then? I doubt the agents we’re looking for would expect us to come right to their doorstep.”
+
+
+                        With inquiring eyes, Kurosaki looked at Kazumi, then Akari, then Sekiguchi in turn. “Fine. The responsibility for all this … As if there was a way for anyone to take it in our situation … Count me in! Seattle it is!”
+
+
+                        “Excellent,” said Sekiguchi. “Now that that’s settled, I’ll book the flights and arrange for all the things we might need. Everyone else, please get your documents together.”
+
+
+                        Sekiguchi put on the jacket he had draped over the sofa and dashed out of the room.
+
+
+
+
+
+
+
+
+
+
+Mon, 14 Dec 2020, 06:58 -0700 (2020-12-14T13:58 GMT)
+
+
+Peterson Air Force Base
+
+
+
+
+                        “Kurosaki, eh? How unexpected.”
+
+
+                        Colonel Claude Lintz was looking over the list of emails Jasmine had sorted for him when an unexpected name caught his eye. Kurosaki was his counterpart at JAXA. Since NORAD’s international operations had been cut back several years ago as part of restructuring, they hadn’t been in touch, but Lintz still remembered his dedicated work ethic.
+
+
+                        The email’s subject was “Urgent: Unusual SAFIR 3 Orbit Caused by North Korea,” and its body was encrypted with PGP. Lintz and Kurosaki had exchanged a PGP key in accordance with military protocol, but he couldn’t recall their ever having used it for normal communications. That he was using it now told him it must be a highly urgent matter.
+
+
+                        Lintz reopened the email in a separate window. It had two attachments. Rare for an email written by a Japanese person, Kurosaki’s greeting was short, but as Lintz read through the rest of it, that wasn’t his only surprise. Space tethers? Iranian scientist? North Korean agents?
+
+
+                        “What on earth … ?”
+
+
+                        A Japanese engineer had analyzed SAFIR 3’s abnormal behavior using his own personal resources and, with the help of an Iranian scientist, had uncovered the existence of a spacecraft composed of over ten thousand separate units that were all floating in orbit. At the same time, their efforts to interfere with North Korea were progressing.
+
+
+                        The attached report was remarkable, and the engineer who wrote it was obviously highly capable. He had skillfully summarized all the central points and, most importantly, grasped the space tether, an unknown craft, with such completeness it was as if he’d built it himself.
+
+
+                        Reading the final sentence, Lintz sighed. Why did Japanese people always put the most important part of their emails at the end?
+
+
+                        “I’m sending two key members of our team who are being hunted by North Korea to Seattle. Would it be possible to place them under your protection?”
+
+
+                        Linz glanced at the Speedmaster on his wrist. It was currently 11:00 p.m. in Tokyo. If I send a response now, he wondered, will Kurosaki have a chance to read it? But forget about that. First he had to arrange for a security escort.
+
+
+                        Lintz raised his voice and called through the open door, “Jasmine! Send over Sergeant Freeman, would you?”
+
+
+                        “What’s this?” she replied. “Don’t tell me you haven’t noticed? He’s already here!”
+
+
+                        “Is there something I can assist you with, sir?” asked Sergeant Daryl Freeman, poking his head in from one side of the doorway with an orange backpack slung over his shoulder.
+
+
+                        Suddenly Lintz remembered. Freeman had been dispatched to Lintz’s room to babysit the CIA. There was no need for him to be there so early, but he’d probably felt pressured when the two early bird operatives made snide remarks about NORAD’s work ethic.
+
+
+                        “Sergeant, I’m going to have Second Lieutenant Fisher take over for you in looking after our CIA friends.”
+
+
+                        “I beg your pardon, sir?”
+
+
+                        “Some Japanese who’ve solved the riddle of SAFIR 3 are coming to Seattle, and you’re going to make sure nothing happens to them.”
+
+
+                        It took several seconds for Freeman’s look of suspicion to shift into a broad smile.
+
+
+
+
+
+
+
+
+
+
+                        Papers piled up before Daryl’s eyes: request to travel on duty, plane ticket, hotel reservation chart, application to use a credit card … Lintz’s assistant Jasmine laid on the documents one after the other.
+
+
+                        Lintz placed a credit card on the desk. Stuck to it was a Post-it with a four-digit number on it. This Chase MasterCard, with a white star and yellow wings on a deep-blue gradient, was for use by air force staff only.
+
+
+                        “I’m not expecting too many expenses, sir …”
+
+
+                        “Our guests will arrive here with nothing but the clothes on their backs. They had to leave everything behind, from their computers to their toothbrushes. Seattle is freezing. We’ll probably even need to buy them jackets.”
+
+
+                        Jasmine put another paper folder on the desk in front of Daryl. It contained a receipt from a travel agency he recognized.
+
+
+                        “I borrowed the car from Air Force Travel Zone,” said Jasmine. “It’s a Chevy wagon. You can drop it off at any federal facility. I’ve booked a block of three rooms in the Western Days behind the Needle. One is for our Japanese guests, one is for you, and one will serve as your operations center.”
+
+
+                        “ ‘Guests’ plural?” asked Daryl.
+
+
+                        “According to the email from Kurosaki,” said Lintz, “Mr. Kazumi Kimura, who is investigating SAFIR 3, will be accompanied by a female engineer named Akari Numata. I’ll explain the situation to Chris and Bruce.”
+
+
+                        “Understood.”
+
+
+                        “Proceed with the utmost caution, Sergeant. I doubt those North Korean agents will make any big moves out in the open here in America, but the moment you sense danger, take the two of them and run!”
+
+
+                        Daryl continued to sign the growing stack of papers, mentally shouting for joy. Fantastic! He’d never guessed that SAFIR 3 might have been driven by impacts. But that was the least of his excitement. Space tethers?! He’d heard of tether-propulsion systems before, but what could be more thrilling than the chance to analyze real ones in action?
+
+
+
+
+
+
+
+
+
+
+Mon, 14 Dec 2020, 07:22 -0700 (2020-12-14T14:22 GMT)
+
+
+Guest House, Peterson Air Force Base
+
+
+
+
+                        Sitting across from Chris as she worked on her salad, Bruce wiped some latte foam from his trim mustache, flicked his eyes to his smartphone, and said, “Hey, Chris. Is it just me, or does everyone in a uniform have muscle for brains?”
+
+
+                        Staring up at him from the reservation chart for Air Force Travel Zone, a business under surveillance by the CIA, was the name of a hotel and a Chevy wagon rented in the name of NORAD. Beginning yesterday, all communications related to Freeman had been flagged for monitoring.
+
+
+                        Interestingly, the email sent to Lintz from Japan had been encrypted with PGP. It had been decoded with Lintz’s private key and provided to the CIA by the air force, and the plaintext version had been relayed over. The care taken by the JAXA official, Kurosaki, to use strong encryption had been pointless in the end, but as a result Lintz’s sloppy operations had been exposed. In other words, the surveillance had paid off: Bruce and Chris would be able to protect two private citizens coming from Japan, Kazumi Kimura and Akari Numata.
+
+
+                        “I can’t imagine what’s come over them that they would rent a car that might as well have ‘Soldiers On Board’ spray-painted on the doors when they’re picking up two private citizens chased by spies!” said Bruce. “And separate hotel rooms to boot! What are they going to do if someone comes for them? Unbelievable!”
+
+
+                        Even assuming that Lintz was right to change Daryl’s assignment under his own authority and have him escort these guests carrying secret information, sending his subordinate off to rent a car at a military travel agency like Air Force Travel Zone revealed a serious deficit of imagination. Bruce himself had used the service back when he was in the army, but when they brought out a drab olive Land Cruiser with a huge white star plastered on the side, he’d been simply appalled.
+
+
+                        “They just aren’t grasping how serious it is that they’re being targeted by enemy agents,” said Chris. “It can’t be helped.” She picked up a cracker, crushed it in her hand, and sprinkled the crumbs on her bland salad. “This Japanese guy comes out of the woodwork, and all of a sudden he’s this incredible information hub. He’s got JAXA and even the Iranian professor involved. Do you remember what Daryl said yesterday?”
+
+
+                        “About what?”
+
+
+                        “About instantaneous acceleration. An identical phenomenon was recorded in the data Kimura extracted from Cunningham’s observational data. We were so focused on Cunningham’s involvement with North Korea that we completely overlooked the activities he himself was engaged in.”
+
+
+                        “Well, there’s no point in worrying about that now.” Bruce shrugged. In the investigation being conducted at the McLean CIA headquarters, they were treating Ozzy Cunningham as either a spy or a puppet and trying to uncover traces of North Korea in his communications. No one had even considered the possibility that clues might be found in his observational data already available to the public online. So while it was true that the CIA could monitor everything, they could still go way offtrack without the right search method.
+
+
+                        “What do you think of Kimura’s space tether hypothesis?” asked Chris. “That’s the line of inquiry I’d personally like to follow.”
+
+
+                        “Sounds good to me. If the Rod from God is really the diversion it seems to be, that would iron out a lot of inconsistencies. But, wow, did they ever fool us!” Bruce thought back on his exchange with the NASA officials. When asked about the Rod from God, astronautics specialists could only state that the whole idea of an orbital weapon targeted at Earth was ludicrous. But Bruce and his team had been so distracted by the illustration created with information held only by North Korea that they had bent this explanation to match their own perception of the situation. “The North Korean strategist behind this is a capable fellow indeed. Even just looking at the IT tricks that woman Numata uncovered, you can tell he’s like no one we’ve ever dealt with before.”
+
+
+                        Bruce brought his mug of latte up to his nose and let the steam rise into his mustache. The translation corpus contamination that the engineer Numata had discovered had definitely jumbled the decision-making of everyone concerned. The phrase “iron hammer” that had appeared in the English subtitles of the North Korean leader’s speech suggested a specific weapon of some kind. Even after learning that no such nuance could be found in the original text, the expectation that those words had instilled in them only bolstered their belief in Cunningham’s Rod from God report.
+
+
+                        “This shadow-ware that piggybacks on advertisements is an incredible piece of workmanship, too. It might be the first time that the Cyber Front has employed such a sophisticated method in their operations.”
+
+
+                        The services provided by private corporations such as Google and Amazon now covered the entire world and had changed the way that information flowed. Even an organization like the CIA, said to command twenty thousand regular employees and 1,600,000 contractors, used Google to check maps. Bruce had never suspected that North Korea’s intelligence capabilities had grown so strong that they could pull off an information attack capable of causing such widespread misunderstanding through contamination of these services.
+
+
+                        “So should I call a halt to Seed Pod, then?” asked Chris.
+
+
+                        “Can’t be done. The military unit will be assembling today.”
+
+
+                        The American military was superbly organized. It should have been cause for celebration that after only two days NORAD’s test-run team was already on standby waiting for an order to engage, even though on paper all that had happened was that they had been transferred. No matter how rapid the preparations, however, it was all irrelevant if their objective wasn’t right.
+
+
+                        “I’ll leave them as they are,” said Chris. “I have no idea how much North Korea knows about the ASM-140, but we might as well act as though America still believes in the Rod from God.”
+
+
+                        “And the second stage of the SAFIR 3 is still a pain in the ass either way.”
+
+
+                        “Good point,” said Chris with a laugh. “Okay, then, I’m going to Seattle.”
+
+
+                        “I’m relying on you to stick with Daryl.” They couldn’t leave the protection of their Japanese guests to amateurs.
+
+
+                        Chris brushed cracker crumbs off the tablecloth and picked up her glasses. “Can I count on you to track down the illustrator from Los Angeles?” she asked. “Even if the Rod from God is just a diversion, he did receive the plans, so he must be involved somehow.”
+
+
+                        “Jose Juarez. Leave it to me. I’ll get a commercial flight. You take the Gulfstream we came here on.”
+
+
+                        The comfort of a private jet was tempting, but even on a regular commercial flight, he could arrive by ten o’clock local if he left now. Then he could round up some operators in the area, raid the man’s residence, and question him about where he had gotten the confidential documents that were the basis for the Rod from God.
+
+
+
+
+
+
+
+
+
+
+Mon, 14 Dec 2020, 23:45 +0900 (2020-12-14T14:45 GMT)
+
+
+The Nippon Grand Hotel, Iidabashi, Tokyo
+
+
+
+
+                        With two small brand-new suitcases and the bags Kazumi and Akari had left at Fool’s Launchpad piled on a cart, Sekiguchi pushed open the door with his back and entered the room.
+
+
+                        “Sorry to keep you waiting,” he said. “I had to get Watanabe-san’s help bringing your stuff here.”
+
+
+                        Kazumi got up to help him with the luggage, but when Kurosaki told him to relax and stood up to do it himself, he took advantage of the offer and sat back down.
+
+
+                        Now that everyone was there, Kazumi decided it was time to tell them his one lingering worry. “In the email I sent to Colonel Lintz, I forgot to mention how Dr. Jahanshah got in touch with us.”
+
+
+                        “Ah,” said Sekiguchi. He gazed up at the ceiling with chin in hand. Apparently he had let it slip his mind too.
+
+
+                        “We only received a portion of Dr. Jahanshah’s paper, and the expanded orbital hotel will detach from the Wyvern soon. To speed up our analysis, I’d like to ask for his assistance. Would it be possible for you to contact someone at NORAD for me?”
+
+
+                        “I don’t think so,” Kurosaki responded immediately. Iran and the US had tried to restore diplomatic relations six years ago, but the new president had halted it. There wasn’t even an embassy, so their hands would be tied if they proceeded through official channels. “We might be able to work out something if we could get an intelligence agency like the CIA to understand why connecting with Jahanshah is so important, but that’s not going to happen. We’ve got no time.”
+
+
+                        “I can get you in touch with Jahanshah,” said Sekiguchi.
+
+
+                        Kurosaki frowned. “I wouldn’t go making promises you don’t know you can keep.”
+
+
+                        “I’ve got a few connections,” said Sekiguchi. “But I need your help, Kurosaki-san, so I’d appreciate your cooperation when the time comes.”
+
+
+                        It seemed unlikely to Kazumi that JAXA could put them in touch with someone in a place like Iran where the Internet was blocked off. Instead, he guessed that Sekiguchi would probably ask his colleague at the NSC to pull some strings.
+
+
+                        “Are you sure you can manage this?” asked Kurosaki.
+
+
+                        “Just leave it to me,” said Sekiguchi. “Oh yeah. Where did I put that again?” From a suitcase, he withdrew a thin oblong box neatly wrapped in wrapping paper. He then stood up and proffered it to Akari, the orange ribbon attached to it quivering. “I wish this present could have been something more to your liking, but …”
+
+
+                        Wearing a look of suspicion, Akari took the box, unwrapped it, and looked up at Sekiguchi. He pursed his lips and bowed to her in apology. It was then that Kazumi finally saw what the so-called present was: an electric shaver. Sekiguchi had a point; Akari’s Afro would definitely draw too much attention.
+
+
+                        “I’m very sorry,” said Sekiguchi. “I couldn’t think of any other way.”
+
+
+                        “No … I appreciate it,” said Akari. “This should allow me to go around with Kazumi-san without having to worry all the time.”
+
+
+                        Akari looked toward the whiteboard. Written on it was “1:38 AM,” the departure time for JL 293. They had two hours to go.
+
+
+                        “You think we’ll be on time if I do this now?” she asked.
+
+
+                        “Should be okay. Please use the bathroom.”
+
+
+                        Akari stuck her empty hand inside her Afro and stirred it around. “I’m going to miss this …”
+
+
+                        “In your suitcase, you’ll find a hat … and a wig. If you don’t like them, please buy replacements at your arrival airport.”
+
+
+                        Kurosaki turned away as if he couldn’t bear to watch, muttered something, and pulled out his smartphone. “I’m going to hire a driver,” he said. “Even with business class tickets, you have to go through the gate twenty minutes early or you won’t be on time for— What?”
+
+
+                        Sekiguchi was wagging his finger. It seemed they wouldn’t be needing the driver.
+
+
+                        “To apologize for what I’ve done to Akari, I’d like to show her the ultimate nighttime view of the city.”
+
+
+                        On her way to the bathroom, Akari stopped in front of the door and turned around.
+
+
+                        Sekiguchi pointed straight to the side and said, “I called a helicopter over to the Korakuen Building next door. With this, we can be at Haneda Airport in fifteen minutes. Please forgive me.”
+
+
+                        Akari smiled at him and said, “I’m going to come out of here looking cooler then when I went in. Just you wait and see.”
+
+
+
+
+
+
+
+
+
+
+                        Now wearing a bathrobe, Akari looked at her reflection in the full-length mirror. In her right hand, she gripped the shaver that Sekiguchi had just given her. The words of Kurosaki kept echoing inside her head. So you think Shiraishi has something to do with this? At the time, she’d said no, but everything they’d discovered so far pointed to her uncle’s involvement. In addition to the shadow-ware installed in the advertisements, she’d also heard him talk about how a translation engine could be contaminated and how to remain anonymous inside a surveillance state by changing roaming SIM cards.
+
+
+                        “Uncle Ageha …” she whispered.
+
+
+                        Though Shiraishi was more than two decades older than her, he had treated her as a friend and taught her programming. To Akari, he was the model engineer. Listening to him describe his seemingly endless supply of ideas, she had adopted his way of thinking and dedicated herself to learning his techniques of choice. Whenever one of them had uncovered a seam in the global system that now depended on the Internet and cloud services, they would dutifully send reports to the manufacturers and providers. Fixing many of the security holes that Shiraishi had found would have required enormous funding, nationwide initiatives, or some other costly investment, and his suggestions were often rejected. Even so, the two of them had often laughed together at the special efforts they had made to make the world a better place.
+
+
+                        Shiraishi never once tried to use the skills he had acquired for selfish purposes. It just didn’t seem possible that a man of his character, who had demanded a high degree of restraint from Akari and who had personally taught her engineering ethics, would exploit a security hole like the one they had witnessed. Petty little subterfuges like those with the advertisement, the translation engine, and the SIM cards would surely have occurred to someone else at some point. There was no good reason to assume it was her uncle. She was just going to Seattle to—
+
+
+                        “To uncover those North Korean agents,” Akari muttered, putting the buzzing foil of the razor to her temple and watching her frizzy curls begin to scatter before her eyes.
+
+
+
+
+
+
+
+
+
+
+2020-12-14T15:00 GMT
+
+
+Project Wyvern
+
+
+
+
+                        14:39 GMT. The orbital hotel has successfully detached from the Wyvern and became a single independent spacecraft. I wanted to blog about that moment, but it was totally quiet, and before I knew it an announcement came from one of the staff on Earth saying that the separation was complete. Not much to work with there. They could have at least given me a thunk or something. Seriously.
+
+
+                        According to our itinerary, our plan from here on is to enjoy five days in orbit before transferring over to the ISS and then returning to Earth on the Soyuz.
+
+
+                        The Wyvern spacecraft that carried us all this way is going to remain in an orbit that will make it easy to rendezvous with our orbital hotel in case of a problem. Then, when we depart from the ISS on the Soyuz, it’ll dock with the ISS and become a new return vehicle. I can’t tell you how jealous I am of the astronauts who get to go back to Earth in the unrivaled comfort of this wonderful ship.
+
+
+                        Through the big round windows of the orbital hotel, I can see the body of the soon-to-be return spacecraft, the Wyvern.
+
+
+                        No picture could ever convey to you how exciting this window is. You probably think a five-foot circle is tiny. Well, think again. From what I heard, when Ronnie came up with the idea of having a window this size, all—and I mean all—the architects were against it. If I’d been at the meeting, I’m sure I would have been against it too. Here in low Earth orbit—they call it LEO—thousands of bits of space garbage are zipping around at speeds between six and eight kilometers a second. Then consider that this orbital hotel moves at seven kilometers a second. This means that if there was a direct collision, one of those little bits might smack into one of the screws or solar panels at the unbelievable velocity of 13 km/s. Just like that, thirteen times the speed of a rifle bullet. The hotel has to be able to take lumps of metal flying at those speeds.
+
+
+                        A shell made of multiple layers of metal can hold off small pieces of debris, but it’s difficult to make something that strong with transparent materials such as glass and acrylic. But Ronnie wouldn’t give in. And the designers actually fulfilled his request. Jammed into this window is an appalling amount of technology: a heavy water bulkhead, a shutter operated by gunpowder, and, carefully folded in so as to be invisible to the human eye, carbon nanotubes.
+
+
+                        The view of the Earth through this window is simply magnificent!
+
+
+                        As I write, I’m standing with the soles of my sandals on the window frame … This really makes me miss the Earth. Is that the Atlantic Ocean under nightfall straight beneath my feet? Inside the clouds floating over the Gulf of Mexico, I can see lights bigger and sharper than any illumination that humans can create: flashes of lightning.
+
+
+                        I have one surprise announcement to make. Project Wyvern will be providing a complimentary sojourn on the orbital hotel to heads of state. It’s hard to say how many years you’ll have to wait in line, but we look forward to your applications. We would be delighted for all you leaders to see the countries you’ve been entrusted with from 350 km up.
+
+
+                        With-a-touch-of-that-on-top-of-the-world-feelingly yours,
+
+
+                        Judy Smark

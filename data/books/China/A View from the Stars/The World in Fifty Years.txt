@@ -1,0 +1,207 @@
+THE WORLD IN FIFTY YEARS
+
+
+TRANSLATED BY ADAM LANPHIER
+
+
+Written October 28, 2005, at Niangzi Pass
+
+
+First published in Global Entrepreneur, 2005, no. 12
+
+
+
+
+
+
+
+
+
+
+In a moment of carelessness, a time traveler left a flashlight in Song Dynasty China. A commoner found it and offered it up as a sacred treasure to the Imperial Household. Eventually, the batteries died, and the relic shone no more, leaving nothing but immense curiosity and confusion in its wake.
+
+
+That’s a story from a work of sci-fi. Arthur C. Clarke famously said, to paraphrase a bit, that to the people of a technologically primitive era, modern science would be indistinguishable from magic. As it turned out, he was a bit off the mark: The products of modern science have already surpassed the wonders of magic. First off, modern science deals with energy levels far higher than anything in the world of magic. Nothing in ancient mythology approaches the energy level of a twenty-megaton thermonuclear warhead. Sun Wukong’s Golden Staff of Compliance, Zeus’ thunderbolts—energy-wise, they’re both a step down from the bomb. Secondly, mythology is concerned with a much smaller scale of space than modern science. The sphere of myth has a radius that seldom extends beyond the orbit of the moon, whereas humanity’s space probes are on the verge of exiting the solar system.
+
+
+Sci-fi writers imagine things differently from scientists and futurologists. They all envision large arrays of different futures, but scientists and futurologists ultimately choose to follow those visions they think most likely to happen, whereas sci-fi writers choose those they think have the greatest aesthetic potential as literature. Historically, sci-fi’s been a bit overhyped as a predictive tool: The first submarine was built long before Verne wrote of one, and Clarke was just a nose ahead of science when he envisioned communications satellites. But in the interim, a dramatic fact became apparent: Scientists and futurologists were missing the mark, too. Scientists of the nineteenth century concluded that according to the principles of fluid dynamics, a train could go no faster than ninety miles per hour—any faster, and it would suck the air out of the cabins. At the beginning of the twentieth century, a sizable portion of physicists believed that humankind had achieved a comprehensive understanding of the laws of matter; we now know that there’s an ocean of truth out there, and we’re no more than children collecting shells on its shore, our shoes still dry. In the 1960s, one eminent scientist asserted that the world needed only a single giant computer. And look at The Third Wave and Megatrends, both published in the early eighties, both hailed as seminal works of futurology—and both almost entirely unrealized, in their macroscopic and specific predictions alike. This history of miscalculations has, in recent years, altered the course of futurological research, shifting its focus toward the analysis of near-term development policy. Its practitioners no longer presume they’re able to forecast anything more than twenty years off.
+
+
+It’s an interesting thing, really: The rigorous, science-based predictions of scientists and futurologists and the spirited “flights of fancy” of sci-fi writers are just about equally (in)accurate! Reality stands as proof of this—neither method can predict what’s going to happen, so why not just let our “fancies” fly?
+
+
+The science-fictional imagination can leap ten quadrillion years through time to the death of the universe, but here, we’ll just take a walk through the next half century or so, that being an era most readers of this essay will live to see. Remember: These are just imaginative guesses … but remember, too, that a rigorous, scientific prediction would have roughly the same odds of panning out.
+
+
+ENERGY
+
+
+Let’s begin with one thing that’s sure to happen in our imagined time frame: We will run out of oil, and despite its greater reserves, we’ll run out of coal, too, sooner or later. The main alternatives to fossil fuel are solar, wind, hydro, tidal, and nuclear (both fission and fusion) power. The first four, though renewable, don’t produce much power, which means they may not be scalable to the future’s colossal appetite for energy. Therefore, the most promising contender for the alternative power source of the future is nuclear energy. Fission’s already here and in use, but fusion, which promises a greater yield, has none of fission’s problem with radioactive waste. Controlled-fusion technology isn’t yet practical, but that day isn’t far off—we’re currently on the verge of a breakthrough. Halfway through our fifty years, the world will surely recognize its depleted fossil fuels as a crisis and invest vast sums toward fusion research, which will make controlled fusion a reality.
+
+
+Fusion is an order of magnitude more productive than fission, and its feedstock is extracted from seawater, so there’s no shortage there. Commercial fusion stands to make electricity a prodigious, dirt-cheap commodity, which will change human society in massive, profound ways, comparable to steam power’s decline in favor of electricity and petroleum.
+
+
+What will show up first is mobile energy transmission, also called wireless power, which transmits energy not through cables, but as microwaves from which consumers extract power. We could make this happen with current technology—in fact, we have, initially for a dubious purpose: wiretapping. Over the course of the Cold War, the US repeatedly zapped the Soviet embassy with microwave beams to recharge the bugs they’d installed inside. There are two reasons this technology isn’t in wide use. The first is that it’s inefficient—a significant portion of the emitted energy goes uncollected. But this won’t be an issue once fusion is producing copious energy for next to nothing. The second is electromagnetic pollution. As yet, there’s no way to fix this one, but that doesn’t mean there won’t be in the future. Remember—flight of fancy.
+
+
+With mobile energy transmission, we’ll be able to get electric power wherever and whenever we like, just as we can with cell signals today. This will upend our lives, most dramatically in the field of—
+
+
+TRANSPORTATION
+
+
+Once fossil fuels are tapped out, cars themselves will become fossils. Their disappearance, along with the advent of fusion power, will afford us a chance to correct a mistake we made at the start of the last century.
+
+
+As soon as the airplane was invented and made viable, human society should have adopted flight as its main mode of transportation. 3-D space permits a speed and volume of traffic that’s inconceivable on the 2-D ground. Even short-range, urban transport could be provided by versatile, low-speed flying cars—helicopters with blade-shields, say. The biggest barrier to the expansion of flight is its fuel consumption, as aircraft generally consume dozens of times more fuel than land-based vehicles. But two long-established bits of tech have the potential to reduce flight’s fuel needs to a level comparable to that of land-based travel: airships and parasails. Airships are lighter than air and thus need no vertical propulsion, and parasails, though similar in principle to conventional aircraft, have large wings and little deadweight, which means they can generate a lot of lift without much force. Of course, both modes of aviation have substantial disadvantages—airships have a size problem, for instance, and parasails would need places to take off—but if we’d put all the R&D we’ve done in service of land-based travel into flying-car technology, I believe we could have solved these problems, and even invented more efficient means of personal flight. There’s also the fact that you don’t need roads in the air; flight would have saved us a fortune in road construction. In hindsight, the rapid development of land-based transportation was what killed air transport in the cradle; it made it impossible for personal aircraft to replace cars.
+
+
+Fusion would render the energy consumption of personal aviation economically viable, and with mobile energy transmission, aircraft could harvest external power as they flew, so they’d need no heavy batteries. They’d be lightweight and maneuverable, and their range would be unlimited.
+
+
+There might also be “sky trains” in the future: large, long-range aircraft with high-powered planes as their “engines,” towing strings of unpowered gliders that serve as “carriages.” There are no technological problems with the idea—in fact, in the Second World War, Allied forces captured an Axis-controlled bridge over the Seine using just such a “train,” with a standard plane at its head and a trail of gliders that successfully deposited their loads of troops and equipment behind enemy lines. For a composite vehicle like this, takeoff and landing would be the tricky parts, so the sky train of the future could use mobile energy transmission to stay aloft indefinitely, and lightweight surface-to-air ferries could carry passengers back and forth.
+
+
+In conjunction with this kind of large-scale conveyance, lightweight personal flight apparatuses will replace cars completely. Thanks to mobile power transmission, these devices, at their most compact, might be no bigger than an umbrella. Perhaps each commuter would fly to work with their own little umbrella-propeller.
+
+
+Establishing this flying world of wonders would be possible only with sufficient fusion energy and mobile power-transmission tech. If there’s been no breakthrough in fusion by the time we’ve exhausted our reserves of fossil fuels, and fission’s limiting factors—fissile material supply, pollution, and so on—prove insurmountable, humanity may enter an age of energy scarcity. Of course, there’s also the possibility that even after mastering fusion tech, humanity might preemptively impose energy restrictions, for environmental reasons and so forth, which would likewise bring about an age of energy scarcity. Travel by flight naturally couldn’t go mainstream in such an era, so, once gas-powered cars are gone, how else might terrestrial travel appear?
+
+
+It’s nearly self-evident that we’d have cars powered by solar and other renewables, but that’s no flight of fancy. Let’s make our wild guesses wilder and step back into the age of animal-powered transport.
+
+
+There’s a romance to the pre-automobile era of horse-drawn carriages, and those vehicles had many substantial advantages over cars—advantages whose value would be even greater in the future yet to come. Manure is less of a pollutant and easier to manage than car exhaust; horses are incomparably more energy-efficient than cars; and the headache of feeding and tending to horses would subside as a by-product of animal transport’s commercialization, which itself would become a huge, lucrative market.
+
+
+Of course, the future era of the horse-drawn carriage will be no mere regression: The horse and carriage of the future will be kitted out with new technology. The most obvious drawback of the horse-drawn carriage, compared to the automobile, is its speed. This problem can be overcome. Here, the bicycle comes to mind: With the same physical effort one exerts traveling by foot, a bicycle triples or quadruples one’s speed. It follows that it would be perfectly possible to design a bicycle for horses, adapted to that animal’s four-hooved gait—with the right transmission and wheels, it would triple or quadruple a horse’s speed, and the horse-drawn carriage would be comparable to the automobile, speed-wise. The horse-bike would be a pure, low-tech piece of machinery, with four pedals and two gear chains for each horse. With a carriage, there might be four wheels; for a lone rider, two would suffice. In either instance, the conveyance would move at a satisfying clip on the highway, and with novel materials, it could be made light and flexible.
+
+
+The horse itself will also be technologically modified. A genetically enhanced horse might be comparable in physical strength to the horse of yesteryear, yet no bigger than a large dog.
+
+
+Let’s send our thoughts farther still: What about horse-drawn carriages that fly? The aircraft that requires the least propulsion is the dirigible, as its buoyancy obviates the need for lift. Physically, a horse would be more than capable of powering a dirigible’s propeller. As new materials emerge, creating a smaller, lighter, and faster horse-powered aircraft isn’t outside the realm of possibility—human-powered aircraft are already a reality, after all. Let’s follow this dream and see where it goes: Could we genetically modify some sort of large bird—an albatross, perhaps—such that humans could ride them? Or (last thought) could a horse’s genes be modified to give it wings? Don’t dismiss the idea outright. The people of ancient times could imagine riders in the sky, with birds and winged horses as their steeds, yet they never imagined anything like an automobile. If we can create things beyond our ancestors’ imagination, why can’t we make what they did imagine a reality?
+
+
+Our fancy has now flown into another field whose future is full of wonders—
+
+
+LIFE SCIENCES
+
+
+The life sciences, with molecular biology leading the pack, are now on the verge of a breakthrough that will enable scientists to manipulate genetic material as if it were code and they were programmers. This technology promises miracles to rival the book of Genesis.
+
+
+First, let’s see where that thought takes us. Scientists could fabricate a biological engine, which would really be nothing more than a few strong muscles, wired with nerves. All the nutrition and energy it needed would be provided by an inanimate, mechanical system. For fuel, a living engine would consume organic “food”—some plant that can be grown in large quantities, say—which it would transform into energy with much, much greater efficiency than an old mechanical engine. If the horse and carriage isn’t to your liking, just take a living car.
+
+
+It will also become possible to synthesize food in factories. This technology will utterly alter the appearance of the world. Great tracts of farmland will be reclaimed by forest and grassland, and humanity will suddenly find itself with much habitable space. Centralized food synthesis will mark the beginning of humanity’s true “return to nature.”
+
+
+But cultivators of the land won’t disappear. There will still be people in the vast, new wilderness, dropping seeds here and there. Their crop will astonish us—they’ll be planting cities.
+
+
+With gene programming, we may be able to grow plants into whatever complex shape and size we may need. This technology is now in its infancy. At the beginning, we might make trees grow into the forms of various tools and furnishings; after that, we might have them grow into grand edifices, with a great variety of structures and interior layouts. When we get there, architects will double as gardeners. These house-trees would be habitable even when alive, and a forest of such trees would be nothing less than a city, a true ecopolis, at one with nature.
+
+
+Many other impending technological breakthroughs in the life sciences will change our lives profoundly. One is the life-preserving tech of hibernation. If you happen not to like the era you’re in, you can just hibernate into the future. Certainly, this tech will be prohibitively expensive at first—but it’s also certain that a huge industry will form around it, which will lower the price to within the means of the average person. In the future’s future, awakened hibernators will constitute a discrete social caste, which will no doubt cause problems for the people of those eras. Hibernation may dramatically change the structure of human society—short-term hibernation, for instance, may lead to grandfathers who are younger than their grandsons. And with a lot of hibernators, won’t we need to consider future eras’ ability to accommodate them? Such social issues are as troubling as they are fascinating.
+
+
+The life sciences even have the potential to alter humanity’s biomorphology—a form of self-determined evolution (or devolution). For example, a combination of human and fish genes might enable humankind to live undersea. This seems far-fetched at a glance, but just three years ago, scientists successfully grew a human ear on the body of a lab rat. So, post–food synthesis, humankind’s habitable zone will expand once again.
+
+
+Another, more significant change will occur when we locate the genes that control human height. As I have expressed in other writings, the idea of reducing the human body’s height and volume—shrinking our own scale—would lead to an equivalent expansion of our living environment. If humans were shrunk to a third of their current height, we would consume far fewer resources, and to us, the Earth would be a much vaster world than before. On Earth today, the smallest mammals by volume that are reasonably similar to humans are rodents. With genetic engineering, humans could eventually shrink themselves to the size of house mice—perhaps without any loss to their brains’ intellectual capacity. If each individual human shrunk themself to such a degree, the world would appear to them a fundamentally changed place. The Earth would be vast to them in a way that defies our imagination.
+
+
+That humans will biologically alter themselves is inevitable, which makes life sciences the most terrifying of the sciences. They will shake humanity’s definition of itself, and the boundaries between humans and other animals—even between human and plant—will begin to blur. It’s hard to say what effects this may have on humanity’s culture and spirit. The question of which people are people will come increasingly to haunt humankind. However, before this question turns deadly, it will be overshadowed by another issue that has to do with the way humankind lives. We turn now to this second issue. Genetic engineering has the potential to produce a host of other scary things—gene-seeking missiles, for instance. If someone wished to target and eliminate a person or group, all they’d need to know is their target’s genetic makeup. With that, they could spread a highly contagious pathogen in their target’s country, a germ whose infection causes mild, brief symptoms in ordinary people but is fatal to the target.
+
+
+Here, our imagination has entered a field that, despite our reluctance to face it, demands a serious treatment—
+
+
+WAR
+
+
+We can be nearly certain of one more thing about the half century to come: War isn’t going anywhere. Yet, strangely, as our fancy flies into the battlefield of the future, we find a measure of comfort there, in that place where rivers of blood once flowed. War itself is always barbaric, but war as it’s waged could be a bit more humane. The use of nonlethal weapons is a hackneyed idea by now—in the future, a more humane style of warfare may emerge, one that avoids bloodshed and casualties altogether.
+
+
+First, what we’d need is something to stand in for or simulate war. It would have to satisfy two criteria: It must represent with some accuracy the combined force of the belligerent nations, and second, the simulation must be run according to a protocol recognized by the belligerent nations and the international community, so that each side’s will to fight and determination to win can influence the outcome to some extent. Think of the Olympic Games: A country’s performance in an individual event—soccer, say—has little to do with its political, economic, or military might, but a country’s aggregate performance across many Olympic events is a fairly accurate reflection of its overall power. Moreover, sports have the advantage of being among humanity’s oldest pastimes, with established, universally recognized rules already in place. What’s more, the Olympic Games have been and remain the world’s largest and most consequential gathering. These factors would make the Olympics an ideal proxy for war. Of course, in the Olympic Wars, weak countries are bound to lose … but bear in mind that when traditional wars break out, weak countries are likewise doomed to defeat, and the awful price for that outcome is blood, paid by all the belligerents, especially the weak ones. Yet the Olympic Wars wouldn’t just be a pretext for weak countries to surrender—each gold medal a defeated country has won in any individual event would earn them certain rights. For example, if a weak country’s delegation were to lose to a strong country’s by a single gold medal, they’d have lost the war, to be sure, but their relative medal count might change what that means considerably: Maybe they wouldn’t be occupied, or their government would be kept in place and they’d be permitted to maintain a standing army, etc. All they’d have to do is destroy all their biochemical weapons and pay a third of the indemnities as listed in the ultimatum. The Olympic Wars will lead humanity, at long last, to renounce barbarism and become truly civilized. A country’s prowess at sports will thenceforth be an important indicator of that country’s strength, and in order to compete at the highest levels, countries will need broadly athletic citizenries to draw from; therefore, every country’s enormous military expenditure will go instead toward improving its people’s physical fitness, ushering in new, healthier, more civilized forms of community and international politics. And once war has lost its blood and death, it has the potential to undergo an inconceivable transformation—its value as a spectacle will come to the fore. The Olympic Wars will obviously be far and away more exciting and consequential than the Olympic Games, which also means big business. Establishing a system for the Olympic Wars will be the biggest political project humanity has ever undertaken. Accrediting the rules and outcomes of the competition, supervising the processes of the Wars, and other such work will be long and hard, but as human society advances, all these obstacles will become surmountable. If people are willing to die in war, why shouldn’t they be willing to live at play?
+
+
+If the “Olympic Wars” idea is a fever dream (… it sort of is), another low-casualty form of warfare—digital occupation—is much more likely to emerge. Digital occupation, as I’m calling it, refers to total control of an enemy country’s information systems, without touching its sovereign land. In the future, internet-based information systems will be fundamental to a nation’s survival. A country has two types of territory: its traditional, terrestrial territory and, superimposed on that, its digital territory. In the future, the latter may come to be more important to a country than the former—take control of it, and you’d effectively control the enemy’s political and economic pulse. Furthermore, there are two sorts of digital occupation: the first is won through digital combat during wartime, and the second is imposed after a traditional war as a means for the winner to occupy its defeated enemy’s territory. If a country thus occupied tried to free itself by destroying all its information systems, it would, in the fully digitized age to come, cause its economy to collapse and its government to lose control of the country. The country would become a primitive power vacuum. A country’s destruction of its own information systems would be no different from self-harm or suicide. So, in a plausible future, a strange, nightmarish scenario might occur: You wake up one morning, and everything is calm as usual—no smoke, no alarms, and not a single enemy soldier in sight. Cars are humming along the streets, parents and children are strolling in the park … but you’ve just been told: You are a subjugated citizen of a conquered nation.
+
+
+Finally, we’ve come to computers and the internet. These things will do more than form the digital territory of nations; they will present human civilization in its entirety with a grave dilemma: the question of—
+
+
+DIGITAL LIVING
+
+
+The digitization of life will present humanity with an inflection in the arc of its fate more mythic than any it has faced before. Its arrival will herald either the end or the rebirth of human civilization. Before we get into that, let’s imagine the next phase of the spread of computers and the internet.
+
+
+At present, it’s perfectly possible to make a computer mainframe as small as a cell phone or even a wristwatch. The problem is the display. There’s a limit to how small traditional displays can get, and it has nothing to do with technology—if they’re too small, you can’t see them. To solve this problem, we may come out with a whole new species of display: retinal projection. The first step is to create a microprojector, comparable in size to the diameter of a hair. Given the advances we’re making in nanomechanics, there’s no technological barrier to our achieving this. Next, we’ll need to mount this projector onto the lens of the eye and have it project images directly onto the retina. This will transform our eyes themselves into computer displays, with viewing areas so large and images so crisp that the eye would perceive them no differently than it does the real world, such that in the absence of other stimuli, it would be impossible for a person with a retinal projector to tell whether what they saw was real or a computer’s projection. (By then, computers will be worn on the wrist, or as pendants, or as earrings.) Such a technology, in combination with our rapidly developing mobile communication tech, promises to incorporate computers and the internet into every person—another step toward an informatized, digitized world.
+
+
+And retinal projection is just one of the breakthroughs we’ll see in human-machine interface technology. Computers will come to understand natural language, and in addition to visual and auditory interfaces, there will be smell, taste, and touch-based interfaces, too—we may even see endocrine interfaces. People will thus be able to engage in as many ways with the virtual world of the internet as they do with the real world. Step by step, their sense-impressions of the virtual world will come to mimic their impressions of the real world, such that it will one day be possible to savor a gourmet meal or make love virtually.
+
+
+Quantitative change eventually gives way to qualitative change. Once the majority of people are spending far more of their time in the online, virtual world than in the real one, human society will existentially shift from the real world to the internet, and the Life Digital will have come. Imagine it: their cities gradually falling silent, streets deserted; everyone in their room, eyes closed (to keep the sight of reality from interfering with their retinal projection), living their lives in the virtual world of the internet—the site of all their struggles and pleasures, for the rest of their lives.
+
+
+We have no way as yet to evaluate the merits of such a novel mode of living, but before we try, we must not dismiss the idea as completely absurd. In the countless, crowded internet cafés that now dot our cities and countryside, this new mode of living has already begun to emerge. We can see, in the internet-engrossed teenagers that populate them, the dawn—or the shadow—of the era of digital living. Parents of that era will worry about their children’s absorption in another world and set time limits on their engagement with it, and the issue will constitute a serious, widely discussed problem in society. What will be different is that the parents of the future won’t be limiting their children’s screen time, but their real-world time.
+
+
+Digital living will radically reshape human society, with every one of its realms beyond recognition, including—
+
+
+GOVERNMENT, ECONOMY, EDUCATION, CULTURE …
+
+
+Once people and the internet have merged, national or even global referenda could be held at any time. This will profoundly change how nations and governments operate. If, as computing technology continues to advance, it makes such breakthroughs in processing speed and intelligence that web servers are able to rapidly process and synthesize all the information they receive, then the vast majority, or even all, of a country’s citizens would be able to speak out and voice their opinions in unison, as if they were a single person. This would make it possible for a government to converse with all the residents of a city or a country, or even all the world’s billions, simultaneously, as if talking with one person or small group.
+
+
+Virtual products, things that exist only as numbers, will make up a significant portion of the economy. Even today, players of online games have already begun to trade virtual equipment. One could view this as the beginning of the virtual economy. In the future, every real-world commodity may have a digital counterpart online, each of which would have its own value.
+
+
+The virtual world may also give rise to some unexpected, peculiar commodities.
+
+
+There are three distinct stages of the digitization of life. The first is the stage of separation between human and machine, which has already begun. The second, as described above, is the integration of human and machine. The third is the pure digitization of life, in which it will be possible for a person to upload the entirety of their consciousness and memories onto the internet. The technology this third stage would require seems elusive at present, but once it’s there, each person’s memories and sensations might be available to others. A person’s very life may become a commodity, and an epic, romantic life would be a thing of great value. Someone who’s been to hell and back and lived to tell of it could certainly sell their life for an astronomical sum—he who survives a disaster is due for a fortune, indeed. In that era, manufacturing high-value lives is bound to become a career wherein people will do everything they can in the pursuit of adventure or romantic liaisons. You might think of them as the successors of today’s novelists, except their pen will be their life itself, whose difficulty and danger is hard to imagine. This industry may also become a corporate venture, with companies using every means and resource at their disposal to provide a segment of their workforce with the happiest possible lives—solely in order to produce a batch of happy lives to sell.
+
+
+At a certain point in the development of human-machine interface technology, there will come to be network transparency in the connection between the brain and computers. Knowledge stored in a computer will be transferable to a connected person as a clear memory. What’s more, we’ll be able to plug a computer’s algorithmic and information-processing capabilities directly into the brain, so that it serves as an amplifier of intellect and thinking. Human thought will rise to a higher plane. This, combined with the technology, described above, to upload neural information, may turn education into yet another thing beyond our ability to imagine: profundity of thought, perfection of psychology and character, refinement of artistic and aesthetic sensibility, and so on—they’ll all become commodities, things to be bought and sold.
+
+
+The biggest, least conceivable changes of all may be cultural. But of this one thing, we may be certain: Human culture is oriented toward ever-greater diversity. Even as our cultural iconography grows more consolidated, literature and art are becoming ever more decentralized, such that a “peer-to-peer” culture may eventually emerge—a culture in which a single person’s creation may be meant for a single other to enjoy, or even one in which many people’s creations exist to please just one person.
+
+
+…
+
+
+Here, our fancy seems to have flown into some wild, bold stuff, but these predictions are really nothing more than reasonable extrapolations based on existing technology. So long as technology continues to advance at its current pace, most of the things we’ve imagined here will come to pass.
+
+
+But there exists another possibility that could suddenly turn the human world on its head. What would create favorable circumstances for this upheaval are—
+
+
+BREAKTHROUGHS IN APPLIED FUNDAMENTAL PHYSICS
+
+
+In its explorations of the most fundamental laws of matter, modern physics’ achievements in the realm of theory have far outstripped its technological applicability in society. If some channel suddenly opened that connected the frontier of applied theory in physics to the domain of practical technology, it could grant humankind power great enough to alter the universe.
+
+
+The cutting edge of theoretical physics—superstring theory—holds that matter, at its most fundamental scale, occupies eleven dimensions. As many as eight of those dimensions are strictly microcosmic. An important indicator of a civilization’s technological advancement is the degree to which it can control and make use of microdimensionality.
+
+
+Our first use of one of matter’s microdimensions began when our naked, hairy ancestors first made fire in a cave, the control of chemical reactions being a one-microdimensional manipulation of elementary particles. Of course, our control of this dimension has advanced, from fire to steam engines, and from there on to electric generators. Humanity’s one-dimensional control of elementary particles has now reached its zenith with computers … but all this is limited to control of a single microdimension. To a higher-order civilization out there in the universe, there’s no essential difference between a bonfire and a computer—they both represent a single sort of control. This is the reason they’d see humanity, despite its progress, as a primitive species, or even as bugs.
+
+
+Humans have begun to exert control over two- and three-microdimensionality in nuclear fission and fusion, in which particles are no longer single points, but things whose internal structures we can manipulate. But this is still a nascent sort of control, equivalent to our fire-in-a-cave stage of control over a single microdimension. At the forefront of physics, humans have exerted tentative four-dimensional control over elementary particles, though only within the confines of high-energy particle accelerators, which remain miles beyond any practical application. A major breakthrough in this regard is quite possible in the next half century, just as the atomic bomb came nearly out of nowhere in the first half of the twentieth century.
+
+
+When humankind is able to control and exploit higher dimensions of matter, the power we’ll gain is entirely beyond our capacity to imagine. Perhaps, as Arthur C. Clarke depicted, humans will be able to “[store] knowledge in the structure of space itself, and to preserve their thoughts for eternity in frozen lattices of light.” At that point, man will be no different from God.
+
+
+Here, our flight of fancy comes to its end. You’re welcome to view these imaginings as a mere diversion, but to think they have nothing whatsoever to do with reality would be rash. Toward the end of the Qing Dynasty, people were already making use of electricity: The Empress Dowager Cixi lived to watch a movie, and the discovery of electromagnetic waves and their use in communications were just around the corner. But if a prophet of that era had predicted that within a hundred years, there would be a little gadget, just a hair bigger than a snuffbox, whose bearer could speak to anyone else holding one, even if that person was on the other side of the planet—people would certainly have thought that they were dreaming. Such an artifact could only have been a mythic, holy object, like the flashlight described at the beginning of this essay, left behind in the Song Dynasty. Yet now, there’s one of these magic artifacts in each person’s pocket.

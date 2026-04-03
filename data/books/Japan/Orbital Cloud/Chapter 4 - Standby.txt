@@ -1,0 +1,687 @@
+4 Standby
+
+
+
+
+                        Sun, 13 Dec 2020, 02:03 -0700 (2020-12-13T09:03 GMT)
+
+
+The Buffalo Café, Colorado Springs
+
+
+
+
+                        “… Two! One! Liftoff!”
+
+
+                        The shining white rocket on the television screen burst through pale cloud cover into the night sky. The patrons in the Buffalo Café raised their glasses as one and cheered. Though it was the middle of the night, this steak house five minutes from Peterson Air Force Base was alive with celebration. Beer foam flew as the clink of glass on glass rang out across the room.
+
+
+                        Freeman could only shrug at the racket. Bruce had his fingers in his ears. Beside him, Chris sipped her martini with unbelievable composure.
+
+
+                        The television cut to a close-up of Judy Smark screaming with joy as tears ruined her makeup. A merciless chorus of whistles and boos rose from the audience in the steak house as they rewatched the special news feature on Loki 9’s launch that had played half an hour earlier. Then the television cut again, to an ex-chief of NASA rhapsodizing on the dawn of private space tourism, and the crowd began to settle down.
+
+
+                        Bruce, wearing a leather jacket instead of his usual suit, raised his glass perfunctorily to another patron coming from the counter. “Should have expected this from a NORAD town,” he said.
+
+
+                        “No kidding,” said Chris, looking up from her martini glass. “And it’s been how many years since Cheyenne Mountain closed down? Amazing.” Her white hair was down, and she’d changed into a floral-print dress that made her look like a retiree come to drag her irascible husband home from his local watering hole. No one would have imagined that she was with the CIA.
+
+
+                        She turned to Freeman, setting her glass down with a smile. “Sorry about calling you here in the middle of the night,” she said.
+
+
+                        “There’s no need to apologize, ma’am,” Freeman replied. “How can I be of assistance?”
+
+
+                        “First of all, by explaining this,” Bruce said. Without putting down his glass, he pointed both index fingers at the ceiling, then at Freeman, then off to the left. “Lintz and Fernandez did this routine for you. Tell me what it means.”
+
+
+                        Freeman scratched his head. Of course they’d noticed. He saw no point in lying. “It’s a runway hand signal,” he said. “You actually do it like this.”
+
+
+                        He set his glass on the table and showed them the signal with both arms fully outstretched. This caught the attention of a bearded man leaving the counter.
+
+
+                        “Hey, you with the air force, pal?” he asked. “ ‘Proceed at your own discretion.’ My favorite signal too!”
+
+
+                        “Cheers, Pops,” Bruce said, inclining his glass and flashing a dazzling smile at the man. Then he turned back to Freeman. “Got it,” he said. “ ‘We leave it up to you,’ basically?”
+
+
+                        Freeman nodded cautiously.
+
+
+                        “Don’t worry,” Bruce said. “We’ve been around the block a few times ourselves.”
+
+
+                        Chris pulled out her phone, apparently no more concerned about the subterfuge than Bruce was. “We don’t care what you do on the side as long as you get that Rod from God research done,” she said. “We didn’t come here to make friends.”
+
+
+                        “Rod from God?” Freeman repeated. “You mean that idea about bombarding Earth with tungsten spears? Like I said earlier today, the very idea is absurd.”
+
+
+                        Bruce tossed back the last of his martini. “Hold up there,” he said. “We don’t just want to know if it’d really make a good weapon or not. We want to know everything. What kind of strategic range its movement implies. How long it can keep maneuvering. Whatever you can tell us.”
+
+
+                        “You want an assessment of the object as a spacecraft,” Freeman said.
+
+
+                        “Starting to sound more interesting?”
+
+
+                        “A little,” Freeman said, with a calculated laugh. He brought his ginger ale to his lips, but Bruce raised a finger.
+
+
+                        “One more thing,” Bruce said. “The ASM-140. You wrote the report, so let me pick your brain directly. Why was such a brilliant idea mothballed in the first place? We could have been shooting down enemy satellites with fighter planes right now. How awesome would that have been?”
+
+
+                        “Debris,” Freeman said. He leaned in toward Bruce so that he could speak more quietly. Chris casually huddled in closer as well. “You might say that the whole problem of space debris started with ‘the flying tomato can’—the predecessor to the ASM-140.”
+
+
+                        “Solwind,” Chris said.
+
+
+                        “You’re already familiar with it?” Freeman asked.
+
+
+                        “Just tell us about it,” said Bruce. “We want to hear it from a real, live human.”
+
+
+                        Freeman gave them the basics. In 1985, the ASM-135, a.k.a. “the flying tomato can,” had been tested on P78-1, a decommissioned solar-observation satellite also known as Solwind. The test of the flying tomato can as an antisatellite weapon was successful—the satellite had been destroyed. The resulting dispersal of fragments and debris, on the other hand, had posed a threat to the burgeoning private space industry. Not to mention the fact that even the army had been horrified to see how easy, cheap, and effective the ASM-135 was—an ASAT weapon that didn’t even need a launching facility.
+
+
+                        The ASAT plan had been canceled, with the army citing that old cliché, “budget overruns.” The truth had to be kept from the Soviets at all costs, though hiding things that were already in orbit wasn’t easy.
+
+
+                        “Okay,” Bruce said. “So what’s the takeaway? Can we throw this new ASM-140 at the Rod from God?” His smile didn’t reach his eyes.
+
+
+                        Freeman felt something at his back: the sofa. He must have gone weak with surprise. “You mean,” he said, “you put together that plan—‘Seed Pod,’ was it?—without even looking into that?”
+
+
+                        “Well, it wasn’t my plan,” Bruce said. He took a gulp of the bourbon that had just arrived for him. “It came from somewhere higher up. We’re just the worker bees. When we went to ask NASA about SAFIR 3, we got the debris lecture. It’s a bit unnerving to have the Smarks up there too. We could hardly ask Colonel Lintz about that.” He gave Freeman a disarming smile. “Come on, give us the lowdown. How does the ASM-140 tick?”
+
+
+                        “Can I leave out everything up to the launch?” Freeman asked. “That part’s exactly the same—take it above twenty thousand klicks and point it at the target. The first stage can accelerate to Mach 7. The second stage is an Altair 3 rocket that can reach Mach 14. That’s 40 percent faster than the ASM-135.”
+
+
+                        Bruce wasn’t writing anything down, but Freeman could see the gleam of understanding in his eyes. He couldn’t help but think back on the time he’d given the same explanation to Major Fernandez with less satisfying results.
+
+
+                        “Let’s say this is the target satellite,” Freeman said, holding up his index finger and moving it in a slow horizontal line. He then let his left hand approach it at an angle from below. “The ASM-140 closes with its target from below and hits it from the front. If the target is the Rod from God, the final relative velocity would be ten klicks per second. But …” He opened the fingers of his left hand as if to grasp his right index finger. “… five klicks from the target, the ASM-140 launches an electronic attack. Two klicks from the target, it fires a volley of slugs, like a shotgun. The aim isn’t to destroy the satellite, just to render it inoperative, either with ECM or by riddling it with holes.”
+
+
+                        “So that’s why the plan’s called ‘Seed Pod,’ ” said Chris, nodding.
+
+
+                        “It’s not a bad name,” Freeman said. “The slugs are just three millimeters in size. The attack really is like a barrage of seeds from one of those plants with an explosive pod.”
+
+
+                        “Three millimeters, though?” Bruce held his thumb and finger close together. “If slugs that tiny hit at that velocity, wouldn’t the energy just vaporize them? They couldn’t get through composite armor.”
+
+
+                        Freeman was startled that Bruce knew as much as he did. Not to mention the fact that he was right. Armor was standard in orbit. The International Space Station had three layers protecting its front end: an innermost airtight wall, a Kevlar fiber layer, and a thin shield of gold known as a Whipple bumper on the outside. Any tiny pieces of debris that hit the station were vaporized by the heat of the collision. They might punch a hole in the bumper and the Kevlar layer, but the airtight wall would never suffer more than a dent. And a Whipple bumper was standard equipment even on an unmanned satellite. It worked on the same principle as composite armor.
+
+
+                        “Bruce used to drive a tank,” Chris said. “The CIA took pity on him and took him in because he looked so cramped in there.”
+
+
+                        She was joking, but it was true that the ASM-140’s armor-piercing slugs worked on a similar principle to antitank missile warheads designed to penetrate the composite armor of their targets.
+
+
+                        “Let me guess,” Bruce said. “There’s ‘heavy metal,’ ” Bruce said, making quotation marks with his fingers, “at the core of each slug. Am I wrong?”
+
+
+                        “No,” Freeman said. “The cores are heavy, all right.”
+
+
+                        Bruce scratched his head. “But that doesn’t make any sense. Depleted uranium in new technology?”
+
+
+                        This was the dark side of the ASM-140. There was no way around it: depleted uranium was notoriously harmful to human health. The plans had originally called for tungsten instead, but Lockheed, who owned the patent on depleted uranium, had craftily pointed out that tungsten was produced in a competing nation: China.
+
+
+                        “One small consolation,” Freeman said, “is that the slugs have basically no orbital velocity. They fall into the atmosphere and burn up right away.”
+
+
+                        “And become shooting stars,” Bruce said. “Okay, next: What happens at the moment we kill the satellite? Can other countries see what’s happening?”
+
+
+                        “Surely the CIA must know better than me?” Freeman said. “Military satellites from all over the world are constantly watching the North American continent. The launch of ASM-140 will be out in the open for everyone to see.”
+
+
+                        “Daryl,” Chris broke in. “To keep North America under constant observation, you need geosynchronous satellites in the right place. Only a handful of countries operate satellites like that: Russia, China, the UK, and France. We just need to make sure everyone gets the right message behind the scenes.”
+
+
+                        This was news to Freeman.
+
+
+                        “Besides, if we can get a UN resolution to eliminate the Rod from God, it doesn’t matter whether we’re spotted doing it or not,” Chris continued. “That’s why we need you to prove that this object SAFIR 3 is an orbital weapon. It’s a big responsibility.”
+
+
+                        Freeman looked up at the soot-smudged ceiling. I should have known.
+
+
+                        How could he get them to understand how ridiculous it would look to send up a cutting-edge weapon to take care of a single empty rocket body?
+
+
+
+
+
+
+
+
+
+
+Sun, 13 Dec 2020, 02:14 -0800 (2020-12-13T10:14 GMT)
+
+
+A Seattle Hotel
+
+
+
+
+                        The commercial for some local business ended, and the screen filled with yet another shot of Loki 9 blasting off while the announcer groped for yet another way to say “amazing.” The third or maybe fourth “cool” was the last straw for Shiraishi.
+
+
+                        “We’re in a hotel,” he said. “Can’t we at least watch cable?”
+
+
+                        “No,” Chance replied. “And even if we did, you’d just complain about their coverage instead.” One of her first acts as Shiraishi’s handler had been to cancel his cable subscription. Not only did the contract contain a record of his address, the cable company also had a deal with the CIA to supply data on everything their customers viewed. Even in hotels, Chance herself only watched broadcast television. If you couldn’t receive it with a regular television set, she wasn’t interested.
+
+
+                        As Chance reached out for the remote to switch the television off, she noticed light spilling from her editor’s bag. She pulled out her tablet and checked the notifications.
+
+
+                        “It’s here,” she said. “The results of our investigation into Meteor News.”
+
+
+                        “They work fast at the Cyber Front, I’ll give them that. It hasn’t even been four hours. So what did they learn?”
+
+
+                        “All they’ve found out is that it’s run by a single person, one Kazumi Kimura. Domain registrations and all other public information use the details of a shared office space attached to Shibuya Station in Tokyo. The phone number and address are both just forwarding services, untraceable to any particular address. He’s well hidden.”
+
+
+                        Taking the tablet from her, Shiraishi rubbed his chin. “So either he’s a security freak, or he’s hired an engineer who knows what he’s doing in that area … Probably wouldn’t fall for a spear phishing attack either. Hey, what about this number?”
+
+
+                        He showed Chance a web page he’d found after a few searches: Mary@Fool’s Launchpad. With a smile, he reached out and tapped at a phone number on the page.
+
+
+                        “ ‘English customer support,’ it says here. Give her a call, Chance. I think this just might be the chink in Kazumi’s armor we’re looking for.”
+
+
+                        Chance pulled out her phone, set it to speakerphone, and tapped in the number. They heard it ring three times before the other end picked up.
+
+
+                        “English reception, Fool’s Launchpad, this is Mary Nomura,” came a voice in smooth English.
+
+
+                        “Hello, Mary.”
+
+
+                        “Our business hours for today are over,” the voice continued. “If you would like to leave a message for an individual service, please press …”
+
+
+                        Chance listened for a few more seconds, then muted the mic.
+
+
+                        “Meteor News is number five. Can I hang up?”
+
+
+                        Shiraishi nodded, closed his eyes lightly, and turned his head gently from side to side.
+
+
+                        “Let’s see … Right now in Tokyo it’s Sunday night. After dinner tomorrow, let’s try to get all the information about Kazumi we can out of our new friend Mary. I’ve dealt with these outfacing English-speaker types before. They don’t care who their client is—they’ll take the side of whoever speaks better English. They’ll blab anything if they think it’ll impress. Notification for you, by the way.”
+
+
+                        A new message alert had appeared on the tablet: Surveillance target Doctor Jamshed Jahanshah has made contact with an individual outside Iran.
+
+
+                        Chance took the tablet back from Shiraishi and checked the details. It seemed that Dr. Jahanshah had sent the space tether paper to a recipient outside Iran. The Iranian authorities had detected the transmission and shared the information with North Korean intelligence.
+
+
+                        Her hand tightened around the table. The IP address the papers had been sent to was linked to a shared office space in Shibuya called Fool’s Launchpad.
+
+
+                        “Not bad, Kazumi,” Shiraishi said, chuckling and shaking his head. Chance shot him a look before deciding on a particular operative they had stationed in Tokyo.
+
+
+                        “I’ll have someone pay them a visit when we call Mary,” she said. “I think this is something we need to discuss in person.”
+
+
+
+
+
+
+
+
+
+
+Mon, 14 Dec 2020, 09:25 +0900 (2020-12-14T00:25 GMT)
+
+
+Fool’s Launchpad, Shibuya
+
+
+
+
+                        Kazumi sat in the window seat he’d managed to snag and spread out the supplies he’d bought at the Tokyu Hands department store the previous night just before it closed. A magnetic sheet, two foot-long copper rods, a battery box complete with a switch, an acrylic plate, double-sided tape, and a sewing needle.
+
+
+                        He got to work. First, he used the double-sided tape to stick the two well-polished copper rods to the acrylic plate. He arranged them in parallel, like two rails. Next, he laid down a narrow strip of magnetic sheet in the gap between the rods. Finally, he connected the copper wires extending from the battery box to the ends of the rails.
+
+
+                        Done. All that remained was to place the needle across the rails and turn the device on.
+
+
+                        What he had created was a miniature version of the design at the top of the PDF he’d received from the man calling himself Jay the previous night: “An Overview of the Continuous Space Tether, with Experimental Results.” The paper was credited to Fahim Hamed and Jamshed Jahanshah as coauthors, and Kazumi suspected that it had been the latter who had contacted him. Only about a quarter of the PDF had been recoverable, but he could tell even from the abstract that the ideas in it were quite advanced. Having no background in electrical engineering, Kazumi had not really been able to understand the circuit diagrams and equations that filled the second half of the paper, but he was still buzzing with the thrill he’d felt when he had worked out what Jamshed’s awkward English was getting at.
+
+
+                        Kazumi carefully placed the sewing needle on the rails, then flipped the switch on the battery box to on.
+
+
+                        The needle quivered, then began to roll along the rails. A body had been set in motion through electric current alone. Success! He understood the theory, but seeing the needle move in front of his eyes made it real. It was barely as strong as a breath, but this was the Lorentz force—the force that drove Jamshed’s space tether propulsion system.
+
+
+                        “What’s that, a rail gun?” Watanabe was peering over his shoulder.
+
+
+                        “Sorry, I’ve made a bit of a mess. I’ll clear it up before I go home.”
+
+
+                        “It’s no problem. You’re here every day anyway. Just leave a reservation card on the desk. You sure were concentrating hard, though. Actually, I have a favor to ask …”
+
+
+                        Watanabe showed him a tablet displaying a wireframe website layout. He always had multiple website contracts going on at once and made a point of sharing them with other members of Fool’s Launchpad. Kazumi had accepted his share of the subcontracting as well.
+
+
+                        “I’m sorry,” Kazumi said. “I appreciate the offer, but for the next month or so I’m going to focus on this. I’ve already got enough to cover my expenses.”
+
+
+                        “That’s too bad,” Watanabe said. “You do great work on these sites—the little details, you know?” He peered at the experimental apparatus again with obvious interest. “This is a model rail gun, right? Is Meteor News expanding into weaponry now?”
+
+
+                        “Good morning, Watanabe-san!” A miniature landslide of electronic devices clattered onto the table opposite Kazumi. Akari had arrived.
+
+
+                        “Good morning, Akari,” said Watanabe. “Thank you so much for last week—that settlement business. The client understood when I put it to them the way you told me to. Please don’t hesitate to set me straight again in the future.”
+
+
+                        Kazumi was impressed with how quickly Watanabe could admit that he had been wrong, especially after how thoroughly Akari had embarrassed him at the AMX last week. Here was a real adult.
+
+
+                        “No, no, I should have been more tactful about it,” said Akari. Then she turned her eyes to the experimental apparatus, two copper rods hooked up to batteries. “What’s that?” she asked Kazumi.
+
+
+                        “An experiment,” Kazumi said. “I’m trying to get my head around this space tether thing.”
+
+
+                        “What’s a space tether?” Watanabe asked, looking to Kazumi for answers. The man could hardly be expected to just walk away at this point, so Kazumi decided to use this as an opportunity to learn how well he had come to understand the space tether. Trying to explain something to other people, he knew, was the truest test of your own understanding.
+
+
+                        “The space tether is a kind of conductive tether system,” he began. “An engine for use in space, especially in orbit around planets with magnetic fields. Have you heard of the Lorentz force?”
+
+
+                        Akari shook her head, but Watanabe nodded. “This thing, right?” he said, holding up his left hand with a hint of smugness. His thumb was pointed at the ceiling, his index finger straight forward, and his middle finger off to the right: each digit was orthogonal to both of the others. “Fleming’s left-hand rule. Middle finger is the direction of the current, index finger is the direction of the magnetic field, thumb is the force on the object. What? Engineering was my major.”
+
+
+                        “Sorry,” said Kazumi. “I didn’t realize that.”
+
+
+                        “It’s fine, it’s fine. So, what about the Lorentz force? If that’s your engine, then I guess the lines go like …” Watanabe twisted his wrist to get his thumb parallel to the rails. His index finger—the magnetic field—pointed straight down, while his middle finger—the electric current—pointed in the same direction as the needle.
+
+
+                        “Thanks. That’s right,” Kazumi said. He put the needle on the rails again and hit the switch. The needle trembled and rolled along the rails. “So what this experiment shows is the needle moving through the magnetic field created by the magnetic sheet as current flows through it. The space tether does this too, but in space.”
+
+
+                        Kazumi picked up the needle between his right thumb and index finger. After a moment’s thought, he held it vertically.
+
+
+                        “Let’s say that this is a metal cord—a tether—floating vertically in orbit around Earth.”
+
+
+                        Watanabe and Akari nodded.
+
+
+                        Kazumi moved the fingers of his left hand in a plane that passed through the needle. “This is the magnetic field,” he said. “It’s guaranteed to be there if you’re close enough to Earth. So, you pass a current through the tether, and the Lorentz force comes into play.”
+
+
+                        Kazumi moved the needle to the left.
+
+
+                        “I get it,” Watanabe said. “But wait. It’s a current, right? If there’s no circuit, how can electricity flow?”
+
+
+                        Akari tilted her head in confusion, but Kazumi appreciated the question.
+
+
+                        “You put an electron gun at one end of the tether,” Kazumi said. “The tether spits out electrons from that end and attracts free electrons from its surroundings at the other. The result is a direct current.”
+
+
+                        The propulsive force was small, but because no fuel was required at all, you could use the tether to keep satellites in low orbit from losing velocity to the atmosphere and falling to Earth. JAXA was also investigating techniques for attaching the tether to debris objects and intentionally propelling them down into the atmosphere to burn them up.
+
+
+                        “What I’m investigating is a slightly unusual system thought up by an Iranian scientist. In orbit, tidal forces mean that a long object like a tether stands upright. But that means that the direction of the Lorentz force is decided by the magnetic field.”
+
+
+                        Kazumi turned the needle over onto its side and pointed it in one direction, then another.
+
+
+                        “So Dr. Jahanshah thought up a self-rotating tether-propulsion system. And he called it the space tether.”
+
+
+                        If the tether could be turned horizontal, the Lorentz force could be made to act in any direction. The concept of a self-rotating inductive tether wasn’t original to Jahanshah, but what made his unique was that the weight that moved on top of the tether was constantly unstable. The system was constantly trying to right itself under the tidal forces; if you kept it unstable and in motion, slight Lorentz forces were continuously being generated, and these could be fed back to drive rotation.
+
+
+                        Akari’s eyes sparkled. “If it can rotate itself, then it can move anywhere in orbit, and it’ll always be pulled tight. Using a moving weight to make it unstable is a bit brute-forcey, but I bet it works fine. Wait—so that’s what … ?”
+
+
+                        “Right,” said Kazumi. “That’s what the objects flying around SAFIR 3 are.”
+
+
+                        Noticing Watanabe’s quizzical expression, Kazumi explained about the ten thousand–plus objects in orbit, mentioning that they weren’t in the catalog that contained everything ten centimeters or longer.
+
+
+                        “Well, they must be smaller, then,” Watanabe said. He reached into his pocket and pulled out his smartphone. “All a tether needs at its end is an electron gun, a GPS, and a gyro sensor, right? That would all fit on a smartphone board. Use a Qualcomm chipset and it’d be the size of a five hundred–yen coin.”
+
+
+                        Akari nodded.
+
+
+                        All at once, the space tether appeared before Kazumi in his mind’s eye. He could see it: a line two kilometers long with a tiny object at each end, maybe a two-inch cube. A resin case. That wouldn’t show up on debris-tracking radar, which explained why it wasn’t in the catalog. It was unnerving to not know who was flying those things, and why, but there wasn’t much he could do to remedy his ignorance in that area.
+
+
+                        “Well, you’ve got an interesting problem there, Kazumi,” Watanabe said cheerfully. “Congratulations. The month will fly by. If there’s anything I can help with, let me know. And—”
+
+
+                        There was a flash of light and a noise somewhere between a pop and a click. As they turned their heads to the source of both, they heard Mary scream. There she was, hugging the counter she’d redecorated to look like a café.
+
+
+                        “Shit,” Watanabe said. “Not again. Excuse me.”
+
+
+                        He ran off toward the counter, calling out to see if Mary was okay. The fire alarm shrieked. Watanabe quickly told one of the other Fool’s Launchpad residents what to do, then went to hold back the security staff running toward the commotion. “It’s just the microwave!” he said. “False alarm!” Watanabe wasn’t paid to deal with situations like this, but his sense of responsibility wouldn’t let him ignore them.
+
+
+                        “Mary was probably trying to dry out some papers in the microwave but forgot to take the paper clip off,” Kazumi said with a grimace. “You probably didn’t know this, but this’d be the third time she’s done that. When she isn’t too busy spilling her coffee.”
+
+
+                        “It’s no joke,” Akari said. “What if she really does start a fire? Just how dumb is she?”
+
+
+                        Kazumi decided to let that one go.
+
+
+                        “Why do sparks fly when you microwave something metal, though?” Akari wondered.
+
+
+                        “When you switch the microwave on, current runs through the metal. The sparks are the discharge. Which reminds me.” Kazumi put the needle back on the rails and rolled it with his finger. “A conductor passing through a magnetic field generates an electric current too, right? So if a space tether is in orbit, that orbit alone would generate current. In this paper by Jahanshah, he recommends using that to charge it for later use.”
+
+
+                        Akari’s eyes went wide. “You mean it could stay up there forever?”
+
+
+                        “In theory, yeah,” Kazumi said. “Battery degradation would bring it down eventually.” That would take decades, though.
+
+
+                        “So it can move around freely and stay in orbit indefinitely. That’s amazing. Scary, too.”
+
+
+                        “I’m going to try to get in touch with JAXA. If I can set up a meeting, can I borrow the planetarium from yesterday?”
+
+
+                        “Sure, but can I ask a favor in return?”
+
+
+                        Akari pulled a tablet out of her mountain of gadgets and woke it up. The screen showed the Meteor News web page. Akari pointed at the Kitten Master banner in the advertising box.
+
+
+                        “This ad pays really well, but can I set the page to not display it for a while?”
+
+
+                        “Huh?”
+
+
+                        “There’s something funny about it. It looks like the image has script fragments embedded in it.”
+
+
+                        “Could it be a virus or something?”
+
+
+                        Only strictly vetted items were transmitted for web advertising. Was it possible that some executable fragments had made it through that screening and onto his page?
+
+
+                        Akari put the tablet to one side and swept her gadgets out of the way to make room to work. “Maybe. I’ll look into it.”
+
+
+
+
+
+
+
+
+
+
+Mon, 14 Dec 2020, 10:03 +0900 (2020-12-14T01:03 GMT)
+
+
+JAXA Tokyo Office, Ochanomizu Sola City
+
+
+
+
+                        “Wish there was more to do around this place,” sighed Sekiguchi, tapping aimlessly at his tablet in the seat opposite Kurosaki.
+
+
+                        Kurosaki looked up. Sekiguchi had only been in the office an hour. “Don’t you have work to do? Did you reply to the observatory?”
+
+
+                        “I got the techs to reply on Friday. You were in CC.”
+
+
+                        Kurosaki shrugged. Sekiguchi was a fast worker and a solid thinker. The Japanese translation of North Korea’s declaration he’d prepared for the space policy minister’s talking points had saved the minister serious embarrassment. Kurosaki wondered if everyone on the bureaucratic career track was this sharp. Sekiguchi wasn’t exactly polite, but he was tactful enough not to hound his superiors about whether they’d read the mail he sent or not.
+
+
+                        “I didn’t spend much time on the reply from our side,” Sekiguchi continued. “Do you want to take a look?”
+
+
+                        There was a mischievous look in his eyes. He was trying to draw Kurosaki in. The mail had probably been overfamiliar—Sekiguchi thinking he could skip the politeness because of a shared interest in space.
+
+
+                        “I’ll pass,” Kurosaki said. “What about Wyvern, then?”
+
+
+                        “Already on top of it,” Sekiguchi replied. “Good for them, getting into orbit, right? I guess they’ll open the hotel soon. Here’s hoping all goes as planned.”
+
+
+                        No doubt he was collecting information on Ronnie Smark in English. Not that he would brag about that. For Sekiguchi, English was a bare-minimum skill. He’d mentioned once that he’d traveled around the world as a student, and Kurosaki could see him cheerfully getting his way wherever he went, just like he did now.
+
+
+                        Sekiguchi sighed. “What a life, right? Private spaceflight. Wish we could publicize some of the Japanese tech on the Wyvern. The orbital hotel Miura folds for storage, doesn’t it? Was it the IKAROS that used Miura folds too? … What, did I say something wrong?”
+
+
+                        “No,” Kurosaki said. “Just surprised you know about that.”
+
+
+                        “I’m only going to be in JAXA for four more years. I have to bone up while I can. I learn a lot from Judy’s blog, too.”
+
+
+                        “Better make sure no one else hears you say that.”
+
+
+                        There was grumbling throughout the office, right down to the smoker’s area, that there wasn’t a more substantial source chronicling the historic human achievement taking place in orbit right now. Fair or not, it didn’t help that the Japanese translation was being published on a news site marketed to women.
+
+
+                        “Really?” Sekiguchi asked. “But why? A lot of information about Wyvern is released for the first time on that blog. Like how its fuel comes from shale gas. I was actually surprised that Wyvern can connect to the Internet at all.”
+
+
+                        Kurosaki was taken aback. You could find stuff like that on that blog? Not even the engineers had mentioned that to him.
+
+
+                        “Judy’s blog is written in perfect PR style,” Sekiguchi continued. “I’ve read some of her work for political journals, and it was the real thing. Can’t wait to see what she puts up about the orbital hotel. A soft-shell spacecraft? There must be all kinds of trade secrets in there.”
+
+
+                        Sekiguchi was already looking back down at his tablet. Reading the blog in question, maybe?
+
+
+                        “She’s no lightweight, that’s for sure,” said Sekiguchi. “This is a mission planned by the Ronnie Smark. He’s not the type to bring his daughter along just because she asked nicely. I mean, he divorced her mother fifteen years ago, so this isn’t your standard parent-child relationship.”
+
+
+                        Kurosaki opened the Project Wyvern website and clicked on Judy’s profile. Her picture smiled back at him from the page.
+
+
+                        “She might be related to him by blood, but she’s only up there because she showed real ability,” Sekiguchi added.
+
+
+                        Kurosaki knew he was right. Judy Smark had been competing with every other journalist in the world for the gig as embedded writer on the first-ever commercial space journey. She clearly knew what she was doing.
+
+
+                        “This ‘iron hammer’ and ‘Rod from God’ thing couldn’t have come at a better time, that’s for sure,” Sekiguchi said.
+
+
+                        Kurosaki nodded. Over the weekend, the comments section on the Geeple article had exploded. The most popular topic had been whether the Rod from God was aimed at the ISS or Ronnie’s orbital hotel.
+
+
+                        “It’d be scary to think that someone might have it in for you like that,” Sekiguchi said. “The orbital hotel is supposed to connect to the Internet today, so they’re about to learn all about it. Let’s hope Astrogirl is up to the challenge.”
+
+
+                        “Yeah,” Kurosaki said. “Maybe I’ll start reading, too. Whoa—excuse me.”
+
+
+                        His jacket pocket had vibrated. His private phone, not the one from JAXA. He stood up. Sekiguchi made fun of him for it, but he hated dealing with private business in front of coworkers. He turned his face toward the document cabinets and pulled out his phone. The mail subject line hit him at once:
+
+
+                        Information on multiple orbital objects around SAFIR 3 / Invented by Iranian scientist
+
+
+                        From … Kazumi Kimura. He knew Kimura. A younger man. Came to JAXA’s data hackathon every year.
+
+
+                        “What a coincidence,” Kurosaki said. “It’s from Japan’s own Astroboy.”
+
+
+                        “You move in exalted circles, Boss,” Sekiguchi said.
+
+
+                        “What can I say? According to this, our friend’s got information about SAFIR 3.”
+
+
+                        He raised his hand so that Sekiguchi could see the screen from behind him and unlocked the phone. The mail appeared on the screen. It was in Kimura’s usual polite style, but it started off with a string of terminology Kurosaki was unfamiliar with.
+
+
+                        “Inductive-tether system? Space tether?” Kurosaki said.
+
+
+                        “Oh—that’s that thing they were working on at Sagamihara,” Sekiguchi said.
+
+
+                        Kurosaki turned to face Sekiguchi.
+
+
+                        “That research about deorbiting debris, wasn’t it?” Sekiguchi said. “They had a prototype but no budget. Did an experiment using the HTV a few years ago but never followed it up.”
+
+
+                        “I remember now,” Kurosaki said. The memories that came to him were not pleasant ones. An old friend who would later abandon Japan had argued passionately for the spacecraft, but even within JAXA it had essentially been buried. The three remaining researchers on the project had to keep up their maintenance on a satellite that would never fly, just to hold on to what amounted to a pity budget. Five, no, ten years wasted, for everyone involved.
+
+
+                        “So the tether—what about it?” asked Sekiguchi.
+
+
+                        “It’s in orbit,” Kurosaki said. “Times ten thousand.”
+
+
+                        Sekiguchi leaned forward. “Who’s the mail from? Where’d they get that idea?”
+
+
+                        “Kazumi Kimura. Runs a website called Meteor News.”
+
+
+                        Kurosaki was about to read off the URL, but Sekiguchi beat him to it with “Found it!” A fast typist, too.
+
+
+                        “Wow, this is hard-core,” Sekiguchi said. “Is this guy Japanese? We need someone like him on our site’s design team. Looks like the most recent blog entry is the one we want. Says he found something unusual in the data from the X-Man—the guy who discovered the Rod from God. Nothing about any space tether, though.”
+
+
+                        “When was it posted?”
+
+
+                        “Two days ago. Saturday.”
+
+
+                        “Maybe that’s what this Iranian scientist saw. Apparently Kimura got a video call from Iran yesterday—a scientist who told him that the mysterious objects up there were running on space tether technology. Sent Kimura some papers, too, but the connection was cut halfway through. Sounds fishy to me.”
+
+
+                        “Do you know what time yesterday?”
+
+
+                        “Evening, I guess?”
+
+
+                        “Case closed,” Sekiguchi said. He turned his tablet to show Kurosaki his screen: video footage of a man pulling blue shutters down over an Internet café. “Yesterday, at 5:30 p.m. Japan time, Iran cut off all access to the Internet. Kimura’s story checks out. We may as well see what he has to say. What have we got to lose? I’ll set up a meeting.”
+
+
+                        “Not too boring for you?”
+
+
+                        “Even if it is a red herring, it’s an interesting one. I like this Meteor News site, too. Maybe we can hook him up with some JAXA data, use our kind donation for PR somehow. You’re free first thing this afternoon, right?”
+
+
+                        “Uh …” Kurosaki opened his groupware schedule with a sigh. His eyes opened wide when he saw that a trip to Shibuya was already scheduled for 1:00 p.m. “Hey!”
+
+
+                        “I took the liberty,” Sekiguchi said. “Looks like Kimura’s office is in a building connected directly to Shibuya station. Let’s get lunch on the way.”
+
+
+
+
+
+
+
+
+
+
+2020-12-14T01:30 GMT
+
+
+Project Wyvern
+
+
+
+
+                        Good morning! Good evening!
+
+
+                        I just woke up. I’m looking at America for the fifth time today through the Wyvern’s sole porthole. Seeing the outlines of Earth is such a shock to the system. The atmosphere’s a crisp blue line no thicker than a fingernail. At sunrise and sunset, the hills and valleys of the clouds and the ground below are all thrown into relief by bright scarlet light.
+
+
+                        And we’re in zero gravity! … is what I want to write, but my science grip Rob would get mad at me, so I’d better explain it properly. It’s true that if I let go of the mission check sheet I’m holding, it floats. I feel weightless myself. My ponytail’s waving back and forth. But even here in the Wyvern, orbiting the Earth at seven kilometers per second 350 kilometers up, gravity isn’t entirely absent.
+
+
+                        Technically, we’re in free fall. The Wyvern is falling toward Earth, pulled down by about 80 percent of the gravitational pull at the surface. But it never gets any lower, because we received enough velocity from Loki 9 and the rotation of the Earth at blastoff to keep moving sideways instead of just down. Imagine throwing a ball as hard as you can—it lands pretty far away, right?
+
+
+                        We’re basically an orbital-scale home run.
+
+
+                        I wish I could write more, but Ronnie is giving me one of his looks, so I’ll wrap it up. It’s going to be a busy day. We’re going to unfold the orbital hotel in the docking bay and get it connected to the Internet. I was involved in the decision-making, but our access might be even faster than what you get on an airliner. A high-speed connection through a combination of Elysium and Global Satcom lines!
+
+
+                        And why will I be busy, you ask? Because a certain IT billionaire glaring at me right now doesn’t know how to set up his own wireless router. Oops—did I just violate my NDA?
+
+
+                        See you all in six hours!
+
+
+                        I hadn’t planned to write more, but I guess I can’t stay silent on this one. Yes, I saw the launch video. According to this one email from the project staff, my screaming has been viewed more than two million times. I do wish I hadn’t looked that much like a zombie with the drool and the tears … No, I’ll be honest: it’s incredibly embarrassing. I’d be happy never to see that video again. But I guess it’s destined for the textbooks of the future.
+
+
+                        Which gives me a new goal for the mission: do something impressive and meaningful enough to make that the image people have of me. Wish me luck!
+
+
+                        Yours from 350 km up,
+
+
+                        Judy Smark

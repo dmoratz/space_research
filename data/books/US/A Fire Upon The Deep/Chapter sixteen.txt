@@ -1,0 +1,225 @@
+sixteen
+
+
+The next few weeks went surprisingly well. Despite the Pham Nuwen debacle, Blueshell and Greenstalk were still willing to fly the rescue. Vrinimi Org even kicked in some extra resources. Every day Ravna took a tel-excursion to the repair yards. The Out of Band II might not be getting any Transcendent enhancements, but when the refitting was complete, the ship would be something extraordinary. Now it floated in a golden haze of 'structors, billions of tiny robots regrowing sections of the hull into the characteristic form of a bottom-lugger. Sometimes the ship seemed to Ravna like a fragile moth ... and sometimes an abyssal fish. The rebuilt ship could survive across a range of environments. It had the spines of an ultradrive craft, but the hull was streamlined and wasp-waist-the classic form of a ramscoop ship. Bottom-luggers must troll dangerously near the Slow Zone. The Zone surface was hard to detect from a distance, even harder to map; and there were short-term position changes. It was not impossible for a lugger to be trapped a light-year or two within the Slowness. It was then you'd thank goodness for the ramscoop and the coldsleep facilities. Of course, by the time you returned to civilization you might be completely out of date, but at least you could get back.
+   Ravna floated her viewpoint through the drive spines that spread out from the hull. They were broader than those on most ships that came to Relay. They weren't optimal for the Middle or High Beyond, but with appropriate (i.e., Low Beyond) computers, the ship would fly as fast as anything when it reached the Bottom.
+   Grondr let her spend half-time on the project, and after a few days Ravna realized this was not just a favor. She was the best person for this job. She knew humans, and she knew archive management. Jefri Olsndot needed reassurance every day. And the things Jefri was telling her were immediately important. Even if everything went according to plan-even if
+
+
+the Perversion stayed completely out of it-this rescue was going to be tricky. The kid and his ship seemed to be in the middle of a bloody war. Extracting them would mean making instantly correct decisions and acting on them. They would need an effective onboard database and strategy program. But not much could be expected to work at the Bottom, and memory capacity would be limited. It was up to Ravna to decide what library materials to move to the ship, to balance the ease of local availability against the greater resources that would be accessible over the ultrawave from Relay.
+   Grondr was available on the local net, and often in real time. He wanted this to work: "Don't worry, Ravna. We'll dedicate part of R00 to this mission. If their antenna swarm works properly, the Riders should have a thirty Kb/s link to Relay. You'll be their prime contact here, and you'll have access to our best strategists. If nothing ... interferes, you should have no trouble managing this rescue."
+Even four weeks ago, Ravna wouldn't have dared to ask for more.
+Now: "Sir, I have a better idea. Send me with the Skroderiders."
+   All of Grondr's mouthparts clapped together at once. She'd seen that much surprise in people like Egravan, but never in the staid Grondr. He was silent for a moment. "No. We need you here. You are our best sanity check when it comes to questions about humankind." The newsgroups interested in the Straumli Perversion carried more than one hundred thousand messages a day, about a tenth of that human-related. Thousands of messages were old ideas rehashed, or patent absurdities, or probable lies. Marketing's automation was fairly good at filtering out the redundancy and some of the absurdity, but when it came to questions on human nature Ravna was without equal. About half her time was spent guiding that analysis and handling queries about humankind at the archives. All that would be next to impossible if she left with the Skroderiders.
+   Over the next few days, Ravna kept pushing her boss on the question. Whoever flew the rescue would need instant rapport with humans-human children, in fact. Very likely Jefri Olsndot had never even met a Skroderider. The point was a good one, and it was gradually driving her to desperation-but by itself it would not have changed old Grondr's mind. It took some outside events to do that. As the weeks passed, the Blight's expansion slowed. Just as conventional wisdom (and Old One via Pham
+
+
+Nuwen) claimed, there seemed to be natural limits to how far the Perversion could extend its interests. The abject panic slowly disappeared from the High Beyond communication traffic. Rumors and refugees from the absorbed volumes dribbled toward zero. The people in the Blighted spaces were gone, but now it was more like death in a graveyard than death from contagious rot. Blight-related newsgroups continued to babble about the catastrophe, but the level of nonproductive rehashing was steadily increasing. There simply was very little new going on. Over the next ten years, physical death would spread through the Blighted region. Colonization would begin again, cautiously probing through the ruins and informational traps, and residue races. But all of that was a ways off, and for the moment Relay's Blight "windfall" was a shrinking affair.
+   ... And Marketing was even more interested in the Straumli refugee ship. None of the strategy programs-much less Grondr-believed the ship's secret could hurt the Blight, but there was a good chance it might bring commercial advantage when the Perversion finally got tired of its Transcendent game. And the Tines pack minds had caught their interest. It was appropriate that a maximum effort be made, that Ravna give up her Docks job and go into the field.
+   So, for a wonder, her childhood fantasy of rescue and questing adventure would actually come true. And even more surprising, I'm only half-terrified by the prospect!
+Target[56]:        Im sorry I diddnt anser for a while. I dont feel good a lot. Mister Steel says I should talk to you. He says I need more friends to make me feel better. Amdi says so too and hes my best friend of all.... like packs of dogs but smart and fun. I wish I could send pictures. Mister Steel will try to get ansers for all your questions. He is doing everything he can to help, but the bad packs will be back. Amdi and I tried the stuff you said with the ship. I am sorry, it still doesnt work.... I hate this dumb keybord....
+Org[57]:        Hi, Jefri. Amdi and Mister Steel are right. I always like to talk, and it will make you feel better.... There are inventions that might help Mister Steel. We've thought
+
+
+of some improvements for his bows and flamethrowers. I'm also sending down some fortress design information. Please tell Mister Steel that we can't tell him how to fly the ship. It would be dangerous even for an expert pilot to try....
+Target[57]:        Ya, even Daddy had a hard time landing it. ikocxljikersw89iou43e5 I think Mister Steel just doesnt understand, and hes getting sorta disparate.... Isnt there other stuff, though, like they had in oldendays. You know, bombs and airplanes that we could make?...
+Org[58]:        There are other inventions, but it would take time for Mister Steel to make them. Our starship is leaving Relay soon, Jefri. We'll be there long before other inventions would help....
+Target[58]:        Your coming? Your finally coming!!! When do you leave? When will you get here???
+   Ordinarily Ravna composed her messages to Jefri on a keyboard-it gave her some feeling for the kid's situation. He seemed to be holding up, though there were still days when he didn't write (it was strange to think of "mental depression" having any connection with an eight-year-old). Other times he seemed to have a tantrum at the keyboard, and across twenty-one thousand light-years she saw evidence of small fists slamming into keys.
+   Ravna grinned at the display. Today she finally had something more than nebulous promises for him; she had a definite departure time. Jefri was going to like message [59]. She typed: "We're scheduled to leave in seven more days, Jefri. Travel time will be about thirty days." Should she qualify that? Latest postings on the Zone boundary newsgroups said the Bottom was unusually active. The Tines World was so close to the Slow Zone ... If the "storm" worsened, travel time would suffer. There was about a one percent chance the voyage would take more than sixty days. She leaned back from the keyboard. Did she really want to say that? Damn. Better be frank; these dates could affect the locals who were helping Jefri. She explained the "ifs" and "buts," then went on to describe the ship and the wonderful things they would bring. The boy usually didn't write at great
+
+
+length (except when he was relaying information from Steel), but he really seemed to like long letters from her.
+   The Out of Band II was undergoing final consistency checks. Its ultradrive was rebuilt and tested; the Skroderiders had taken it out a couple of thousand light-years to check the antenna swarm. The swarm worked great too. She and Jefri would be able to talk through most of the voyage. As of yesterday, the ship was stocked with consumables. (That sounded like something out of medieval adventure. But you had to take some supplies when you were headed so far down that reality graphics couldn't be trusted.) Sometime tomorrow, Grondr's people would be loading the ship's hold with gadgets that might be real handy for a rescue. Should she mention those? Some of them might sound a bit intimidating to Jefri's local friends.
+
+
+
+
+
+
+That evening, she and the Skroderiders had a beach party. That's what they called it, though it was much more like the human version than an authentic Rider one. Blueshell and Greenstalk had rolled well back from the water to where the sand lay dry and warm. Ravna laid out refreshments on Blueshell's cargo scarf. They sat on the sand and admired the sunset.
+   It was mostly a celebration-that Ravna had gotten permission to go with the OOB, that the ship was almost ready to depart. But, "Are you really happy to be going, my lady?" asked Blueshell. "We two will make very good money, but you-"
+   Ravna laughed. "I'll get a travel bonus." She had argued and argued for permission to go; there wasn't much room left to haggle about the pay. "And yes. This is what I really want."
+"I am glad," said Greenstalk.
+   "I am laughing," said Blueshell. "My mate is especially pleased that our passenger will not be surly. We almost lost our love for bipeds after shipping with the certificants. But there is nothing to be frightened of now. Have you read Threats Group in the last fifteen hours? The Blight has stopped growing, and its edges have become sharply defined. The Perversion is settling into middle age. I'm ready to leave right now."
+   Blueshell was full of speculations about the Tinish "packs," and possible schemes for extracting Jefri and any other survivors. Greenstalk
+
+
+interjected a thought here and there. She was less shy than before, but still seemed softer, more diffident than her mate. And her confidence was a bit more realistic. She was glad they weren't leaving for another week. There were still the final consistency checks to run on the OOB-and Grondr had gotten Org financing for a small fleet of decoy ships. Fifty were complete so far. A hundred would be ready by the end of the week.
+   The Docks drifted into night. With its shallow atmosphere, twilight was short, but the colors were spectacular. The beach and the trees glistened in the horizontal rays. The scent of even-flowers mixed with the tang of sea salt. On the far side of the sea, all was stark bright and dark, silhouettes that might have been Vrinimi fancies or functional dock equipage-Ravna had never learned which. The sun slid behind the sea. Orange and red spread along the aft horizon, topped by a wider band of green, probably ionized oxygen.
+   The Riders didn't turn their skrodes for a better view-for all she knew, they had been looking that way all along-but they stopped talking. As the sun set, the breakers shattered it into a thousand images, glints of green and yellow through the foam. She guessed the two would have preferred to be out there just now. She had seen them often enough around sunset, deliberately sitting where the surf was hardest. When the water drew back, their stalks and fronds were like supplicants' arms, upstretched. At times like these she could almost understand the Lesser Skroderiders; they spent their whole lives memorizing such repeated moments. She smiled in the greenish twilight. There would always be time enough later to worry and plan.
+   They must have sat like that for twenty minutes. Along the curving line of the beach, she saw tiny fires in the gathering dark: office parties. Somewhere very nearby there was the crunch crunch of feet on sand. She turned and saw that it was Pham Nuwen. "Over here," she called.
+   Pham ambled toward them. He'd been very scarce since their last confrontation; Ravna guessed that some of her jibes had struck deep. This once, I hope Old One made him forget. Pham Nuwen had the potential to be a real person; it hadn't been right to hurt him because his principal was beyond reach.
+   "Have a seat. Galaxy-rise in a half hour." The Skroderiders rustled, so deep into the sunset that they were only now noticing the visitor.
+
+
+   Pham Nuwen walked a pace or two beyond Ravna and stood arms akimbo, staring across the sea. He glanced back at her, and the green twilight gave his face an eerie fierceness. He flashed his old, lopsided smile: "I think I owe you an apology."
+   Old One's gonna let you join the human race after all? But Ravna was touched. She dropped her eyes from his. "I guess I owe you one too. If Old One won't help, he won't help; I shouldn't have lost my temper."
+   Pham Nuwen laughed softly. "Yours was certainly the lesser error. I'm still trying to figure out where I went wrong, and ... I don't think I have time now to learn."
+   He looked back at the sea. After a moment, Ravna stood and stepped toward him. Up close his stare looked glassy. "What's wrong?" Damn you, Old One. If you're going to abandon him, don't do it in pieces!
+"You're the great expert on Transcendent Powers, eh?" More sarcasm. "Well-"
+"Do the big boys have wars?"
+   Ravna shrugged. "You can find rumors of everything. We think there's conflict, but something too subtle to call war."
+   "You're pretty much right. There is struggle, but it has more angles than anything down here. The benefits of cooperation are normally so great that.
+... That's part of the reason I didn't take the Perversion seriously. Besides, the creature is pitiful: a wimpy cur that fouls its own den. Even if it wanted to kill other Powers, something like that never could. Not in a billion years.
+..."
+Blueshell rolled up beside them. "Who is this, my lady?"
+   It was the sort of Riderish conversation-stopper that she was only just getting used to. If Blueshell would just get in synch with his skrode memory, he'd know. Then the question truly hit her. Who is this? She glanced at her dataset. It was showing transceiver status, had been ever since Pham Nuwen arrived. And ... by the Powers, three transceivers had been grabbed by a single customer!
+She took a quick step backward. "You!"
+   "Me! Face-to-face once more, Ravna." The leer was a parody of Pham's self-assured smile. "Sorry I can't be charming tonight." He slapped his chest awkwardly. "I'm using this thing's underlying instincts.... I'm too busy trying to stay alive."
+
+
+   There was drool coming down his chin. Pham's eyes would focus on her and then drift.
+"What are you doing to Pham!"
+   The Emissary Device stepped toward her, stumbled. "Making room," came Pham Nuwen's voice.
+Ravna spoke Grondr's phone code. There was no response.
+   The Emissary Device shook its head. "Vrinimi Org is very busy right now, trying to convince me to get off their equipment, trying to screw up their courage and force me off. They don't believe what I'm telling them." He laughed, a quick choking sound. "Doesn't matter. I can see now, the attack here was just deadly diversion.... How about that, Little Ravna? See, the Blight is not a Class Two perversion. In the time I have left, I can only guess what it is.... Something very old, very big. Whatever it is, I'm being eaten alive."
+   Blueshell and Greenstalk had rolled close to Ravna. Their fronds made faint skritching noises. Some thousands of light-years away, well into the Transcend, a Power was fighting for its life. And all they saw of it was one man turned into a slobbering lunatic.
+   "So that's my apology, Little Ravna. Helping you probably wouldn't have saved me." His voice strangled on itself, and he took a gasping breath. "But helping you now will be a measure of-vengeance is a motive you would understand. I've called your ship down. If you move fast and don't use agrav, you may survive the next hour."
+   Blueshell's voice was timid and blustery at the same time. "Survive? Only a conventional attack could work down here, and there is no sign of one."
+   A maniac surrounded by the soft, quiet night. Ravna's dataset showed nothing strange except for the diversion of bandwidth to Old One.
+   Pham Nuwen made a coughing laugh. "Oh, it's conventional enough, but very clever. A few grams of replicant disorder, wafted in over weeks. It's blossoming now, timed with the attack you see.... The growth will die in a matter of hours, after it kills all of Relay's precious High automation.... Ravna! Take the ship, or die in the next thousand seconds. Take the ship. If you survive, go to the Bottom. Get the...." The Emissary Device gagged on the end of the sentence. It pulled itself straighter, and smiled its greenish
+
+
+smile a last time. "And here is my gift to you, the best help I have left to give."
+   The smile disappeared. The glassy look was replaced by a wonder ... and then mounting terror. Pham Nuwen dragged in a great breath, and had time for one barking scream before he collapsed. He landed face down, twitching and choking in the sand.
+   Ravna shouted Grondr's code again, and ran to Pham Nuwen. She pulled him over on his back and tried to clear his mouth. The fit lasted several seconds, Pham's limbs flailing randomly about. Ravna collected solid hits as she tried to steady him. Then Pham went limp, and she could barely feel his breath.
+   Blueshell was saying, "Somehow he's grabbed the OOB. It's four thousand kilometers out, coming straight for the Docks. Wail. We're ruined." Unauthorized flight close to the Docks was cause for confiscation.
+   Somehow Ravna didn't think it mattered anymore. "Is there any sign of attack?" she said over her shoulder. She eased Pham's head back, made sure he had a clear breathing passage.
+   Random rustling between the Skroderiders. Greenstalk: "Something is strange. We have service suspension on the main transceivers." So Old One is still transmitting? "The local net is very clogged. Much automation, many employees being called to special duty."
+   Ravna rocked back. The sky was night dark, punctuated by a dozen bright points of light-ships guiding for the Docks. All very normal. But her own dataset was showing what Greenstalk reported.
+   "Ravna, I can't talk right now." Grondr's clickety voice sounded out of the air beside her. This would be his associate program. "Old One has taken most of Relay. Watch out for the Emissary Device." A little late, that! "We've lost contact with the surveillance fence beyond the transceivers. We are having program and hardware failures. Old One claims we are being attacked." A five-second pause. "We see evidence of fleet action at the domestic defense boundary." That was just a half light-year out.
+   "Brap!" From Blueshell. "At the domestic defense boundary! How could you miss them coming in?" He rolled back and forth, pivoted.
+   Grondr's associate ignored the question. "Minimum three thousand ships. Destruction of transceivers immin-"
+
+
+   "Ravna, are the Skroderiders with you?" It was still Grondr's voice, but more staccato, more involved. This was the real guy.
+"Y-yes."
+   "The local network is failing. Life support failing. The Docks will fall. We would be stronger than the attacking fleet, but we're rotting from the inside.... Relay is dying." His voice sharpened, clattering, "But Vrinimi will not die, and a contract is a contract! Tell the Riders, we will pay them ... somehow, someday. We require ... plead ... they fly the mission we contracted. Ravna?"
+"Yes. They hear."
+"Then go!" And the voice was gone.
+Blueshell said, "OOB will be here in two hundred seconds."
+   Pham Nuwen had calmed, and his breathing was easier. As the two Riders chittered back and forth, Ravna looked around-and suddenly realized that all the death and destruction had been reports from afar. The beach and the sky were almost as placid as ever. The last of the sun's rays had left the waves. The foam was a dim band in the low green light. Here and there, yellow lights glowed in the trees and the farther towers.
+   Yet the alarm had clearly spread. She could hear datasets coming on. Some of the beach fires guttered out, and the figures around them ran into the trees or drifted upwards, headed for farther offices. Now starships floated up from their berths across the sea, falling higher and higher till they glittered in the departed sunlight.
+It was Relay's last moment of peace.
+   A patch of glowing dark spread across the sky. She gasped at light so twisted it should have gone unseen. It shone more in the back of her head than in her eyes. Afterwards she couldn't think what made it objectively different from blackness.
+   "There's another!" said Blueshell. This one was near the Docks' horizon, a blot of darkness perhaps a degree across. The edges were an indistinct bleeding of black into black.
+   "What is it?" Ravna was no war freak, but she'd read her share of adventure stories. She knew about antimatter bombs and relativistic kinetic energy slugs. From a distance such weapons were bright spots of light, sometimes an orchestrated flickering. Or closer, a world-wrecker would glow incandescent across the curve of a planet, splashing the globe itself
+
+
+like a drop of water, but slow, slow. Those were the images her reading had prepared her for. What she saw now was more like a defect in her eyesight than a vision of war.
+   Powers only knew what the Skroderiders saw, but: "Your main transceivers ... vaping out, I think," said Blueshell.
+   "Those are light-years out! There's no way we could see-" Another splotch appeared, not even in her field of view. The color floated, placeless. Pham Nuwen spasmed again, but weakly. She had no trouble holding him still, but ... blood dribbled from his mouth. The back of his shirt was wet with something that stank of decay.
+   "OOB will be here in one hundred seconds. Plenty of time, there's plenty of time." Blueshell rolled back and forth around them, talking reassurance that just showed how nervous he was. "Yes, my lady, light- years out. And years from now, the flash of their going will light the sky for anyone still alive here. But only a fraction of the vape-out is making light. The rest is an ultrawave surge so great that ordinary matter is affected.... Optic nerves tickled by the overflow.... So much that your own nervous system becomes a receiver." He spun around. "But don't worry. We're tough and quick. We've squeezed through close spots before." There was something absurd about a creature with no short-term memory bragging up its lightning cleverness. She hoped his skrode was up to this.
+Greenstalk's voice buzzed painfully loud. "Look!"
+The surf line was drawing back, farther than she had ever seen it.
+   "The sea is falling!" shouted Greenstalk. Water's edge had pulled back a hundred meters, two hundred. The green-limned horizon was dipping.
+"Ship's still fifty seconds out. We'll fly to meet it. Come, Ravna!"
+   Ravna's own courage died cold that second. Grondr had said the Docks would fall! The near sky was crowded now as dozens of people raced for safety. A hundred meters away the sand itself was shifting, an avalanche tilting toward the abyss. She remembered something Old One had said, and suddenly she knew the fliers were making a terrible mistake. The thought cut through her terror. "No! Just head for higher ground."
+   The night was silent no more. A bell-like moaning came from the sea. The sound spread. The sunset breeze grew to a gale that twisted the trees toward the water, sending branches and sand sweeping past them.
+
+
+   Ravna was still on her knees, her hands pressing down on Pham's limp arms. No breath, no pulse. The eyes stared sightlessly. Old One's gift to her. Damn all the Powers! She grabbed Pham Nuwen under the shoulders and rolled him onto her back.
+   She gagged, almost lost her grip. Underneath his shirt she felt cavities where there should be solid flesh. Something wet and rank dripped around her sides. She struggled up from her knees, half-carrying and half-dragging the body.
+   Blueshell was shouting, "-take hours to roll anywhere." He drifted off the ground, driving his agrav against the wind. Skrode and Rider twisted drunkenly for an instant ... and then he was slammed back to the ground, tumbled willy-nilly toward the wind's destination, the moaning hole that had been the sea. Greenstalk raced to his seaward side, blocking his progress toward destruction. Blueshell righted himself and the two rolled back toward Ravna. The Rider's voice was faint in the wind: "... agrav ... failing!" And with it the very structure of the Docks.
+   They walked and wheeled their way back from the sucking sea. "Find a place to land the OOB."
+   The tree line was a jagged range of hills now. The landscape changed before their eyes and under her feet. The groaning sound was everywhere, some places so loud it buzzed through Ravna's shoes. They avoided the sagging terrain, the sinkholes that opened on all sides. The night was dark no more. Whether it was emergency lighting or a side effect of the agrav failure, blue glowed along the holes. Through those holes they saw the cloud-decked night of Groundside a thousand kilometers below. The space between was not empty. There were shimmering phantoms: billions of tonnes of water and earth ... and hundreds of dying fliers. Vrinimi Org was paying the price for building their Docks on agrav instead of inertial orbit.
+   Somehow the three were making progress. Pham Nuwen was almost too heavy to carry/drag; she staggered left and right almost as much as she moved forward. Yet he was lighter than she would have guessed. And that was terrifying in its own way: was even the high ground failing?
+   Most of the agravs died by failure, but some suffered destructive runaway: clumps of trees and earth ripped free from the tops of hillocks and accelerated upwards. The wind shifted back and forth, up and down ... but it was thinner now, the noise remote. The artificial atmosphere that clothed
+
+
+the Docks would soon be gone. Ravna's pocket pressure suit worked for a few minutes, but now it was fading. In a few minutes it would be as dead as her agravs ... as dead as she would be. She wondered vaguely how the Blight had managed this. Like the Old One, she would likely die without ever knowing.
+   She saw torch flares; there were ships. Most had boosted for inertial orbits or gone directly into ultradrive, but a few hung over the disintegrating landscape. Blueshell and Greenstalk led the way. The two used their third axles in ways Ravna had never guessed at, lifting and pushing to clamber up slopes that she could scarcely negotiate with Pham's weight dragging from her back.
+   They were on a hilltop, but not for long. This had been part of the office forest. Now the trees stuck out in different directions, like hair on a mangy dog. She felt the ground throbbing beneath her feet. What next? The Skroderiders rolled from one side of the peak to another. They would be rescued here or nowhere. She went to her knees, resting most of Pham's weight on the ground. From here you could see a long ways. The Docks looked like a slowly flapping flag, and every immense whip of the fabric broke fragments loose. As long as some consensus remained among the agrav units, it still had planar aspect. That was disappearing. There were sinkholes all around their little knob of forest. On the horizon, Ravna saw the far edge of the Docks detach itself and turn slowly sideways: a hundred kilometers long, ten wide, it swept down on would-be rescue ships.
+   Blueshell brushed against her left side, Greenstalk against her right. Ravna twisted, laying some of Pham's weight on the skrode hulls. If all four merged their pressure suits, there would be a few more moments of consciousness. "The OOB: I'm flying it down!" he said.
+   Something was coming down. A ship's torch lit the ground blue-white, with shadows stark and shifting. It's not a healthy thing to be around a rocket drive hovering in a near-one-gee field. An hour earlier the maneuver would have been impossible, or a capital offense if accomplished. Now it didn't matter if the torch punched through the Docks or fried a cargo from halfway across the galaxy.
+   Still ... where could Blueshell land the thing? They were surrounded by sinkholes and moving cliffs. She closed her eyes as the burning light drifted
+
+
+down before them ... and then dimmed. Blueshell's shout was thin in their shared atmosphere. "Let's go together!"
+   She held tight to the Riders, and they crawled/wheeled down from their little hill. The Out of Band II was hovering in the middle of a sinkhole. Its torch was hidden from view, but the glare off the sides of the hole put the ship in sharp silhouette, turned its ultradrive spines into feathery white arcs. A giant moth with glowing wings ... and just out of reach.
+   If their suits held, they could make it to the edge of the hole. Then what? The spines kept the ship from getting closer than a hundred meters. An able-bodied (and crazy) human might try to grab a spine and crawl down it.
+   But Skroderiders had their own brand of insanity: Just as the light-the reflected light-became too much to bear-the torch winked out. The OOB fell through the hole. This didn't stop the Riders' advance. "Faster!" said Blueshell. And now she guessed what they planned. Quickly for such an awkward jumble of limbs and wheels, they moved up to the edge of the darkened hole. Ravna felt the dirt giving way beneath her feet, and then they were falling.
+The Docks were hundreds-in places, thousands-of meters thick.
+They fell past them now, past dim eerie flickers of internal destruction.
+   Then they were through, still falling. For a moment the feeling of wild panic was gone. After all this was simply free fall, a commonplace, and a damn sight more peaceful than the disintegrating Docks. Now it was easy to hold on to the Riders and Pham Nuwen, and even their commensal atmosphere seemed a little thicker than before. There was something to be said for hard vacuum and free fall. Except for an occasional rogue agrav, everything was coming down at the same acceleration, ruins peacefully settling. And four or five minutes from now they would hit Groundside's atmosphere, still falling almost straight downwards.... Entry velocity only three or four kilometers per second. Would they burn up? Maybe. Flashes pricked bright above the cloud decks.
+   The junk around them was mostly dark, just shadows against the sky show above. But the shape directly below was large and regular ... the OOB, bow on! The ship was falling with them. Every few seconds a trim jet fired, a faint reddish glow. The ship was closing with them. If it had a nose hatch, they would land right on it.
+
+
+   Its docking lights flicked on, bright upon them. Ten meters separation. Five. There was a hatch, and open! She could see a very ordinary airlock within....
+   Whatever hit them was big. Ravna saw a vague expanse of plastic rising over her shoulder. The rogue was slowly turning, and it scarcely brushed them-but that was enough. Pham Nuwen was jarred from her grasp. His body was lost in shadow, then suddenly lit bright as the ship's spotlight tracked after him. Simultaneously the air gusted out of Ravna's lungs. They were down to three pocket pressure fields now, failing fields; it was not enough. Ravna could feel consciousness slipping away, her vision tunneling. So close.
+   The Riders unlatched from each other. She grabbed at the skrode hulls and they drifted, strung out, over the ship's lock. Blueshell's skrode jerked against her as he made fast to the hatch. The jolt twisted her around, whipping Greenstalk upwards. Things were getting dreamy now. Where was panic when you needed it? Hold tight, hold tight, hold tight, sang the little voice, all that was left of consciousness. Bump, jerk. The Riders pushed and pulled at her. Or maybe it was the ship jerking all of them around. They were puppets, dancing off a single string.
+   ... Deep in the tunnel of her vision, a Rider grabbed at the tumbling figure of Pham Nuwen.
+
+
+
+
+
+
+Ravna wasn't aware of losing consciousness, but the next she knew she was breathing air and choking on vomit-and was inside the airlock. Solid green walls closed in comfortingly on all sides. Pham Nuwen lay on the far wall, strapped into a first-aid canister. His face had a bluish cast.
+   She pushed awkwardly across the lock toward Pham Nuwen's wall. The place was a confused jumble, unlike the passenger and sporting ships she'd been on before. Besides, this was a Rider design. Stickem patches were scattered around the walls; Greenstalk had mounted her skrode on one cluster.
+   They were accelerating, maybe a twentieth of a gee. "We're still going down?"
+
+
+   "Yes. If we hover or rise, we'll crash," into all the junk that still rains from above. "Blueshell is trying to fly us out." They were falling with the rest, but trying to drift out from under-before they hit Groundside. There was an occasional rattle/ping against the hull. Sometimes the acceleration ceased, or shifted in a new direction. Blueshell was actively avoiding the big pieces.
+   ... Not with complete success. There was a long, rasping sound that ended with a bang, and the room turned slowly around her. "Brrap! Just lost an ultradrive spine," came Blueshell's voice. "Two others already damaged. Please strap down, my lady."
+   They touched atmosphere a hundred seconds later. The sound was a barely perceptible humming beyond the hull. It was the sound of death for a ship like this. It could no more aerobrake than a dog could jump over the moon. The noise came louder. Blueshell was actually diving, trying to get deep enough to shed the junk that surrounded the ship. Two more spines broke. Then came a long surge of main axis acceleration. Out of Band II arced out of the Docks' death shadow, drove out and out, into inertial orbit.
+
+
+
+
+
+
+Ravna looked over Blueshell's fronds at the outside windows. They had just passed Groundside's terminator, and were flying an inertial orbit. They were in free fall again, but this trajectory curved back on itself without whacking into big hard things-like Groundside.
+   Ravna didn't know much more about space travel than you'd expect of a frequent passenger and an adventure fan. But it was obvious that Blueshell had pulled off a near miracle. When she tried to thank him, the Rider rolled back and forth across the stick-patches, buzzing faintly to himself. Embarrassed? Or just Riderly inattentive?
+   Greenstalk spoke, sounding a little shy, a little proud: "Far trading is our life, you know. If we are cautious, life will be mostly safe and placid, but there will be close passages. Blueshell practices all the time, programming his skrode with every wit he can imagine. He is a master." In everyday life, indecision seemed to dominate the Riders. But in a crunch, they didn't hesitate to bet everything. She wondered how much of that was the skrode overriding its rider?
+
+
+   "Grump," said Blueshell. "I have simply postponed the close passage. I broke several of our drive spines. What if they do not self-repair? What do we do then? Everything around Groundside is destroyed. There is junk everywhere out to a hundred radii. Not dense like around the Docks, but of much higher velocity." You can't inject billions of tonnes of wreckage into buckshot orbits and expect safe navigation. "And any second, the Perversion's creatures will be here, eating whoever survives."
+   "Urk." Greenstalk's tendrils froze in comical disarray. She chittered to herself for a second. "You're right ... I forgot. I thought we had found an open space, but..."
+   Open space all right, but in a shooting gallery. Ravna looked back at the command deck windows. They were on the dayside now, perhaps five hundred kilometers above Groundside's principal ocean. The space above the hazy blue horizon was free of flash and glow. "I don't see any fighting," Ravna said hopefully.
+   "Sorry." Blueshell switched the windows to a more significant view. Most of it was navigation and ultratrace information, meaningless to Ravna. Her eye caught on a medstat: Pham Nuwen was breathing again. The ship's surgeon thought it could save him. But there was also a communication status window; on it the attack was dreadfully clear. The local net had broken into hundreds of screaming fragments. There were only automatic voices from the planetary surface, and they were calling for medical aid. Grondr had been down there. Somehow she suspected that not even his Marketing ops people had survived. Whatever hit Groundside was even deadlier than the failures at the Docks. In near planetary space, there were a few survivors in ships and fragments of habitats, most on doomed trajectories. Without massive and coordinated help, they would be dead in minutes-hours at the outside. The directors of Vrinimi Org were gone, destroyed before they ever figured out quite what had happened.
+Go, Grondr had said, go.
+   Out-system, there was fighting. Ravna saw message traffic from Vrinimi defense units. Even without control or coordination, some still opposed the Perversion's fleet. The light from their battles would arrive well after the defeat, well after the enemy arrived here in person. How long do we have? Minutes?
+
+
+   "Brrap. Look at those traces," said Blueshell. "The Perversion has almost four thousand vessels. They are bypassing the defenders."
+   "But now there is scarcely anyone left out there," said Greenstalk. "I hope they're not all dead."
+   "Not all. I see several thousand ships departing, everyone with the means and any sense." Blueshell rolled back and forth. "Alas! We have the good sense ... but look at this repair report." One window spread large, filled with colored patterns that meant less than zip to Ravna. "Two spines still broken, unrepairable. Three partially repaired. If they don't heal, we'll be stuck here. This is unacceptable!" His voder voice buzzed up shrilly. Greenstalk drove close to him, and they rattled their fronds at each other.
+   Several minutes passed. When Blueshell spoke Samnorsk again, his voice was quieter. "One spine repaired. Maybe, maybe, maybe...." He opened a natural view. The OOB was coasting across Groundside's south pole, back into night. Their orbit should take them over the worst of the Docks junk, but the ride was a constant jigging as the ship avoided other debris. The cries of battle horror from out-system dwindled. The Vrinimi Organization was one vast, twitching corpse ... and very soon its killer would come snuffling.
+   "Two repaired." Blueshell became very quiet.... "Three! Three are repaired! Fifteen seconds to recalibrate and we can jump!"
+It seemed longer ... but then all the windows changed to a natural view.
+Groundside and its sun were gone. Stars and dark stretched all around.
+
+
+
+
+
+
+Three hours later and Relay was a hundred and fifty light-years behind them. The OOB was in with the main body of fleeing ships. What with the archives and the tourism, there had been an extraordinary number of interstellar ships at Relay. Ten thousand vehicles were spread across the light-years around them. But stars were rare this far off the galactic plane and they were at least a hundred hours flying time from the nearest refuge.
+   For Ravna, it was the start of a new battle. She glared across the deck at Blueshell. The Skroderider dithered, its fronds twisting on themselves in a way she had not seen before. "See here, my lady Bergsndot, High Point is a lovely civilization, with some bipedal participants. It is safe. It is nearby.
+
+
+You could adapt." He paused. Reading my expression is he? "But-but if that is not acceptable, we will take you further. Give us a chance to contract the proper cargo, and-and we'll take you all the way back to Sjandra Kei. How about that?"
+   "No. You already have a contract, Blueshell. With Vrinimi Organization. The three of us"-and whatever has become of Pham Nuwen
+-"are going to the Bottom of the Beyond."
+   "I am shaking my head in disbelief! We received a preliminary retainer, true. But now that Vrinimi Org is dead, there is no one to make good on the rest of the agreement. Hence we are free of it also."
+   "Vrinimi is not dead. You heard Grondr 'Kalir. The Org had-has- branch offices all across the Beyond. The obligation stands."
+   "On a technicality. We both know that those branches could never make the final payment."
+   Ravna didn't have a good answer to that. "You have an obligation," she said, but without the proper forcefulness. She had never been good at bluster.
+   "My lady, are you truly speaking from Org ethics, or from simple humanity?"
+   "I-" In fact, Ravna had never completely understood Org ethics. That was one reason why she had intended to return to Sjandra Kei after her 'prenticeship, and one reason the Org had dealt cautiously with the human race. "It doesn't matter which I speak from! There is a contract. You were happy to honor it when things looked safe. Well, things turned deadly-but that possibility was part of the deal." Ravna glanced at Greenstalk. She had been silent so far, not even rustling at her mate. Her fronds were tightly held against her central stalk. Maybe- "Listen, there are other reasons besides contract obligation. The Perversion is more powerful than anyone thought. It killed a Power today. And it's operating in the Middle Beyond.... The Riders have a long history, Blueshell, longer than most races' entire existence. The Perversion may be strong enough to put an end to all of that."
+   Greenstalk rolled toward her and opened slightly. "You-you really think we might find something on that ship at the Bottom, something that could harm a Power among Powers?"
+
+
+   Ravna paused. "Yes. And Old One himself thought so, just before he died."
+   Blueshell wrapped even tighter around himself, twisting. In anguish? "My lady, we are traders. We have lived long and traveled far ... and survived by minding our own business. No matter what romantics may think, traders do not go on quests. What you ask ... is impossible, mere Beyonders seeking to subvert a Power."
+   Yet that was a risk you signed for. But Ravna didn't say it aloud. Perhaps Greenstalk did. Her fronds rustled, and Blueshell scrinched even more. Greenstalk was silent for a second, then she did something funny with her axles, bumping free of the stickem. Her wheels spun on nothing as she floated through a slow arc, till she was upside down, her fronds reaching down to brush Blueshell's. They rattled back and forth for almost five minutes. Blueshell slowly untwisted, the fronds relaxing and patting back at his mate.
+   Finally he said. "Very well.... One quest. But mark you! Never another."
+
+
+
+
+
+
+part II

@@ -1,0 +1,845 @@
+BUTTERFLY
+
+
+TRANSLATED BY ELIZABETH HANLON
+
+
+Written July 11, 1999, at Niangzi Pass
+
+
+First published in King of Science Fiction, 2002, no. 1
+
+
+
+
+
+
+
+
+
+
+The modern study of chaos began with the creeping realization in the 1960s that quite simple mathematical equations could model systems every bit as violent as a waterfall. Tiny differences in input could quickly become overwhelming differences in output—a phenomenon given the name “sensitivity dependence on initial conditions.” In weather, for example, this translates into what is only half-jokingly known as the Butterfly Effect—the notion that a butterfly stirring the air today in Peking can transform storm systems next month in New York.
+
+
+… Sensitive dependence on initial conditions was not an altogether new notion. It had a place in folklore:
+
+
+For want of a nail, the shoe was lost;
+
+
+For want of a shoe, the horse was lost;
+
+
+For want of a horse, the rider was lost;
+
+
+For want of a rider, the battle was lost;
+
+
+For want of a battle, the kingdom was lost!
+
+
+—James Gleick, Chaos: Making a New Science
+
+
+
+
+
+
+
+
+
+
+MARCH 23, BELGRADE
+
+
+Four-year-old Katya heard the first few explosions from her sickroom on the fifth floor of the Children’s Hospital. She looked out the window, but the night sky appeared unchanged. Louder and more frightening than the dull blasts was the tumultuous sound of footsteps in the corridors, which seemed to shake the whole building.
+
+
+Katya’s mother Elena picked up her daughter and ran out of the room. They joined the crowd rushing through the ward in the direction of the basement. Her father Aleksandar and his Russian friend Reznik exited the room close behind them, but split off and ran upstairs, against the stream of people. Elena did not notice them. Over the past year, she had devoted her body and soul to Katya’s care. She had donated one of her own kidneys in order to save her daughter from the ravages of uremia. Today was the day Katya was to be discharged from the hospital, and Elena’s joy at her daughter’s new lease on life overrode any concerns about the outbreak of war.
+
+
+But this was not the case for Aleksandar. When the explosions quieted, war would occupy his entire life. He stood next to Reznik on the roof of the building and surveyed the fires flickering to life in the distance. Overhead, the tracers of the antiaircraft guns punctuated the night with brilliant ellipses.
+
+
+“There is a joke,” said Aleksandar, “about a family who had a lovely, stubborn daughter. One day, the military erected barracks next to their home. The privates stationed there were a rakish bunch, and they often teased the girl, which caused her father to worry to no end. Before long, someone told him his daughter was pregnant! Upon hearing the news, he let out a long sigh of relief and said, ‘Thank god, it finally happened.’”
+
+
+“That is not a Russian joke,” frowned Reznik.
+
+
+“I didn’t understand it at first either, but now I get it. When the thing you have feared for a long time happens, sometimes it comes as a relief.”
+
+
+“You are not God, Aleksandar.”
+
+
+“Or so I have been reminded by the bastards in the Department of Defense,” Aleksandar replied dryly.
+
+
+“You are saying you went to the government? They did not believe you could find the atmospheric sensitivity points?”
+
+
+“Can you believe it?”
+
+
+“Not at first, but I came around once I saw how your mathematical model operated.”
+
+
+“Nobody there will look closely at my model, but they mostly don’t believe me anyway.”
+
+
+“But you are not opposed to the party.”
+
+
+“I’m not anything! I’m not interested in politics. Maybe it’s because I mouthed off during the civil war years.”
+
+
+By now, the sound of explosions had ceased, but the fires in the distance had grown brighter, suffusing the two tallest buildings in the city with a dull red glow. The towers stood on opposite banks of the Sava River. In New Belgrade, the white façade of the headquarters of the Socialist Party of Serbia stood out against the flames. Across the river loomed the specter of the Belgrade Palace, its black exterior indistinct, like a strange reflection of the first building.
+
+
+“Theoretically speaking, your model might work, but there is something you may have overlooked,” Reznik mused. “To calculate one sensitivity point for the weather of the whole country and its activation mechanism, even with all of Yugoslavia’s fastest computers, would take a month or more to complete.”
+
+
+“That is exactly the reason I came to find you. I want to use that computer of yours in Dubna.”
+
+
+“What makes you so certain I will agree?”
+
+
+“I’m not certain. But your grandfather was a military adviser to Tito, and he was wounded at the Battle of Sutjeska.”
+
+
+“Fine. But how will I obtain the initial atmospheric data for the entire globe?”
+
+
+“It’s public. You can download it from the World Meteorological Network. The feed aggregates real-time data from every weather satellite around the world, as well as every participating observation point on land and sea. It’s a huge volume of data, though, so a phone line won’t cut it. You’ll need a dedicated cable with a transmission rate of at least a million bits per second.”
+
+
+“This I have.”
+
+
+Aleksandar handed Reznik a small briefcase with a combination lock. “Everything God himself might possibly need is inside, but the CD is the most important thing. I burned a copy of my atmospheric modeling software, about six hundred megabytes, or almost the entire capacity of the disc. It’s the uncompiled C language source code, so your monster machine ought to be able to run it,” he explained. “There’s also a satellite phone connected to a modified GPS receiver. With this, you can see my precise location anywhere on Earth.”
+
+
+Reznik took the case and said, “I leave tonight for Romania to catch a flight to Moscow. If everything goes smoothly, I will call you on the satellite phone by this time tomorrow to share the details of your miracle sensitivity point. But I doubt its effect can be amplified as planned. Commanding the elements is really best left to God.”
+
+
+
+
+
+
+* * *
+
+
+
+
+
+
+After Reznik departed, Aleksandar left the hospital and returned home with his wife and daughter. When they reached the confluence of the Sava and Danube Rivers, he stopped the car, and the three of them got out to quietly observe the dark surface of the water.
+
+
+After a long silence, Aleksandar spoke: “I said once that when war broke out, I would have to leave home.”
+
+
+“Are you scared of the bombs, Papa? Take me with you, I’m scared, too. They are really loud!” said Katya.
+
+
+“No, sweetie, I am going to find a way to stop the bombs from falling on our land. Papa may have to go somewhere far away, so he can’t bring Katya. Actually, Papa doesn’t even know where he will go.”
+
+
+“How will you stop the bombs from falling? Can you find a strong army to protect us?”
+
+
+“There’s no need for an army, Katya. Papa just needs to do one little thing at the right time and right place on Earth, like pouring a bucket of hot water or smoking a cigar, and all of Yugoslavia will be covered by clouds and fog. Then the bombs and the people who drop them won’t be able to find their targets!”
+
+
+“Why are you telling her this?” Elena cut in.
+
+
+“It doesn’t matter. No one will believe her, including you.”
+
+
+“A year ago, you went to the Australian coast and turned on an industrial fan, under the delusion that this would bring rain to dusty Ethiopia…”
+
+
+“I didn’t succeed that time, but it wasn’t because of errors in my theory or my mathematical model. I didn’t have a computer that was fast enough, so in the time it took to calculate the sensitivity point, atmospheric variation had already desensitized it!”
+
+
+“Aleksandar, you are always living in a dream! But I will not stand in your way. I would not have married you if those dreams had not moved me once…” Elena recalled the past in mute sorrow. She had been born into a Muslim household in Bosnia. Five years ago, when she fled the besieged city of Sarajevo and wed her Serbian college classmate, her obstinate father and brother had nearly turned their Kalashnikovs on her.
+
+
+After he drove Elena and Katya home, Aleksandar turned his car toward Romania. It was not an easy drive. The road was snarled with checkpoints and wartime traffic, and he did not cross the border until noon the next day. It was smooth sailing thereafter, and he arrived at Bucharest Otopeni International Airport before nightfall.
+
+
+MARCH 25, DUBNA
+
+
+One hundred miles to the north of Moscow, there was a small town untainted by the decadence and decline of the capital. The spruce little town reposed amid meadows and dappled shade. Here, the passage of time had stopped, as evidenced by scattered busts of Lenin. At the entrance to the town, the mouth of the tunnel that ran beneath the Volga River was still adorned with a Soviet-era slogan in big letters: LABOR IS GLORIOUS. Sixty thousand people lived here, and almost all of them were scientists. The town was called Dubna, and it was home to the former Soviet Union’s research center for high technology and nuclear weapons.
+
+
+In the center of town stood a newly constructed building, whose elegant, even avant-garde appearance offered a striking contrast to the Soviet-style architecture around it. There was a fully enclosed computer lab on the second floor of the building, which was unexpectedly equipped with an American-made Cray supercomputer. Although it was an older model, at the time it belonged to the list of equipment strictly prohibited from export to the Eastern Bloc under the now-defunct COMECON. Four years prior, with Russia’s cooperation, the United States, the United Kingdom, Germany, and France jointly established a high-technology research center. It was the Western countries’ hope that generous compensation and a good research environment might tempt Russian scientists away from non-Western countries, particularly those nuclear physicists who could otherwise earn only a measly hundred US dollars per month. At the same time, Russia and the West would share the fruits of the center’s research. The building in Dubna was merely a branch facility of the larger center. Due to Russia’s lagging supercomputing infrastructure, researchers faced considerable operational difficulties. To remedy the situation, the Americans installed the Cray supercomputer. The huge machine was controlled by US engineers, who were also responsible for vetting any software that ran on it.
+
+
+If the computer could feel, it would certainly have felt lonely. Since it had taken up residence here three years ago, the vast majority of its time was spent idling, or periodically running self-diagnostic tests. There were a handful of graduate students from the Moscow State University College of Electronics who occasionally fed it computation programs via the terminal on the first floor, but if it ever slept, it might have handled those programs in its sleep just as easily.
+
+
+Late in the evening of March 25, the Cray supercomputer received a program written in C language from the network terminal, followed by a compilation command. It was an enormous piece of software—the largest it had ever seen, in fact—but the computer remained unenthused. It had seen programs containing more than ten million lines of code before, only to discover at runtime that most of the code represented mechanized loops and pixel conversions, designed to generate uninspired 3-D animation models. It launched the compiler and began absently translating line after line of C code into the ones and zeros of its native tongue, funneling the unimaginably long string of numbers into external storage. Just as it finished compiling the code, it received a command to execute. The computer immediately sucked the mountain of ones and zeros it had spat out only moments before back into its internal memory. Plucking a fine thread from the tangled skein of code, it began to run the program.
+
+
+There was a sharp, involuntary intake of breath and a shudder from the Cray supercomputer. In an instant, the program had spawned over a million high-order matrices, three million ordinary differential equations, and eight million partial differential equations. The little mathematical monsters stretched their greedy maws wide and waited for the initial data. Soon, a torrent of data began to surge through a separate 10 Mbps transmission channel. The computer could just barely distinguish the elements that composed the flood—set after set of pressure, temperature, and humidity parameters. The initial data, like incandescent lava, flowed into the sea of matrices and equations and set everything to a seething boil. Each of the supercomputer’s thousand-plus CPUs reached maximum capacity. A typhoon of logic howled across the vast electronic world of its memory, whipping up turbid, monstrous waves of data.
+
+
+The storm lasted for forty minutes, which, to the computer, seemed like centuries. At last, it let out a breath. Stretching its power to the limit, it narrowly conquered the raging world within. The typhoon slackened, and the breakers gradually subsided. Soon, the typhoon dispersed completely, and the sea began to solidify and shrink rapidly. It finally condensed into a tiny kernel of data, which twinkled continuously in the boundless void of the computer’s internal memory. Then, the seed split open, displaying a few lines of data on the screen of the first-floor terminal.
+
+
+From where he sat in front of the screen, Reznik picked up the satellite phone.
+
+
+“The first sensitivity point has appeared. It is drifting in the area bounded by latitudes twenty-two degrees and twenty-five degrees north and longitudes thirteen degrees and fifteen degrees west. Activation mechanism: Sharply cool the sensitivity point. Where is it? Let me see … Oh! You must go to Africa, Aleksandar!”
+
+
+MARCH 27, MAURITANIA
+
+
+As the helicopter skimmed low over the sunbaked desert, Aleksandar thought he might suffocate in the sweltering heat. The pilot, however, seemed completely unfazed. He kept up a steady stream of chatter the entire way. This peculiar white man had piqued his curiosity. After stepping off his flight at Nouakchott International Airport, the man had immediately engaged the service of his light helicopter. Then, he had purchased a freezer from a restaurant next to the terminal, in which he placed a large block of ice. Finally, he had loaded both the freezer and a large sledgehammer into the helicopter. The man could not identify his destination, and had simply directed him to fly the helicopter into the desert in the direction in which he pointed. He kept a large, strange-looking phone pressed to his ear the entire flight. The phone was connected to what looked like a game console. The pilot had seen a similar device when he had worked for a copper-prospecting team, and he knew it was a GPS receiver.
+
+
+“Hey, friend, you came from Cairo?!” the pilot shouted over the pulsing roar of the engine in stilted French.
+
+
+“I came from the Balkans, and changed planes in Cairo,” answered Aleksandar, only half listening.
+
+
+“Pardon? The Balkans! There’s a war on, yes?”
+
+
+“Seems like it.”
+
+
+Six thousand kilometers away, Reznik’s voice in Aleksandar’s earpiece informed him that his position was clear. The sensitivity point had stabilized, and was currently drifting very slowly at a distance of five kilometers.
+
+
+“The Americans have dropped many bombs there, even Tomahawks, no?” The pilot imitated the sound of a missile whizzing overhead, followed by a cartoonish explosion. “Hey, friend, do you know how much one Tomahawk costs?”
+
+
+“One and a half million US dollars, I think.”
+
+
+Aleksandar, pay attention. Just thirty-five hundred meters to go.
+
+
+“Wow! White people are always so extravagant. That much money here could build a plantation, or a reservoir. It could feed a lot of people, no?”
+
+
+Three thousand meters, Aleksandar!
+
+
+The pilot continued. “Why is America fighting? You don’t know?! Oh, I heard Milošević killed four thousand people in someplace called Kosovo…”
+
+
+Two thousand meters, Aleksandar. It’s drifting again, to the left!
+
+
+“Turn left!” barked Aleksandar.
+
+
+“… what? Left? Okay, is this all right?”
+
+
+Aleksandar repeated the question to Reznik. Ah, too far to the left.
+
+
+“Too far, bring it back a little bit!”
+
+
+“You should give me a clear direction,” the pilot grumbled. “Are we okay now?”
+
+
+“Okay, Reznik?” Aleksandar muttered into the satellite phone. Dead ahead, Aleksandar. Fifteen hundred meters to go. “Perfect, hold it steady. Thank you, friend.”
+
+
+“Do not mention it. You are paying me a very fair price! Oh, as I was saying, he killed four thousand people. But, do you remember, two years ago there was killing in Africa, too…”
+
+
+One thousand meters!
+
+
+“… in Rwanda…”
+
+
+Five hundred meters!
+
+
+“… killed five hundred thousand people…”
+
+
+One hundred meters!
+
+
+“… did anyone care?…”
+
+
+Aleksandar, you are on top of the sensitivity point!
+
+
+“Land the helicopter!” Aleksandar interrupted.
+
+
+“… you have probably already forgotten it … what, land it? Here? Got it! I hope the sand will not trap the landing skids … Okay, you have arrived. Wait a moment before you get out, or you will be blinded!”
+
+
+With the pilot’s assistance, Aleksandar lifted the freezer down from the cabin, and then pulled out the ice block that had already started to melt and placed it on the sand. All around them, the desert shimmered in the blistering heat.
+
+
+“Take care not to burn yourself,” chuckled the pilot, as Aleksandar raised the sledgehammer over the ice.
+
+
+For my suffering homeland, I flap the wings of a butterfly …
+
+
+He silently mouthed the phrase in Serbian, his eyes half closed. Then, he brought the hammer crashing down onto the ice, shattering the block into glittering shards, which melted on contact with the sand, like a fleeting reverie. A cool, invigorating draft rose and dispersed, quickly engulfed by the hot desert air.
+
+
+“What on earth are you doing, friend?” The pilot eyed him with a bemused look on his face.
+
+
+“A ritual of sorts. A totemic rite, like your fire dances,” laughed Aleksandar, wiping sweat from his brow.
+
+
+“The ritual, and that mysterious spell—you are praying to your god for something?”
+
+
+“Rain and fog, rain and fog to cover my distant homeland.”
+
+
+MARCH 29, BELGRADE
+
+
+It was Katya’s best night of sleep yet. Her body had rejected her new kidney, and she had grown feverish. After her mother asked a neighbor who worked as a nurse to administer an immunosuppressant injection brought back from the hospital, she felt a little better. More importantly, that evening, the thunder of explosions diminished to a few scattered rumbles, and the residents of their apartment building did not bolt to the basement at midnight to wait for dawn. The next day, Katya discovered the reason why.
+
+
+That morning, Katya got up late. It was already past eight, but it was still very dark outside. She went out onto the balcony and saw that the sky was overcast with dark, heavy clouds. Streamers of mist twined through the trees.
+
+
+“My God…” Elena uttered a low cry at the sight.
+
+
+“Mama, did Papa do this?”
+
+
+“Probably not. But if it stays cloudy for a few weeks, then maybe he really did it.”
+
+
+“Where is Papa now?”
+
+
+“I don’t know. He is a butterfly, winging his way around the world.”
+
+
+“There are no butterflies that ugly!” Katya pronounced. “Anyway, I don’t like cloudy days.”
+
+
+MARCH 29, ALLIED AIR FORCES COMBAT DIRECTIVE NO. 1362
+
+
+Sent from: AIRCOM Operations Center.
+
+
+Full text distributed to: AFSOUTH, SETAF, and Commanding General, US 6th Fleet.
+
+
+Intelligence Report M441 from sources EAM and NM* proved erroneous (see Field Conditions Database “ASD119,” meteorological section), and was corrected in Intelligence Report M483.
+
+
+Combat Directives No. 1351, No. 1353, and No. 1357 are hereby amended as follows.
+
+
+The following section was distributed to all Forward Operating Bases in: Italy (Comiso, Aviano, Caserma Ederle, La Maddalena, Sigonella, Brisindi) and Greece (Souda Bay, Iraklion, Athens, Nea Makri).
+
+
+It was also forwarded to: Mediterranean Carrier Strike Group.
+
+
+Cancel all B3† strikes issued under Combat Directives No. 1351 and No. 1357 against target groups GH56, IIT773, NT4412, BBH091145, LO88, 1123RRT, and 691HJ (indexed under “TAG471” in Target Database).
+
+
+Continue B3 strikes issued under Combat Directive No. 1353 against target groups PA851 and SSF67 (see index above).
+
+
+A2‡ strikes issued under Combat Directives No. 1351, No. 1353, and No. 1357 remain in effect.
+
+
+The following section was distributed to: Aviano Air Base.
+
+
+Increase low-altitude observation flights to evaluate the AF3 effects of the remaining B3 strikes.
+
+
+TOP SECRET
+
+
+Number of Copies: 0
+
+
+MARCH 29, DUBNA
+
+
+“Aleksandar, Aleksandar! Listen, the second sensitivity point has formed, between latitudes twenty-nine degrees and thirty degrees north and longitudes one hundred and thirty-three degrees and one hundred and thirty-four degrees west. It is moving fast, but it is stabilizing. Activation mechanism: Violently disturb the water. Oh, it is out at sea, you know.”
+
+
+MARCH 31, OFF THE WEST COAST OF THE RYUKYU ISLANDS
+
+
+The surface of the sea was calm and smooth like blue satin. The little fishing vessel was traveling at full speed, cutting a long, foaming wake behind it.
+
+
+On the aft deck, an Okinawan fisherman, skin dark from exposure, was busy wrapping a bundle of TNT in waterproof paper. His equally leathery partner had set about connecting the electric blasting cap that was strapped to the explosive to an igniter with a long fuse wire. Aleksandar stood to the side and looked on. The two men chatted while they worked. Out of respect for Aleksandar, they spoke in accented but fluent English. Like the rest of the world, their discussion revolved around war.
+
+
+“I think it’s good news for us,” said one of the men. “Sets a precedent. If a problem with North Korea or Taiwan arises in the future, our Saberhawks and the Americans’ aircraft carrier can cruise up, guns blazing. Magnificent!”
+
+
+“Fucking Americans, I can’t stand them! They can get the hell out of Okinawa, and they can take their noisy planes, too!”
+
+
+“Use your head, you idiot. If there was no military base, who would buy our fish? More importantly, you’re Japanese. You should consider what’s best for Japan.”
+
+
+“How do I put this? Iwata-kun, you and I are different. Your family came over from Kyushu ten years ago, but as for me, my family has lived in Okinawa for generations. It was once an independent kingdom, which makes you and the Americans outsiders.”
+
+
+“Hirose-kun, just listen to yourself. Governor Ota is full of shit, and you’re not the first person he has led astray … Oh, mister, it’s ready.”
+
+
+Aleksandar carried the neatly wrapped explosive to the stern. Pressing the satellite phone to his ear, he waited.
+
+
+“Mister, if you want to catch fish with that thing, listen to me and pick a different direction!”
+
+
+“I don’t want to blast any fish, just the water,” replied Aleksandar.
+
+
+“It’s your money, so we’ll do it your way, of course. There are more and more weirdos like you visiting Okinawa these days.”
+
+
+Aleksandar, Aleksandar! You are on top of the sensitivity point! Create a disturbance!
+
+
+Aleksandar cast the explosive into the sea.
+
+
+“Careful! Don’t let the wire foul the propeller!” yelled one of the fishermen, as the fuse wire uncoiled and snaked rapidly over the stern. Aleksandar placed a finger on the trigger button.
+
+
+For my suffering homeland, I flap the wings of a butterfly …
+
+
+There was a dull, shuddering roar from beneath the surface, and a huge column of water erupted thirty meters from the stern, white spray glittering in the sunlight. The great mass of water fell back into the sea, and the surface boiled and frothed for a time, but soon everything was quiet again.
+
+
+“I told you you wouldn’t catch anything,” muttered one of the Okinawans, gazing at the smooth patch of sea.
+
+
+APRIL 1, BELGRADE
+
+
+“Mama, it’s been cloudy for three days now! It must be Papa!” exclaimed Katya from where she stood by the window.
+
+
+The pale sky of the last two days had grown dark and steely, and the clouds pressed low against the city. The white tower and the black palace, shrouded in fog, stood sentry over the Sava River in the drizzling rain.
+
+
+Elena shook her head. “I am convinced it is an act of God.”
+
+
+APRIL 1, AIRSPACE OVER YUGOSLAVIA, F-117 ATTACK SQUADRON
+
+
+Forward Air Controller: “Black Beauty, Black Beauty, you are flying over your target.”
+
+
+F-117: “Cyclops, Cyclops, target visibility is zero. I am flying above the clouds at forty-five hundred meters.”
+
+
+Forward Air Controller: “I am flying below the clouds at eighteen hundred meters. I have just tested the laser target designator. The target cannot be identified with sufficient accuracy to initiate an airstrike. The fog is too thick.”
+
+
+F-117: “Cyclops, test television guidance.”
+
+
+Forward Air Controller: “Testing television guidance … Black Beauty, the target can be identified with sufficient accuracy. You will have to descend through the cloud layer to attack. Cloud base over the target is at two thousand meters.”
+
+
+F-117: “I am ready to strike. Cyclops, please record blast damage.”
+
+
+Forward Air Controller: “Black Beauty, Black Beauty, do not descend! Artillery fire is heavy below the clouds, and I am detecting Tamala radiation§ on the ground!”
+
+
+F-117: “Cyclops, I am going in low. We cannot return empty-handed again!”
+
+
+Forward Air Controller: “Black Beauty, pull up! Remember the rules of engagement! Major Grant, do you want to be court-martialed?!”
+
+
+
+
+
+
+* * *
+
+
+
+
+
+
+Grant pulled the control stick back toward his chest, and then tilted it to the right. The angular black body of the F-117 rose lazily upward and then made a sudden, sharp turn, streaking across the vast expanse of clouds in the direction of Italy. Inside his helmet, Grant sighed.
+
+
+Damn, before I took off from Aviano, I signed my name on those two MK-12 laser-guided bombs below me.
+
+
+APRIL 1, ALLIED AIR FORCES COMBAT DIRECTIVE NO. 1694
+
+
+From: AIRCOM Operations Center.
+
+
+Full text distributed to: AFSOUTH, SETAF, and CG, US 6th Fleet.
+
+
+Intelligence Reports M769 and M770 from sources EAM and NM proved erroneous for a second time (see Field Conditions Database “ASD119,” meteorological section). The intelligence reliability rating of the aforementioned sources has been reduced from T1 to T3.
+
+
+Combat Directives No. 1681 through No. 1690 are hereby amended according to Post-Strike Aerial Damage Assessment ND224 and ground intelligence from S24.
+
+
+The following section was distributed to all Forward Operating Bases in Italy (Comiso, Aviano, Caserma Ederle, La Maddalena, Sigonella, Brisindi) and Greece (Souda Bay, Iraklion, Athens, Nea Makri).
+
+
+It was also forwarded to: Mediterranean Carrier Strike Group.
+
+
+Cancel all B3 strikes issued under Combat Directive No. 1681 and all subsequent Directives against target groups TA67 through TA71, 110LK, TU81, GH1632, SPT4418, MH703, and BR45 through BR67 (indexed under “TAG471” in Target Database).
+
+
+TOP SECRET
+
+
+Number of Copies: 0
+
+
+APRIL 2, DUBNA
+
+
+“Aleksandar, the third sensitivity point! Region: Bounded by latitudes seventy-six degrees and seventy-seven degrees south and longitudes ninety-two degrees and ninety-three degrees east. Activation mechanism: Sharply raise the temperature of the sensitivity point.
+
+
+“You must go to Antarctica, friend. First go to Puerto Natales, Patagonia, but do not charter a vessel. There is not enough time! I have a friend there who was on the team that conducted the last survey of the Antarctic ozone hole. He is very resourceful. He has a private plane, and can fly you directly to the sensitivity point in Marie Byrd Land. He might still have a foothold there. It may take some time for you to catch up to this sensitivity point, and when you do, the effect of the second point will likely have faded. We must let the skies over your country clear up for two or three days. But do not worry—this sensitivity point is very stable. It will not drift too far, and it can last for a long time, which may be related to Antarctica’s constant freezing temperatures. More importantly, it can be activated multiple times! This way, you can stay there—naturally, it will not be very comfortable—and in half a month clouds and fog will cover the Balkans!
+
+
+“Well done, Aleksandar, unbelievably well done!”
+
+
+APRIL 4, BELGRADE
+
+
+“It’s sunny, Mama!” squealed Katya, looking at the blue sky from the balcony.
+
+
+Elena released a small sigh. “Aleksandar, you’re not really the Messiah.”
+
+
+There was a huge roar followed by the sound of rattling glass. Another roar, and dust showered down from the ceiling.
+
+
+“Katya, we need to get to the basement!”
+
+
+“No,” whined the little girl, “I like sunny days!”
+
+
+APRIL 6, MARIE BYRD LAND, ANTARCTICA
+
+
+“What a pure and quiet world! I could stay here forever,” exclaimed Aleksandar.
+
+
+From two thousand meters above, the endless ice sheet was tinged with a faint, bewitching blue by the hazy sun on the horizon.
+
+
+The pilot, a strapping Argentinian man named Alfonso, glanced at Aleksandar and said, “This purity will be gone soon. Tourism in Antarctica is developing rapidly. At first, it was limited to the Shetland Islands, but now it is expanding inland. Sea cruises and scenic flights are arriving in droves. My tour company is thriving, and I will never have to fish or ranch like my father’s generation.”
+
+
+“But it’s not just tourism—isn’t your government planning to allow immigration to the mainland?”
+
+
+“Why not? After all, Argentina is the closest country to Antarctica! The world is going to leave this land battered and bleeding sooner or later, just like what’s happening in the Balkans.”
+
+
+Just then, Reznik’s voice came over the satellite phone connection: Aleksandar, we have a small problem. The Americans have closed off access to the Cray computer lab!
+
+
+“Do you think we’ve been detected?”
+
+
+Not at all. I told them we were running a piece of global atmospheric modeling software, which is true. Relations with the West are strained right now, and the research center was bound to feel the effects. You stay put—I will straighten things out soon.
+
+
+As the plane coasted to a halt on the snowy plain, Aleksandar saw a small cabin up ahead. The cabin was constructed from thermal insulation boards, and was raised on four upright posts to prevent the accumulation of snowdrifts.
+
+
+“This was left here by a British survey team, and I fixed the place up a little,” said Alfonso, pointing to the outpost. “There’s enough food and fuel inside to last us a month.”
+
+
+APRIL 7, BELGRADE
+
+
+Katya’s body had rejected the transplant again. The fever had returned, and the little girl mumbled fitfully in her sleep. The injections Elena had brought home on the day of Katya’s discharge had been used up, and she would have to return to the hospital to replenish their supply. The hospital was all the way on the other side of the city.
+
+
+It was another sunny day.
+
+
+“Mama, tell me a story before you go.” Katya propped herself up in bed and took her mother’s arm.
+
+
+“Sweetie, Mama has already told you all the fairy tales she knows. Mama will tell you one last story, but Katya is a big girl now, and after this there will be no more.
+
+
+“In the not-so-distant past, only three years before Katya was born, we lived in a much bigger country than we do now. Our country stretched almost all the way down the eastern shore of the Adriatic Sea. In this country, Serbians, Croatians, Slovenians, Macedonians, Montenegrins, and Bosnians were one big family. They lived together in peace and harmony, and treated each other like brothers and sisters…”
+
+
+“Even the Albanians in Kosovo?”
+
+
+“Yes, even the Albanians. A powerful man called Tito led our country. We were strong and proud, and our culture was rich and colorful. The whole world respected us…”
+
+
+Elena stared absently at the patch of blue sky outside the window, tears glistening in the corners of her eyes.
+
+
+“Then what happened?” asked Katya.
+
+
+Elena stood. “Child, stay at home and rest while I am gone. If the bombs come, listen to Uncle Letnić next door. Don’t forget to put on more clothes before you go to the basement, or the cold and damp will aggravate your illness.” She picked up her bag and walked out the door.
+
+
+“What happened to the country?” Katya called after her mother’s retreating figure.
+
+
+There was no gas in the family car, so Elena had to take a taxi. She had to wait much longer than usual, but she still managed to hail a passing cab. It was a relatively smooth ride. There were few other cars and people on the streets, and plumes of smoke were visible in the distance. When she arrived at the Children’s Hospital, she discovered that the shelling had left the hospital without power. Nurses stood clustered in the premature infant station, delivering oxygen to the sealed incubators by hand. Medicine was in short supply, but she was able to retrieve the immunosuppressants Katya needed.
+
+
+As soon as she had the drugs in hand, Elena rushed back. This time, she waited even longer for a taxi, and in the end, she had to catch a ride on a mostly empty bus. When she spotted the Danube River from the window, Elena let out a sigh of relief. She was already halfway home. The sky was vast and cloudless, and the city sat beneath it like a target painted on the surface of Earth.
+
+
+“You are not the Messiah, Aleksandar,” Elena muttered inwardly.
+
+
+The bus drove onto a bridge that spanned the Danube. In the absence of other traffic, it soon reached the center. A cool river breeze was blowing through the bus window, and Elena could not smell the gun smoke. Except for the distant trickles of smoke, the city seemed tranquil in the bright sunshine, perhaps even more so than before.
+
+
+It was then that Elena saw it.
+
+
+She saw it low above the ground in the distance. At first, it appeared as a black speck that flashed against the background of the blue sky; as it grew closer, she could make out its elongated form. It cruised through the air at a steady pace. Elena had not imagined that it would fly so slowly, as if it were searching for something. It dipped low over the river, tracing a graceful arc through the air. Elena had to peer downward to see it skimming along the river’s surface. It was close enough that Elena could clearly see its smooth, innocuous exterior. It did not resemble the ferocious shark described by the newspapers; it was closer to a guileless, innocent dolphin that had leapt clear of the Danube’s waters.
+
+
+The Tomahawk missile struck the bridge and brought it crashing down into the Danube. Days later, when the overturned bus was removed from the river, rescue workers recovered the charred corpses of several passengers. Among them was the body of a woman, her arms still clutched tightly around a handbag that contained two boxes of injections. Even in death, she had protected the handbag well: half of the syringes had not shattered, and the prescription name was still visible on the labels of the boxes. The firefighter in charge of the salvage efforts remarked that it was an uncommon drug.
+
+
+APRIL 7, MARIE BYRD LAND, ANTARCTICA
+
+
+“I’ll teach you how to dance the tango,” said Alfonso, and so he and Aleksandar sprang to their feet and whirled across the snow. Here, it was as if Aleksandar had stumbled onto another planet. In the perpetual twilight of the snowfield, he forgot the passage of time, even forgot the war.
+
+
+“You dance quite well, but that is not a real Argentinian tango.”
+
+
+“I can never get the head snaps right.”
+
+
+“That’s because you don’t understand the meaning of the movements. When Argentinian cowboys first began to dance the tango, they did not move their heads. Later, the cowboys who crowded around to watch the dance grew jealous of the cowboys with pretty girls on their arms, so they began to pelt them with stones. So from then on, you had no choice but to stay vigilant and swivel your head in all directions.”
+
+
+Aleksandar’s laughter trailed off into a deep sigh. “Yes, that’s the way of the outside world.”
+
+
+APRIL 10, DUBNA
+
+
+“Aleksandar, things have gone south. The Western countries have halted all cooperation projects at the research center, and the Americans plan to dismantle and remove the Cray supercomputer … I am trying to find a way to access another computer. There is a nuclear detonation simulation center in Dubna. It is a military facility, and they have a supercomputer there. A Russian-made machine might run more slowly, but it should be adequate to complete these calculations. But I need to run this idea by my superiors, and it might need to go even higher. Hold on for two more days! Though we cannot track it, I believe the sensitivity point is still in Antarctica!”
+
+
+APRIL 13, BELGRADE
+
+
+In the dim basement, which trembled with the force of the dull explosions above, Katya was fighting for every last breath.
+
+
+The neighbors had exhausted every possibility. Two days prior, Uncle Letnić had sent his own son out to get the drugs, but the shelves of every hospital in the city were bare. The injections could only be imported from Western Europe—a virtual impossibility now.
+
+
+There had been no news of Katya’s mother.
+
+
+In her stupor, Katya cried out for her mother over and over again, but it was her father who appeared in the remnants of her consciousness. He transformed into an immense butterfly, with wings as broad as football fields. As he ceaselessly flapped his enormous wings high overhead, the clouds and fog dissipated, and the sun shone brightly over Belgrade and the Danube …
+
+
+“I like sunny days…” Katya mumbled.
+
+
+APRIL 17, DUBNA
+
+
+“Aleksandar, we have failed. I could not obtain access to the supercomputer. Yes, I appealed the matter to the highest level through my channels at the Academy of Sciences, but … No, no, no. They did not say they disbelieved it, nor did they say they believed it. It is not important either way. I have been dismissed from my post. They drove off an academician like a stray dog, and you ask why? Because I played a part in all this … Yes, they permitted a volunteer force to enter Yugoslavia, but what I did was different … I do not know, either. They are politicians, and we will never be able to understand the inner workings of their minds, just like they will never understand us … Don’t be naïve. Believe me, it is absolutely impossible. There are only a few computers in the entire world that can complete such complicated calculations in a short time …
+
+
+“Go home? No, do not go back. Katya … how can I tell you this, my friend? Katya passed three days ago. The rejection reaction took her in the end. Elena went to fetch medicine from the hospital eight days ago and never came back. No one has heard from her since … I do not know. It was not easy to get through to your home telephone. I heard this from your neighbors. Aleksandar, my friend, come to Moscow! Come to my home. We still have your software, at least, and it can change the world!
+
+
+“Hello? Hello? Aleksandar!
+
+
+“..….”
+
+
+APRIL 14, MARIE BYRD LAND, ANTARCTICA
+
+
+“Alfonso, you go back to Argentina. I want to be here alone.” Standing in front of the cabin on the snowfield, Aleksandar wore a sorrowful smile. “Thank you for everything you have done. Truly, thank you.”
+
+
+“You aren’t from Greece, as Reznik claimed.” Alfonso stared at Aleksandar. “You are from Yugoslavia. I don’t know what you came here to do, but I am certain it is connected to the war.”
+
+
+“I suppose it was, but it doesn’t matter anymore.”
+
+
+“I read it on your face when you were listening to the news on the radio. I saw that expression many times a decade ago on the Islas Malvinas. Back then I was a soldier, and I fought heroically. Yes, I was very brave. All of Argentina was very brave. We did not lack for courage and zeal, just a few Exocets … I still remember the day we surrendered. It was cloudy on the island that day—cloudy and wet and cold. But it was not so bad, the British let us keep our guns.” Alfonso paused. “Very well, friend, I will return in a few days. Do not stray too far from the cabin. There have been many storms lately.”
+
+
+Aleksandar watched Alfonso’s plane vanish into the white Antarctic sky, and then turned and went into the cabin. A moment later, he emerged with a bucket.
+
+
+He never entered the cabin again.
+
+
+Bucket in hand, Aleksandar walked aimlessly across the vast plain of snow. He did not know how much time had passed before he came to a halt.
+
+
+… Activation mechanism: Sharply raise the temperature of the sensitivity point.
+
+
+He opened the bucket, and fumbled for a lighter with frozen fingers.
+
+
+For my suffering homeland, I flap the wings of a butterfly …
+
+
+He lit the gasoline in the bucket, and then sat down in the snow and gazed at the rising flames. It was an ordinary fire. It lacked the intensity to activate the sensitivity point, and it would not bring clouds and fog to his homeland.
+
+
+For want of a nail, the shoe was lost;
+
+
+For want of a shoe, the horse was lost;
+
+
+For want of a horse, the rider was lost;
+
+
+For want of a rider, the battle was lost;
+
+
+For want of a battle, the kingdom was lost!
+
+
+JULY 10, AFSOUTH HEADQUARTERS, ITALY
+
+
+When it was all over, the weekend dance was reinstated, and the men could finally strip off the fatigues they had worn for three long months and don crisp dress uniforms. Between the grand marble columns of the Renaissance hall, the gold stars of the general officers and the silver stars of the field officers glimmered under the soft light of an enormous crystal chandelier. The ladies of Italian high society, who were not only glamorous but well-read and quick to engage in witty repartee, dotted the hall like blossoms. Together with the scintillating flow of wine, their presence made for an intoxicating night. Everyone congratulated themselves for having participated in such a glorious and romantic expedition.
+
+
+When General Wesley Clark appeared in the company of his staff, the hall erupted into applause. The applause conferred upon him was not just in recognition of his meritorious service during the war. General Clark cut a tall, lean figure, and had the refined bearing of a scholar. He stood in marked contrast with the last war’s General Schwarzkopf.
+
+
+After two waltzes, the partygoers began to square dance. It was a popular dance within the Pentagon, but most of the ladies were unfamiliar with the steps, so the younger officers very enthusiastically began to teach them. General Clark decided to step out for a stroll. He left through a side entrance and came to a small lake in a vineyard. Another figure slipped out of the hall behind the general and followed him at a discreet distance. The general wound his way along the path through the secluded garden to the water’s edge, seemingly entranced by the beautiful evening landscape.
+
+
+But without warning, he spoke: “Hello, Colonel White.”
+
+
+The general’s keen sixth sense caught White off guard, and he hastily stepped forward and saluted. “You still recognize me, General, sir?”
+
+
+General Clark did not turn to face him. “I was very impressed by your work these past three months, Colonel. You and everyone else in the situation room have my thanks.”
+
+
+“General, please forgive me for interrupting, but there is a matter I wish to discuss with you. It’s … rather personal. If I don’t raise it now, I’m afraid I may not get another chance.”
+
+
+“By all means, tell me.”
+
+
+“Over the first few days of the campaign, some of the meteorological intelligence from the target zone was … a bit unreliable.”
+
+
+“Not unreliable, Colonel, just plain wrong,” corrected the general. “We were left twiddling our thumbs through four days of rain and fog. If the forecast had been accurate, we would have delayed the first strike.”
+
+
+The sun had set some time ago, and mountains in the distance cut black silhouettes against the lingering twilight. The lake was mirror-calm, and a gondolier’s song drifted across the water … It was a poor occasion for this sort of discussion, but the colonel knew this was his only opportunity, so he kept on talking.
+
+
+“But some people will not let the matter drop. The Senate Armed Services Committee wants to know how the Air Force Weather Agency spent its two-billion-dollar budget over the last three years. They have formed an investigative subcommittee, and they want to hold hearings. It looks like they want to make a big show of it.”
+
+
+“I don’t want it to blow out of proportion, but someone needs to be held responsible, Colonel.”
+
+
+White was sweating profusely. “That’s not fair, sir. Everyone knows forecasting is a tremendously random business. The atmosphere is a complex chaotic system, and it’s almost impossible to predict its behavior…”
+
+
+“Colonel, if I remember correctly, you are responsible for target discrimination, which bears no relation to meteorology.”
+
+
+“That’s right, sir, but … Colonel Katherine Davey of the USAF-E Weather Agency was responsible for meteorological intelligence in the Balkan target zone…” White hesitated. “Uh, you’ve seen her, she often comes to the Operations Center.”
+
+
+“Ah, yes, I remember, the doctor from Massachusetts.” Clark suddenly whirled around. “Very tall, olive skin, slender legs—a beauty.”
+
+
+“Yes, sir, I…” White began, but the general interrupted his stammering.
+
+
+“Colonel, I recall you said this was a personal matter.”
+
+
+White did not answer.
+
+
+General Clark wore a stern expression. “Colonel, not only do I remember your name, but I also remember that you are married. I also know that your wife is not Colonel Davey.”
+
+
+“Yes, General, but … this is not America.”
+
+
+General Clark nearly burst out laughing, but he held back. He could not bear to destroy the quiet beauty of the place.
+
+
+
+
+
+
+* * *
+
+
+
+
+
+
+Afterword: The events described in this story are beyond the realm of possibility, not because of the limitations of human ability, but because of fundamental impossibilities in the fields of physics and mathematics. One of the charms of science fiction, however, is that it can change the laws of nature and then show how the universe would operate according to those revisions.

@@ -1,0 +1,355 @@
+A BRIEF INTRODUCTION TO CHINESE SCIENCE FICTION AND FANDOM24
+
+
+
+
+
+
+
+
+by Regina Kanyu Wang
+
+
+Chinese science fiction has remained largely mysterious to the outside world until recently. In 2015, Liu Cixin (刘慈欣) won the first Hugo Award for Asia with his novel The Three-Body Problem («三体»), and in August 2016, Hao Jingfang (郝景芳) won the second with her novelette “Folding Beijing” («北京折叠»)—both translated by Ken Liu, who is himself a Hugo-winning American author. Now, as more and more Chinese science fiction is translated into English and other languages, it is the perfect time to explore its history.
+
+
+This essay mainly focuses on science fiction, not fantasy, but a few words on fantasy may be helpful. In China, the boundary between science fiction, or kehuan (科幻), and fantasy, or qihuan (奇幻), is seen as quite rigid. However, due to our historical tradition in myths and kung fu stories, it is hard to define Chinese fantasy as a whole. You will find it hard to tell qihuan (奇幻: fantasy) from xuanhuan (玄幻: mostly referring to online fiction with Chinese-style supernatural elements) and mohuan (魔幻: mostly referring to fiction with Western-style magic elements). Narrowly speaking, though, current Chinese fantasy literature excludes themes such as grave robbery (盗墓, daomu: stories involving a group of treasure-seekers breaking into ancient graves, where they come across ghosts and all sorts of other evil creatures), time travel (穿越, chuanyue: stories featuring a contemporary person traveling back in time to ancient dynasties for some unexplained [and unimportant] reason, where they become involved in complicated courtly intrigue or some other soap-opera-like plot), and Daoism immortality-chasing (修真, xiuzhen: stories featuring a protagonist overcoming various challenges to pursue immortality by Daoism method), which stand as popular genres by themselves.
+
+
+There have been fantasy magazines and fan groups throughout contemporary China, but compared to science fiction, Chinese fantasy literature is not at its peak. Having said that, TV series and movies adapted from successful early works are starting to come out in recent times. For example, in 2016 we have Novoland: The Castle in the Sky (2016), a TV series based on the Novoland fantasy universe, which is meant to be China’s Dungeons & Dragons and is the collaborative effort of many fans and writers; and Ice Fantasy (2016), a TV series adapted from the bestselling City of Fantasy (2003), written by Guo Jingming, a famous Chinese YA author. However, for this essay, I will only talk about science fiction in mainland China.
+
+
+
+
+
+
+
+
+
+
+1.
+
+
+PREHISTORY AND EARLY HISTORY OF CHINESE SF
+
+
+
+
+Like all cultures, Chinese legends and myths have fantasy elements in abundance. In China, however, the first text in the science fiction genre can be found as early as 450 BC to 375 BC. In one of the classics of Daoism, Liezi («列子»), we can find a story called “Yanshi” («偃师») in the chapter “The Questions of Tang” («汤问»). Yanshi, a skilled mechanic, builds a delicate automaton resembling a real human being, which can move, sing, and dance. He shows the dummy to the king to prove his skill. The dummy is so delicate and convincing that the king suspects Yanshi is cheating him by using a real human. At the end, Yanshi has to break the automaton to prove that it is only made of wood and leather. Yanshi’s automaton can be seen as a prototype for an early robot.
+
+
+Science fiction as we know it today first came to China in the late Qing Dynasty. Chinese intellectuals like Lu Xun (鲁迅) and Liang Qichao (梁启超) emphasized the importance of science fiction as a tool to help the country prosper. In 1900, the Chinese translation of French author Jules Verne’s Around the World in Eighty Days was published—it was the first piece of translated foreign science fiction published in China, translated by Chen Shoupeng (陈寿彭) and Xue Shaohui (薛绍徽) from an English translation (Geo M. Towle and N d’Anvers; Sampson Low, Marston & Co., London, 1873, The Tour of the World in Eighty Days, then changed to Around the World in Eighty Days). Lu Xun, arguably the most famous writer in modern Chinese literature, also translated several science fiction novels into Chinese, such as Verne’s From the Earth to the Moon and A Journey to the Centre of the Earth, published in Chinese in 1903 and 1906 respectively. Lu Xun translated the novels from the Japanese translation by Inoue Tsutomu since he didn’t know French. The earliest original Chinese science fiction novel we know of is Colony of the Moon («月球殖民地»), written by Huangjiang Diaosou (荒江钓叟, pen name of an anonymous author, which means “Old Fisherman by a Deserted River”), serialized in a journal called Illustrated Fiction («绣像小说») in 1904 and 1905.
+
+
+For a long time in China, literature has been regarded as something which should carry social responsibilities. During the early years of the twentieth century, science fiction in China was supposed to play the basic role of teaching advanced science as well as democracy from the West. Most of the Western SF that was translated into Chinese was adapted to serve this role. For example, Verne’s original text for From the Earth to the Moon contains twenty-eight chapters, but Lu Xun’s translation only has fourteen; A Journey to the Centre of the Earth has forty-five chapters in its original French text, but Lu Xun rewrote it into twelve chapters. Much of this effort was, ironically, devoted to cutting out some of the highly technical messages to make the story more exciting to readers.
+
+
+Wars and political turmoil lasted from the late Qing Dynasty (1833 to 1911) to the Republic Era (1911 to 1949). Lao She (老舍)’s Cat Country («猫城记») came out in 1932. It may be the best-known Chinese SF around the world before the founding of the People’s Republic. In this novel, the first-person narrator flies to Mars, but the aircraft is crushed as soon as it arrives. As the only survivor, the narrator is taken to the City of Cats by feline-faced aliens, where he then lives. With his ironic description of the alien community, the author criticizes his own society.
+
+
+After the establishment of the People’s Republic of China in 1949, the first wave of new Chinese SF came in the 1950s. A Dream Tour of the Solar System («梦游太阳系»), by Zhang Ran (张然), was regarded to be the first story with SF elements in the PRC.25 Published in 1950, it introduces astronomical bodies in the solar system in the format of a dream narrative, more like science fairy tale than hard sci-fi. Some of the big names at that time were Zheng Wenguang (郑文光) and Tong Enzheng (童恩正). Zheng Wenguang’s From Earth to Mars («从地球到火星», 1954) was regarded as the first SF short story in the PRC. It’s about three Chinese teenagers stealing a spaceship and flying to Mars for adventure. SF writers of the period were largely influenced by SF from the former Soviet Union. The complete collection of Jules Verne was translated from Russian into Chinese from 1957 to 1962 because it was highly praised in the former Soviet Union. Works by former Soviet Union writers like Alexander Belyayev were also translated. Most science fiction of the period was written for kids or as popular science texts, optimistic and limited in scope.
+
+
+Then came the Cultural Revolution, leaving little space for literature, and even less for science fiction. Anything that bore any relation to “Western capitalism” was regarded as harmful. Many writers were forced to stop writing. After the reform and opening-up policy, the golden age of Chinese SF finally arrived in the late 1970s. A large body of work emerged, along with a growing number of fan groups and magazines specializing in SF. During this time, Ye Yonglie (叶永烈) was one of the most prestigious writers. His Little Know-It-All Travels around the Future World («小灵通漫游未来», 1978), has sold more than 1.5 million copies, and its comic book adaptation sold another 1.5 million copies. Zheng Wenguang and Tong Enzheng started to write SF again. Zheng’s Flying to Sagittarius («飞向人马座», 1979) became a milestone of Chinese SF. It tells the story of three teenagers trying their best to return to the Earth after roaming outside the solar system for years. And Tong’s most famous work, Death-Ray on Coral Island («珊瑚岛上的死光», 1978), is about scientists fighting against evil corporations to protect the peace of humanity. Coral Island was adapted into the first SF movie in China in 1980 with the same title.
+
+
+In 1983, the anti-spiritual-pollution campaigns wiped SF from the map again. Since 1979, there had been arguments on whether science fiction should be literature or popular science. The charge of pseudoscience was leveled against science fiction. In 1983, Deng Xiaoping, the Chinese paramount leader at the time, spoke against capitalism and exploitation in literary works. Science fiction was regarded as spiritual pollution because of the elements of capitalism and commercialism in it. Stories that talked about more than science were regarded as being harmful politically. Very few—or more accurately, none—dared to write or publish SF during the period. It wasn’t until late 1980s and early 1990s that Chinese SF recovered from the attack and flourished again.
+
+
+
+
+
+
+
+
+
+
+2.
+
+
+PUBLICATION OF PROZINES
+
+
+
+
+The definition of prozines in China is a bit different from the definition used in America. In China, you have to get a special number called a “CN,” similar to an “ISBN,” certificated by the government, to be allowed to publish prozines.
+
+
+In the late 1970s and early 1980s, lots of SF magazines popped up in China. In 1979, Scientific and Literary («科学文艺») began to publish in Sichuan Province. Age of Science （«科学时代»), Science Literature Translation Series («科学文艺译丛»), SF Ocean （«科幻海洋»), Wisdom Tree （«智慧树»), and SF World–Selected SF Works («科幻世界——科学幻想作品选刊») appeared within the following three years. However, all these magazines except Scientific and Literary stopped publishing during the anti-spiritual-pollution campaigns.
+
+
+In 1980, Scientific and Literary sold about 200,000 copies of each issue, but after the anti-spiritual-pollution campaigns, the number dropped as low as 700 copies. After 1984, Yang Xiao (杨潇), editor of the magazine, was selected as the president of Scientific and Literary. Together with her team, she made great efforts to hold the fort for Chinese SF. In 1991, the name of the magazine was changed to Science Fiction World («科幻世界»), and that year in Chengdu, they held the annual conference of World SF. We can look back to 1991 as the year Chinese SF started to flourish again. By 1999, an essay question in China’s National Higher Education Entrance Exam, “What if memory could be transplanted?,” was the same as the title of an article published in Science Fiction World that year. This partly pushed sales of Science Fiction World to its peak: 361,000 copies of each issue in 2000.
+
+
+As the twenty-first century drew closer, another important Chinese SF magazine came to life in the Shanxi Province. Science Fiction King («科幻大王») started to publish in 1994, changing its name to New Science Fiction («新科幻») in 2011. The peak sales were around 12,000 copies per issue in 2008. Unfortunately, at the end of 2014, New Science Fiction stopped publishing due to its relatively low sales. Science Fiction Cube («科幻Cube») is the youngest member of the current existing SF prozine market in China. Its first three issues only came out in 2016, and each issue sold about 50,000 copies. Some other SF magazines appeared and disappeared in this period, including World Science Fiction («世界科幻博览») and Science Fiction Story («科幻-文学秀»). Other publications, like Mengya («萌芽»), ZUI Found («文艺风赏»), and Super Nice («超好看»), publish science fiction as well as other genres.
+
+
+
+
+
+
+
+
+
+
+3.
+
+
+BIRTH OF EARLY CHINESE FANDOM
+
+
+
+
+The first Chinese SF fan group appeared in Shanghai in 1980. Philip Smith from the University of Pittsburgh visited Shanghai International Studies University (SISU) and delivered a course on science fiction literature. A scholar who worked at SISU at the time, Wu Dingbo (吴定柏) regards the science fiction club formed there as the first Chinese SF fan group. In 1981, Science Fiction Research Associations were founded in several cities like Shanghai, Guangdong, Heilongjiang, Ha’erbin, Liaoning, and Chengdu, and then all were swept away by the anti-spiritual-pollution campaigns. And it wasn’t until 1988 that the Science Fiction Literature Committee was founded in Sichuan Writer’s Association, chaired by Tong Enzheng. The committee aimed to unite science fiction writers in Sichuan and make Chinese SF writing prosper from its nadir.
+
+
+In 1990, Yao Haijun (姚海军) established the Chinese Science Fiction Readers’ Association with the help of his fanzine Nebula.
+
+
+In the 1990s, regional fan groups and university clubs boomed all around China. The Science Fiction World magazine also founded its own fan club.
+
+
+In 1998, the first online SF fan groups appeared in China. Chinese Science Fiction Online Association (中华网上科幻协会) and Feiteng Science Fiction Writing Group (飞腾科幻创作小组) were established. The latter one was renamed Feiteng SF Corps (飞腾科幻军团) after it expanded. Some of the other important online fan groups were SF Utopia (科幻桃花源), River of No Return (大江东去科幻社区), and Space Lunatic Asylum (太空疯人院). Unfortunately none of them exist today. Some of the active members continued their discussion in the Science Fiction World group (with no relation to the magazine) on douban.com (a social networking website popular in China based on hobbies).
+
+
+Quite a number of Chinese SF authors were active members of these fan groups.
+
+
+
+
+
+
+
+
+
+
+4.
+
+
+FANZINES
+
+
+
+
+China’s first fanzine was Nebula («星云»), edited by Yao Haijun from 1989 to 2007. During these years, forty issues were published. Yao Haijun was a worker in a logging factory in Heilongjiang when he started the fanzine. Now he is the editor in chief of Science Fiction World magazine. Nebula played an extremely important role in the development of modern Chinese fandom, and even in the history of Chinese science fiction at large. It was the bridge between editors, writers, researchers, and readers. The peak circulation was more than 1,200 copies per issue.
+
+
+Some of the other fanzines prevalent in the 1990s were Galaxy («银河»), edited by Fan Lin (范霖) in Zhengzhou; Up to the Ladder toward the Sky («上天梯»), edited by Xu Jiulong (徐久隆) in Chengdu; Planet 10 («第十号行星») and TNT, edited by Wang Lunan (王鲁南) in Shandong; and Universe Wind («宇宙风»), edited by Zeng Deqiang and Zhou Yukun (曾德强、周宇坤). There were also letterzines, such as Nebula, sent to subscribers all around the country. However, most of these only survived a couple of years due to lack of money and time.
+
+
+Regional SF fan groups also published their fanzines. Cubic Light Year （«立方光年»） in Beijing and Supernova («超新星») in Tianjin were two of the key representatives. Receiving the support of many SF writers, Cubic Light Year was of quite high quality. However, both zines only published a few issues because it was hard for the editors and writers to keep running the projects on a voluntary basis.
+
+
+University SF clubs also publish their fanzines, but these too have a short lifespan. One exception to the rule is Critical Point («临界点») published by Sichuan University Science Fiction Association, which published its special twentieth-anniversary issue in 2013.
+
+
+With the dawn of the Internet era, numerous netzines appeared. Chinese Science Fiction Online Association published Sky and Fire («苍穹火焰») in 1998 and 1999, with a total of seven issues, and River of No Return published Edge Review («边缘») in 2005 and 2006, with a total of four issues. New Realms of Fantasy and Science Fiction («新幻界») published thirty-two issues from 2009 to 2013, which seems like a miracle, since all the issues are of very high quality and could be downloaded online for free. They even published two printed anthologies. Some of the stories published on New Realms of Fantasy and Science Fiction have since been translated into English, such as “Invisible Planets” («看不见的星球», 2010), by Hao Jingfang.
+
+
+Some of the other netzines that are still active today in China are Chinese New Science Fiction («中国新科幻») and Science Fiction Collects («科幻文汇»). Hopefully, they can live long and prosper.
+
+
+
+
+
+
+
+
+
+
+5.
+
+
+AWARDS AND MAJOR EVENTS
+
+
+
+
+The Galaxy Award (银河奖) is the highest honor an author can achieve in the Chinese science fiction field, and for a long time, it was the only one. The Galaxy Award was first established in 1986 by two magazines, Science Fiction World (previously Scientific and Literary) and Wisdom Tree («智慧树»). After Wisdom Tree ceased publication, Science Fiction World became the only organizer of the Galaxy. The Galaxy is only awarded to works published in or by Science Fiction World, with readers voting for their favorites. However, the Best Short Story of 2016 Galaxy Award was awarded to “Balin” by Chen Qiufan, which was published in People’s Literature, making the first exception.
+
+
+An award open to all SF works published in the Chinese language thus became necessary. The Chinese Nebula Award (全球华语科幻星云奖) was established in 2010, organized by the World Chinese Science Fiction Association. All members of the association can nominate their favorites and vote for them; the vote is also extended to the public. The final winner is selected by a panel of judges from five shortlisted works or candidates.
+
+
+The major annual SF events in China take place around these two awards. Usually, there are con-like carnivals for fans. They do not follow specific rules, but usually involve award ceremonies, red-carpet walks, late night roadside barbecues, and drinking. Science Fiction World also hosts a seminar on writing after the Galaxy Award Ceremony every year, while World Chinese Science Fiction Association events have started to look like international cons. Cat Rambo, president of Science Fiction and Fantasy Writers of America; Taiyo Fuji, president of Science Fiction and Fantasy Writers of Japan; and Crystal Huff, cochair of Worldcon 75, were invited as guests for the 2016 Chinese Nebula Award Weekend.
+
+
+Thanks to the prosperity of Chinese science fiction in recent years, new awards keep appearing. For example, The Morning Star & Jinkang Award was established in 2015 by Science & Fantasy Growth Foundation; The Coordinates Award was established in 2015 by several hard-core fans; and Union Writing Competition was established in 2012 by a group of fans in Sichuan University and renamed as Masters of the Future Award in 2016 by the same crew, who started their own company to build both an online hub and an offline space for science fiction fans.
+
+
+In the history of Chinese science fiction, three international conventions were held in China: the annual conference of World SF in 1991, the 1997 Beijing International Conference on Science Fiction, and the 2007 International SF&F Convention. Yang Xiao, the president of Science Fiction World at the time, attended the annual conference of World SF in 1989 in San Marino and won the hosting right for Chengdu, China, in 1991. Yang was not fluent in English, and neither had she attended international professional conferences before. There were both domestic and foreign obstacles, but Yang and her team fought hard to conquer both. The conference was largely supported by the government and turned out to be a great success.
+
+
+The ’97 Beijing International Conference on Science Fiction was also organized by Science Fiction World and supported by the China Association for Science and Technology. It played an important role in promoting science fiction culture in China. One of the results of the conference was the rocketing of sales of Science Fiction World.
+
+
+The 2007 International SF&F Convention was organized by Science Fiction World in Chengdu just before Nippon 2007, designed to promote science fiction culture. That year, European and American writers visited China before heading over to Worldcon in Japan.
+
+
+
+
+
+
+
+
+
+
+6.
+
+
+CONTEMPORARY CHINESE SF FANDOM
+
+
+
+
+There is a bus theory describing Chinese SF fans. The fans’ love toward science fiction is just like taking a bus. When they are young, they get on the bus and start to read science fiction. When they grow older (and reach their destination), they stop to read it and get off the bus. It is true that the majority of the readers of Science Fiction World are middle school, high school, and university students. In comparison, adult fans read more foreign SF works, either in English or in Chinese translation.
+
+
+Active SF fans do exist, but despite this, no regular national “cons” have been established. University SF clubs prosper and decline. Regional fan groups appear and disappear. Chinese fandom is quite dispersed, and it is hard to find a particular fan group in China with a “long” history.
+
+
+However, two fan groups in China with a relatively long history function well to this day.
+
+
+The first one is SF AppleCore. In 2009, SF clubs in four universities in Shanghai decided to collaborate and organize a big event. During the preparation of Shanghai Science Fiction and Fantasy Festival (SSFFF), AppleCore was founded as the association of university SF clubs in Shanghai. SSFFF was held in 2009 and annually from 2011 till now. It is based in universities, and most of the organizers and attendants are university students. During the weekends of a certain month, usually May, various events like debates, panels, lectures, and LARPs (live action role-playing games) are held in member universities, organized by university SF clubs. A single event can attract 30 to 200 attendants, depending on the guests and contents.
+
+
+AppleCore has grown to be more than an association of university SF clubs. In October 2013, AppleCore started monthly meetings targeting alum fans. Usually, during these gatherings, there are movie screenings and themed lectures, panels or short talks in the afternoon and dinner in the evening. The topics explored range from science to fantasy, and from art to astronomy. Some examples include: a screening of the movie A Scanner Darkly would be followed by a lecture on Philip K. Dick; talks on depression and autism; a visit to the contemporary art exhibition “Heman Chong: Ifs, Ands, or Buts”; and a steampunk accessories DIY workshop. On average, 30 to 120 members show up for the afternoon activities, and 5 to 20 stay for dinner.
+
+
+In November 2014, the AppleCore Reading Group was formed. Fans are encouraged to read a specific book every month and meet to discuss it. The very first discussion was on The End of Eternity by Isaac Asimov. Annihilation by Jeff VanderMeer was discussed in December 2015. A special discussion on Chinese Nebula nominees was organized in September 2015, with a focus on Chi Hui’s Artificial Human 2075: Awareness Restructuring («伪人2075 ：意识重组», 2014). The aim is for the reading group to start with a limited circle of members and gradually expand to a larger scale.
+
+
+The AppleCore Writing Workshop was also established in 2015 as a trial and put into official operation in 2016. Small groups of writers meet monthly and discuss each other’s works.
+
+
+AppleCore is not only the largest SF fan group in eastern China, but is perhaps also the one with the most international contacts. In its seventh year, it won the Gold Xingyun Award for Best Fandom in 2016.
+
+
+The other organization is the World Chinese Science Fiction Association (WCSFA), our largest fan group, established in 2010 in Chengdu and registered in Hong Kong. AppleCore is more fan-driven and works as the regional fan hub in Shanghai, while WCSFA is an official organization and works as the national fan hub in China.
+
+
+The World Chinese Science Fiction Association has around 300 members, and most of them are “professionals”: writers, translators, editors, researchers, etc. WCSFA has been organizing the Chinese Nebula Award every year since 2010. With the aim of nurturing Chinese SF, the organizing committee works hard to improve it year by year. The award ceremonies have been held in Chengdu, Taiyuan, and Beijing, and it is expected future ceremonies will travel to more cities.
+
+
+What should also be mentioned here is that Beijing tried out the first Worldcon bid in China in 2014. Though we lost to Kansas City in the end, it was a good beginning, and we can now expect a large group of Chinese representatives at future Worldcons.
+
+
+
+
+
+
+
+
+
+
+7.
+
+
+CURRENT CHINESE SF IN LITERATURE AND ACADEMIA
+
+
+
+
+Liu Cixin (刘慈欣) is the biggest name in contemporary Chinese SF thanks to his grand universe-spanning imagination. His “Three- Body” trilogy («三体»三部曲) is extremely popular and is due to be adapted into a six-part movie series. The English translation of the first book was published in November 2014—the first contemporary Chinese SF novel translated into English—and won a Hugo. The next two books were published in English in 2015 and 2016 respectively.26
+
+
+Wang Jinkang (王晋康), who spent his twentieth year of writing SF in 2014, is another heavyweight in Chinese SF. His stories are deeply rooted in the tradition of realism and usually with a focus on biology. Some of his representative works include the short story “Adam’s Regression” («亚当回归», 1993) and the novel A Song for Life («生命之歌», 1998).
+
+
+Han Song (韩松), who works for Xinhua News Agency, is known to have said that the news pieces he writes during the daytime are more science fictional than the science fiction stories he writes at night. His stories, influenced by Kafka, are unusual and surreal, and his pioneering writing style garners him special attention. Some of his representative works are the short story “Gravestone of the Universe” («宇宙墓碑», 1991) and the novel Red Ocean («红色海洋», 2004).
+
+
+He Xi (何夕)’s stories are effective at exploring emotions and feelings, which really touch the reader. “The Sad One” («伤心者», 2003) is his most famous short story, about a lonely mathematician figuring out a theory that cannot be understood by his era, and a mother always having faith in her son. He Xi published his first novel, The Doomsyear («天年»), in 2015.
+
+
+Arguably, these are the “Big Four” of Chinese SF today.
+
+
+Younger writers like Chen Qiufan (陈楸帆), who leads science fiction realism; Fei Dao (飞氘), who applies skills and concepts from literary fiction to his SF writing; Baoshu (宝树), who is good at telling interesting stories with a focus on philosophy; Zhang Ran (张冉), who benefits a lot from his earlier experience as a journalist; Jiang Bo (江波), who has deft control of large scenes; and A Que (阿缺), who is a master of storytelling born in the 1990s—they are all from the most well-educated group in China.
+
+
+The writers described in this section so far are male, but there are also quite a few prestigious female writers in China: Zhao Haihong (赵海虹), Ling Chen (凌晨), Chi Hui (迟卉), Xia Jia (夏笳), Hao Jingfang (郝景芳), Chen Qian (陈茜), and Tang Fei (糖匪). They approach the genre with their unique perspectives. Zhao Haihong’s stories feature an emphasis on emotion and romantic atmosphere; Ling Chen takes good control of hard SF elements; Chi Hui is very prolific, making it hard to conclude her style; Xia Jia is good at creating fantastic scenes and dreamy atmospheres, and recently has started to focus on near-future scenes in China; Hao Jingfang regards her own writing as “nongenre,” as she cares about what happens in real space but sets her stories in imaginary space; Chen Qian’s stories have simple language but hard SF cores; and Tang Fei’s writing, which carries characteristics of the New Wave, is regarded as “nontypical SF” by herself. Among them, Xia Jia is probably the most well-known writer, and after her Hugo win, Hao Jingfang is also receiving a lot of attention.
+
+
+In terms of academia, there are a group of Chinese SF researchers led by Professor Wu Yan (吴岩) from Beijing Normal University. There has been a master’s program focusing on science fiction in Beijing Normal University for years, and the first Ph.D. student in the same major was recruited in September 2015. Before the specialized Ph.D. program in science fiction was established, young researchers and writers like Xia Jia and Fei Dao tended to combine their interest in science fiction within the field of comparative literature. Many of them share research interests in late Qing Dynasty SF in China, while others are more interested in modern and contemporary Chinese SF. And it’s fascinating to see these researchers explore the works of their contemporaries and friends.
+
+
+
+
+
+
+
+
+
+
+8.
+
+
+CHINESE SCIENCE FICTION MOVIES
+
+
+
+
+Science fiction IPs (intellectual properties) are extremely hot in China these days. Liu Cixin sold the film rights of the “Three-Body” trilogy long before the upsurge, making it one of the earliest Chinese science fiction “big” movies to be adapted from literature. The movie has not been released as of this writing (early 2018), but a stage adaptation has been received enthusiastically in Shanghai and Beijing. The first Nebula Award for Global Chinese Science Fiction Films, also organized and awarded by WCSFA, was just awarded in August 2016. The Best SF Movie award went to CJ 7 («长江七号», 2008), directed by Stephen Chow; and Lu Chuan won Best Director for his Chronicles of the Ghostly Tribe («九层妖塔», 2015).
+
+
+There are dozens of projects in development, and we can certainly expect to see more Chinese science fiction movies in the coming years.
+
+
+
+
+
+
+
+
+
+
+CONCLUSION
+
+
+
+
+Chinese SF is winning more attention on the international stage than ever before. The Hugo-winning magazine Clarkesworld started a Chinese SF translation project in 2015 in partnership with Storycom, a Chinese company dedicated to turning science fiction stories into movies/comic/games. Clarkesworld has been publishing one Chinese SF short story in translation each month since.
+
+
+Led by Li Zhaoxin, a senior SF fan and critic, SF Comet, an international SF short story writing competition, runs monthly. Chinese and foreign writers compete by writing a short story to a certain theme within a limited time frame. The stories are published in both Chinese and English. Both Chinese and foreign fans can vote for the anonymized stories and choose their favorite. Currently, the competition is on hiatus and we hope it will continue soon.
+
+
+The first anthology of contemporary Chinese SF stories, Invisible Planets, edited and translated by Ken Liu, was published in November 2016.
+
+
+It is becoming easier and easier to find translated Chinese SF these days. Check them out and you won’t be disappointed!
+
+
+
+
+
+
+
+
+
+
+AUTHOR’S NOTE
+
+
+
+
+Special thanks to Zhang Feng, Jiang Qian, Zhao Ruhan, Zheng Jun, Xia Jia, and Dong Renwei for their writings on Chinese science fiction.
+
+
+
+
+
+
+
+
+
+
+24 Originally written in English.
+
+
+25 Author’s Note: Zhang Ran (张然) is not the same person as, and not related to, the science fiction author Zhang Ran (张冉), who began publishing in the 2000s and whose “The Snow of Jinyang” is in this anthology.
+
+
+26 The first and third books in the series were translated by Ken Liu, and the second book was translated by Joel Martinsen.

@@ -1,0 +1,104 @@
+3
+
+
+AS THEY WALKED into the hallway, Captain Foss turned to Rei. “Let’s go,” she said. “We can use my oﬃce. This is a priority matter, so you have to do this too. We were ordered to work on this together, right?”
+“We were also told that our mission is ongoing,” Rei replied. “You keep dragging me to your oﬃce so much that it’s getting so that I can barely breathe in there.”
+
+
+“Well, you don’t have an oﬃce. Want to go to the mission brieﬁng room instead?”
+“I do my work aboard Yukikaze.”
+“Fine with me,” Edith Foss replied with a smile. “That’d be an appropriate place to try profacting your new ﬂight oﬃcer. Yukikaze might have an interest in it as well.”
+“The new ﬂight oﬃcer is going to be trivial to her. But it’s possible she might show some sort of response to us analyzing the JAM. Anyway, let’s start by getting the trivial stuﬀ out of the way ﬁrst. I guess we can use your oﬃce for today.” With that, Rei began walking down the corridor, but Captain Foss’s voice stopped him a moment later.
+“Hold it, Captain Fukai. You had a good idea there.” “What?”
+“Your suggestion to do this aboard Yukikaze. I also think it’d be a good idea to tell her about Colonel Rombert and this new ﬂight oﬃcer she’ll be dealing with. I think…I just think so.”
+Rei tilted his head as he looked at the doctor, wondering why she’d think such a thing. He said nothing, waiting for her to go on. Sensing his curiosity, Captain Foss continued.
+“I think Yukikaze is also interested in the humans she comes into close contact with, not just the JAM. Major Booker told me about the incident with Lieutenant Yagashira. He said something about Yagashira sabotaging some of Yukikaze’s systems.”
+Rei nodded. “Right, the AICS. Sorry, the Air Intake Control System, I mean. It was a part that she didn’t have direct sensor input on. You could think of it as an autonomic system. Yukikaze didn’t realize it’d been tampered with, which was probably why Lieutenant Yagashira chose that system to target. There aren’t many combat-vital onboard systems you can do that to, but the AICS was one of the few exceptions.”
+
+
+“Was? You mean now it isn’t?”
+“It’s just jury-rigged for now, but we added in a chip that allows the central computer to monitor all onboard systems. It’s not perfect, but it plugs the security hole Yagashira found. Now you can’t pull a circuit card from the fuselage without the central computer knowing it.”
+“Did Yukikaze demand that you do that?” Foss asked. “No, it was Major Booker’s idea. The tactical computer in
+headquarters also said we had to do it, but it was Major Booker who made the ﬁnal decision. Except … You know, now that I think of it, Yukikaze was probably aware that she was in danger from Lieutenant Yagashira’s sabotage. From the way she queries the HQ computers about her status in combat when she returns to base, to make sure that her own analysis is accurate, I’d say that she still senses that danger.”
+“Then you understand what I’m thinking about this, right?”
+“Just what do you expect will come from us doing our work aboard Yukikaze while she’s on standby? Do you think we’ll just talk about stuﬀ at her and she’ll just say ‘Right, I understand’?” Rei said.
+“Don’t you think that, Captain Fukai? I’m only suggesting it because I heard that you told Major Booker that Yukikaze seems to be able to understand natural spoken language on some level.”
+“You’re nearly as good at collecting information as Colonel Rombert. The thing is, I kind of doubt that you really believe that she has that ability. Nobody’s as close to Yukikaze as I am, so I have to wonder how someone in your position can believe that of her so easily. It’s not the sort of thing that an outsider would say, so I wish you’d stop pretending that you believe it.”
+“Are you sure you just don’t like that an outsider like me could so easily realize something that took you so long to
+
+
+ﬁgure out?” Foss said.
+“And there you go again,” Rei said, the exasperation showing clearly on his face. “Analyzing my mind and saying ‘Right, that being the case, this must be like this.’ You can say what you want, but—”
+“Think about it yourself, Rei. You can’t bear having the way another person talks, like me, aﬀect how you feel. You claim that it’s not your problem so that you can avoid dealing with it. But your mind is yours and yours alone, and when you declare that something isn’t your problem, you’re giving that up. Maintaining such a weak sense of self won’t get you very far, even with Yukikaze, and I think you know that too. You’re changing. If you just keep that in mind, you’ll be able to calmly value yourself in relation to any human group you interact with. That’s what’s known as getting stronger.
+“Furthermore, it’s ﬁne for you to say that other people don’t concern you, but you’re still in a fragile state. I think you need to continue your rehabilitation. As your doctor, I recommend that you continue with your training. By doing that, you’ll be able to overcome your fear of Yukikaze. I believe your fear to be connected not only to your worries over her, but also to your desire to defeat the JAM. My job as a doctor in the SAF is to help you do just that. Now, I’ll admit, I’m ignorant when it comes to Yukikaze, especially on the hardware side, but I’m trying my best to understand it. If I’m completely wrong about her, then please, set me straight. But calmly. Do you really think I’m just pretending to understand her?”
+Rei took a deep breath. This doctor had done her profacting number on him, and it was clear to see that he couldn’t dispute what she had said.
+“Do you…” he began. “Do you still have clearance to enter the SAF hangar bay?” The hangar where Yukikaze waited wasn’t open to just anyone. Edith had been given
+
+
+clearance once before, when she’d boarded Yukikaze for a mission, but Rei wasn’t sure if it was still valid.
+“I don’t know,” she said. “We can ﬁnd out by asking Major Booker—”
+“We can also ﬁnd out by just going down there,” Rei said. “I’m inviting you to my workplace. If you can’t get in, it’ll also be a good chance for me to see if Yukikaze knows that I need you. If I tell her that I do, she’ll accept you herself and probably make a request to Major Booker to grant you access.”
+“Did you just say that you need me?”
+“Yeah.” Rei nodded. “You’re still my doctor, and as much as I may not like what you just said, I can’t disagree with it either. It bugs the hell out of me, but I won’t argue. If you were one of our maintenance engineers, I’m pretty sure you’d keep our planes in perfect shape. Anyway, let’s go.”
+Rei headed oﬀ toward the hangar bay, but Captain Foss stood where she was for a moment. “I’m grateful for the recognition, Captain Fukai.”
+“You should be more thankful to Major Booker than to me,” he said. “He has a lot of faith in you.”
+“Not complete faith, though,” she said as she fell into step at Rei’s side. “The major gave me this job of profacting the JAM because he thinks I can become a true member of the SAF. It’s like a test. He doesn’t really expect me to come up with a new understanding of the JAM or make some unforeseen discovery that he and the rest of you SAF people haven’t. I mean, the SAF has been working on the JAM on its own for so long, but—”
+“You don’t think you can pass the test?”
+“The key to passing it lies in whether or not I’m ﬂattered by you and Major Booker, as well as my acceptance of the SAF’s current understanding of the JAM. I understand that. Neither he nor General Cooley will have much faith in someone who doesn’t accept common sense.”
+
+
+“Unfortunately, that sort of thinking doesn’t apply in the SAF or the FAF.”
+“How do you mean?”
+“That attitude you have of passing a test, like you’re here studying abroad to get a degree. Really, it’s what you’d expect from an honors student. You think that your eﬀorts will be recognized no matter what the outcome of your work. The problem is that the SAF is a combat unit. All we care about here are results. Major Booker has already decided that you’re useful to us, so you can’t treat this like some test you can take your time on. In other words, this is combat duty. He expects results we can use, no matter what expectations you may have. He really does expect you to make a new discovery that will shatter our existing view of the JAM. There’s no way I can describe just how naive your view is that this is some sort of test. And even though he knew that you’d see it that way, the major still gave you this mission. Even ﬂattered you by saying you’d outdo Lynn Jackson. It was hard for him too. I could see that from the start. So don’t go running away from reality, Edith.”
+She paused a moment as his words sank in.
+“Yeah,” she ﬁnally said, and then it was her turn to let out a sigh. “I guess I’m just not conﬁdent that I can profact the JAM. It’s that simple. Maybe his expectations just aren’t justiﬁed. Maybe I don’t have the ability, and I just don’t want to admit it to myself.”
+“The honors student who never had to deal with a setback. It’s a common story.”
+“Can you knock it oﬀ with that talk?” Foss said. “Sorry.”
+“Still, you’re not one to get up on a soapbox like that. Great, now I hate myself.”
+“Better to have someone tell you to stop acting like a spoiled brat than just say, ‘I hate you.’ You won’t survive here without reminders, and if you don’t have real ability,
+
+
+you’ll just be killed by the JAM. Besides, you’re a doctor. Doctors are supposed to act as though they’re superior to their patients. If they don’t, it just confuses us. An overconﬁdent partner can be hard to deal with, but so can one who’s overly timid. I don’t want you ending up like that.”
+“There are times, when I’m oﬀ the clock, that I like to complain about things too,” Foss said.
+“Well, we’re on duty right now.”
+“Yeah… Still, you can’t live your life at work. Do you ever take time to just relax?”
+“Yeah.”
+“Like, when you and Major Booker have a drink?” “I suppose.”
+“You have a good friend in James Booker,” Foss said. “I’m jealous. I don’t have any girlfriends here to commiserate with or even just talk to about women’s stuﬀ.”
+“Girlfriends, huh? You never forget that you’re a woman, do you?”
+“Of course not. Unlike certain people I might name, I don’t forget that I’m human either, and gender comes with that. I’m a woman. I don’t consider myself some sort of asexual life-form. That goes for any normal human being, on the battleﬁeld or anywhere else. That goes for General Laitume as much as it does for Colonel Rombert. You, however, are a slight exception.”
+“Yeah, I guess I am,” Rei replied, turning his gaze away from Edith. “My awareness of my own humanity is annoying, but there’s nothing I can do about it.”
+“I know,” she said. “I’ve learned that very clearly from my work with you. One wrong step and you totally depersonalize. That’s why you still need rehabilitation. You need to ﬁght the JAM from a human perspective. That’s far more threatening to them. Humans have gender. I don’t
+
+
+think the JAM understand that. Neither does Yukikaze, for that matter.”
+Rei just grunted in response. That, he thought, is most probably the case.
+“I’m a woman, you’re a man, and the both of us are human,” Edith said, not looking at Rei. “Whether we’re at work or in our private lives, that never changes. Not when we get angry at each other or when we’re complaining to each other. I can complain about little things right here, right now, only because you are human. If I thought of you as a machine, I wouldn’t be talking to you like this. Doctors don’t share their private complaints with their patients.”
+“Are you doing it because you think of me as a partner?” “Yeah. Funny, huh?”
+“Not really. Actually, I think it’d be interesting to try complaining to Yukikaze too.”
+“I beg your pardon?” Foss said.
+“When I think about it, I realize that I never thought of Yukikaze as a machine. It just occurred to me that I complain to her all the time when we’re in combat. I don’t talk to her like I’m better than she is. I get pissed oﬀ at her as though she was my partner and chat with her when I relax. Like now, with you. We’re equals. I was just wondering what Yukikaze thinks of us. At the very least, I’m sure that she sees me diﬀerently from other people. She isn’t just a machine.”
+“Has Yukikaze ever warned you to knock oﬀ the chatter?”
+“Well…yeah, actually. Now that I think about it, there have been situations where that’s happened. I wasn’t aware of her talking to me, but—”
+“That’s because you always just thought of her as being an extension of yourself. You wouldn’t have considered it communication from someone else.”
+
+
+“I’m reconsidering that.”
+“I may need to do a psychobehavioral analysis on Yukikaze as well.”
+“Having a disinterested third party doing that for her would be useful. Major Booker doesn’t seem that concerned about it, but it’s of vital importance to me,” Rei said. “She’s been my partner for a long time, after all.”
+“Let’s give it a try. If we can get Yukikaze to complain to us, it might relieve some of the stress she’s under.”
+“I never thought of her having psychological stress, but she probably does. The same as the maintenance teams, or Major Booker.”
+“So while I’m profacting the JAM, I’ll also be working on stress reduction for a ﬁghter plane named Yukikaze,” Captain Foss said, taking a deep breath. “You people must have really hooked me deep into your environment, because that doesn’t seem nearly as asinine to me as it should.”
+“But it doesn’t feel bad either, does it?”
+“No. I used to be scared of you and the SAF, but not anymore. That change in itself may be something to fear though.”
+“That’s my fault. I took you into battle in Yukikaze. I ﬁgured if you were one of us, you wouldn’t be scared. However…” Rei stopped in front of the hangar bay entrance and turned to face Captain Foss. “I want you to stay a neutral party in all this. Stay on guard to see if I and the rest of the SAF are just crazy. I know this is a selﬁsh and diﬃcult request, but…it’s hard for me to explain, but somehow I think I can trust you more that way.”
+“Basically, you want me to become a standard for objective reality.”
+“Exactly. Like a spy operating on her own, observing enemy movements.”
+“I’ve had training for stuﬀ like that,” Foss said.
+
+
+“You’ve had spy training? That’s amazing.”
+“No, as a psychologist. It’s training designed to prevent me from assimilating a delusional patient’s fantasy world. It’s diﬃcult because unlike other illnesses, like infectious diseases, you can’t take precautionary measures like getting vaccinated. Still, I’ll try my best. If I go crazy, then there’ll be nobody to help you with your rehabilitation. This business I’m in is all about cause and eﬀect. If I fall in love with my partner, it’s all over.”
+“That’s up to you to judge, but if you’re going to say that, then I’ll say this—I don’t like your personality,” Rei said as he touched his hand to the entry ID plate by the blast doors. “But I respect your battle skills.”
+“Battle skills… Just the way I’d expect you to put that.” The abilities you need to survive, Rei thought. Captain
+Foss pressed her hand to the ID plate as well.

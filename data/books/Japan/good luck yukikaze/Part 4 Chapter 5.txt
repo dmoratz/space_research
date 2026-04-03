@@ -1,0 +1,113 @@
+5
+
+
+A BUFFER AREA encoded with predictive behavioral awareness… It was like a feed-forward control program, Rei thought, putting what Captain Foss had said into terms he could relate to.
+Yukikaze had those functions as well. However, her countless varieties of programs—her codes, if you would—could all be analyzed and understood, but understanding the programs would not allow Rei to understand Yukikaze. That gap between coding and behavior applied equally to humans, Yukikaze, and other computers. As Edith had said, codes and programs simply indicated probabilities. They weren’t a being’s essential character, and besides, Edith had just told Rei that it was delusional to think of the codes as determining human essence.
+Suppose Yukikaze’s essential character wasn’t simply a collection of codes and it wasn’t controlled by them. If that were the case, she wouldn’t need to rewrite her existing programs in order to perform novel behaviors she never had previously. In other words, she might not necessarily always behave as she’d been programmed to.
+
+
+Rei instinctively shook his head at the idea.
+But if he followed Captain Foss’s line of reasoning, that would have to be the case. Was it just sophistry on her part? No… It was possible that it was actually true. Yukikaze wasn’t controlled by her programming. He’d always had vague doubts that she was, and while common sense told him that such a thing was impossible, his own experiences in observing her behavior were telling him otherwise. He had a feeling that Yukikaze possessed some essential character that wasn’t fully determined by the limits of her programming
+It would be impossible to understand Yukikaze by analyzing her code. You could say that the only way he might one day be able to understand her would be by observing her actions. That must apply to the JAM as well.
+There was no predetermined model like the PAX code set up for Yukikaze or the JAM. That would make profacting them diﬃcult. Now Rei understood why Captain Foss had been so hesitant to try it.
+“I got an interesting result just from entering Lieutenant Katsuragi’s PAC code. Can you see it up there?”
+Captain Foss’s question roused Rei from his reverie, and he looked down at the display, which mirrored the captain’s personal computer, Dr. Lecter. Something that looked like a correlation graph had appeared.
+“Yeah. What’s it showing me?”
+“It’s the result of my asking T-FACPro II who in the SAF has the closest profact to Lieutenant Katsuragi. The line tracing up toward the upper right shows Katsuragi’s individual psychological tendency components, while the red dot near it shows the person who’s closest to him.”
+“And that is…?” “Guess.”
+He paused.
+
+
+“Is it me?”
+“Bingo. Exactly right. That red dot is you. Lieutenant Katsuragi’s personality is almost exactly like yours.”
+Rei was silent, wondering what he should say.
+“However,” Captain Foss continued. “Not as you are now. That red dot is based on the psych evaluation from your old PAC code. If Colonel Rombert had spotted you back then, today you might be serving in the Intelligence Forces instead of the SAF. Interesting, isn’t it? But you’re diﬀerent now. Let me show you another readout.”
+Captain         Foss         switched         Lieutenant         Katsuragi’s psychological analysis code to display as a horizontal line, the graph showing how the other SAF personnel matched up to it. Somebody with exactly the same code as him would have a similar horizontal line, but nobody matched it exactly. Even so, with a unit comprised of people with similar personality types, the lines didn’t vary that much. The wavy lines depicting the other personnel entwined around Katsuragi’s. The one which intersected his at numerous points represented Rei when he was still a second lieutenant, Captain Foss explained.
+“As you are now, Lieutenant Katsuragi is like a ghost of who you used to be. I can predict that you’ll have feelings of hatred for him, like you would for a close relative. I also expect that Lieutenant Katsuragi won’t understand why you dislike him. If you were to tell him that you hated him, I have no doubt that his response would be—”
+“Not my problem.”
+“ ‘Who cares? It’s not my problem.’ I can predict that’s what he’d think, even if he doesn’t say it. I doubt you think it isn’t your problem now.”
+“I’d like to try checking that out with T-FACPro II.” “You’re not serious, are you?” Captain Foss replied.
+“Why would you ask an AI how you felt? There are other ways to conﬁrm how T-FACPro II is operating. Anyway, I’ll
+
+
+create a PAX code for the lieutenant. Major Booker will want to know how Lieutenant Katsuragi himself will accept Colonel Rombert’s orders. I’ll start working on that. You keep an eye on Yukikaze. I think she’ll be interested in T-FACPro II’s functions.”
+The main display reacted as soon as Captain Foss had ﬁnished. It was a message from Yukikaze. Rei felt a familiar chill run down his spine; Yukikaze hadn’t been resting at all.
+JAM can be profacted with the following coding. The message was followed by a scrolling list of numeric
+data.
+“What the hell is this?” said Captain Foss.
+“It’s a profacting of the JAM, according to Yukikaze,” Rei answered, a knot forming in his stomach as he watched. “I think these numbers are PAX codes for the JAM. Yukikaze must be using the PAX code generation engine in T-FACPro II.”
+T-FACPro II: JAM aspire to receive us…I judge this to be true.
+“What’s this?”
+“T-FACPro II’s profacting results say that the JAM want to meet with us, and Yukikaze agrees.”
+“The result you’d expect, right?”
+“No,” Rei said, almost groaning as he watched the display. “She’s never indicated anything like the ‘JAM aspire to receive us.’ ”
+“The SAF believes that the JAM don’t consider humans to be their adversaries, right? But this—”
+“ ‘Us’ in this case means Yukikaze and me, not the FAF. And if the word receive is being used to mean ‘welcome’ rather than ‘meet with the enemy,’ then you can’t say that this is an expected profacting result. Both Major Booker and I are sure that the JAM want to contact us, but this is slightly diﬀerent from our theory.”
+
+
+“Receive can also mean ‘welcome you as one of us.’ ” “You mean the JAM are hot to drag Yukikaze into their
+ranks and make her one of them? How is any of that statement a result you’d expect?”
+“If you interpret it that way, then it is. Maybe the JAM want to initiate some sort of cease-ﬁre.”
+“If it’s between the JAM and Yukikaze, and not the SAF, it’s possible. She contacted the JAM once already… In any case, this is just a prediction. The more important matter here is that Yukikaze is indicating that she thinks that the prediction is true.”
+“Well, I’ll leave Yukikaze to you, then. Her profacting the JAM is a big help to me. It’ll save me a lot of time—”
+“You’re missing the point, Edith.” “Why?”
+“T-FACPro II was made for humans, not to be used against the JAM. It’s your job to use it that way. Yukikaze was just trying it out for herself. She has her own ways of predicting JAM behaviors and desires. That’s why she said she judged the results from T-FACPro II to be true. The big help to us is that we can now use T-FACPro II as a tool to ask Yukikaze herself her predictions about the JAM. I think it’ll work. We have a new way to communicate with Yukikaze.”
+“Right. So, either way, we still have to do our job on the JAM as well. Too bad.”
+“You’re analyzing the JAM from a human standpoint. ‘Too bad’? That’s not how I’d expect an honors student to talk. Maybe you’re starting to fear how amazing Yukikaze is now too.”
+“I consider you my partner, so I’m just doing a little idle grumbling at you. I’m not lazy, but I’m not the brilliant honors student you keep calling me either. You don’t know me very well at all,” Foss said. And then, “And what do you mean, I’m developing a fear of Yukikaze?!”
+
+
+Just as she doesn’t understand just how powerful her own T-FACPro II is, Captain Foss doesn’t appreciate Yukikaze’s amazing potential, Rei thought. Right now, Yukikaze was using her internal program functions to try and explain the inexplicable JAM. That meant Yukikaze was a truly autonomous life-form that couldn’t be explained as just being the sum of her codes. To someone who’d known her for so long, the shock of realization made him shiver. But even now, Captain Foss probably only saw her as a ﬁghter plane equipped with a particularly powerful computer.
+“Yukikaze isn’t interested in the human standpoint. She wouldn’t profact from that point of view. That’s why your work is necessary. She’s trying things I never imagined she would, and if she’s doing that, then I’ll bet the JAM are doing things we can’t imagine either.”
+“And I’m supposed to profact something like that. I get depressed just thinking about it.”
+“Is that because of the way I put it?”
+“No, it’s just more idle bitching on my part,” Foss said. “Okay, I get it. I’ll cut it out.”
+Even if the JAM were beyond their imagination, it was still possible to approach them. Yukikaze had indicated as
+much with her prediction of their strategy against her. The SAF would have to consider that in detail. Booker’s decision to have Captain Foss participate in this strategic recon operation against the JAM has already yielded results beyond anything we expected, Rei thought.
+No matter what method they used, a prediction was just a prediction. But what Yukikaze had just told them was something that nobody could have predicted, something that could force the FAF to reexamine its entire strategy versus the JAM. That was probably what Major Booker had been seeking in all this. He’d judged that they had reached the end of their rope vis-à-vis the JAM. The FAF and SAF were hamstrung by their own strategies, working
+
+
+themselves to exhaustion with little to show for it. And so they needed a new point of view that would allow them to create their own unique strategy and break the stalemate. In short, Booker had initiated this strategic reconnaissance operation in order to save them all.
+Until the SAF ﬂies a sortie based on our intelligence, we can’t know how successful this operation is. This is still only phase one, but it’s already borne fruit, Rei thought happily. Oh, soon, he wished. How he wished to ﬂy into battle again.
+Then Rei remembered Captain Foss’s words, how the personality of Yukikaze’s new ﬂight oﬃcer Lieutenant Katsuragi was identical to how Rei used to be.
+Well, whoever came along, it wasn’t his problem. As long as he was a good EWO, that was all that mattered. Yukikaze probably thought the same thing. After all, she’d shown no interest in Lieutenant Katsuragi’s profacting, had she?
+But even as he was thinking that, Rei realized that he was eager to meet the new guy in person. Was it to see if T-
+FACPro II’s prediction was correct? Or was he looking forward to moving the operation to phase two? There is that, Rei thought, but not only that.
+Rei wanted to see what sort of person he used to be. Not as a useful means of self-reﬂection, but simply a desire to see his past self from the outside. If the prediction about Lieutenant Katsuragi was accurate, he’d be able to see that as surely as if he were looking into a mirror.
+No, the old him would never have been interested in anything like this. He’d hardly ever even looked at his face in a mirror. The one hanging in the bathroom he used to shave, with its slightly warped reﬂection, was always good enough for him. He’d never felt the need to get one that aﬀorded him a clearer view of himself. Yeah, that’s what Katsuragi is probably like. Rei smiled unconsciously at the thought of it.
+
+
+“Wanna let me in on the joke?” Captain Foss asked from behind him, wondering why he was suddenly smiling.
+“Lieutenant Katsuragi probably doesn’t own his own mirror. I just thought that was funny,” Rei replied.
+And even as he said it, Rei realized just how much he really had changed.
+“You can ask him about that yourself when he arrives,” she said.
+Deciding that would be how he would initiate phase two of this mission, Rei started planning his report to Major Booker. And just for a change, he would write it by hand.
+
+
+OceanofPDF.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VI
+
+
+STRATEGIC RECONNAISSANCE—PHASE
+2
+
+
+OceanofPDF.com

@@ -1,0 +1,1215 @@
+14 Team Seattle
+
+
+
+
+                        Panjshambe, 27 Azar 1399, 03:22 +0330 (2020-12-16T23:52 GMT)
+
+
+Tehran Institute of Technology
+
+
+
+
+                        Inside the dim laboratory, Jamshed reached for one of the yellow pieces of paper hanging from the roof and pulled it toward him. He copied the blurred numbers on the cathode tube onto it, then went through a few calculations to obtain a set of coordinates which he circled and numbered: #343.
+
+
+                        He was still less than one hundredth of the way through the work he needed to do.
+
+
+                        Letting go of the paper, Jamshed folded his arms above his head and slumped in his chair. Clearly, tracking and controlling each of the forty thousand space tethers individually was not going to work. He looked at the swaying slips of paper, checking the coordinates one by one.
+
+
+                        Shiraishi’s Cloud had been divided into three separate clusters, moving independently, but Jamshed could see no order in their spin, velocity, or formation. This meant that the calculations had been done using computers, not by hand.
+
+
+                        “I’ll just have to reunite the Cloud,” he murmured to himself.
+
+
+                        He would gather the whole group of forty thousand space tethers in one place. That much would be easy. If he directed them all at the same destination, before long they would all arrive. By adding a few tiny variations to the orbital elements he sent, he could shape the swarm into a dense spherical cloud.
+
+
+                        That was more in line with his goals, too. He had neither the technique nor the time to destroy satellites with the sort of finesse Shiraishi had exhibited. Over in Seattle, Kazumi was desperately searching for a way to knock the space tethers out of orbit. Jamshed had to sweep low Earth orbit clear of satellites before that happened.
+
+
+                        Jamshed Jahanshah, genius spacecraft inventor, was now flying the flag of the Great Leap, entrusted to him by Shiraishi at the moment of his death.
+
+
+                        Jamshed gathered up all the yellow posters lying on the floor with nothing written on the back yet and carried them to his desk. Pen in hand, he visualized the three subclouds that Shiraishi had left behind and began working out an orbit that all three could easily converge on.
+
+
+                        After a few minutes of experimental calculations, a suitable orbit began to emerge from the figures. If he had the space tethers move at top speed, the Cloud could be reassembled in four hours. Now he needed a TLE with that moment as the epoch. Inclination 43 degrees, right ascension of ascending node 120 degrees … Velocity expressed as mean motion, 15.1 revolutions per day.
+
+
+                        “This will do nicely.”
+
+
+                        There was, it occurred to him, another celestial body with a similar TLE. The Project Wyvern orbital hotel. Let that be the first object the reformed Cloud devoured, then. If he set the space tethers to their maximum rotational speed, their terminal apparatuses would move at ten kilometers per second. Whatever sort of spacecraft the orbital hotel might be, this would surely tear it to shreds. The two civilians aboard would become symbols of the LEO massacre.
+
+
+                        “And after that, Tiangong-2. I’ll just need to raise the orbit a little.”
+
+
+                        After cleaning up his target TLE and adding a small margin of error, he entered it into the controller he had inherited from Shiraishi and hit Submit.
+
+
+                        The controller transmitted the instructions to the sixty thousand base stations scattered around the world, which sent them on VHF waves to the orbiting space tethers. Receiving their new orders, the tethercraft used the feedback program Jamshed had devised to skew their motion toward the target orbit.
+
+
+                        Jamshed checked the mass of coordinates flowing down the screen and confirmed that things were in motion. He was master of the space tethers once more.
+
+
+                        “Marvelous.”
+
+
+                        Shiraishi’s design embodied Jamshed’s theories perfectly. From the use of spin and randomly moving ballast for stabilization to the flocking flight pattern and trial-and-error feedback mechanism for attaining the target orbit, Shiraishi had understood and given form to all of the possibilities Jamshed had hinted at.
+
+
+                        What kind of man had this Shiraishi been? A Japanese engineer who had built the space tethers with North Korean resources. A man who could achieve an impossible task like that would surely have had no difficulty finding employment away from the shadows if he had so desired.
+
+
+                        Jamshed closed his eyes. As he did, he heard the door open.
+
+
+                        “Who’s there?!”
+
+
+                        An Asian man with thinning hair in a mousy suit stood at the entrance with a flashlight in his hand. The flashlight’s beam reflected from the floor to illuminate his face from below, lending an eerie cast to his already tired and unhealthy-looking features.
+
+
+                        “Professor Ryu,” Jamshed said. “What brings you here at this time of night?”
+
+
+                        Jamshed had met Ryu before. He was here on the technological exchange program between Iran and North Korea. Iran had sent Jamshed’s old advisor Hamed to North Korea in exchange, apparently with Jamshed’s space tether paper in his suitcase. About Ryu’s personal life Jamshed knew nothing, although rumor had it that he had been sent to Iran as punishment for his role in the failure of Taepodong-2.
+
+
+                        “My apologies for disturbing you at this hour,” said Ryu. “May I have a few minutes of your time?”
+
+
+                        He turned out the flashlight and walked toward Jamshed.
+
+
+                        “According to one of our agents in the US, Professor Jahanshah, you have stolen a weapon belonging to my country.”
+
+
+                        “Weapon?”
+
+
+                        “Something called a ‘space tether.’ ”
+
+
+                        Jamshed leaped to his feet. The paper piled on his knees tumbled to the floor.
+
+
+                        “You are the ones who stole it!”
+
+
+                        Ryu shrank from the outburst. “Wait,” he said, backing away with one palm upraised.
+
+
+                        Jamshed kicked a folding chair out of the way and closed the distance between the two of them, treading on the fallen paper without a second thought. “The space tether was mine,” he snarled, “until North Korea stole it from me!” He seized the smaller man’s collar in his fist.
+
+
+                        “I can’t breathe!” Ryu said. “Let me go!”
+
+
+                        His flashlight fell to the floor and broke, sending shards of plastic flying.
+
+
+                        “Listen!” gasped Ryu. “The space tether is yours. We have decided to give it to you—no, return it to you. We only ask one favor. Do not carry out the plan the previous mission leader conveyed to you. There must be no LEO massacre.”
+
+
+                        “What?” Jamshed loosened his grip. Had the plan to destroy all satellites in low Earth orbit been against North Korea’s wishes? “We clean out low Earth orbit so that North Korea, Iran, and Pakistan can begin space development together—the Great Leap. That was the plan. Surely you aren’t getting cold feet now?”
+
+
+                        Ryu looked down at his stretched-out collar. “I am only a messenger,” he said.
+
+
+                        Jamshed’s fist clenched again. “That does not answer my question,” he said. “Tell me.”
+
+
+                        There was a pause. Finally, Ryu said, “Yes. Apparently Shiraishi was acting on his own initiative. When the mission to move the Iranian rocket was played up as a ‘Rod from God’ and our leader delivered his speech, we thought the Great Leap would succeed. But only because there was no evidence tying the orbital phenomena to our country.”
+
+
+                        Ryu revealed that he himself had been sent to Tehran as a scout for the Great Leap. However, the existence of the space tethers, supposed to be kept top secret, had been exposed by a Japanese meddler. The CIA had seen through Shiraishi’s carefully arranged diversion. The leader had lost his nerve.
+
+
+                        Nevertheless, the leader and the intelligence community had both continued to place their trust in the always-resourceful Shiraishi. It seemed that right up until his final moment, they had hoped that he would figure out some new direction for the Great Leap to head in.
+
+
+                        “But Shiraishi is dead,” Ryu said, shaking his head weakly.
+
+
+                        “Yes,” Jamshed said. “As I heard it, it was his North Korean minder who killed him.”
+
+
+                        “I haven’t been told the details,” Ryu said after a brief pause. “But his death leaves a hole at the heart of the Great Leap.”
+
+
+                        “So you refuse to go through with it?”
+
+
+                        “The leader and his associates have finally realized what a serious thing orbital sabotage is. How strong the international reaction would be.”
+
+
+                        “And this is all fine with you, Professor Ryu?”
+
+
+                        “Wh—”
+
+
+                        As Ryu looked up, Jamshed slammed him into the wall again.
+
+
+                        “When Shiraishi told me about the Great Leap, my heart sang,” Jamshed said. “To reach out and touch space, even from a place like this! What did you feel, Professor Ryu? My space tethers will put orbit beyond the grasp of developed countries. Researchers and engineers will flock to the rest of world—to us. Real space development with real professionals, right here in this country! You are prepared to give this up?”
+
+
+                        Ryu closed his eyes and turned away.
+
+
+                        Jamshed loosened his grip and jabbed Ryu in the chest. Ryu’s legs had gotten crossed in the tussle, and he fell back and sagged against the wall.
+
+
+                        “Get out,” Jamshed said, pointing at the door. “I see that Shiraishi’s death was in vain. You are right about one thing: the Great Leap could never work with cowards like you at the reins. I will do what is necessary myself.”
+
+
+                        Ryu straightened his collar and picked up his flashlight before turning back to Jamshed. His knees were shaking.
+
+
+                        “You have something else to say?” demanded Jamshed.
+
+
+                        “I beg you, at least rethink the LEO massacre,” Ryu said. “And I have one more message for you. Will you come to Korea? We want you to develop the next generation of space tethers in Shiraishi’s place. No one else understands how they work.”
+
+
+                        “To a country controlled by incompetent cowards?”
+
+
+                        “Professor Jahanshah, do you not want to share your research? Was the space tether not an amazing development? You cannot go on working alone like this. Please think it over once your temper has cooled.”
+
+
+                        Ryu produced a phone and a charging cable from the pocket of his suit and placed them on the floor.
+
+
+                        “I will leave this phone here,” he said. “The line is safe. Use it to contact me whenever you like.”
+
+
+                        The door closed and the sound of Ryu’s defeated footsteps receded down the corridor.
+
+
+                        Jamshed sighed and surveyed his dim laboratory with its hanging forest of paper.
+
+
+                        Ryu was right about one thing. There was nothing he could do here. But should he follow Ryu to Korea, or should he contact the Chinese man in the suit who had brought him the Iridium?
+
+
+                        He glanced at the Iridium on his desk. No, China was no good. He would be out of his element in so desirable a country. There must be somewhere where a researcher left behind by the times could feel at home. And weren’t such countries exactly the ones that Shiraishi had hoped the Great Leap would help to transform?
+
+
+                        The Chinese man had known about the space tethers. If Jamshed took down Tiangong-2, no doubt the Iridium service would be cut off. In any case, the Iridium satellites were in low Earth orbit too and would not survive the massacre.
+
+
+                        Jamshed picked up the phone Ryu had left by the door. The other end of the charging cable had a port for connection to a computer.
+
+
+                        “A safe line …”
+
+
+                        Could he connect to the network this way?
+
+
+
+
+
+
+
+
+
+
+Wed, 16 Dec 2020, 16:03 -0800 (2020-12-17T00:03 GMT)
+
+
+Western Days Hotel
+
+
+
+
+                        Chris gazed at Daryl as he stood in front of the whiteboard. He had redrawn the diagram of the space tether and was now explaining it to the camera, writing notes and drawing lines as he went. This was part of a pre-countermeasure orientation for the benefit of those at the other end of the video call: NASA, the CIA, and NORAD.
+
+
+                        The picture of the Orbital Cloud that Second Lieutenant Abbot had taken from the stratosphere during Operation Seed Pod had finally been accepted as reliable proof of Team Seattle’s claims, and a Space Tether Response Team had been hastily assembled. Daryl was currently bringing those new to the crisis up to speed.
+
+
+                        “I think that about covers it,” he said finally. “If you have any questions, please send them over chat.”
+
+
+                        The monitor displaying the chat room quickly filled with questions from the members of the NASA team who had been watching. Most of the questions were about the space tethers themselves and the principles of the tether-propulsion system.
+
+
+                        Is that sort of drive really feasible? asked one of the messages. Chris felt a flash of anger. “Feasible?” There were forty thousand of them in orbit already! She was just wondering if it might not be better to cut NASA out of the loop when she heard keyboard noise over the speakers and superbly crafted answers began to appear from Colonel Lintz’s Orbital Surveillance team at NORAD. Clearly he didn’t want Team Seattle to have to spend their time teaching Space Tethers 101 to NASA either.
+
+
+                        “Hey, Kazumi,” Daryl said, returning to the table.
+
+
+                        Kazumi didn’t even look up from the papers laid out on the table before him—the contents of the blueprint case that Akari had brought back from Shiraishi’s hideout. He was physically present, but his thoughts were far away.
+
+
+                        Kazumi had clearly not been prepared for the role he would have to play now that Jamshed had cut ties with them, Chris mused. Was studying these documents his way of escaping? Or had Shiraishi’s death right in front of him made everything seem less real somehow?
+
+
+                        Akari was in a corner of the room silently adding calculation nodes to her Raspberry Pi cluster. Chris doubted that she had fully processed seeing her uncle killed right in front of her. It was Chris who had brought Akari into contact with Shiraishi without adequate preparation, and ultimately it was Chris who had caused Shiraishi’s death. Akari’s engineering skills had supported the team thus far, but it would be unreasonable to expect her to function on the same level now.
+
+
+                        Bruce finished checking the camera and projector. “Chris,” he said. “Let’s get started.”
+
+
+                        A 3-D globe indicating the Cloud’s current location glowed on the whiteboard. The video-call screen showed that the NORAD Orbital Surveillance team was ready and waiting, as were Kurosaki and Sekiguchi, standing in their suits in a dimly lit room. The NASA and CIA teams, who had just finished their orientation, would just be observers for this one. If they had something to say, they would have to say it in the text-only chat window.
+
+
+                        “Let’s,” Chris agreed. She stood behind Daryl and Kazumi in their seats and took a deep breath.
+
+
+                        Kazumi put Shiraishi’s papers down and turned to face the camera. Chris had to keep him sharp and motivated. The veterans at NORAD and NASA couldn’t be allowed to lord their professional status over him. She also nursed the hope that this meeting would bring Akari back to her old self.
+
+
+                        Chris turned away from the sight of Lintz’s troubled gaze on the whiteboard and looked directly into the camera. Ensuring that your gaze met your listeners’ was the ironclad rule for maintaining control in a videoconference. You could not fall into the trap of looking at the screen where their faces were. You had to keep your eyes on the camera and put everything you had into ensuring that the meeting met the goals you had set for it.
+
+
+                        Chris extended her awareness to her entire body.
+
+
+                        “Colonel Lintz and everyone at NORAD, Mr. Kurosaki, Mr. Sekiguchi,” she said. “Welcome to Team Seattle.”
+
+
+                        She spread her arms in a well-practiced gesture.
+
+
+                        “Can you all see the whiteboard? Our objective is to bring the forty thousand space tethers in orbit down into the atmosphere. I look forward to a vigorous exchange of opinion.”
+
+
+                        Kazumi raised his hand.
+
+
+
+
+
+
+
+
+
+
+                        “Kazumi Kimura,” he said. He glanced at Bruce standing by the whiteboard. “Bruce, would you mind writing this up for me? I am going to explain the most rational countermeasure I can think of in our current situation: seizing control.”
+
+
+                        Kazumi raised his index finger. Bruce obediently wrote 1 on the whiteboard.
+
+
+                        “First, we cut off Dr. Jahanshah’s Internet connection. Next, we update the drivers for the D-Fi cables that make up the base station network—change them to give us control. Finally, we drop the Cloud into the atmosphere.”
+
+
+                        Bruce kept pace on the whiteboard.
+
+
+                        1. Cut connection
+
+
+                        2. Update base station drivers
+
+
+                        3. Control space tethers
+
+
+                        Sekiguchi raised his hand. “Step one is finished,” he said.
+
+
+                        “Huh?” Kazumi said.
+
+
+                        “We suspended network service to the twenty Iridiums we provided to the students at Tehran U as well as the one we gave the professor personally. With luck, we’ve stayed Professor Jahanshah’s hand until the Iranian government restores Internet service—perhaps two weeks from now.”
+
+
+                        “Well, that was easy,” said Chris, folding her arms with a look of satisfaction.
+
+
+                        “It’s all done through the Iridium customer website,” said Sekiguchi.
+
+
+                        “Thank you, Sekiguchi-san,” said Kazumi. “That gives us some breathing room. The next step is updating the drivers, then.”
+
+
+                        “I’ve got people at the company working on reverse engineering them right now,” Bruce said. “Rothko, you listening? Hurry it up.”
+
+
+                        Okay, appeared from the CIA in the chat window. Should finish in …
+
+
+                        As Kazumi and the others stared at the screen, waiting for the ETD to appear, Akari spoke in Japanese from the corner of the room.
+
+
+                        “Dr. Jahanshah’s connection hasn’t been cut,” she said.
+
+
+                        Kazumi and Bruce turned their eyes to the base station communication console projected on one corner of the whiteboard. Bruce relayed the news to the non-Japanese speakers.
+
+
+                        Kazumi couldn’t believe his eyes. “She’s right …” he said. New TLEs were being sent to the space tethers at a brisk pace.
+
+
+                        “I just reconfirmed that none of the Iridiums are operational,” Sekiguchi reported.
+
+
+                        “Then who’s doing this?” said Bruce. “The North Koreans?”
+
+
+                        Something nagged at Kazumi about the TLEs that were scrolling past. They were different in some fundamental way than the ones Team Seattle had begun receiving from the CIA that morning. But how?
+
+
+                        “Those TLEs have been calculated by hand,” Akari muttered in Japanese again. “They’re too neat.”
+
+
+                        “Thanks, Akari,” said Kazumi. He had Daryl take a screenshot of some of the data and approached the whiteboard to look at it more closely. “Dr. Jahanshah must have written these TLEs himself,” he murmured. “Look at this. The epoch shift is exactly a hundredth of a second.” He pointed out some other parameters that were too neat. “If he did this with a computer, there’d be more digits after the decimal points. They wouldn’t all cut off after just two.”
+
+
+                        “So he has another way to transmit directions to the Cloud,” Sekiguchi said.
+
+
+                        Kazumi put his elbows on the table. The team had gotten stuck already. They had no way to stop Jamshed.
+
+
+                        “Well, this is a problem,” said Daryl. “Now he can do whatever he wants with them.”
+
+
+                        “Can we tell what satellite he’s aiming for?” Chris asked.
+
+
+                        “Leave that to us,” said Lintz from the NORAD screen. “We just need to check what crosses paths with the orbits in these TLEs, right? Hey, Harold! Get half the team working on this. Just start from the top and work your way down.”
+
+
+                        That would take more time than they had. Kazumi half-closed his eyes.
+
+
+                        He held up his index finger, overlaying it in his vision with the globe projected on the whiteboard, then visualized the TLEs being sent to the space tethers. The orbits they described were circular and simple in the extreme. He allowed the slight variations added by hand to give him a sense of what form the finished Cloud would take. Jamshed’s manual calculations made the results easy to follow. He moved the Cloud in his mind’s eye, searching for an orbital object in his memory …
+
+
+                        “The target is Project Wyvern’s orbital hotel,” he said.
+
+
+                        “What?”
+
+
+                        Kazumi ignored Lintz. He had to stay in the zone.
+
+
+                        “Then it will raise its altitude and intersect with Tiangong-2. Next, Hubble and the spy satellite KH-12. The Cloud’s shape will be a flattened spheroid fifty kilometers in diameter on the orbital plane and twenty kilometers thick.”
+
+
+                        “Listen, this is no time for fortune-telling!” shouted the man sitting next to Lintz on NORAD’s screen. He was red with indignation, pointing his finger at the camera.
+
+
+                        But this was no worse a reaction than Kazumi had expected. He calmly advanced the hands of the clock in his vision.
+
+
+                        “Rendezvous in approximately four hours over the Atlantic—no, the west coast of Africa, where the Cloud will engulf the orbital hotel as it gathers,” Kazumi said. He opened his eyes again and turned to the camera. “Please double-check that projection before you do anything,” he said.
+
+
+                        “Listen, uh—Kazumi, was it?” said one of the NORAD team members. “We’re chasing an entirely unknown tether-propulsion system here. There’s no way you could predict its movements so easily.”
+
+
+                        “Drop it, Harold,” said someone else at NORAD.
+
+
+                        “But it makes no sense,” protested the first man. “Isn’t this guy just some amateur?”
+
+
+                        “Bruce,” Chris said. “Cut the camera.”
+
+
+                        Bruce reached for the button, but Kazumi stopped him. “That will not be necessary. Daryl, please show the orbital hotel’s position four hours from now.”
+
+
+                        “You got it,” said Daryl. “Check it out, folks: Kazumi’s sixth sense.”
+
+
+                        Daryl’s fingers danced across his keyboard. The globe on the whiteboard spun forward four hours. The icon indicating the orbital hotel was over the west coast of Africa, just as Kazumi had predicted. There were cries of surprise.
+
+
+                        “You see that? He got the orbital hotel’s location right. Now I’ll overlay the TLEs sent up to the space tethers. You won’t believe your eyes.”
+
+
+                        Daryl hit the Enter key and a single point appeared over the orbital hotel. He hit Enter again, and again. Each time he did, a dot appeared in a slightly different position. Gradually the orbital hotel was obscured by a flattened spheroid of dots accumulating around it: the Cloud, right in line with Kazumi’s predictions.
+
+
+                        “That’s impossible,” said Lintz, his gaze fixed on the screen. The red-faced man next to him, who had risen to his feet, froze with his index finger still raised.
+
+
+                        Kazumi pointed at the screen. “These are the instructions Dr. Jahanshah sent,” he said. “About four hours from now, the Cloud will rendezvous with the orbital hotel. However, my method cannot give an exact time. So please start working on some more exact calculations.”
+
+
+
+
+
+
+
+
+
+
+                        “How does he—”
+
+
+                        “Later,” Chris said, cutting Lintz off. “Kazumi, if your prediction is correct, what then?”
+
+
+                        “The orbital hotel will be torn apart by terminal apparatuses moving at ten kilometers per second. Two hours after that, the Cloud will reach Tiangong-2, which will meet the same fate.”
+
+
+                        There was a burst of conversation on the NORAD side: “Ten kilometers per second?” “That’s unbelievable.” “We’d better tell China.” Questions from the CIA and NASA popped up at a furious pace in the chat window.
+
+
+                        “Four hours … Daryl, if we sent an evacuation order now, would that be enough time?”
+
+
+                        “Not for the orbital hotel,” Daryl said. “They don’t have a return vehicle anymore. And they aren’t capable of much in the way of orbital maneuvers after all the damage they took.”
+
+
+                        “What about Tiangong-2?”
+
+
+                        “Six hours till impact. Probably enough time to evacuate.”
+
+
+                        “Find the meeting attendee who can get a message to the Chinese the fastest. Report back to me in ten minutes.”
+
+
+                        “Chris,” Sekiguchi said, raising his hand on the JAXA screen. “I sent a message to Director Huang at the China National Space Administration about Tiangong-2 earlier. Please just focus your efforts on sending a formal recommendation through diplomatic channels.”
+
+
+                        By the time he had finished speaking, all eyes were on the JAXA screen.
+
+
+                        “You, uh …” Chris was lost for words. “Without even asking … ? But how did you know?”
+
+
+                        “Unfortunately, we don’t know much about orbital mechanics, so we can’t help with the countermeasures,” Sekiguchi continued, ignoring her. “But we are in Tehran. We’ll try to convince Professor Jahanshah to call off the Cloud.”
+
+
+                        Chris found herself swept along by Sekiguchi’s smooth patter.
+
+
+                        “If he won’t agree to our request, well …” Sekiguchi smiled and drew a leisurely thumb across his neck.
+
+
+                        Kurosaki put his hand on Sekiguchi’s arm. “None of that, Sekiguchi,” he said.
+
+
+                        Sekiguchi shrugged, apparently not bothered either way. “Fine,” he said. “We’ll just try to convince him with our debate skills, then. Can we offer him asylum in the US as a bargaining chip?”
+
+
+                        “But there’s no US embassy in Tehran,” Kurosaki said.
+
+
+                        “I know that. But there’s a Canadian one. And Mexican, Japanese … Plenty of windows the CIA could reach through if they wanted to. Chris, could you please lay the groundwork?”
+
+
+                        Chris thought for a moment. “All right,” she said. “If he finds his way into the Canadian embassy by the end of tomorrow, I’ll see to it that he gets asylum in the US. Bruce, make it happen.”
+
+
+                        “Your wish is my command,” Bruce said. “But, Sekiguchi, I wouldn’t recommend going to visit him. There are still drones—Anjians—in the air around Tehran IT. It’s not the sort of place a tourist can just stroll around.”
+
+
+                        Sekiguchi reached out and grabbed the camera trained on the two JAXA members, then adjusted its angle to show the phone he was holding up in his other hand. He pointed at an icon on the screen.
+
+
+                        “It’ll be fine,” he said. “I’m carrying my amulet against Anjian strikes.”
+
+
+                        Chris’s eyes went wide.
+
+
+                        “You …”
+
+
+                        “Yes,” Sekiguchi said lightly. “I’m a Chinese spy. That’s how I was able to contact Director Huang. But the only orders I’ve received about this matter are to gather information. Things are moving so fast that headquarters is on the back foot. Anyway, the drones won’t be firing at me. This app deactivates the fire control system on every Anjian within twenty kilometers.”
+
+
+                        Bruce opened his mouth in amazement. “A back door … I’d heard rumors, but I never imagined it’d be a smartphone app. Does it really work?”
+
+
+                        “I’ll let you know when I get back.”
+
+
+                        “Hamas or someone like them are out there too,” Bruce warned. “The Anjians aren’t the only danger. Don’t take on more than you can handle.”
+
+
+                        With a smile, Sekiguchi rose to his feet and pulled on his field coat.
+
+
+                        “Hold on,” said Kurosaki, stubbing out his cigarette. “I’m coming too.”
+
+
+                        “As long as you don’t cramp my style,” Sekiguchi said.
+
+
+                        “Things might get physical.”
+
+
+                        “What are you talking about? We’re just going to talk to him. “
+
+
+                        The banter between the two JAXA members in Tehran echoed through the quiet operations center. Chris studied Sekiguchi’s smooth face more closely.
+
+
+                        “Sekiguchi,” she asked. “Why are you doing this?”
+
+
+                        Sekiguchi rubbed his face and smiled. “I don’t want any more Shiraishis,” he said. “My mission is to put people where they can do their best work. I headhunt engineers. I’m the one who gave the professor his Iridium. I’ll admit that I did it because I was hoping to recruit him, but …”
+
+
+                        “And what about you? What will you do after this?”
+
+
+                        Sekiguchi’s smile was warm and genuine. “Good question,” he said. “Headquarters isn’t going to let me walk around free now that I’m known to the CIA. I suppose I’ll go into hiding.”
+
+
+                        “No!” said Kazumi, waving his arms as he stood in front of the camera. “It would not be good for you. Shiraishi did the same thing, went off on his own—and look what he ended up involved in. Do not get yourself in trouble. Please be sure to come back.”
+
+
+                        Sekiguchi paused as if thinking. Kurosaki put an arm around his shoulders.
+
+
+                        “I’ll be sure to bring him back, Kazumi,” he said. “Don’t worry. Any messages for the professor?”
+
+
+                        Kazumi grabbed a few of the documents from Shiraishi’s case and held them up to the camera.
+
+
+                        “Tell him I want to work with him on using space tethers to change the world,” he said. “Tell him we can work together to realize the plans Shiraishi left behind.”
+
+
+                        Space tether technology would redefine space development forever. Shiraishi’s light-field image of the Earth alone would change attitudes toward the whole enterprise. Kazumi fervently described a few of the plans he had come up with based on Shiraishi’s work.
+
+
+                        “Please, Kurosaki. I need Dr. Jahanshah.”
+
+
+                        “Understood,” Kurosaki said. “I’ll be sure to tell him. As for Shiraishi … Well, he never was the type to be straightforward about his feelings, but I’m sure he’d want you to see these plans to completion too.”
+
+
+                        With a final farewell, Kurosaki and Sekiguchi left the videoconference.
+
+
+                        “Kazumi,” said Chris from behind him. “You’d make a good boss, you know that?”
+
+
+
+
+
+
+
+
+
+
+Panjshambeh, 27 Azar 1399, 03:45 +0330
+
+
+(2020-12-17T00:15 GMT)
+
+
+Esperanto Hotel, Tehran
+
+
+
+
+                        Kurosaki picked up the phone that they had connected to the television. “You were kidding about that drone repellant thing, right?” he asked.
+
+
+                        Sekiguchi shook his head, phone pressed to his ear. “Why so suspicious? It’s all true—excuse me, let’s pick this up later. Salam!”
+
+
+                        He began a conversation in fluent Persian. Kurosaki caught Jamshed’s name a couple of times, but apart from that all he could tell was that whoever Sekiguchi was calling, they weren’t from China or Japan.
+
+
+                        After noticing the word interanet a few times, he finally realized who was at the other end of the call—the man who had been standing on the Peugeot the other day leading the student demonstration. Alef Kadiba.
+
+
+                        Sekiguchi ended the call and gave Kurosaki the thumbs-up. “I’ve hired us a guide.”
+
+
+                        “The guy leading that demonstration?”
+
+
+                        “Yup. He’s also a friend of Dr. Jahanshah’s. Says he’ll show us the way to his lab. I went there yesterday, but I’m glad we won’t be going there alone at night.”
+
+
+                        “I’m surprised he agreed.”
+
+
+                        “He’s worried about his friend. That, and I told him that if we managed to persuade Dr. Jahanshah to rejoin our side, I’d have service restored to the Iridiums. “
+
+
+                        “That makes sense.”
+
+
+                        Kadiba and the students must have been crushed when the Internet cut out so soon after they’d received the phones yesterday. Sekiguchi explained that he at least wanted them to be able to use the Iridiums until Iran restored its connection on a national level. Kurosaki had no disagreement.
+
+
+                        “Did he say anything about Jahanshah?” asked Kurosaki.
+
+
+                        “Apparently he’s been acting strangely for the past few days. Now, we have fifteen minutes until our guide arrives. Let’s make sure we’re ready to leave.”
+
+
+                        Sekiguchi placed a duralumin case on his bed. It was the last of the cases he’d brought in through diplomatic channels. He opened it up, pulled out a few handfuls of passports, banknotes, credit cards, and SIM cards, and distributed the items among the pockets of his suit.
+
+
+                        Kurosaki craned his neck to see the paraphernalia still left in the case. A hypodermic needle wrapped in a plastic bag. Drugs. Some kind of white powder. He didn’t even want to think what it might all be for.
+
+
+                        “The tools of the trade, huh? The SIM cards are a modern touch.”
+
+
+                        “I had them add the SIMs after we talked to Akari.”
+
+
+                        Sekiguchi peeled back part of the case’s lining and produced a pistol small enough to hide in his palm.
+
+
+                        “Of course, some things never go out of style,” he said.
+
+
+                        “You could put someone’s eye out with that. Let me hold on to it for you.”
+
+
+                        “Absolutely not.”
+
+
+                        Kurosaki caught Sekiguchi by the arm and snatched the gun from him.
+
+
+                        “You don’t even know how to use a gun,” complained Sekiguchi. He had made only a token attempt to prevent Kurosaki from taking the weapon. No doubt he didn’t really want to use it either.
+
+
+                        “Carrying the gun yourself will just make you want to use it,” Kurosaki said. “Remember, we’re going to persuade him.”
+
+
+                        “There are taikonauts on Tiangong-2 as well. I can’t let them die.”
+
+
+                        “Enough with the ‘I can’t let them die’ and ‘I have to do it.’ You sound like Shiraishi. And you saw how he ended up.”
+
+
+                        Recalling the procedure from a movie he’d seen, Kurosaki pressed a button on the side of the pistol’s grip. A resin magazine slid out, exposing the small bullets through a hole in the side. The weapon was loaded. Kurosaki pulled the slide and saw the empty cavity. So the first round wasn’t chambered yet. He pushed the magazine back in and pulled the slide again. In that moment, the machine in his hand had became a deadly weapon. The awareness gave Kurosaki shivers.
+
+
+                        “You always think of the worst-case scenario,” Kurosaki said. “Think about what you’re going to do if everything goes well. Hey, where’s the safety?”
+
+
+                        Sekiguchi silently pointed at the lever beneath the slide. Kurosaki lowered the lever and confirmed that the trigger no longer moved.
+
+
+                        “If we kill the professor, your only choice will be to go to ground. I wish I could tell you to do whatever you like, but I promised Kazumi. To give Jahanshah his message and to bring you home.”
+
+
+                        “What will you do if the professor won’t listen?”
+
+
+                        “Knock him out and carry him back?”
+
+
+                        “Knock him—” The tension in Sekiguchi’s face dissolved into his familiar indulgent smile. “What’s the difference between that and shooting him?”
+
+
+                        “Are you kidding me? They’re completely different.”
+
+
+                        Kurosaki decided to stow the gun in a large coat pocket. If Jahanshah was alone, the two of them—no, counting Kadiba, the three of them—could bring him back to the hotel and wait for the Canadian embassy to open in the morning.
+
+
+                        “Might need these later,” Sekiguchi muttered, scooping up the drugs and needles and dumping them back into the case. Whatever Sekiguchi had used on Kurosaki after the demonstration must have been in that jumble. Truth serum?
+
+
+                        Come to think of it, he still hadn’t talked about that with Sekiguchi, though he surely knew that Kurosaki realized. Should he bring it up now? As Kurosaki hesitated, the phone in their room rang. Sekiguchi picked up the receiver, spoke briefly, then announced that Kadiba had arrived.
+
+
+                        “That was fast.”
+
+
+                        “No traffic this time of night. He said he’s waiting in the lobby with his car outside. Whoops—these don’t autolock.”
+
+
+                        Kurosaki followed Sekiguchi out of their room into the pitch-black corridor. The single light of the elevator hall was visible at the far end. Kurosaki patted his pockets as they went: phone, wallet, passport. Couldn’t find his lighter. No cigarettes.
+
+
+                        “I have to go back,” he said.
+
+
+                        “Here’s the key,” Sekiguchi replied. “I’ll carry your coat. Smoke a cigarette or two if you like—I’ll be talking to Kadiba.”
+
+
+                        Sekiguchi took Kurosaki’s coat, waved, and headed off to the elevator hall.
+
+
+                        “Thanks,” called Kurosaki.
+
+
+                        Back in the room he found his cigarettes right away. They were in front of the television. He pulled one out and lit up. His first cigarette break alone since that suite at the Nippon Grand. Now that he thought about it, he’d hardly gotten any rest at all since meeting Kazumi on Monday.
+
+
+                        Blowing a column of smoke into the air, Kurosaki looked around the room. Perhaps because he knew what was inside, the duralumin case on the bed looked particularly sinister to him.
+
+
+                        “A spy, huh?”
+
+
+
+
+
+
+
+
+
+
+Thu, 17 Dec 2020, 04:27 +0400 (2020-12-17T00:27 GMT)
+
+
+Desnoeufs Island
+
+
+
+
+                        Johansson watched Ozzy’s jiggling belly go. Headset over his ears, Ozzy waved both his arms as he walked around. The video call with Kazumi and the others yesterday had reinvigorated him. He had spent his time since then writing long emails and making some calls of his own.
+
+
+                        “No, listen,” he said into the phone. “Tether propulsion. Doesn’t need any fuel. Hey— Dammit! He hung up.”
+
+
+                        “No good?”
+
+
+                        “Useless. How about over there?”
+
+
+                        Johansson checked Ozzy’s screen and reported that there was no new email.
+
+
+                        “Morons! ‘Is it profitable?’ they say. It’s never been seen before! Who the hell knows if it’ll be profitable or not? Building an ecosystem and making it profitable is the fun part! What are these people even investors for? If it’s money they want, they should switch to FX trading or speculation or something.” Ozzy pulled a Coke out of the refrigerator and opened it. “Looks like Ronnie and Judy are the only ones we can count on.”
+
+
+                        “I wonder how they are doing,” Johansson said. He turned his gaze to the sky. There was a hint of blue in the darkness now as dawn approached. The Smarks were four hundred kilometers above the Earth, still at the center of a dangerous maelstrom even as they approached the ISS. Ozzy had told them about the space tethers, so they at least understood what was happening—but they remained powerless to do anything about it.
+
+
+                        “Ronnie? He dumped it in my lap. Told me to found a company for Kazumi to do his space tether thing. The jerk’s acting like he’s about to die. You know what I told him?” Ozzy slammed the Coke bottle down on the table. “I told him to get back here and do it himself!”
+
+
+                        Johansson nodded. He had heard this story four times today.
+
+
+                        “Mr. Cunningham, about the Cloud …” he began.
+
+
+                        Ozzy looked away. It was no surprise that he should not wish to discuss the matter that was threatening Ronnie’s life. But today’s observational data could not be dismissed.
+
+
+                        “It is now visible through the optical telescope,” Johansson said.
+
+
+                        “Huh?” Ozzy turned to face him again.
+
+
+                        Johansson brought up the photograph showing a dim, smoky form on the wall monitor, explaining that it had been spotted passing over Desnoeufs by a program designed to scan the whole sky for unknown satellites.
+
+
+                        “It appears to be more densely grouped than, er, Kazumi, was it?—than Kazumi suggested,” he said. “Under the right conditions, it might even be visible to the naked eye.”
+
+
+                        “It’s … it’s enormous.”
+
+
+                        Ozzy’s shoulders shook. Johansson did not think of the space tethers as anything other than directed debris, but tens of thousands of objects so close together was a threat in itself, able to destroy satellites simply by allowing them to pass through.
+
+
+                        The Cloud and the space tether propulsion system had yet to appear in any news source. As Johansson understood from Ozzy, the true situation in the orbital hotel was the exact opposite of what Judy’s cheerful blog suggested.
+
+
+                        “Has Kazumi gotten in touch with us?” Ozzy asked. “It’s still evening in Seattle, right?”
+
+
+                        Johansson shrugged. “We only started sharing radar data the evening before last. They may still be reading through it, no?”
+
+
+                        “No,” Ozzy said. “Kazumi would already be at the next stage.”
+
+
+                        “Oh, come now …”
+
+
+                        Johansson felt a deep sympathy for the young man he had seen on the video call. No doubt he was hearing the same demand from everyone these days: find a way to neutralize this orbiting swarm. Worse, it was now a matter of life and death. He could hardly imagine the pressure Kazumi must be under.
+
+
+                        “Let’s wait for him to contact us,” he said. “I will make breakfast. Will you be needing some?”
+
+
+                        Ozzy took a packaged hot dog from the freezer.
+
+
+                        Johansson shrugged and turned to gaze out of the enormous window, with its unobstructed view of the ocean below and the cloudless sky above.
+
+
+
+
+
+
+
+
+
+
+Wed, 16 Dec 2020, 16:54 -0800 (2020-12-17T00:54 GMT)
+
+
+Western Days Hotel
+
+
+
+
+                        Under the watchful gaze of the NORAD team, Kazumi was engrossed in the video from Operation Seed Pod.
+
+
+                        Chris stood behind him with her hand on the back of his seat. There was, she had said, one part she particularly wanted him to see. Second Lieutenant Harold Fisher of NORAD provided commentary on how to read the simultaneous telemetry from the ASM-140’s warhead.
+
+
+                        “The bottom left shows the warhead’s pitch. Right now it’s moments from impact. Will this do, Chris?”
+
+
+                        “Perfectly, thank you,” said Chris. “Pause it for a second.”
+
+
+                        Kazumi realized that his coffee cup was empty and reached for the pot.
+
+
+                        “Have a doughnut too,” said Bruce.
+
+
+                        “Maybe later,” Kazumi said. “They are a bit sweet.”
+
+
+                        “You skipped lunch too. You have to eat something.”
+
+
+                        Bruce, however, hadn’t taken a doughnut either.
+
+
+                        “Sorry to keep you waiting,” Lieutenant Fisher said. “I’m going to play it in slow motion, starting just before Blackout fired.”
+
+
+                        “There! Right there!” Chris pointed at the screen from over Kazumi’s shoulder. A number of red lines were crossing the screen. “Do you see that, Kazumi? The red streaks.”
+
+
+                        “I see them. What is Blackout?”
+
+
+                        “Think of it as a microwave oven on steroids,” Fisher said. “It uses microwave radiation to burn out electronics.”
+
+
+                        “In this case, including the orbital hotel’s computers,” Chris said. “Their life support will be operational for just two more weeks.” She managed to keep her voice under control until the end of the sentence.
+
+
+                        The room fell silent.
+
+
+                        There were only three hours left before the Cloud would rip the orbital hotel to shreds. Everyone knew it, but presumably Chris was worried that speaking it aloud would put too much pressure on Kazumi. The crease of concern on her brow spoke volumes.
+
+
+                        Daryl pointed at the screen. “Hey, Kazumi,” he said. “I wonder if these red lines are the actual tethers.”
+
+
+                        “I think they are,” Kazumi said. “And they were burned through.”
+
+
+                        The tethers did not form a circuit and were not grounded. Even when free electrons within them were excited by the strong burst of microwave radiation at close range, those electrons remained trapped with nowhere to go. As they collided into each other, their kinetic energy was converted to heat. The principle was the same as the one behind the miniature fire that Mary had started in the Fool’s Launchpad microwave oven.
+
+
+                        “So we can burn them out with strong EM radiation,” Lieutenant Fisher said excitedly.
+
+
+                        “Yes. It had not occurred to me.”
+
+
+                        “EM radiation,” Colonel Lintz said from the NORAD screen, audibly relieved. “So there’s a way to get at them physically. That’s a major advance. And we learned it from Operation Seed Pod. I wish the orbital hotel hadn’t gotten caught up in things, but I suppose you never know where things will go right.”
+
+
+                        “Could we use nuclear weapons, Kazumi?” asked Lieutenant Fisher. “That’d give us a strong EM pulse.”
+
+
+                        “No, Harold,” Colonel Lintz said immediately.
+
+
+                        Chris stepped into the camera’s field of view. “No nuclear weapons,” she said. “We’re already playing fast and loose with the COPUOS guidelines. We can’t tear up the Outer Space Treaty too.”
+
+
+                        “But the Smarks—”
+
+
+                        “Harold,” Kazumi cut in. “If we use nuclear weapons, we will ruin orbit for good.”
+
+
+                        “What do you mean?”
+
+
+                        “The terminal apparatuses are rotating in pairs at ten kilometers per second. If we cut all those links, they will be completely scattered. Eighty thousand new pieces of debris in orbit.”
+
+
+                        “He’s right,” said Daryl, who had been running a simulation. “If we burn them all out at once, forty thousand pairs—eighty thousand individual chunks—will spread out in all directions. Orbit will become a junkyard—completely impassable. Nuclear weapons are out.”
+
+
+                        Murmured acknowledgments came from NORAD as the people on-screen took notes.
+
+
+                        “Conclusion,” Chris said, clapping her hands to get everyone’s attention. “No one needs to investigate nukes. Agreed? However, just in case, I’d like NORAD to perform some preparatory calculations for launching an ICBM into low Earth orbit, and select a facility that could carry this out.”
+
+
+                        “Yes, ma’am,” said someone on the NORAD side.
+
+
+                        “Next—excuse me. Headquarters.” Chris produced a headset from her pocket and slipped it over her ears. Bruce stood to take over the meeting, but Chris shook her head to stop him. “Everyone, please stop what you’re doing for a moment. I have a video call.”
+
+
+                        “From whom?” asked Bruce.
+
+
+                        “Ronnie Smark. He’s calling from orbit.”
+
+
+                        “What?!” Daryl spilled his coffee. “Ronnie Smark?”
+
+
+                        “Why’s he calling us?” asked Bruce.
+
+
+                        “Ozzy Cunningham. Looks like he told Ronnie about the space tethers and our operation. Apparently he’s already started working on some space tether–related investments.”
+
+
+                        “That idiot!” Bruce clutched his head. “What is he thinking? What happened to ‘top secret’?”
+
+
+                        “We’ll let it go this time. It might be the last business Ronnie ever does, after all.”
+
+
+                        Bruce sighed and rose to his feet to clear away the doughnuts and empty coffee cups from the table.
+
+
+                        “Kazumi, Daryl,” he said. “The Smarks have CIA clearance. You can tell them anything. They only have three hours until the Cloud engulfs their hotel. The position they’re in is unbearable. But don’t try to comfort them. I’ll take care of that.”
+
+
+                        “Here’s the call request from Ronnie,” Chris said, tapping at her laptop’s keyboard. “Putting him through.”
+
+
+                        The familiar flutes whistled, and the whiteboard brightened. Bruce hurried to take a seat at the end of the table.
+
+
+                        For a moment, Kazumi wasn’t sure what he was looking at. Skin the picture of health. Deep blue eyes, pink lips. A smile so big it seemed about to burst, filling the screen.
+
+
+                        “Hi there, everybody in Seattle! This is Judy Smark, astronaut. Call me Judy.”
+
+
+
+
+
+
+
+
+
+
+                        “There are two Smarks at our end, so go ahead and use our first names.” Judy gave an exaggerated wink for the camera. She needed her best smile.
+
+
+                        Judy let go of the camera arm and swung her upper body back, neatly extending her folded legs with the confidence that comes from repeated practice. The camera drifted away from her face and her body floated into the air.
+
+
+                        After she had traveled three meters, flying on her back through the empty room, her father caught her arm with strength that belied his age. Right, like that—
+
+
+                        “You’re heavy,” he whispered into her ear, pushing her shoulder to the ceiling and pulling her legs toward the floor.
+
+
+                        “Shut up! They’ll hear you.” Judy hooked her feet into a pair of straps on the floor.
+
+
+                        “Whoops,” said Ronnie, noticing the white cloud of his breath. He waved his arm, dispersing the condensation. The room was minus ten degrees Celsius. The heaters in their space suits kept them from feeling the cold, but they couldn’t control what their breath looked like.
+
+
+                        Judy turned her eyes to the monitor on the wall. Three men and a middle-aged woman were staring at her with surprise on their faces. The room they were in had silvery walls and was dimly lit, even though it was supposed to be daytime there. The exact opposite of the stark white room in the orbital hotel, which was illuminated to the farthest corner by the light that shone in through the oval window.
+
+
+                        The woman spread her arms. “I’m Chris,” she said. “CIA. Judy and Ronnie, thank you for getting in touch. This is Team Seattle, working on countermeasures for the space tethers as we speak. From the left, we have Daryl Freeman from NORAD, then—as you know—Kazumi Kimura, discoverer of the space tethers, and then Bruce Carpenter, also from the CIA.”
+
+
+                        Chris looked back at the shaven-headed woman standing behind Kazumi. “This is Akari Numata, another trusted partner,” she said. She finished by explaining about the JAXA employees on their mission to Tehran.
+
+
+                        “Wow, it’s like a spy movie down there,” Judy said.
+
+
+                        “You look very cold,” Kazumi said, concern in his voice.
+
+
+                        “It’s not a problem,” Ronnie said, shrugging casually. Judy smiled. Only Ronnie would put in the hour of practice it had taken to learn to shrug in zero gravity.
+
+
+                        Ronnie stroked the straps around his thighs. “Pretty slick, right? We were keeping them a secret, but these are strap space suits developed by Project Wyvern. Heater and all mod cons, of course. I could put a helmet on right now and step outside for up to twenty-four hours.”
+
+
+                        “Twenty-four hours?” repeated Kazumi.
+
+
+                        “Yep. Just in case of accident, to allow for pickup by the backup, Loki 9. Twenty-four hours is enough to save a customer in orbit. Amazing, right? This goes well beyond the Apollo series or the Space Shuttle.”
+
+
+                        The strap space suit required no time for low-pressure adaptation, Ronnie boasted. Rescue staff could bring customers directly inside the Wyvern return vehicle.
+
+
+                        “If not for those space tethers, we’d be out there calling for pickup right now,” Ronnie laughed. The faces at the Team Seattle end turned grim. “Oh, don’t worry about us. I hear there’s still three hours until the space tethers rendezvous with our hotel, right?”
+
+
+                        Ronnie held up one of the straps, woven with high-tensile carbon. A light but strong lifeline for extravehicular excursions.
+
+
+                        “Judy and I will connect ourselves with this, put on our helmets, and curl up. Even if the hotel gets torn apart, with luck my daughter and I will have another twenty-four hours together.”
+
+
+                        Ronnie’s knees shook at the lie. If anything hit the hotel at ten kilometers per second, the Mach 30 shock wave transmitted through the walls would flatten the both of them. The space suits would be completely useless.
+
+
+                        “Oh, that reminds me,” said Judy. “We have something interesting to show you. That’s why we’re calling, actually.” She raised her index finger beside her face and forced a smile. “The space tether dance! We hope you like it.”
+
+
+                        “A dance?” asked Kazumi.
+
+
+                        The five people at the other end of the call stared, their mouths agape.
+
+
+                        That’s right, a dance, Judy thought. We’re betting on that sixth sense of Kazumi’s that we heard about from Ozzy and NASA. Maybe this’ll give him the idea he needs to get us home in one piece.
+
+
+                        Ronnie pushed off and soared to one corner of the room, then tossed one end of the strap to Judy, just as they’d practiced. The neatly rolled strap flew true, unrolling as it went. Catching the ring at the end of the strap, Judy clipped it onto the fastener at her belt and then moved to the wall opposite Ronnie.
+
+
+                        “Kazumi,” she said. “We want you to watch this most of all. You’ve never seen a real space tether, right? Well, we’re going to show you what they look like, choreographed by yours truly, Judy Smark. I hope this is worth the bruises we got practicing!”
+
+
+                        Judy confirmed that the strap was pulled tight. Next, the two of them each gripped a foothold on the floor with one hand and let their bodies rise into the air. They stretched out straight at opposite ends of the room, parallel to the floor but with their heads facing in opposite directions.
+
+
+                        “Three, two, one!”
+
+
+                        Judy gave the foothold a sharp push with her fingers. She began to move in the opposite direction, soaring headfirst through the air, and then Ronnie’s mass tugged at her belt and changed her path. She stiffened, keeping her body ramrod straight. Linked together, the two of them began to describe a circular path centered on the middle of the room.
+
+
+                        “Ah …”
+
+
+                        Judy heard Kazumi’s voice through the speakers. That’s right. Watch closely. This is how the space tethers move. Give you any ideas? Spark that sixth sense of yours?
+
+
+                        She felt the flush on one side of her body as her blood began to collect there. The skin on her face was being pulled toward the outside of the circle. A flaked-off piece of foundation bounced off her face and spun off into the room. She raised her head. It was a strange sensation. Inertia was pulling her body straight ahead, the strap was pulling it to the left. How many rotations had they done now?
+
+
+                        “Look out!” said Kazumi.
+
+
+                        The strap connecting her to Ronnie went slack, and Judy’s trajectory became a straight line. Bouncing off the soft wall, she dragged her hand on the ground to catch a foothold. At the other end of the room, Ronnie was clinging upside-down to the wall.
+
+
+                        The strap had come loose from his belt.
+
+
+                        “Oh, come on!” snapped Judy.
+
+
+                        “Sorry. I guess I didn’t clip it on properly.”
+
+
+                        “All right, let’s do it again. Are you watching, Kazumi? … Kazumi?”
+
+
+                        On the screen, she saw that Kazumi had gotten to his feet.
+
+
+                        “Judy, Ronnie,” he said. “Thank you. I have thought of a way to eliminate the space tethers.”
+
+
+                        “Really?” Ronnie bounced off the wall.
+
+
+                        “So quickly?” Judy heard Chris ask.
+
+
+                        “I will have to look into the details,” Kazumi said. “When and exactly how to do it, that I am not yet sure of.”
+
+
+                        “Underpromising as usual, I see,” Ronnie said. “So you’re saying that you aren’t sure if you can get it done before our time runs out? Three hours, two weeks, whatever it turns out to be?”
+
+
+                        Kazumi paused for a moment, conflicted, then nodded firmly.
+
+
+                        Ronnie kicked the walls and floor a few times to propel him toward the camera.
+
+
+                        “Okay, now we’re being honest,” he said. “Good. That’s fine. Your mission isn’t to save us. It’s to clear the space tethers out and keep orbit open. You’re saying that’s theoretically possible now.”
+
+
+                        “Yes. It is possible.”
+
+
+                        “Fantastic. Then the flame of space exploration won’t be snuffed out.”
+
+
+                        Ronnie reached for an arm attached to the wall and moved his face closer to the camera. His unhealthy skin tone was visible through the cracks in his foundation, as were the dark bags under his eyes.
+
+
+                        “Whenever you try to make a theoretical possibility a reality, you’re guaranteed to hit a wall at some point,” he said. “If private space development taught me anything, it’s that. So let me give you one piece of advice.”
+
+
+                        Kazumi’s face was pinched and nervous.
+
+
+                        “Lucky you, Kazumi,” said Judy. “He normally charges a thousand dollars a minute for lectures.”
+
+
+                        “Quiet, Judy,” growled Ronnie. He turned back to the camera. Kazumi’s expression had softened. Good. “Listen carefully,” he said. “That theoretical possibility of yours is probably going to sound dumb to everyone else. Otherwise they’d have thought of it themselves.”
+
+
+                        “Yes,” Kazumi said after a moment’s thought. “Perhaps you are right.”
+
+
+                        A toothy grin spread across Ronnie’s grizzled face.
+
+
+                        “But that’s the best part,” he said. “You get to execute a plan that’s crazy. Completely nuts! Don’t let this chance get away.”
+
+
+                        “Huh?”
+
+
+                        “Tell someone as soon as you can. Your team will understand. And then keep working to convince everyone else.”
+
+
+                        Kazumi’s eyes wavered as they stared into the camera.
+
+
+                        The hand Ronnie was gripping the wall arm with was beginning to go white. “Now,” Ronnie said. “Do it now.”
+
+
+                        “Yes,” Kazumi replied. “I will do it right away.”
+
+
+                        Ronnie raised one trembling index finger. “Just once,” he said. “You only have to succeed once. Do it, Kazumi!”
+
+
+                        Kazumi’s face crumpled, his eyes gleaming.
+
+
+                        “Understood,” he said. “I will do it.”

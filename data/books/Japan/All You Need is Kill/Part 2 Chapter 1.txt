@@ -1,0 +1,252 @@
+1
+
+
+“If a cat can catch mice,” a Chinese emperor once said, “it’s a good cat.”
+
+
+Rita Vrataski was a very good cat. She killed her share and was duly rewarded. I, on the other hand, was a mangy alley cat padding listlessly through the battlefield, all ready to be skinned, gutted, and made into a tennis racquet. The brass made sure Rita stayed neatly groomed, but they didn’t give a rat’s ass about the rest of us grunts.
+
+
+PT had been going on for three grueling hours, and you can be damn sure it included some fucking iso push-ups. I was so busy trying to figure out what to do next that I wasn’t paying attention to the here and now. After half an hour, U.S. Special Forces gave up on watching our tortures and went back to the barracks. I kept from staring at Rita, and she left along with the rest, which meant I was in for the long haul. It was like a software if/then routine:
+
+
+If checkflag RitajoinsPT =true, then end.
+
+
+Else continue routine: FuckingIsoPush-Ups
+
+
+Maybe this was proof that I could change what happened. If I stared at Rita, she’d join the PT, and they’d end it after an hour. The brass had convened this session of PT for no good reason; they could end it for the same.
+
+
+If my guess were right, my cause wasn’t necessarily hopeless. A window of opportunity might present itself in tomorrow’s battle. The odds of that happening might be 0.1 percent, or even 0.01 percent, but if I could improve my combat skills even the slightest bit—if that window were to open even a crack—I’d find a way to force it open wide. If I could train to jump every hurdle this little track-meet of death threw at me, maybe someday I’d wake up in a world with a tomorrow.
+
+
+Next time I’d be sure to stare at Rita during PT. I felt a little bad about bringing her into this, she who was basically a bystander in my endless one-man show. But there wasn’t really much choice. I didn’t have hours to waste building muscle that didn’t carry over into the next loop. That was time better spent programming my brain for battle.
+
+
+When the training had finally finished, the men on the field fled to the barracks to escape the sun’s heat, grumbling complaints under their collective breath. I walked over to Sergeant Ferrell who was crouched down retying his shoelaces. He’d been around longer than any of us, so I decided he’d be the best place to start for help on my battle-training program. Not only was he the longest surviving member of the platoon, but it occurred to me that the 20 percent drill sergeant he had in him might just come in handy.
+
+
+Waves of heat shimmered above his flattop haircut. Even after three hours of PT, he looked as though he could run a triathlon and come in first without breaking a sweat. He had a peculiar scar at the base of his thick neck, a token from the time before they’d worked all the bugs out of the Jackets and had had to implant chips to heighten soldiers’ reaction times. It had been a while since they’d had to resort to anything so crude. That scar was a medal of honor—twenty years of hard service and still kicking.
+
+
+“Any blisters today?” Ferrell’s attention never left his shoes. He spoke Burst with a roll of the tongue peculiar to Brazilians.
+
+
+“No.”
+
+
+“Getting cold feet?”
+
+
+“I’d be lying if I said I wasn’t scared, but I’m not planning on running, if that’s what you mean.”
+
+
+“For a greenhorn fresh out of basic, you’re shaping up just fine.”
+
+
+“You still keep up with your training, don’t you, Sarge?”
+
+
+“Try to.”
+
+
+“Would you mind if I trained with you?”
+
+
+“You attempting some kind of humor, Private?”
+
+
+“Nothing funny about killing, sir.”
+
+
+“Well, there’s something funny with your head if you want to stuff yourself into one of those damn Jackets the day before we head out to die. You want to work up a sweat, go find a coed’s thighs to do it in.” Ferrell’s eyes stayed on his laces. “Dismissed.”
+
+
+“Sarge? With all due respect, I don’t see you running after the ladies.”
+
+
+Ferrell finally looked up. His eyes were 20mm rifle barrels firing volleys at me from the bunkers set deep in the lines of his tanned, leathery face. I cooked under the glaring sun.
+
+
+“You tellin’ me you think I’m some sort of faggot who’d rather be strapped into a Jacket reeking of sweat than up between a woman’s legs? That what you’re tellin’ me?”
+
+
+“Tha-that’s—not what I meant, sir!”
+
+
+“Right, then. Take a seat.” He ran his hand through his hair and patted the ground.
+
+
+I sat down as a gust of ocean wind blew between us.
+
+
+“I was on Ishigaki, you know,” Ferrell began. “Musta been at least ten years ago. Jackets back then were cheap as hell. There was this place near the crotch—right about here—where the plates didn’t meet quite right. Rubbed right through your skin. And the places that had scabbed over during training would rub through again when you got into battle. Hurt so bad some guys refused to crawl on the ground. They’d get up and walk right in the middle of a fight. You could tell ’em it would get ’em killed, but there were always a few who got up anyway. Might as well have walked around with targets painted on their chests.” Ferrell whistled like a falling shell. “Whap! Lost a bunch of men that way.”
+
+
+Ferrell had a mix of Japanese and Brazilian blood in him, but he came from South America. Half that continent had been ravaged by the Mimics. Here in Japan, where high-tech was cheaper than good food, our Jackets were precision pieces of machinery. Still, there were plenty of countries where it was all they could do to send their troops off with a gas mask, a good old-fashioned rocket launcher, and a prayer. Forget about artillery or air support. Any victory they did happen to win was short-lived. Nanobots spilling from Mimic corpses would eat the lungs out of whatever soldiers that were left. And so, little by little, lifeless desert spread through the lands people once called home.
+
+
+Ferrell came from a family of farmers. When their crops started to fail, they chose to abandon their land and move to one of the islands in the east, safe havens protected by the wonders of technology. Families with people serving in the UDF were given priority for immigration, which is how Ferrell came to join the Japanese Corps.
+
+
+These “Immigration Soldiers,” as they were known, were common in the Armored Infantry.
+
+
+“You ever hear the expression kiri-oboeru?”
+
+
+“What?” I asked, startled to hear the Japanese.
+
+
+“It’s an old samurai saying that means, ‘Strike down your enemy, and learn.’ ”
+
+
+I shook my head. “Doesn’t sound familiar.”
+
+
+“Tsukahara, Bokuden, Itou, Miyamato Musashi—all famous samurai in their day. We’re talking five hundred years ago, now.”
+
+
+“I think I read a comic about Musashi once.”
+
+
+“Damn kids. Wouldn’t know Bokuden from Batman.” Ferrell sighed in exasperation. There I was, pure-blooded Japanese, and he knew more about my country’s history than I did. “Samurai were warriors who earned their living fighting, just like you and me. How many people do you think the samurai I just named killed in their lifetimes?”
+
+
+“I dunno. If their names are still around after five hundred years, maybe . . . ten or twenty?”
+
+
+“Not even close. The records from back then are sketchy, but the number is somewhere between three and five hundred. Each. They didn’t have guns. They didn’t have bombs. Every single man they killed they cut down in hand-to-fucking-hand combat. I’d say that’d be enough to warrant a medal or two.”
+
+
+“How’d they do it?”
+
+
+“Send one man to the great beyond each week, then do the same for ten years, you’ll have your five hundred. That’s why they’re known as master swordsmen. They didn’t just kill once and call it a day. They kept going. And they got better.”
+
+
+“Sounds like a video game. The more you kill, the stronger you get—that it? Shit, I got a lot of catching up to do.”
+
+
+“Except their opponents weren’t training dummies or little digital aliens. These were living, breathing men they slaughtered. Like cattle. Men with swords. Men fighting for their lives, same as them. If they wanted to live, they had to catch their enemy off-guard, lay traps, and sometimes run away with their tail between their legs.”
+
+
+Not the first image that sprang into your head when you thought of master swordsmen.
+
+
+“Learning what would get you killed and how to get your enemy killed—the only way to know a thing like that is to do it. Some kid who’d been taught how to swing a sword in a dojo didn’t stand a chance against a man who’d been tested in battle. They knew it, and they kept doing it. That’s how they piled up hundreds of corpses. One swing at a time.”
+
+
+“Kiri-oboeru.”
+
+
+“That’s right.”
+
+
+“So why do they bother training us at all?”
+
+
+“Ah, right to the point. Brains like that, you’re too smart to be a soldier.”
+
+
+“Whatever, Sarge.”
+
+
+“If you really want to fight the Mimics, you need helicopters or tanks. But helicopters cost money, and it takes money to train the pilots, too. And tanks won’t do you a lick of good on this terrain— too many mountains and rivers. But Japan is crawling with people. So they wrap ’em in Jackets and ship ’em to the front lines. Lemons into lemonade.”
+
+
+Look what happened to the lemons.
+
+
+“All that shit they drum into you in training is the bare minimum. They take a bunch of recruits who don’t know their assholes from their elbows and teach ’em not to cross the street when the light’s red. Look left, look right, and keep your heads down when things get hot. Most unlucky bastards forget all that when the shit starts flying and they go down pretty quick. But if you’re lucky, you might live through it and maybe even learn something. Take your first taste of battle and make a lesson out of it, you might just have something you can call a soldier—” Ferrell cut himself off. “What’s so funny?”
+
+
+“Huh?” A smirk had crept across my face while he was talking and I didn’t even notice.
+
+
+“I see someone grinning like that before a battle, I start worrying about the wiring in his head.”
+
+
+I’d been thinking of my first battle, when Mad Wargarita tried to help me, when my mud-stained guts were burnt to cinders, when despair and fear streamed down my face. Keiji Kiriya had been one of the unlucky bastards. Twice.
+
+
+The third time, when I ran, my luck hadn’t been what you’d call good either. But for some reason, the world kept giving me another chance, challenging me to find a way to survive. Not by luck, but on my own.
+
+
+If I could suppress the urge to run, I’d keep waking up to a full day of training followed by a day on the battlefield. And what could be better than that? Almost by default, I’d keep learning, one swing at a time. What took those swordsmen ten years, I could do in a day.
+
+
+Ferrell stood and gave my backside a slap with his hand, bringing my train of thought to a screeching halt. “Not much point worrying about it now. Why don’t you see about finding one of them coeds?”
+
+
+“I’m fine, Sarge, I was just thinking—” Ferrell looked away. I pressed on. “If I live through tomorrow’s battle, there’ll be another battle after that, right? And if I live through that battle, I’ll go on to the next one. If I take the skills I learn in each battle, and in between battles I practice in the simulators, my odds of surviving should keep going up. Right?”
+
+
+“Well, if you want to overanalyze—”
+
+
+“It can’t hurt to get in the habit of training now, can it?”
+
+
+“You don’t give up easy, do you?”
+
+
+“Nope.”
+
+
+Ferrell shook his head. “To be honest, I had you figured for someone different. Maybe I’m gettin’ too old for this.”
+
+
+“Different how?”
+
+
+“Listen, there are three kinds of people in the UDF: junkies so strung out they’re hardly alive, people who signed up looking for a meal ticket, and people who were walking along, took a wrong step off a bridge somewhere, and just landed in it.”
+
+
+“I’m guessing you had me pegged for the last group.”
+
+
+“That I did.”
+
+
+“Which group were you in, Sarge?”
+
+
+He shrugged. “Suit up in first-tier gear. Meet back here in fifteen minutes.”
+
+
+“Sir—uh, full battle dress?”
+
+
+“A Jacket jockey can’t practice without his equipment. Don’t worry, I won’t use live rounds. Now suit up!”
+
+
+“Sir, yes sir!”
+
+
+I saluted, and I meant it.
+
+
+
+
+
+
+
+
+
+
+The human body is a funny machine. When you want to move something—say, your arm—the brain actually sends two signals at the same time: “More power!” and “Less power!” The operating system that runs the body automatically holds some power back to avoid overexerting and tearing itself apart. Not all machines have that built-in safety feature. You can point a car at a wall, slam the accelerator to the floor, and the car will crush itself against the wall until the engine is destroyed or runs out of gas.
+
+
+Martial arts use every scrap of strength the body has at its disposal. In martial arts training, you punch and shout at the same time. Your “Shout louder!” command helps to override the “Less power!” command. With practice, you can throttle the amount of power your body holds back. In essence, you’re learning to channel the body’s power to destroy itself.
+
+
+A soldier and his Jacket work the same way. Just like the human body has a mechanism to hold power back, Jackets have a system to keep the power exertion in balance. With 370 kilograms of force in the grip, a Jacket could easily crush a rifle barrel, not to mention human bone. To prevent accidents like that from happening, Jackets are designed to automatically limit the force exerted, and even actively counteract inertia to properly balance the amount of force delivered. The techs call this system the auto-balancer. The auto-balancer slows the Jacket operator’s actions by a fraction of a second. It’s an interval of time so minute that most people wouldn’t even notice it. But on the battlefield, that interval could spell the difference between life and death.
+
+
+In three full battles of ten thousand Jackets each, only one soldier might have the misfortune of encountering a problem with the auto-balancer, and if the auto-balancer decides to hiccup right when you’ve got a Mimic bearing down on you, it’s all over. It’s a slight chance, but no one wants to be the unlucky bastard who draws the short straw. This is why, at the start of every battle, veterans like Ferrell switch the auto-balancer off. They never taught us this in training. I had to learn how to walk again with the auto-balancer turned off. Ferrell said I had to be able to move without thinking.
+
+
+It took me seven tries to walk in a straight line.

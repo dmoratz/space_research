@@ -1,0 +1,1643 @@
+CHAPTER 5
+
+
+
+
+CONSTRUCTION AND EXPLOITATION RIGHTS TO THE LUNAR SURFACE
+
+
+
+
+[1]
+
+
+AFTER MORE THAN an hour wrestling with the control stick, Apple’s pilot released it and slumped, exhausted, onto his flight couch. He mopped the sweat from his face. Droplets of perspiration floated lazily across the capsule’s two-and-a-half-meter width.
+
+
+“It’s no use. She won’t budge.”
+
+
+“Hmm.” Ryuichi closed the flight checklist binder and glanced up at the external display. He should have been seeing a vast stretch of blue ocean and white clouds. Instead the view was blocked by a silver-blue panel. Nothing was visible.
+
+
+The spacecraft carrying Ryuichi and his pilot had been orbiting Earth for the past hour at an altitude of three hundred kilometers. The conical core capsule had life support for twenty-four hours in orbit, but since Eve was capable of carrying a larger payload, the cylindrical habitat module and the propulsion module with its fuel tank and solar array had been launched along with the capsule. The propulsion module—a stripped-down test version of the return module that would bring passengers back from the moon—had encountered a problem. One of its solar arrays had failed to deploy.
+
+
+The problem was neither malfunction nor human error. Just after reaching orbit, Apple had experienced a small shock, and the panel had refused to unfold. The external cameras and sensing systems indicated that something—probably a tiny fragment of space debris—had punched a five-millimeter hole into the end of the oblong solar array. The impact had evidently torqued the gimbal at the base of the array. Now it wouldn’t move, even after the pilot released the retaining pin. It was an unavoidable accident, not a design flaw. They were lucky the debris had missed the core module. Still, the collision had major consequences.
+
+
+Ryuichi looked over at the pilot and said calmly, “Life-support systems?”
+
+
+“Nominal.”
+
+
+“Communications?”
+
+
+“Fully functional.”
+
+
+“Can we make it back?”
+
+
+“No problem. Other than the array, all systems are go.”
+
+
+“What about the propulsion module test?”
+
+
+“I’m afraid that’s out of the question now,” said the pilot.
+
+
+“Then we’re screwed,” Ryuichi said with a sigh. “The media is going to be all over us. ‘Sixth Continent spacecraft encounters problems on maiden flight. Crew unable to cope.’”
+
+
+The pilot sighed and wearily rubbed his face. Ryuichi looked through the observation port above his head. Apple’s revolution had brought the shining blue planet into view. Earth slid past, replaced by the dark of space. At first there were only stars in sight, but then a white, delta-shaped spacecraft loomed starkly against the blackness.
+
+
+It was space shuttle Frontier. NASA had been operating this new generation of shuttles since 2018. The “supershuttle” had a smaller payload than its predecessors—ten tons—because the design had been optimized for manned flight. Frontier could carry a crew of nine, two more than the original shuttles.
+
+
+TGT had no experience with manned flight, and Apple 3’s launch timing and orbital path were calculated to bring it close to Frontier. In the event of a problem, Apple could request assistance. NASA had agreed but had an ulterior motive. The mission would give the Americans their first close look at this unknown spacecraft. Now Frontier hung suspended, a thousand meters ahead of them, observing.
+
+
+“We kill ourselves getting this far,” muttered Ryuichi, “and end up having to ask for help…” Scenes of the effort that had gotten them to this point flashed through his mind.
+
+
+To say TGT’s team had strained themselves over the past few months would have been putting it mildly. On top of his demanding responsibilities managing the company, Ryuichi had spent the last three months supervising the first launch crew’s training. During this interval his sleep time was cut in half. And in the hours before launch, he had experienced the greatest tension and fear he had ever known. He knew better than anyone that the risk of a catastrophic failure was not zero.
+
+
+Nonetheless, his efforts paled next to those of his staff. Failure was not an option for Eve’s debut. Two thousand specialists from TGT and its subcontractors—triple the number usually assigned to a launch—had assembled a month beforehand to carry out round-the-clock maintenance and system verification checks. Though TGT had of course not made it public, more than a hundred personnel had collapsed from mental and physical stress, a third of them in the forty-eight hours prior to launch. The atmosphere at the space center the night before the launch was as tense as a military camp on the eve of battle.
+
+
+Eventually operations would become routine. But for this launch, everyone and everything went right to the wall. Sending humans into space and bringing them home safely demanded untold amounts of effort. The blood, sweat, and tears expended by his team allowed Ryuichi to face the prelaunch photo session with a smile. Despite his instinctive fears, he was convinced the mission would be a success. Now this…
+
+
+“We don’t have a choice then. Better radio those guys for help.” Ryuichi sounded despondent. “Call Frontier, ask them to approach and do a visual inspection of the array. We couldn’t shake or twist it loose, but maybe they can come up with something.”
+
+
+The pilot opened a channel to Frontier and outlined the situation. Ryuichi was close to giving up. Frontier was not going to help them with its payload bay robot arm or with anything else for that matter. NASA had already stated that it would maintain a minimum distance of five hundred meters from Apple. A collision could cause explosive decompression. Just managing a close approach would cut into Frontier’s precious time in orbit. NASA had agreed to help only as long as its own mission would face no additional risks. Consequently, Frontier’s response was completely unexpected.
+
+
+“Mr. Yaenami, they say they’re going to provide assistance,” said the pilot.
+
+
+“You’re kidding,” said Ryuichi. “What else can we do?”
+
+
+“Nothing. They’re going to EVA over to us.”
+
+
+“I don’t believe it.” Ryuichi was stunned. TGT was still working on space suit development. They were in no position to conduct extravehicular activity even if they had wanted to. He signaled the pilot for silence. “Frontier, this is Ryuichi Yaenami. Did Johnson Space Center approve your EVA?”
+
+
+“Apple 3, Frontier Commander Henderson. We’re proceeding with a scheduled AMPU operational test.”
+
+
+“Frontier, what is AMPU?” asked Ryuichi.
+
+
+“Advanced Manned Propulsion Unit. Tetherless EVA.”
+
+
+“So you have approval to approach?”
+
+
+“No approval required, Apple 3. The test protocol allows us to take AMPU out to five thousand meters. Sit tight, we’ll be with you shortly.” Frontier’s commander sounded like he was planning a walk in the park. Ryuichi stared out the observation port in a daze.
+
+
+In less than half an hour the shuttle loomed outside, nearly blocking the view of space. Frontier was now revolving in synchrony with Apple 3. A small oblong object separated from the shuttle. In what seemed a few seconds, it grew larger and resolved itself into an astronaut astride a slender tube, almost like a witch riding a broom. At the forward end of the tube were five gimbaled thrusters. The main motor and fuel tank were at the tube’s other end.
+
+
+The astronaut glided to within ten meters and gave his handlebar a slight twist. The vehicle’s front and rear thrusters pulsed propellant in several directions at once. It turned side-on, like a motorcycle skidding to a stop, yet maintained its rotation relative to Apple 3. The simple, intuitive way the astronaut controlled his vehicle belied the complexity of the maneuver. Any movement during orbit would change the orbit itself. NASA’s space scooter clearly had a sophisticated attitude control system.
+
+
+The astronaut’s EVA suit was also cutting-edge, a total departure from the bulky suits of the past. It had a sleek, streamlined look, accentuating the length of the astronaut’s arms and legs. The pride of NASA, this hard suit required no user predecompression.
+
+
+The astronaut was just outside Apple 3. He waved. “Sorry to keep you waiting. Flight Engineer Hardin, at your service. How about them apples?”
+
+
+“That was a very impressive approach. Give us a minute and we’ll roll over and show you the damage,” said Ryuichi.
+
+
+“Not necessary, Apple 3. I’d prefer to keep clear of your thrusters. Please maintain your current attitude. I’ll just do a walk around.” With that, Hardin nimbly flipped upside down and disappeared from view. The pilot put the external camera feed on the monitor.
+
+
+The American darted around the capsule like a hummingbird, then dove beneath the habitat module, which was connected by a narrow waist to the propulsion unit. He whistled.
+
+
+“Hello…looks like your problem is at the base of the array. The hinge is rotated and snagged. Engineers work hard to make these things snag-proof. This looks like something outside the design envelope.”
+
+
+“Can you do anything?” asked Ryuichi.
+
+
+“You’re not bringing this back with you, right? You just need power for orbit. Okay, let’s see if we can free this. One, two…three!”
+
+
+Ryuichi heard a thump from beneath his feet. At the same time, the panel blocking the external camera slid smoothly out of view.
+
+
+The pilot shook his head. “That was quick.”
+
+
+Hardin chuckled. “Force-feedback thruster control. AMPU is rock steady. That’s why Apple didn’t kick me back.”
+
+
+The American reappeared outside the observation port and nonchalantly radioed the shuttle. “Frontier, Hardin. Picking went smoothly. The Apple looks delicious.”
+
+
+“Thank you, Captain,” said Henderson. “You’re thirty-two seconds ahead of schedule. Synchronize and proceed to next position.”
+
+
+“Roger, Frontier.” Hardin waved.
+
+
+Suddenly the significance of this exchange hit Ryuichi. “So you guys didn’t report this to Johnson?”
+
+
+“EVAs are part of normal operation,” replied Henderson. “When we conduct them is up to me. Captain Hardin was, ah, previously scheduled to spend two minutes in your vicinity. And that’s all he did, Mr. Yaenami.”
+
+
+“You mean this was an unofficial rescue operation?”
+
+
+“We use that term when crew safety is at stake. Then everyone on the ground and in orbit works as a team to solve the problem. Shall I advise Johnson that we have an emergency?”
+
+
+“Of course not,” said Ryuichi with a reflexive shake of his head, though there was no video link. “We’re grateful for your help.”
+
+
+“No problem at all, Apple 3. You’re welcome to forget all about it,” Henderson said casually and signed off. Hardin waved one last time and moved away.
+
+
+Ryuichi and the pilot were drained. They floated about the capsule. “They completely had us. I didn’t know what to say,” said the pilot.
+
+
+“They knew what they were doing. This is child’s play for those people. We work like our lives depend on it just to get into space. We get up here and there they are, strolling around. Whistling.” Ryuichi watched Hardin’s receding form, eyes narrowed. “Those guys are the real deal.”
+
+
+
+
+
+
+THE 150-INCH MONITOR is flat white, without detail. Gradually the brightness falls to reveal a rocket lifting off amid towering plumes of white exhaust. A caption at the bottom reads: EVE I LEO MISSION LIFTOFF.
+
+
+Cut to the interior of Apple 3. A lion-haired figure in a flight couch, casually dressed in sweat-shirt and jeans. Four other flight couches are occupied by test dummies: women and children. The man smiles and flashes the victory sign. The camera jiggles.
+
+
+Footage from a chase plane. Eve gains altitude at a shallow angle, like an aircraft, and disappears into the distance. An insert shows a CG image of “the Mushroom” leaving the atmosphere. When Eve reaches Mach 1, the solid boosters jettison, and TROPHY kicks in for the long, smooth, air-breathing leg of the flight, taking Eve to an altitude of sixty kilometers. As the rocket climbs along the curvature of the earth, it leaves the blue of the atmosphere and enters the black of space. The first stage falls away. The second stage accelerates Apple into orbit.
+
+
+Capsule interior. At a signal from the pilot, the passenger releases his restraint harness and floats upward. He seems startled, then breaks into a broad smile. He pantomimes a cheek-to-cheek dance with an invisible partner. The reaction seems a bit over the top.
+
+
+A different interior, spacious and cylindrical and twice as wide as the passenger’s outstretched arms. The caption reads habitat module. The man takes a foil food packet from a drawer and punctures it with a straw. He “accidentally” lets some soup spill. The droplets float, suspended. He inserts his straw into one blob of soup after another and sucks them down.
+
+
+The toilet, at the far end of the compartment. The seat is formfitted for a complete seal. The man solemnly points to the two intakes—one small, one large—then to the antiseptic tissues for sterilizing the seat.
+
+
+Undressing. The man changes into pajamas. He looks relaxed, as if he were back home at the end of a long day.
+
+
+Sleeping accommodations. The man lowers a panel built into the wall of the compartment. A large, cloth-covered truss-frame structure unfolds like an accordion and extends to the other side of the compartment. The man walks to one end of the structure; from end-on, five hexagonal capsules containing beds are visible. The cross section looks like a honeycomb. Since everyone will sleep at the same time, the structure occupies most of the habitat module. The man floats into one of the compartments feetfirst, waves, and closes the opening with a curtain. The pilot, holding the camera, attaches an air line to each compartment. A subtitle explains that the lack of onboard convection requires the use of forced air.
+
+
+After a moment the man emerges from his sleeping compartment. He stretches comically as if he’s just had a good night’s rest. Naturally this is not possible. The flight is only three hours.
+
+
+After brushing his teeth, shaving, and tending to his mane of hair, the man changes back into sweat-shirt and jeans. The compartment has two round observation ports. The man goes to each port and looks out, quietly absorbed in the view.
+
+
+Cut to external camera view. A whirlpool of white clouds—a large low-pressure cell—sprawls across a dark blue ocean. The clouds hug the edge of the pressure cell like a floating Great Wall of China. The camera pans slowly toward the arc of the solar terminator. Suddenly the view is tinted purple, a gentle neon glow. The subtitle reads noctiluminescent clouds. The spacecraft is moving through glowing clouds of ice crystals high above the earth’s surface. The camera lingers for a long moment on the clouds and dissolves into a superimposed shot of the man’s profile. His cheeks are wet with tears.
+
+
+A computer graphic representation of the reentry process. The spacecraft’s path is a sine wave over a Mercator projection of the earth. After a descent burn over southern China, and after jettisoning the habitat modules, the capsule descends on a northeast trajectory toward Japan.
+
+
+Capsule interior. Lots of camera shake from the shock of reentry. The passenger grits his teeth but still manages a wave for the camera.
+
+
+The view from a ground-based camera. A speck against the twilight sky grows larger: a red and white trapezoid with a capsule slung beneath. The pilot skillfully trims the parafoil slider, banks gracefully, and softly touches down on the landing cushion laid along three hundred meters of runway. The underside of the capsule is charred black. The landing crew rushes up and hoses it down. They open the hatch.
+
+
+After a tense pause, the man’s head appears. He climbs unassisted down onto the runway, pumps his fists in the air, lit by a storm of camera flashes, and roars in triumph. Reporters with microphones rush toward him. Face still flush with excitement, he gleefully answers their questions. The camera pans upward. A full moon is rising into the glow of twilight.
+
+
+The video ends.
+
+
+“That was the five-minute version of the promotion video,” said Reika, standing next to the monitor. “We have a thirty-second version for prime time that went to terrestrial broadcasters worldwide. We’re streaming this digest and an uncut three-hour version on the net—unedited, except for the assistance from NASA.”
+
+
+“The Americans haven’t said anything about that, fortunately,” said Takumichi Gotoba. “They’re probably confident they’re ahead of us. Still, we’re not obliged to mention it. I don’t see a problem leaving it out.”
+
+
+The rest of the people in the conference room at Gotoba Engineering’s Tokyo headquarters nodded. The party to celebrate Ryuichi’s safe return had taken place two weeks ago. Today’s meeting had been called to discuss next steps. Gotoba’s brain trust was assembled in the same conference room where the project first saw the light of day.
+
+
+“After the prime-time spot aired, we received more than thirty-five hundred applications from individuals wanting to go into space. There were over fifteen hundred inquiries from national and local governments, universities, research institutions, travel agencies, broadcasters, web dailies, and news agencies. Everyone knows the fare per person is two hundred million yen.”
+
+
+Gotoba nodded with satisfaction. “It must be frustrating that you can’t service all that demand. You’d be halfway to covering your costs already.”
+
+
+“Yes,” said Reika. “But we’re in no position to take applications yet.”
+
+
+“That’s true. Gotoba Engineering staff will be the only passengers for a few years. But I have to say, Yaenami has guts. I could never have done that.” Gotoba shrugged. This was the difference between him and Ryuichi; otherwise they seemed to resemble each other. Besides the fact that Gotoba was sixty-one and Ryuichi forty-one, the older man could leave the work to his people and derive satisfaction from their success.
+
+
+“NASA hasn’t come out with a plan for space tourism yet. We’re still ahead, and the ball’s in our court.” He looked around the table. “Can we push harder? Move the timeline up?”
+
+
+Takasumi Iwaki, head of Gotoba’s Mobile Engineering Division, spoke. “This is not the time to panic. The project’s on track, but we still face a huge number of challenges. Without people on the surface, we can’t put the solar furnace into service and start producing cement. And we can’t put people on the surface till TGT successfully sends Apple to the moon and back.”
+
+
+“Hmm.” Gotoba looked at Tetsuo Sando. “What do you think NASA’s planning?”
+
+
+“They haven’t released much in the way of specifics. Lunar Generator 1 is near Eden Crater. That will give them electric power, but all they did was attach a landing module to a unit developed for the Mars program. We have next to no information about other engineering equipment they might be developing. But we do know that six years from now—which parallels our timeline—they plan to have a lunar base with a hundred people. They’re probably working round the clock on development.”
+
+
+“If they’re cobbling something together, they won’t be much of a threat.” Gotoba chuckled, but Sando just gazed back at him like an aging philosopher with an ominous presentiment. He shook his head. “The Americans thought through every element of Sixth Continent more than thirty years ago.”
+
+
+The room buzzed with exclamations of disbelief. Sando continued drily, “Since we began this project, I’ve been reviewing the history of space exploration. Take lunar concrete. The Universities of Arizona and Illinois were working on this problem in the eighties. In 1988, the American Society of Civil Engineers held a major conference on construction in space. NASA has support from hundreds of external organizations in the U.S. They’ve been in existence since 1958, and their base of technology and experience is very, very broad. If necessary, they can use their accumulated expertise and call on many outside organizations to create heavy machinery and production facilities in a very short period of time.” Sando paused, then said, “To be frank, I would not want to make an enemy of NASA.”
+
+
+“You’re too pessimistic, Sando.” Gotoba grinned. “We have a trump card: TROPHY.”
+
+
+“A trump card? No.” Sando shook his head. “NASA has thirty Titan X heavy launch vehicles on order from Lockheed Martin for the Mars missions. With that capacity alone they could put 250 tons of payload into lunar orbit.”
+
+
+“Interesting,” said Gotoba. “But we have Apple, which is better than anything NASA can offer. Their shuttle has a history of failure. They’ve lost three of them.”
+
+
+“Yes, three of the original shuttles. The supershuttle has a spotless record, and NASA has eight of them. If they wanted to, they could use that space fleet to put seventy people in low earth orbit in little more than two weeks. And their experience with the Apollo program means that putting people into lunar orbit would pose no challenge. Establishing a temporary presence on the surface would also be easy. Mars Ambassador 1 is on its way back to Earth as we speak. It could just as well be rerouted to the moon.” Sando removed his glasses and began polishing them. “This reminds me of my grandfather’s stories of the Great Pacific War.”
+
+
+“You mean it gets worse?” growled Iwaki.
+
+
+“NASA has a sponsor with unlimited financial resources: the U.S. government.”
+
+
+“Enough of this pessimism!” Gotoba pounded the table. He looked at Reika. “We have a powerful sponsor of our own. Right?”
+
+
+“Yes,” answered Reika. “We are prepared to fully fund the project.” Reika began tapping out figures on her wearcom. “So far, investment includes three billion yen for the evaluation of Kunlun Base. Forty-three billion yen for fifty-two Eve launch vehicles. Thirty-three billion for twenty Adam launch vehicles. Eighteen billion in development costs for both vehicles. Fifteen billion to develop Apple. Roughly twenty billion for the engineering equipment and other project elements. Adding promotion and personnel expenses, the total comes to 130 billion.”
+
+
+“And the budget is 150,” said Gotoba.
+
+
+“Correct. So far we’ve recouped around three billion from broadcasting and publishing rights and reservation deposits. But this figure will grow substantially. And we are negotiating for additional bank financing.”
+
+
+“You see?” Gotoba turned to the room. “We’re going to be fine. From here on out we’ll be in our element. The Americans may be multiarmed and hydra-headed, but they’ve never built a base in the Himalayas or at the bottom of the ocean. Let’s give them a run for their money!”
+
+
+Iwaki and Sando nodded. Gotoba didn’t need to prove anything by going into space. He could lead by force of personality alone.
+
+
+
+
+
+
+OVER THE NEXT six months, while the construction of Sixth Continent continued on schedule, NASA showed the world what it could do. The Americans launched fifteen heavy-lift rockets in rapid succession, inserting large payloads into lunar orbit. They established a power-generation capability and landed twenty-five rovers and five scrapers on the surface. The rovers acted purely as transport vehicles, and the scrapers simply removed regolith and permafrost from the surface. NASA’s engineering equipment lacked the sophisticated capabilities of Gotoba’s multidozers. But their conservative design was robust. Lack of time to develop anything better was doubtless a factor, but NASA had apparently decided that for construction on the scale they were planning, using many machines with basic functionality was the optimum approach. America’s boundless industrial strength had enabled it to surpass Japan and Korea, Germany and France, its mother country England, and the mighty Soviet Union. At this rate, it seemed NASA would quickly catch up to and surpass the progress on Sixth Continent.
+
+
+Eden Entertainment’s response to these developments was muted, especially compared to their earlier splashy promotion campaign. They did not issue any particular comment. The media looked to Tae Toenji, whose guiding role in the project had been an open secret for some time, but she had withdrawn to her home in Nagoya and not been seen since. Some of the tabloids speculated that, having overreached herself, this mere teenager had taken flight at the decision by NASA, the world’s preeminent space agency, to compete with ELE. But there was another and just as widely held opinion: Tae had another trump card up her sleeve and was waiting for the right time to reveal it.
+
+
+In point of fact, there was some truth to this speculation—but only some. In the summer of 2030, more of that truth would come to light.
+
+
+
+
+
+
+THE NEWLY RISEN full moon cast a yellowish glow over the dark bulk of the Makino-ga-ike Forest. The Toenji mansion was surrounded by trees that reduced the noise of traffic from the nearby highway to a distant murmur. On the south-facing thirdfloor terrace, a figure in robe and slippers was hunched over a tube of about equal height, watching the night sky.
+
+
+“Grandfather?”
+
+
+Sennosuke Toenji turned to see his granddaughter open the sliding glass door and step out onto the terrace, clad in pajamas.
+
+
+“Did you finish your phone call?” he asked.
+
+
+“I wanted to talk a little longer, but I didn’t want to take too much of Josh’s time. He told me to go to bed.”
+
+
+“He sounds like a considerate friend.”
+
+
+“He’s probably just worried the phone is tapped. If the media finds out he’s my friend, they’ll be pounding on his door.”
+
+
+Sennosuke said nothing for a moment. “Come take a look.”
+
+
+“Yes, Grandfather.”
+
+
+Sennosuke stepped away from the telescope. Tae sat down next to it. It was a Newtonian reflector. Its tube, twelve centimeters in diameter, topped an equatorial mount on a wooden tripod. The telescope was rustic in design and manufacture, without a tracking drive, cold CCDs, or other electronic devices. Other than the tube and tripod legs, all the fittings were bronze. It had the appearance of a well-loved object.
+
+
+Tae looked into the eyepiece. A circle of silvery white light struck her retina. Once she had blinked and allowed her eyes to adjust, the bright semicircular moon came into view. The telescope’s secondary mirror cast a faint shadow over the center of the image, but the lunar surface was in sharp focus—an intricate mixture of faintly yellow-tinged mountains and dark basins. Tycho’s white rays spread starlike from the crater. The surface was a profusion of overlapping craters of all sizes. It was the lunar southern hemisphere.
+
+
+“I wonder if we can see the multidozers,” said Tae.
+
+
+“I doubt that.”
+
+
+“Maybe we should put beacons on them?”
+
+
+“I doubt you could see them even then. They’d be lost in the light reflected from the surface. If they had lasers, you might be able to see them.”
+
+
+“Then let’s be sure to fit them with lasers.”
+
+
+“Can you make out the crater?” asked Sennosuke.
+
+
+The moon glided out of her field of view, then immediately returned. Tae looked up and saw Sennosuke making tiny adjustments to the telescope. He did not need to look through the scope to correct its orientation.
+
+
+“I couldn’t use this without your help,” said Tae.
+
+
+Sennosuke placed his hand on the tube with a nostalgic look. “I’ve been doing this for sixty years, you know. This used to be my only pleasure. I saw Sputnik and Halley’s Comet with this. I wanted to see the plume from the crash of Lunar Prospector, but now I know why I couldn’t.”
+
+
+“Why not?”
+
+
+“You know—those threads. I hear they may have cushioned the force of impact and made the plume smaller. Once there’s a way to get to Eden Crater, I’d like to go see for myself.”
+
+
+“I wonder if you’ll live that long, Grandfather.”
+
+
+Sennosuke smiled warmly and patted the girl’s head. “I’m glad I decided to make your dream come true. Now that we’ve come this far, it really looks like I might be able to go.”
+
+
+“Then I’ll welcome you to my Eden.”
+
+
+“What about Kiichiro?”
+
+
+Tae looked away, sullen. “He wouldn’t come even if I asked.”
+
+
+“Not even via engraved invitation? You never know. Your father might actually be interested.”
+
+
+“No way. I’ll never let him set foot in Apple.” She obstinately shook her head. “He’s the one I’m trying to get away from.”
+
+
+“That’s too bad.” Sennosuke fell silent. He was the only one who knew the truth—that Tae’s father was the reason she had left Japan at an early age. He had showered money and education on her, but not the one thing she wanted most in the world. Nor was she able to hide her genius and wealth from the acquaintances she made in her travels: they ended up either flattering or avoiding her. She had no true intimates. Sennosuke was far too old to be a friend to Tae. All he could do was keep a careful watch over her from a distance.
+
+
+Tae’s baffling tendency to advance various outlandish proposals seemed to be her way of compensating for a lack of emotional sustenance. When she’d first said she wanted to go to the moon, that she wanted to build a wedding palace, Sennosuke had not known quite what to make of it. Even though Sixth Continent was just a means of luring people to the moon, he’d still doubted the wisdom of trying to do so in the first place.
+
+
+But when he considered his granddaughter’s upbringing, he felt he somehow understood. If she took charge of such a large project, the project itself would become the center of attention, and her immense wealth would fade into the background. Watching couples being joined at her wedding palace would help compensate for her loneliness. And if she succeeded, she’d be able to get back at her father.
+
+
+Yet it was all so heartbreaking—to pursue such a wonderful, imaginative goal all out of loneliness. Tae had participated at least a little in his stargazing hobby, and he was happy she was able to share in the simple delight of looking at stars in the night sky just as any other teenager might.
+
+
+“Tae, there’s something I’d like you to do for me.” Sennosuke had decided that what he was about to say was best for his granddaughter. “If you’re willing to make room for me on Apple, then I’d like to yield my place to your father. I’m probably too old to go anyway. Let’s invite him together, you and me.”
+
+
+She paused before answering. “I don’t want to. If you can’t go, I’ll use it for something else.”
+
+
+“Something else?”
+
+
+“A workstation with a cryptanalysis program, and a parabolic antenna.”
+
+
+“What would you do with that?”
+
+
+“Search for messages from extraterrestrial life-forms.”
+
+
+Sennosuke was mystified. “You don’t have to go all the way to the moon to do that. What’s this all about?”
+
+
+Tae’s explanation tumbled out in a rush. “The frequencies you can detect from Earth are limited—the ionosphere and the atmosphere get in the way. No one has launched a satellite to search for extraterrestrial life. But there are several proposals for detecting signals from unknown life-forms. If you have the right hardware, you can run the software. If the life-forms are reasonably close to our solar system, they’ll probably be sending signals toward planets that look suitable for life. But we may not be able to catch those signals from Earth. From the moon, we can monitor all frequencies without interference. I know this is kind of sudden—” She looked up at Sennosuke. “But it was always my intention, from the beginning.”
+
+
+“You could have at least told me.”
+
+
+“I didn’t want you to worry…you know, about my not having a friend in the world.”
+
+
+Sennosuke thought for a moment. “So, ‘from the beginning’ means not just the search for extraterrestrials, but…this whole project…”
+
+
+“Yes. I want to make friends. Sixth Continent, the wedding palace—everything is part of that plan.”
+
+
+Sennosuke was speechless. He thought he’d understood what his granddaughter wanted. And that was that; he’d merely imagined that he understood. Her goal hadn’t been to make people happy. It was all nothing more than a search for friendship, and to go to such unheard-of lengths to do so meant that, in a sense, she had given up hope of ever actually succeeding.
+
+
+Sennosuke knew there was no point in raising doubts now that things had proceeded this far, but he could not restrain himself.
+
+
+“Do you really think there are extraterrestrials out there?”
+
+
+“There are. There are no grounds for thinking there aren’t. The theory of extrasolar planetary formation was revised twenty-five years ago. In the Milky Way alone there could be more than a hundred million Earth-like planets. With that many planets, it’s unthinkable that there wouldn’t be any close to our solar system.”
+
+
+“I see. But why not search with a satellite?”
+
+
+“Would you greet them with a satellite? I mean, if they actually came? If you were back in the Edo period, Grandfather—in Nagasaki—and the first Dutch ship sailed into the harbor, would you go out to greet them in a splendid ship or in a rowboat? Which boat would get you recognized as a representative of the shogun?”
+
+
+“And a satellite is the rowboat.”
+
+
+“It is compared to the International Space Station. I want to build something even better. A magnificent Dejima Island. A place any visitor will immediately recognize as an international port.”
+
+
+“But why do you have to go so far to search for friendship? Why, young Aomine, for example—he’s important to you, isn’t he?” This was Sennosuke’s ace in the hole, but Tae’s expression didn’t change. She simply shook her head.
+
+
+“This is no reflection on Sohya. He doesn’t treat me as anyone special. I don’t know why. If he knew my goal was to search for friends, I think he’d help me. We’d look for them together.”
+
+
+“And have you ever felt an emotion called jealousy?”
+
+
+“Until I could scream. Those around me have so much that I don’t. But I think Sohya will put up with me.”
+
+
+“Tae…” Sennosuke sighed. “I didn’t realize you were so intent on this. I think we need to sit down and rethink things calmly. You needn’t go to such lengths to find friends. I know it sounds extreme, but you could cancel this whole project, cut your ties to ELE, and live as a normal young woman…”
+
+
+“Yes, that does sound extreme.” Tae wrapped her arms around the telescope. She picked it up, walked to the edge of the terrace, and held it out over the railing. “Grandfather? Could you bear to part with this?”
+
+
+“I don’t know what you’re getting at.”
+
+
+“You saw this in a shop in Hong Kong. You fell in love with it. It cost you three months’ wages. You’ve replaced the mirror coating every year for sixty years. Am I right?”
+
+
+“I’d hate to part with it. But I could if I had to.”
+
+
+“I could if I had to, too. But I’d really hate it.” With a troubled smile, Tae put the telescope back on the terrace. “I don’t want to lose the life I’m living. I think I’d have a hard time without money. I couldn’t read books, or buy clothes, or fly all over the world.”
+
+
+“Too used to all that to give it up now, are you?”
+
+
+“Yes. To be honest, it feels good having lots of people working on something at just a word from me.”
+
+
+She’s a Toenji, thought Sennosuke, though he didn’t want to say it. The same drive had enabled him to build Eden Entertainment. His son Kiichiro, ELE’s president, had the same temperament.
+
+
+“All right. Do what you want to do. You don’t have to see your father if you don’t want to. The two of you would probably just fight anyway.”
+
+
+“Thank you, Grandfather.” Tae walked up to Sennosuke and hugged him. He put his arm around her shoulders and squeezed her tight. “I’m so glad we had this talk. Things are going to get a little bumpy soon, and I needed some encouragement.”
+
+
+“What’s going to happen?”
+
+
+“Maybe something like a battle.”
+
+
+“Well, that won’t do. Shall I lend a hand?”
+
+
+“Not yet. I have a strategy. But I’ll probably need your help.”
+
+
+“You can count on me.” He stroked her hair.
+
+
+Tae’s wearcom chimed softly. She looked at the display.
+
+
+“Another phone call?” asked Sennosuke.
+
+
+“It’s my personal news feed. Whenever something about Sixth Continent pops up, I get an alert.” She read the text streaming across the display, then happily said, “Aha! Just what I was waiting for.”
+
+
+“Your battle?”
+
+
+“No, this is good news. It sounds like NASA is running into problems with that ‘Liberty Island’ of theirs. Their rovers are down.”
+
+
+“It’s not right to celebrate the misfortunes of others, you know.”
+
+
+Tae selected a video from the wearcom’s menu and hit play. “But, Grandfather, if the Americans don’t slow down a bit, it’ll be hard for us to win. Look at them. They’re so confident.” The tiny screen showed a press conference in the United States. A distinguished-looking American was delivering an impassioned statement.
+
+
+
+
+
+
+“WE HAVEN’T ABABDONED Mars.”
+
+
+Von Kármán Auditorium, Jet Propulsion Laboratory: the scene of hundreds of press conferences announcing dazzling achievements in space exploration. NASA Administrator Richard Ringstone was speaking forcefully.
+
+
+“We simply redirected Mars Ambassador to swing by Venus. We used the same roundabout route on the outbound leg.”
+
+
+Several reporters stood with raised hands. Ringstone pointed to one of them.
+
+
+“Mally, from AOL. I understand that a lot of the equipment designed for use on Mars is not usable on the lunar surface. Doesn’t that represent a significant waste of NASA resources?”
+
+
+“Not at all. The equipment will be preserved for future Mars missions. Even with the delays this revised strategy will entail, establishing a foothold on the moon offers long-term advantages. We’re fortunate that Japanese private enterprise has been so aggressive. They’ve demonstrated that water exists on the surface in an easily recoverable form. Factoring that water into our Mars exploration plans should make it easier to achieve them in the long run.”
+
+
+Ringstone pointed to a full-scale mock-up of Viking 1, America’s first Mars orbiter, standing in a corner of the auditorium.
+
+
+“That’s not all. Our lunar base will serve as a refueling point for missions to other planets. It could be used to build spacecraft themselves—even manned spacecraft. It can be a refueling depot, a production facility, and a home port for space missions.”
+
+
+“Zhang, from Xinhua News Agency. NASA’s Lunar Generator 1 landed next to the crater where Japan’s Sixth Continent consortium is constructing a base of its own. Is it NASA’s intention to piggyback on the success of Japanese industry?” The question was provocative, but Ringstone was unruffled.
+
+
+“That’s a groundless assumption. The moon does not belong to Japan. It belongs to all of humanity, and its resources cannot be monopolized by any one nation. We have an inalienable right to be there.” Ringstone looked stern but then broke into a smile. “Of course, we’re thankful for what they’ve done. If they find themselves in some kind of trouble, NASA will be happy to lend them a hand. If they lose their way, we’ll politely give them directions.” Ringstone’s self-assurance was magisterial. And why not?
+
+
+As the NASA administrator’s bald head reflected the lights from dozens of flashing cameras, he gave an elegant bow.
+
+
+“NASA’s moon base will be named Liberty Island. Hitch your wagons, everyone. The next continent is a big one.”
+
+
+
+
+
+
+SIX MONTHS HAD passed since NASA had broadcast its declaration of war to the world. From time to time, Tae replayed Ringstone’s press conference to strengthen her resolve.
+
+
+“Overconfidence is the enemy. NASA is the best of the best.” She looked up at her Eden, floating in the night sky, and whispered to herself, “Americans are so talented at making friends…far more than I am.”
+
+
+
+
+[2]
+
+
+THE GASOLINE-POWERED Chevrolet sped through the earlysummer sunlight of Pasadena and through the gate of NASA’s Jet Propulsion Laboratory at the foot of the San Gabriel Mountains.
+
+
+The driver, a blond woman in a fiery scarlet suit, jumped out and strode quickly into the Space Flight Operations Facility. As she hurried toward a room next to mission control, she was inputting data into the wearcom embedded in her sunglasses with her left hand.
+
+
+In her mid-thirties, Caroline Cadbury was operations administrator for NASA’s Liberty Island Unmanned Engineering Phase. She yanked open the door of the Unmanned Operations Support Room and bellowed, “What’s going on? All the boys are down?”
+
+
+Her team sat at their bank of consoles. They swiveled to look at her. One stood up: a tall, beefy man who looked more like a truck driver than a NASA controller. He was pale.
+
+
+“That’s right, Carol. All twenty-five rovers and five scrapers.”
+
+
+“What the hell happened? Did you have them playing football?”
+
+
+“No. There were no collisions. We were operating by the book.” Joseph Lambach waved his hands apologetically. He was the “driver” for the engineering equipment, though with the two-way communications delay he could not control their speed and direction in real time. The rovers’ AI programming let them move independently. Lambach’s job was to assign objectives—ordering the vehicles to move a certain boulder, grade a site to a certain shape and dimensions, and so on.
+
+
+“If there wasn’t a collision, what happened?” Caroline was boiling with frustration. With her good looks, men tended to underestimate her, but this morning her fury was not showing her off to best effect.
+
+
+Lambach winced. “We have a power supply problem. The charging stations are down. The rovers can’t recharge their fuel cells. They’ve all gone into sleep mode.”
+
+
+“Show me the telemetry and any suspicious-looking video. Craig! Conference me with the rover tech supervisor at LPL!”
+
+
+Craig initiated a call to the University of Arizona’s Lunar and Planetary Laboratory. Caroline threw herself into a chair and started reviewing the telemetry data on her wearcom.
+
+
+“I don’t understand. All the chargers are off-line. But we have five stations and five solar arrays. Everything’s networked. The only way this could happen would be if all five bridges were cut or all the arrays destroyed. Even a meteor strike should’ve left two or three stations online. Do we have video?”
+
+
+Her display switched to video. She used the wearcom’s controller, hanging like a pendant from the frame of her glasses, to page through the images. “I don’t see any evidence of damage,” she muttered.
+
+
+“It’s a long shot, but the circuits may have been damaged. The rovers’ motherboards were designed for Mars. It has an atmosphere. It’s farther from the sun. The circuits weren’t shielded for the intensity of the solar wind on the moon. But everything went fine during the simulations.”
+
+
+“Even so,” said Caroline, “the vehicles have redundant control. Self-diagnostic telemetry doesn’t indicate any problems. Wait a minute—what’s this?”
+
+
+Caroline marked the image on her display. One of the solar arrays, a long panel on an aluminum frame extending horizontally over the surface. The panel was nearly vertical. NASA had not had time to experiment with Sixth Continent’s spring-loaded deployment techniques. Instead, they used conventional rigid panels, tugged open in sections by a small rover, like an accordion. The panels had been proven on the ISS, and the rover had been developed for the Mars missions.
+
+
+The image Caroline had selected showed dark mottling over the silver surface of the panel, as if it had been blackened with candle soot. “This looks like dust contamination. How did it happen?”
+
+
+“Carol, I have Arizona,” said Craig.
+
+
+“Plug me in.” The face of an LPL research scientist came up. Caroline didn’t waste time with greetings. “We think the solar array may have been contaminated with regolith. Did you run simulations on anything like that in your moon garden?”
+
+
+“Panel contamination? I’ll check right away.”
+
+
+LPL’s “moon garden” was a large-scale mock-up of the Liberty Island site, identical in every respect to the actual terrain, using lunar regolith stimulant. The use of simulated environments for each of their space missions with identical hardware and terrain was a time-honored NASA practice. When a problem developed far off in space, NASA used these environments to grasp the details of the problem and develop responses. By using a twin of the Apollo spacecraft, they had been able to mount a successful rescue effort when Apollo 13 was stricken on its way to the moon. For the Mars Pathfinder rover tests, NASA had built a “Mars garden” based on data collected twenty-one years earlier by the Viking orbiter.
+
+
+LPL’s moon garden was populated with rovers and recharging stations. Progress on the lunar surface was being faithfully replicated. Five minutes later, the scientist was back.
+
+
+“All vehicles are keeping well clear of the arrays. The landers touched down a safe distance from the panels, so we wouldn’t expect to see contamination from that source.”
+
+
+“Then what did that? There’s no wind on the moon. Show me the map.” A view of the garden appeared on Caroline’s lenses, with current rover locations and past routes superimposed. The rovers were indeed keeping well clear of the solar power arrays. Lambach had just finished running a calculation of trajectories the regolith might have taken after being kicked up by movement across the surface, but his analysis also indicated that this was not the source of the contamination.
+
+
+“I don’t understand. Did someone…?” Caroline pressed a finger to her chin, lost in thought, then suddenly looked up. “Joe! Get me a smaller-scale map.”
+
+
+“A standard surface map?”
+
+
+“No, something that includes the Japanese base. There’s one on their website. I want to see the two maps superimposed.”
+
+
+Lambach downloaded Sixth Continent’s map and resized it to mate with the map of Liberty Island. When the controllers saw the result on the monitors, the room fell silent.
+
+
+“When the hell did they do this?”
+
+
+Sixth Continent was under construction on the Earth-facing side of Eden Crater. Since the moon maintained one face toward Earth, a base built on that side would have a fixed sight line for communications.
+
+
+But NASA faced the same constraints. To harvest Eden’s ice, they would have to source power from outside the crater, and unless they deployed multiple communications satellites in polar orbit, they would have to build on the side facing Earth. This meant that Liberty Island and Sixth Continent would have to be relatively close to each other.
+
+
+The problem was, how close? The merged map showed that the distance between Sixth Continent and Liberty Island had shrunk to a mere two hundred meters. To make things worse, the closest modules to Sixth Continent were Caroline’s five solar arrays.
+
+
+“It was them! Their operations sprayed regolith onto our site! They contaminated our array and shut down our power. Didn’t they notice they were doing this?”
+
+
+“When we deployed the panels, Sixth Continent was at least a kilometer away.” Lambach traced a line on the map with his finger. Caroline nodded.
+
+
+“I know. That’s why we figured it would be safe to put the arrays there. There was nothing on their website about plans to build any closer.”
+
+
+“At the time, no. Siting a permanent landing area depends on the terrain. They can’t make a final decision till they’ve been working on the surface for a while.”
+
+
+“Great. So all they thought about was picking a spot where their own arrays wouldn’t be contaminated, and they put their landing area right next to us.”
+
+
+“Not exactly. We didn’t notice they were so close. They probably didn’t notice either. No one’s using IFF transponders up there. As far as the Japanese are concerned, our rovers could be terrain features. And vice versa.”
+
+
+“This is all academic. They created the problem. We’re going to lodge a complaint—” Caroline paused, took a deep breath, and counted to five.
+
+
+“But…before we do that, we need to think of a solution.”
+
+
+“Anger management?” said Lambach.
+
+
+“I’m trying. I can’t afford to do anything hasty on this project.”
+
+
+For Caroline, being tapped to direct unmanned operations on the surface—in effect, to be Liberty Island’s Phase One administrator—was a huge professional coup. The reason for her selection was, of course, NASA’s change in direction: the Mars project had suddenly been replaced by a lunar research base. In the process, the head of the Mars faction had lost influence. Caroline, whose support for the moon faction within NASA had relegated her to a subordinate role, suddenly found herself in the spotlight.
+
+
+Caroline was well aware that her promotion was based on chance political developments. She did not want to lose her composure. That would only prompt people to doubt her abilities.
+
+
+“Those panels were designed for Mars. All we did was change the power settings. Mars has sandstorms, so Wolf’s team must’ve planned for contamination. What was the recovery protocol?”
+
+
+“The assumption was that the panels would be scoured by the same sand that contaminated them. In the Martian ops plan, the panels were to be oriented at the optimum angle to promote autodecontamination.”
+
+
+“So what are the odds that our panels might decontaminate the same way? They’re within ten degrees of vertical. Couldn’t the regolith just drop off?”
+
+
+This was a question with no easy answer. Caroline put out calls to LPL and research facilities across the United States. The answers came from NASA’s Glenn Research Center in Cleveland and from Northrop Grumman in New York.
+
+
+Glenn Research Center had the world’s largest space environment simulation chamber, and their staff had deep experience in the effects of exposure to vacuum conditions. GRC’s response: friction between regolith particles thrown up from the surface had probably generated a static charge, causing them to stick to each other. The charge would persist in the airless environment.
+
+
+Northrop Grumman’s response came from a staff member who had worked on the design and construction of Apollo lunar landing modules. The smallest regolith particles were as fine as flour. In the moon’s one-sixth gravity, there was little chance they would drop off the panels of their own weight. The astronauts who walked on the moon couldn’t prevent regolith from contaminating the O-rings on their EVA suits. This prevented them from removing their suits inside their lander, and after lifting off from the surface they had to struggle to avoid carrying dust particles into the command module. The only way to decontaminate the panels would be to have a human on scene to dislodge the regolith by pounding on the rear of the panels.
+
+
+Caroline was hardly surprised by this analysis, but she had still hoped a solution might be found. Now that hope had been dashed.
+
+
+“Back to square one,” she said with a sigh. She bit her lip in frustration but wasn’t ready to give up. As Grumman had noted, with humans on-site there would be any number of options for removing the regolith. Simply waiting for Liberty Island’s manned phase would solve the problem. The overall project would be delayed, not stopped.
+
+
+Still, she wanted to solve this immediately if at all possible.
+
+
+NASA’s members were steeped in the legacy of their predecessors, whose originality, ingenuity, and adaptability had enabled them to resuscitate dying probes in the far reaches of space. If Method A was unsuccessful, they tried Method B or C. If those didn’t work, they kept searching, racking their brains until they found a way. This unshakable determination had come to be known as “the right stuff.” NASA owned it, and Caroline was a rightful heir to that legacy. She thought she had it; she hoped she did.
+
+
+The next step was a brainstorming call between her staff in the Unmanned Operations Support Room and personnel from a cross section of other departments in JPL. Several solutions were proposed and immediately shot down. Use the minirover that deployed the arrays to shake off the regolith? The rover was not designed to perform gyrating motion or finely calibrated acceleration/deceleration. Proposal rejected. Try the same thing with one of the transport rovers? Too much power. The rover would probably topple the panels, and it lacked sensors to warn when that was about to happen. Proposal rejected. Haul one of the landers to the array location and use its small amount of remaining propellant to direct a blast of thrust at the panels? With no atmosphere, the force of the thrust stream would be very hard to calibrate. If the engine were fired too close to the arrays, it would destroy them. Proposal rejected. Alternate joule heating with radiative cooling by applying intermittent current to the panels, causing the surface to expand and contract? Excessive current could overheat the distribution circuits. In any case, there was no power source. Proposal rejected.
+
+
+“This is not acceptable. Come on, people! This is NASA!”
+
+
+Silence descended on the conference. Finally Lambach spoke. “Carol, there is a way. It’s very simple.”
+
+
+“Then why hasn’t someone proposed it?”
+
+
+“Because we’re NASA. Because we want to solve this on our own. The solution I’m talking about is right next door.”
+
+
+“I see.” Caroline was silent for a moment. “The Japanese. You want to ask them to solve the problem for us.”
+
+
+“Yes,” said Lambach quietly. “Their multidozers are capable of shaking our arrays without knocking them over. Of course, their equipment was built to completely different specifications. The problem we’re facing doesn’t allow for much direct human intervention. We’ll have to leave it to the AI, and that makes it even more challenging. But it’s not impossible if we share data. And one of the guys at Johnson told me Frontier helped them on one of their missions. If we bring that into the discussion—”
+
+
+“That’s not on the table. We’re not going to do these guys a favor, say ‘no strings attached,’ and then show up later to collect the bill.”
+
+
+“Then we won’t bring it up.” Lambach reached for the hotline to NASA headquarters in D.C. “Let’s ask Ringstone to summit with the head guys on the Japan side. It’ll be risky for them to use valuable gear in an unscheduled operation. But I think Ringstone can convince them.” He started to pick up the phone.
+
+
+“Wait.” Caroline put her hand over the receiver. She had removed her sunglasses. Her blue eyes were shining. “Not yet. I’ve got to think this through.”
+
+
+“Carol, this isn’t defeat. If we succeed, you’ll be praised for making a wise call.”
+
+
+“I know. But…I wonder what Wolf will say.”
+
+
+“Carol?” Lambach looked at her with concern.
+
+
+Dr. Wolfgang Valkhoven had been mission director of the Mars project. Just a year ago, it had been NASA’s flagship mission for the first half of the twenty-first century—a tremendous undertaking on which to stake their—and America’s—reputation. Now the mission had been completely eclipsed by Liberty Island. The five billion dollar Mars Ambassador’s failure to make a landing on the surface was just one factor in that eclipse. Political factors had also dimmed Valkhoven’s star, including a failed presidential reelection bid by the mission’s chief booster.
+
+
+In the wake of these events, Caroline and the members of the Liberty Island project had risen in NASA, but it was mostly because Valkhoven’s team had lost power and another team had had to step up to the plate. They had been liberated from the shadows. It was a tremendous stroke of luck.
+
+
+But those who had replaced them in the wings were full of resentment. Naturally the chief representative of this faction was Wolf Valkhoven himself. If he and his allies could have their way, they would be back onstage, and they were waiting expectantly for Caroline to stumble. To seek help openly from the Japanese would be political suicide. But—
+
+
+“I think Wolf would understand,” said Lambach.
+
+
+“You’ve got to be kidding.” Caroline shook her head in disbelief.
+
+
+“We’re cogs in a machine, Carol,” Lambach said quietly. “You, me, and everyone here. Our missions have gotten too large for any one person to take all the credit or all the blame. All we can do is be good cogs and try to keep this giant machine from falling apart. The politicians and the bureaucrats decide where the machine goes.”
+
+
+“I’m aware of that. Wolf suffered more than any of us because of those people. How could he approve of our going to the Japanese for help?”
+
+
+“Because he suffered.” Lambach nodded, as if he were trying to convince himself. “We’ve got to solve this here, at our level. Sixth Continent is on scene, and they have capabilities we don’t. If we call on them, we can recover from this problem. Don’t you see? We’re the ones who make the call here. Not the politicians or the bureaucrats.” He paused. “Wolf is a scientist, same as us. He’ll understand. If his nose gets bent out of shape, I’ll talk sense into him.”
+
+
+“You expect me to believe he’ll see the Japanese as colleagues?” Caroline’s mouth opened in stark disbelief. “Whatever gave you that idea? His project—which just happens to be frozen at the moment—is a lot more important to him. Anyway, the real question is whether I can see the Japanese as colleagues.”
+
+
+“Carol, I don’t think personal animus has a place here—” Lambach stopped in midsentence. When he had signed on to work with this aggressive mission manager, she had told him a bit of personal history. She had also asked him to keep it confidential.
+
+
+Caroline fixed him with a cold stare. “They didn’t have a manned spacecraft of their own, so they bought my father’s seat on the shuttle. And now they’ve rendered our arrays unusable. Please tell me where I’ve gone off the rails, Joe.”
+
+
+“I’m sorry, Carol. I misspoke.” Lambach waved his hand, as if to wave away his earlier words, but he did not yield. “As mission administrator, which is more embarrassing—having a project canceled for political reasons or losing it because of an accident? Look at this objectively. Are you really going to pass on an option that could help us recover?”
+
+
+Caroline stared at him for a long moment. “So you’re asking whether I’ll be able to face myself, much less everyone else.” She looked down for a long moment, then put her sunglasses back on.
+
+
+“All right. As long as there’s something we can do about it, let’s not waste time.”
+
+
+“Yes, ma’am.” Lambach nodded with relief and picked up the hotline.
+
+
+
+
+
+
+“MR. AOMINE, you have an outside call.”
+
+
+The speaker in the ceiling repeated the announcement. Sohya slid out from under a multidozer and wiped metal dust from his face with a cloth. “Sorry, I’ll be right back.”
+
+
+“Leave her to me. I’ll have this wrapped by the time you get back.” The maintenance engineer closed the lid of the dozer’s motherboard compartment and waved a hand in assurance.
+
+
+Sohya exited through double metal doors, then an air lock. The magnetic shielding chamber was paneled with metal plates to screen out all geomagnetic and electromagnetic energy. This allowed tests on multidozer performance under different simulated conditions. Naturally, his wearcom would not function inside the chamber.
+
+
+Sohya was in the multidozer manufacturing facility and proving ground at the foot of Mount Fuji. The facility was also central control for the dozers already on the surface. On top of his responsibilities for directing surface operations, Sohya was helping to improve the next generation of multidozers currently under construction.
+
+
+Once outside the chamber, Sohya stepped into a nearby data processing center. All the terminals were busy, so he had to take the call on a bench in the corridor. He found Tae smiling back at him from his wearcom monitor.
+
+
+“Hello, Sohya. Are you busy at the moment?”
+
+
+“I was just about finished anyway,” said Sohya. “Starting with Dozer 8 we’re going to use slightly thinner shielding. That will allow us to increase its leverage.”
+
+
+“Sounds good. Listen, I couldn’t get hold of Mr. Iwaki. I need someone who knows the front line,” said Tae. Obviously this wasn’t a personal call. Sohya was about to make a joke about his disappointment on that score, but what she said next banished that thought instantly.
+
+
+“We’re conferencing with Ringstone at NASA.”
+
+
+“NASA? You’re joking!”
+
+
+“Mr. Gotoba and Mr. Yaenami are waiting too. We’re just about to start.”
+
+
+“But, Tae—”
+
+
+Sohya’s wearcom display divided into five cells, each with a face. He hurriedly composed himself.
+
+
+“Hello, Administrator Ringstone. This is Tae Toenji speaking.”
+
+
+Her accent was polished King’s English, belying the fact that she’d learned the language in California.
+
+
+“Greetings to all of you in Japan,” answered Ringstone. “I’m calling with an important request. This discussion is off the record, so I would appreciate your candid opinion. First, let me introduce Caroline Cadbury from JPL. Caroline is operations director for the unmanned phase of Liberty Island.”
+
+
+“Hello, everyone.” The same bald American Sohya had seen on the web yielded the floor to a blond woman. In a businesslike tone she began outlining NASA’s problem. When she had finished, she looked up from her documents and spoke directly into the camera. “I’d like to emphasize that this problem was caused by the proximity of your landing sites. I hope you will fully bear in mind your responsibility as you consider our request.”
+
+
+“Carol, let’s set that aside for the moment,” Ringstone said with an uneasy chuckle. Then he turned to his audience. “We’re prepared to render you assistance if you encounter problems. We regard this as an obligation, given our preeminent position in space exploration.”
+
+
+Ryuichi broke in, “You sounded pretty preeminent in that press conference.”
+
+
+“You saw that? Well, that puts me in a difficult position.” Ringstone rubbed his pate, then slowly executed a formal bow, Japanese-style. “We would deeply appreciate your assistance. As humans, and as fellow strivers toward the stars.”
+
+
+“Mr. Ringstone, we need time to confer,” said Tae.
+
+
+“I understand. I hope you’ll hurry.” Ringstone’s and Caroline’s faces were replaced with the caption on hold.
+
+
+“Well then,” said Gotoba. “First question: can we actually help them? What do you think, Aomine?”
+
+
+Sohya returned to the present. He had been preoccupied with Caroline’s steely expression.
+
+
+“Um…yes. As far as I can tell from Cadbury’s explanation, I think it’s possible. The multidozers’ power cables can easily extend two hundred meters. They have a macro for shaking our soft panels. With a little reprogramming, we could use it.”
+
+
+“Their panels are built from different materials. Are you sure you can dislodge the regolith just by shaking them?”
+
+
+“If it doesn’t work, we can clean it off.”
+
+
+“With what—a cloth or something?” asked Ryuichi.
+
+
+“We could blow it off. The regolith contains titanium. That’s a very hard metal. Wiping the panels free of regolith would damage them. We have a small spray module for cleaning the dozer video lenses. It’s a metal container with a heating element, like a teakettle. We can generate as much vapor as we need by charging it with permafrost. We’d have to program the dozers to manipulate the module to reach the panels—that’s a lot of area to cover. Tricky, but not impossible.”
+
+
+“I see,” said Gotoba. “It’s just a question of whether we want to spend the time.”
+
+
+“Basically, yes,” said Sohya.
+
+
+“So which benefits us most: investing time and resources to help NASA or leaving them to their own devices, cold as that might seem.”
+
+
+Ryuichi didn’t wait for Gotoba to finish. “Let’s help them.” Gotoba looked intrigued.
+
+
+“Your reason?”
+
+
+“Number one: publicity. If we help NASA, it will be as effective as airing ten commercials. Two: we’ll put them in our debt. We have no way of knowing what kind of problem we might run into at some point. It would be good to have them in our corner.”
+
+
+“Are you sure they’ll be willing to repay the favor? What we really need is for them to slow the pace of construction on Liberty Island. They’re certainly not going to do that.”
+
+
+“Fine,” said Ryuichi. “It would be better for them to do well—even if they are competitors—than dump cold water on this space boom. NASA’s success will have a halo effect on Sixth Continent.”
+
+
+“I’m not sure I share your optimism,” said Gotoba.
+
+
+“Then why did we let the rest of the world get a peek at TROPHY? I bet NASA will be building their own version soon, though it will take them a while to figure out the details. I welcome that.”
+
+
+Gotoba chuckled. “You make it sound very appealing. Ms. Toenji, what’s your take on this?”
+
+
+“I agree with Mr. Yaenami. As Sixth Continent’s publicity director, helping NASA wouldn’t be worth ten commercials—it’d be worth a hundred. I’m thinking of having footage of our multidozers working on Liberty Island intercut with video of Ringstone thanking us for our help.”
+
+
+Sohya couldn’t keep silent. Tae’s triumphant expression was too much for him. “Excuse me, everyone. Have you forgotten what NASA did for Apple 3? Are we going to repay them by turning their misfortune into an ad campaign?”
+
+
+“Aomine, this is not your issue.” Gotoba gave him a sharp look. Sohya felt a stab of fear. Naturally he was just on the call to render a technical opinion, not to participate in high-level decision making. But he couldn’t help himself.
+
+
+“You saw Cadbury’s face. She was in agony having to ask us for help. No wonder, when you consider NASA’s legacy. It’s like having to ask for help from a child who’s just learning to walk. I think we should be satisfied with putting them in our debt, not running around telling—”
+
+
+“Aomine—” Gotoba began to reprimand him, but Tae cut in.
+
+
+“Sohya.” She spoke coldly, with narrowed eyes. “Don’t you understand? If they win, Sixth Continent will be in a real predicament.” Sohya couldn’t think of an answer. He opened a two-way channel to Tae.
+
+
+“Tae, please. I’m in the same position as Cadbury. I know what she’s going through. We’re not senior people. We’re on the front line, putting heart and soul into our work. We don’t want political agendas to destroy what we’re doing. If we go public with this, the media will crucify her.”
+
+
+“Sohya…” Her image on the wearcom display was tiny, but Sohya saw the change that came over her. “So gentle, as always.”
+
+
+“You mean ‘weak,’ right? But still.”
+
+
+“If only everyone were like you,” murmured Tae. Then she sighed. “All right. Just this once.” She returned to conference mode.
+
+
+“Sorry for the interruption. After some thought, I think we should avoid publicity at this time.”
+
+
+“Really?” said Gotoba. “And help them for nothing?”
+
+
+“Help, yes. But I don’t think it will be for nothing. Sixth Continent is facing problems of its own. When the time comes for those problems to be addressed, this incident may prove important.”
+
+
+Gotoba’s and Ryuichi’s expressions suggested they understood what Tae meant. Sohya had no idea what she was talking about.
+
+
+“Is everyone okay then?” Tae spoke as if she were closing the conference.
+
+
+“I’m fine.”
+
+
+“All right then.”
+
+
+With that response from Ryuichi and Gotoba, Tae reopened the line to NASA.
+
+
+“Mr. Ringstone, we’ve made a decision.”
+
+
+“And that is?”
+
+
+“Sixth Continent will assist Liberty Island. In addition, please rest assured that we will not publicize this matter.”
+
+
+“Well…we’re grateful for that,” said Ringstone with evident surprise. Caroline’s eyes opened wide with astonishment. “It will save us some face,” continued Ringstone. “But are you sure you want to do this? It involves some risk of damage to your modules.”
+
+
+“We’re aware of that. In that case, we’ll take responsibility.”
+
+
+“That’s very gallant of you. Is this bushido, by any chance?”
+
+
+Tae smiled. “That’s what you Americans always say. There haven’t been any samurai in Japan for 160 years.” Then she seemed to recall something. “Ms. Cadbury?”
+
+
+“Yes?”
+
+
+“I have a message from our unmanned operations director: ‘Let’s give it our best shot.’”
+
+
+“…I understand.”
+
+
+“Well, that’s all. We can take up the details in a separate call.”
+
+
+“Thanks again, Ms. Toenji,” said Ringstone. He gave a two-finger salute and rang off, followed by Gotoba and Ryuichi.
+
+
+“I owe you one, Tae.” Sohya dipped his head in thanks.
+
+
+“You certainly do.”
+
+
+“I’ll take you to dinner next time. But I hope NASA and Sixth Continent can keep supporting each other.”
+
+
+“I said, ‘Just this once.’”
+
+
+“Tae?” She didn’t answer at first. Then she looked away and murmured hoarsely, “You have to choose me.”
+
+
+“What?”
+
+
+She hung up.
+
+
+If Tae were reaching out to him, the timing was certainly strange. Sohya shook his head and began reading a news flash streaming across his wearcom.
+
+
+
+
+
+
+THE NIGHT AIR, heavy with the smell of the desert, parted before Caroline’s speeding Chevy. The speedometer already showed eighty, but she gunned it harder. She half expected to see the highway patrol in her mirror, but she didn’t care. What she needed now was a stiff drink.
+
+
+“How dare he say, ‘Let’s give it our best shot’!”
+
+
+Tae’s “message” from Sohya was the last thing Caroline wanted to hear from someone Japanese. When she was a child, her father, a biologist, had been selected to fly aboard one of the original space shuttles. Entry into the elite corps of astronauts was a rare distinction and a source of tremendous pride for her father. But he was bumped from the crew just before his flight—by a Japanese astronaut. NASA was gearing up for its exploration of Mars and was eager to generate income from the shuttle. Japan had no manned spacecraft of its own. The agendas of both countries dovetailed.
+
+
+Caroline’s father waited patiently for his next opportunity, but luck was not with him. The transition from the original shuttle to the supershuttle began soon after that, and NASA’s launch schedule was focused on shakedown and testing missions for the new spacecraft. Test pilots were given priority, and in the process of waiting, her father had lost his qualification to fly. A slight arrhythmia, undetected before, had worsened.
+
+
+So he went back to his old job as a university scientist, where he was still making solid research contributions. But Caroline would never forget the night he had taken the call from the chief of the astronaut office, and how old and defeated he had looked afterward. The careers of father and daughter had both been buffeted by powers beyond their reach.
+
+
+“These people bumped my father off the shuttle. Now I have to bow down to them?”
+
+
+As she muttered to herself, she suddenly saw the gleam from a pair of eyes in the beam of her headlights. With a shock of fear, she hit the brake hard. She was doing over ninety. The car instantly went into a spin. She had a brief vision of the landscape spinning around in her headlights before she was off the highway and flying through the air over a ditch that paralleled the road. By some miracle the Chevy refused to flip over. It came to a halt in the scrub.
+
+
+Caroline looked shakily around her. The highway stretched away into the California wilderness, deserted. There were no cars. She hadn’t hit anything. The Chevy seemed undamaged. She sat in the driver’s seat, shivering and wiping cold sweat from her forehead.
+
+
+When she had collected herself, she looked up to see a number of animals the size of puppies in her headlights. They were standing on their hind legs, staring at her. Prairie dogs.
+
+
+Perhaps they were blinded by the light or just curious. Caroline couldn’t tell. Their calm gazes brought to mind Lambach of all people.
+
+
+Wolf, the Japanese, Caroline and her people—they were all on the same quest.
+
+
+“Come to your senses, girl!” she said out loud.
+
+
+She honked the horn to scatter the prairie dogs, then stamped on the accelerator. The Chevy’s rear wheels whined as they hit the road.
+
+
+
+
+[3]
+
+
+ON AUGUST I, 2030, the United Nations International Court of Justice in The Hague issued a temporary injunction ordering Japan’s government to freeze Tenryu Galaxy Transport’s operations. TGT was operating under the administrative authority of JAXA, Japan’s space agency.
+
+
+The day before, Tae and Sennosuke had departed for Canada, as much to escape the summer heat of Nagoya as to conduct PR for Sixth Continent. Ryuichi was in Taiwan, negotiating expedited delivery of vital microchips. The first person to get word of the injunction was the president of Gotoba Engineering & Construction, during a visit to TGT’s Nagoya headquarters.
+
+
+“So you see, if we could develop an Earth–moon tugboat, it could operate with fuel produced on the moon. That would reduce the mass we have to carry up from Earth by even more.”
+
+
+“He’s right. And taking passengers to the moon would only require one Eve launch vehicle, instead of two.”
+
+
+Shinji and Reika were tag teaming their presentation to Gotoba in one of TGT’s conference rooms. They were an unlikely pair, but when Shinji had come up with the tugboat concept as a way of reducing costs, Reika had seen the potential and jumped on it. Both had been given a fairly free hand by their bosses, which made it easier to coordinate cross-company on ideas like this. All they needed was Gotoba’s buy-in, so Shinji collared Gotoba during his visit to TGT’s Nagoya plant. Reika hurried over from ELE to seize the opportunity.
+
+
+Gotoba was cautious at first but began to warm to the idea. “Well, you two, I think that’s an excellent plan. Of course, you’ll have to figure out how to shoehorn tugboat production into the current manufacturing queue. It’s already tight as a drum.”
+
+
+Gotoba’s wearcom rang. “Excuse me,” he said, and took the call. The exchange was short and he mostly listened, but his expression changed quickly. He hung up and seemed deep in thought. Shinji and Reika sat waiting for his signal to return to the discussion. Instead, Gotoba looked up and said, “The International Court of Justice wants to put Sixth Continent on hold.”
+
+
+“That’s impossible!” said Reika.
+
+
+“This is a serious problem. I’d like to talk to Yaenami and Chairman Toenji. Can you contact them for me?”
+
+
+Reika and Shinji immediately began trying to contact their respective bosses, but both came up empty-handed.
+
+
+“I’m sorry,” said Shinji. “Yaenami is in the middle of a meeting with his chip supplier to see if we can get them to bump Intel and move our order up. I’ll have to deal with this problem until he can tear himself away.”
+
+
+“Same problem,” said Reika. “Our chairman and Ms. Toenji are in the middle of a presentation at the Ottawa City Hotel.”
+
+
+“It can’t be helped, then. The three of us will have to coordinate an immediate response. I don’t think we have time to spare.”
+
+
+Shinji and Reika nodded. Gotoba forwarded the documents he’d received to their wearcoms. For the next few minutes, they read through the documents carefully.
+
+
+Finally Gotoba said, “According to this, the plaintiff is the U.S. government. Japan is the defendant. The basis for the complaint is the Moon Treaty, specifically the clause that prohibits exploitation of the moon for commercial purposes. There are a few things here I don’t understand. Ms. Hozumi, do you have any legal background?”
+
+
+“Some.” Reika immediately began sourcing information on her wearcom. In a few moments, she downloaded data on international laws and treaties, the Court of Justice, and the Agreement Governing the Activities of States on the Moon and Other Celestial Bodies, also known as the Moon Treaty. “I’m ready,” she said.
+
+
+Gotoba smiled. Faster than my legal eagles, he thought. “All right, I have a question. Why is the complaint directed at Japan and not the project partners?”
+
+
+“The International Court of Justice only handles disputes between nations. Also, Article 14 of the Outer Space Treaty of 1967 makes national governments responsible for the activities of private companies in space. Japan’s government is responsible if a Japanese company violates some aspect of the agreement.”
+
+
+“We should’ve followed Ms. Toenji’s suggestion and put a private flag on the moon, instead of a Japanese flag. Maybe we could’ve avoided this.”
+
+
+“Unfortunately, we’re still taking suggestions for Sixth Continent’s logo,” said Reika. The three of them chuckled. Japan’s government had pointedly requested that the nation’s flag be placed on the moon. When the flag was being packed at ELE for launch, Tae had nearly ripped it to pieces in a fit of pique. The story was legend among Sixth Continent insiders.
+
+
+“Hmm…so the target is really us, and the government is named in the complaint as a matter of form. What about the Moon Treaty?”
+
+
+“It’s an international treaty from 1979, prohibiting any commercial exploitation of the moon or other celestial bodies by any government, corporation, or individual. We’re harvesting ice in Eden Crater for the purpose of building a commercial installation. That clearly puts us in violation of the treaty.”
+
+
+“Hey, hold it a second.” Shinji looked at his wearcom. “I’m pretty sure almost nobody, maybe fewer than ten countries, signed that treaty. Let’s see…America…Japan…Yes, neither one signed it.”
+
+
+“Now I remember,” said Gotoba. “We looked into this when we started the design process. Any kind of construction activity involves getting dozens of permits approved, or you can’t proceed. But Japan never signed the Moon Treaty. We decided it wasn’t an issue.”
+
+
+“I’m afraid that was a hasty judgment,” said Reika. “Laws concerning outer space are based on treaties and customary law. Customary law can be very tricky. International customary law is based on the concept that a customary practice becomes law if it continues long enough, even if the practice belongs to a culture without a well-developed legal system. The Moon Treaty itself can be considered as having the nature of customary law. Nations that never even signed the treaty may have a responsibility to abide by it.”
+
+
+“So customary law would make it illegal to drain the Pacific Ocean? Not that there’s actually a law against it,” said Shinji.
+
+
+“Basically, yes.”
+
+
+“So the court is saying the treaty applies to Japan,” said Gotoba.
+
+
+“What happens if we just ignore the injunction?”
+
+
+“The International Court of Justice has no enforcement capacity, so we don’t need to worry about being arrested. But…under Article 94 of the UN charter, if we ignore the injunction, the plaintiff can take the matter to the UN Security Council.”
+
+
+“The Security Council?” Gotoba looked appalled.
+
+
+Shinji gulped. “Would they send peacekeeping troops?”
+
+
+“No, of course not,” said Reika. “They might threaten to, but that’s all. But it would still be terrible for our corporate image.”
+
+
+“Well, we can’t have that.” Gotoba folded his arms.
+
+
+“Mr. Gotoba, we still have some options,” said Reika. “The court’s injunction is temporary. We can recover from this.”
+
+
+“Yes, I’d forgotten that.” Gotoba breathed a bit easier. “All right, I think I have the picture. We can’t ignore this, but it’s not insoluble. Our three companies should mount a counterresponse. I’d like to leave the details to the experts. Who’s going to take this on?”
+
+
+“ELE’s legal team will handle this,” said Reika. “If we need support, we’ll call on Gotoba’s legal department for help.”
+
+
+“Our opponents are the court and the U.S. government, but the Japanese government is going to put pressure on us not to embarrass them.”
+
+
+“Mr. Gotoba, can we look to you to handle them?”
+
+
+“Leave it to me. I hope I’ll be able to call on your chairman’s influence.”
+
+
+“Of course.”
+
+
+“Well, there you are. Let’s make sure they know we’re not going to roll over for NASA.”
+
+
+The space tugboat discussion was shelved for the moment. Everyone stood up hastily. Shinji still seemed worried. “Why is America bringing this complaint anyway? We just gave NASA some assistance last month.”
+
+
+“The Americans do things by the book,” said Gotoba. “They won’t admit any linkage there.”
+
+
+“I don’t know…It just doesn’t sound like NASA to me.” Shinji stood shaking his head as he watched them go.
+
+
+
+
+
+
+ELE, GOTOBA, AND TGT, not the Japanese government, were the real force behind construction on the moon. ELE’s senior counsel formed a defense team and took up the challenge of contesting the International Court’s ruling.
+
+
+The team’s first move was to challenge the basis for the injunction, since neither plaintiff nor defendant were signatories to the Moon Treaty. But this move was rejected by the court, which ruled that the treaty had universal application, just as humanitarian law applied to all nations.
+
+
+Sixth Continent objected to this ruling on the basis of intertemporal law, which requires that juridical facts be evaluated in light of laws in force at the time. The Moon Treaty did not anticipate that one day corporations might build facilities on the moon for the benefit of all humanity. Its restrictions were out of date. But Sixth Continent’s plan to charge huge fees for travel to the moon was seized on by the court as demonstrating that the base was hardly intended for humanity’s benefit.
+
+
+The defense team next tried to challenge America’s qualifications for bringing a complaint against Japan. They cited Section 11.3 of the Moon Treaty, which states: “Neither the surface nor the subsurface of the moon, nor any natural resources in place, shall become the property of any State, non-governmental entity or person.” NASA was, after all, harvesting surface ice. Why couldn’t Sixth Continent do the same?
+
+
+The court rejected this move like all the others, citing Section 6.2 of the treaty, which states, “the States Parties shall have the right to collect on and remove from the moon samples of its mineral and other substances. Such samples shall remain at the disposal of those States Parties which caused them to be collected and may be used by them for scientific purposes.” Since NASA planned to use Liberty Island as a base to explore Mars and other planets, their installation was obviously scientific.
+
+
+The legal headwinds were stiff. The United States seemed to be pulling out all the stops to support their complaint with a formidable combination of lawyers, documentation, and funding. There was no indication that the Americans were actually attempting to bribe the court’s fifteen judges. But they were obviously aiming for an early victory and were using every means available to put pressure on the court. The judges took less than a month to consider and dispose of every argument Sixth Continent mounted.
+
+
+Public opinion was split in favor of Sixth Continent, but nearly everyone thought the Americans would ultimately prevail. The heads of Gotoba Engineering and ELE used their connections to obtain a reasonable level of support from Japan’s government. But diplomacy was one thing, courtroom argument another. When it came to the actual legal battle, there was little chance that Sixth Continent could prevail against the United States, which saw everything in terms of cold logic.
+
+
+Ryuichi Yaenami was not foolhardy enough to waste time and energy helping fight a battle outside his area of competence. Adam 5 successfully delivered its mysterious payload to the lunar surface. But whatever it was, it was not scheduled to go into operation until a month after it reached the moon. Furthermore, Sixth Continent would not reveal its purpose. TGT’s refusal to supply details fanned speculation that Adam 5 might have blown up before reaching the moon. Reporters descended on Ryuichi for comment. Once again his character was on display, even in his silence. All he did was repeat, “No comment,” without hinting why. This steadfastness earned him praise in some quarters, but overall, criticism of TGT only grew stronger.
+
+
+The life force of Sixth Continent was like a candle in a gale.
+
+
+
+
+
+
+THE BAROMETER IN the Liberty Island Unmanned Operations Support Room was dropping.
+
+
+At the eye of the storm sat Caroline Cadbury, on a chair in a corner of the room, looking fixedly downward. Her exact expression was concealed behind her sunglasses, but she’d already bitten the heads off the last eight members of her team who’d been foolhardy enough to try to speak to her. The ninth was quietly taping a sign to the wall behind her as a warning to others:
+
+
+HURRICANE CAROLINE
+
+
+FORCE 12 WINDS
+
+
+Indeed, Caroline’s mind was a swirling vortex of conflicting thoughts.
+
+
+Sixth Continent was about to have its oxygen supply cut off. Caroline was struggling with the same doubts that had assailed Shinji: strangling Sixth Continent suited senior politicians in the U.S. government, but it was not something Caroline or her team would have wanted. Still, with NASA’s rivals seemingly about to retire from the field, she should’ve been feeling elated. But her personal “right stuff” was having major problems with the situation.
+
+
+What was it, ultimately, that was essential to face that hostile environment known simply as “space”? Undermining rivals with legal maneuvers couldn’t possibly be part of it. America’s early space program was indeed driven by competition with the Russians. But even at the height of the space race, the men who led the charge—the seven legendary Mercury astronauts—simply wanted to fly. The competition was nowhere on their radar screen.
+
+
+Should NASA actually take steps to banish its opponents from the field? Or should it proceed as if they did not exist?
+
+
+“Oh, of all the…What am I going to do?”
+
+
+Just then her wearcom display lit up: incoming call. At first she ignored it, but then she noticed the caller ID: SOHYA AOMINE, ACTIVE TASK FORCE CHIEF, GOTOBA E&C.
+
+
+“Sohya…?” After a moment, she had it: this was the Sixth Continent engineer who had sent her words of encouragement. Almost despite herself, she took the call.
+
+
+“This is Cadbury.”
+
+
+“It’s Sohya Aomine.”
+
+
+He appeared on the display: an Asian man with black hair and a placid, youthful face. Japanese, like the people who had destroyed her father’s dream! Giving in to her emotions, Caroline answered tartly, “What do you want?”
+
+
+“My boss has asked me to negotiate something with you.”
+
+
+Negotiate?”
+
+
+“Yes. Sixth Continent needs NASA’s help.”
+
+
+“Wonderful. We’re rivals, you know. You’re asking me to help you?”
+
+
+“Hear me out and I’m confident you will.” Sohya’s voice was calm and soothing. Why are these people always so damn difficult to deal with? thought Caroline. How can I yell at someone who talks this way?
+
+
+“So what is it you want to negotiate?”
+
+
+Sohya began explaining. After several minutes, Caroline leapt to her feet. Her chair fell over with a crash. The team looked at her, braced for the worst. She broke her silence with a shout.
+
+
+“What? Sixth Continent is equipped for that? Well, so what? That doesn’t offer us much…You’re joking! You’re willing to give us TROPHY?”
+
+
+Craig came half out of his chair at the mention of TGT’s engine.
+
+
+This timid-looking controller, whose wearcom was integrated into his Coke-bottle glasses, was a Boeing-trained rocket engineer with a consuming interest in TROPHY technology.
+
+
+“Carol! What was that about TROPHY?”
+
+
+“Hold on, Craig.” Lambach put a large hand on Craig’s shoulder and gently pushed him back into his chair. Caroline kept talking feverishly into her sunglasses.
+
+
+“Yes, I get it. That gives us a way to move. My boss? Don’t worry, I’ll convince him. He was a Rockwell test pilot. He was in line to fly one of the shuttles. Offer him a chance to fly on Apple, like TGT’s president. Yes, I’m sure he’ll approve…Yes, leave it to me!”
+
+
+Caroline reached up a finger and rang off, then took off her sunglasses. Her sky blue eyes were shining. “Get me Ringstone!”
+
+
+“Carol, what’s going on?” said Lambach.
+
+
+“We’re going to help Sixth Continent!” Lambach picked up the phone. Caroline jerked it away and impatiently hit the call button. Craig stared at her, mystified.
+
+
+“I thought you weren’t a big fan of the Japanese,” he said. “And what was that about TROPHY?”
+
+
+“I’m willing to convert if we can get that technology. Even if we can’t…Hello? This is Cadbury at JPL. I need to speak to Ringstone—now.”
+
+
+Craig watched his boss and shook his head. “Is she on something?”
+
+
+“Your guess is as good as mine.” Lambach shrugged. “Hurricanes go where they have to.”
+
+
+
+
+
+
+IN THE HAGUE, final arguments regarding the Sixth Continent injunction were under way in the spacious courtroom of the International Court of Justice. Throughout the process, the superiority of the American position had been obvious. Special Assistant to the President Jim Lord, representing the United States, sat on the plaintiff’s side of the room, wearing a confident smile.
+
+
+The fifteen judges were drawn from as many countries. The chief justice of the court was an Australian jurist named Melville. She looked out over the courtroom and said in ringing tones, “We shall now hear final arguments from the defendant. Richard Ringstone, please take your place on the witness stand.”
+
+
+Commotion rose in the gallery and the plaintiff’s section of the courtroom. Lord’s mouth opened in surprise—Ringstone, NASA’s administrator, was the last person he’d expected to see as a witness for Japan.
+
+
+Ringstone was sworn in and sat down. Melville said, “The Court has been advised that you are here to present newly ascertained facts of relevance in this matter. What are those facts?”
+
+
+“Sixth Continent is a scientific installation,” said Ringstone.
+
+
+“A scientific installation?” Lord said.
+
+
+“That’s right, Mr. Lord. Sixth Continent incorporates a SETI module. The module is already in operation. It was carried to the moon a month ago, on the last launch before the injunction was delivered.”
+
+
+“Utter nonsense. The defendant is obviously clutching at straws,” Lord said to Melville.
+
+
+“It’s not nonsense. I was alerted to this by my subordinate at JPL. I personally investigated the module they are using. I can confirm that it is indeed an apparatus for detecting intelligent signals from deep space. Sixth Continent is a scientific facility. As such, Section 6.2 of the Moon Treaty applies to its activities, as it does to NASA’s activities at Liberty Island. Sixth Continent has a right to make use of the moon’s resources.”
+
+
+“Why are you here, Mr. Ringstone?” Lord was beginning to lose his temper. “What are you doing testifying against the interests of your own country? I would expect you, as NASA administrator, to adopt a rather different yardstick of behavior!”
+
+
+Melville broke in. “Mr. Lord, this is not a forum for debating where the interests of the United States lie.”
+
+
+Lord grudgingly fell silent. Ringstone continued in a firm tone. “Maybe it is time to consider the interests of the United States of America. We need a competitor. With a strong opponent, we show what we’re really capable of. I believe Sixth Continent is the best opponent we could ask for. Yet at the same time, we at NASA don’t see ourselves in competition with anyone. We act on behalf of humanity, to look far into space, to touch the stars. We don’t play political games to achieve our objectives.” So saying, Ringstone gave one of his trademark bows and stepped down.
+
+
+The sound of applause rose like a wave—from the Americans in the gallery. Ringstone’s testimony had struck home. Lord’s pale complexion turned a deep shade of scarlet.
+
+
+“Madame Justice, I wish to address the court.”
+
+
+“Proceed.”
+
+
+“I’ve tried to restrain myself from pointing this out to the court, but I can no longer continue to do so. I wish to draw your attention to the manipulation of this process by the government of Japan. Japan is ultimately responsible for the activities of Sixth Continent. They’ve even planted their national flag on the base. They refuse to exercise control over Sixth Continent’s operations, yet they skillfully conspired to bring a representative of NASA here to testify in support of their position. I find this truly deplorable. I would like the court to affirm that Japan bears full responsibility for Sixth Continent’s actions!”
+
+
+The justices looked uneasy. Lord was reopening an issue that had already more or less been settled. Until now, the Americans had consistently taken the position that the Japanese government was only nominally overseeing Sixth Continent. In effect, Lord was asking the court to take the entire process back to square one.
+
+
+“Madame Justice, may I speak?” Tae Toenji raised her hand. She had traveled to the Netherlands to be present on this final day of arguments. Since she was funding the project, she was seated with the defense team. Melville nodded.
+
+
+Tae rose to her feet. “Madame Justice, would it be possible to bring Sixth Continent’s home page onto the courtroom monitor?”
+
+
+“Yes, I believe so,” said Melville and motioned to the clerk of the court. “Would you please?”
+
+
+The clerk opened a browser on the courtroom monitor. Tae gave him the address, and in a moment Sixth Continent’s home page came up. The home page had a real-time webcam feed from the multidozers. Japan’s rising sun flag was planted in the regolith, a crossbar on the pole holding it taut. Tae asked the clerk to freeze the image.
+
+
+“Enhance, please.” The clerk zoomed in on the flag. Tae murmured sadly, “I hate to say this, but I have no choice…All right, you can stop there.”
+
+
+The image of a red circle on a white ground filled the screen. Everyone in the courtroom craned forward to get a better look. Jutting from the top of the sun disk was a tiny, curved stem.
+
+
+“This is the flag of Eden, not Japan. It’s a red apple on a white field.”
+
+
+A hush fell. Tae’s voice rang through the courtroom.
+
+
+“All the equipment and facilities of Sixth Continent are the personal property of me and my grandfather, Sennosuke. We are not associated with Japan’s government, either in name or in fact. I was unwilling to have the national flag represent my Eden, so before it was taken to the moon, I modified it. That, Madame Justice, is an apple.”
+
+
+“This…this is sophistry…” Lord stammered.
+
+
+“Is it, Mr. Lord? How many of your arguments so far, as well as ours, have been anything but rhetoric? Let’s drop this pointless war of words. Don’t you think the best way to conclude this process—for both of us—would be for the justices to rule on this matter now?” She smiled, the smile that had charmed the world. Lord’s mouth was moving, but no words came out.
+
+
+Melville announced, “This concludes final arguments. The court will recess for thirty minutes. We will then hand down our verdict!”
+
+
+The room began to buzz. Journalists jumped up and ran outside. In the gallery, Sohya looked over at Caroline.
+
+
+“I smell an upset win. I have to say, Ringstone’s speech was great. I can’t believe you convinced him to do it.”
+
+
+“He’s fifty-five, but he says he still wants a chance to go into space,” said Caroline. “With TROPHY technology, we can develop our own scramjet and build a low-G lift vehicle that can take people with arrhythmia like Ringstone into space. That’s all I had to tell him. Of course, we won’t disclose the TROPHY deal till this whole issue blows over.” She looked over at Tae, who was congratulating the members of the defense team. “Impeccable timing, getting the SETI module up when you did. That girl is really something. I’m impressed.”
+
+
+“That’s a compliment, especially coming from you.”
+
+
+“But it doesn’t mean we’re buddies.” Caroline stood up. She looked down at Sohya defiantly. “Ringstone meant what he said. NASA doesn’t have rivals. We’re pioneers. That’s what we’ve always been and always will be. Today is special, and we’re here together. After today, I wish you the best of luck.
+
+
+You’ll need it.”
+
+
+“Thanks for that. We know you won’t slow down just for us,” said Sohya. He stood up and folded his arms across his chest with a smile. Caroline answered with a smile of her own and made no attempt to shake his hand. She spun on her heel and strode briskly out of the courtroom.
+
+
+
+
+
+
+THE TELEVISION IN Ryuichi’s office was an old flat-screen monitor from the beginning of the century. When he saw the news flash at the top of the screen—sixth continent vindicated—he sat back on the sofa and clapped.
+
+
+“Shinji, we won! The verdict was unanimous!”
+
+
+“Yes, yes, I know.” Shinji was sitting opposite Ryuichi, slurping instant noodles out of a Styrofoam container and tapping away on a laptop. He nodded knowingly. “Aomine told me already. Anyway, I’m the one who ordered their SETI module. I can’t believe Tae had the foresight to realize we’d need it.”
+
+
+“Are you sure she launched that module just to create a legal trapdoor?”
+
+
+“That must’ve been part of it. Anyway, I’ve never pretended to understand what she’s thinking. Even Aomine gets jerked around by her. A SETI module on the moon is a cool idea though.”
+
+
+“You think so?”
+
+
+“Why not? I mean, it can’t fail. No one can prove it’s a waste of time as long as there’s no deadline.”
+
+
+Ryuichi snorted with amusement and peered at the laptop. Shinji had been working away at it all morning. “So what’s cooking?”
+
+
+Shinji turned the computer around so Ryuichi could see the screen. He finished the noodles in one titanic slurp. “Faifan fen,” he said with his mouth full.
+
+
+“Don’t talk with your mouth full,” said Ryuichi.
+
+
+“Fokay…Ah, it’s a proposal to modify the Titan X.”
+
+
+“Titan? That’s one of theirs. It’s based on an old ICBM design. Why modify it?”
+
+
+“Since they’re getting the plans for TROPHY, they might not need the last few Titans they have on order. I ran the concept past Ringstone before he left for the Netherlands. He sounded interested.”
+
+
+“What’s the concept?” said Ryuichi.
+
+
+“As configured, Titan X can put forty tons into low earth orbit. With a few modifications, it looks like we could use the third stage as a space tug. All we’d need to do is swap in a power plant with a longer service life. If we can include a few of these in the barter deal for TROPHY, it’d make things a lot easier going forward.”
+
+
+“Wow, that definitely sounds like a plan.” Shinji had Ryuichi’s full attention now.
+
+
+“Yes, it’s perfect. The tug will only be used between Earth and the moon, and it’ll really expand the range of things we can do in space. Whatever the payload, all we have to do to get it to the moon is just take it outside Earth’s atmosphere. We can park things in LEO and stop worrying about the best launch window. All pros, no cons.”
+
+
+“All pros, no cons…” Ryuichi said in a faraway voice. Shinji looked up. Ryuichi had spread both arms across the back of the sofa. He was staring at the ceiling.
+
+
+“Everything these days feels like a dream.”
+
+
+“How so?” Shinji was mystified.
+
+
+“Launching rockets to the moon like it was routine. I went up myself. To top it off, I’ve got NASA eating out of my hand. Remember that time you and I first met, in that beer place in Kanda? I never, ever thought we’d come this far.”
+
+
+“Me neither.”
+
+
+“I’m almost worried. It’s like things are going too well.”
+
+
+“That doesn’t sound like the Yaenami I know,” chuckled Shinji. Ryuichi leaned across the table and looked at the waiflike face of his resident genius.
+
+
+“It’s all your doing. You deserve a bonus. What do you want?”
+
+
+“I don’t know. Okay, I’d like to go up too. LEO is fine.”
+
+
+“Is that all? In another fifteen years it’ll only cost you a month’s salary.”
+
+
+“A trip into orbit is more than enough. I want to see a TROPHY rocket coming up toward me. If I wait fifteen years, we’ll probably be using a totally new engine.”
+
+
+“I get it.” Ryuichi nodded. “You want to watch your carefully raised child fly from every angle.”
+
+
+“From low orbit I’ll be able to see everything from liftoff to second-stage separation.”
+
+
+“Great, I’ll make sure it happens.” Ryuichi reached across the table and clapped Shinji on both shoulders. “Speaking of new engines to take us to the moon, shouldn’t you be working on that? I’m counting on you!”
+
+
+“I’d actually rather design something to take us to another planet.”
+
+
+“What a genius!” Ryuichi clapped his shoulders again and again.
+
+
+“Hey, give me a break!” Shinji laughed.

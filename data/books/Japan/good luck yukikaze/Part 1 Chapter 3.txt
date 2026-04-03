@@ -1,0 +1,55 @@
+3
+
+
+YUKIKAZE WAS LEAVING for her sortie right on schedule. She was stored with her vertical stabilizers folded down against her horizontal ones. Riding the elevator up from the underground hangar to the surface, she activated her engines and raised her tail stabilizers to their vertical position. As they rose into place, it seemed as if life were
+
+
+being breathed into the plane’s body. Inside of Yukikaze’s cockpit, Major Booker looked behind him to make a visual check of the stabilizers’ condition.
+Unlike the other planes of SAF 5th Squadron, there was no wind fairy mascot design painted on the side. This wasn’t a Super Sylph, after all, so the image of a mythical sylphid would have been inappropriate. This model of tactical electronic reconnaissance ﬁghter plane had no oﬃcial
+nickname yet. Even so, it was still the best ﬁghter in the FAF. For now it was known simply as the FRX00. Only its personal name has been decided, and that was chosen by the plane herself, the major thought.
+Yukikaze. Just like the old Yukikaze, the name had been hand-painted beneath the cockpit in small Japanese characters by Major Booker as Rei looked on.
+The outer side of the tail bore the Boomerang squadron logo in dark gray. Below it were small letters spelling out SAFV, indicating the plane was attached to Special Air Force 5th Squadron.
+Her squadron number was 05013, and her serial number painted along the length of the airframe was 96065. Aside from those, she bore no other markings.
+From the cockpit, Major Booker spied Rei, ﬂanked by a couple of attending nurses, near the entrance of an SAF ground area personnel elevator. He then stepped on the toe brake and pushed the throttle forward.
+The twin high-output engines, high eﬃciency series 5000 improved Super Phoenix Mk.-XIs, roared with power. The shrill shriek from the air intakes and the explosive roar of the exhaust ﬁlled the air. He could see from the cockpit that Rei showed no interest whatsoever in the loud noises. No, wait. He couldn’t be sure from this distance, but the major thought he could see Rei tilting his ears toward it. He wanted to think that, anyway. Still, if he kept his mind on Rei, Yukikaze was never going to ﬂy. He had a careful
+
+
+preﬂight check to complete, so he slid the throttle back to IDLE.
+There was no need to check the ejection seat and canopy systems, since Yukikaze was going to be ﬂying the mission unmanned, but the major gave them a quick check all the same. Just like a pilot taking her out on a training mission.
+Even when she didn’t ﬂy, she was inspected every day like all the other planes. He’d set up a duty rotation that ensured that every pilot did it, but today, Major Booker was personally performing Yukikaze’s daily inspection.
+He reached out to the computer address panel to run the self-test program. He ﬂipped the master test selector to run the onboard checks. The auto-throttle, Automatic Landing System (ALS), and Air Data Computer (ADC) started their self-tests.
+Unlike the Super Sylph, the FRX00 had only three ADCs instead of ﬁve. To be more precise, it had only two. Two of them acted as auxiliary systems, whereas the main air data computer was now integrated with the plane’s central computer. In a Super Sylph, the central computer and central air data computer were decoupled, connected only indirectly, but the FRX00 was built so that the central computer controlled the airframe directly. This design had been carried over from the original unmanned designs of the FRX99.
+Without an ADC controlling each control surface, a plane designed for negative static stability couldn’t maintain equilibrium for even an instant. That held true for unmanned planes, so they carried auxiliary ADCs as well. The unmanned version had only one. If the central computer was completely destroyed, that’d be it for the plane, but the auxiliary system was designed for the possibility of a fault occurring for which the ADC could compensate. However, the FRX00 was a manned plane capable of being ﬂown by
+
+
+the pilot even if the central computer failed, and so it had been built with two independent ADCs. They had all sorts of self-monitoring functions, so even if the central computer systems were dead, the plane could still ﬂy.
+But in the end, it was the central computer that actually ﬂew the FRX00. The ADC was simply a backup subsystem for the MADC in the central computer.
+Major Booker manually fed mock signals into the ADC and throttle control, looking for any abnormalities.
+All clear.
+As the self-tests carried out by Yukikaze’s central computer—which could be called Yukikaze herself—agreed with Major Booker’s tests, checklist items on the display panel vanished one by one. MADC, ADC1, ADC2, ALS, AFCS, and so on.
+The readout for the AICS, or Air Intake Control System, stayed lit. The only way to check that was to manually run the test program.
+The AICS optimized the amount of air taken into the engines for maximum eﬃciency. When ﬂying supersonic, the engine air intakes generated a variety of shock waves. In order to stabilize them, the intake ports contained movable ramps. As the plane transitioned from low speed to subsonic, transonic, and supersonic speeds, these ramps deployed in the intake ports to control the rate of air ﬂow and the resulting shock waves. Their position was determined by the aircraft’s rate of speed. In simple terms, it was programmed to make a constant change in proportion to air speed, not perform complex control actions due to altitude like the MADC. For that reason, the central computer didn’t control them directly, relieving it of the burden.
+Even in the event of AICS failure, ﬂight was still possible. Since its program was a simple function of speed, it was very reliable. If any failures were going to occur, it’d be in
+
+
+the hydraulic actuators that moved the ramps. Since it was a simple mechanical system, it didn’t have an advanced monitoring system hooked up to the central computer. Parts like that require a more careful preﬂight check, the major thought as he conﬁrmed the AICS program results.
+All aircraft checks were now complete. All that was left was to set the master arm switch for the weapon stores. Those consisted of a gun, eight medium-range missiles, and eight short-range missiles. The air-to-air missiles’ safeties had already been released by the ground crew. Major Booker called up Yukikaze’s central computer to conﬁrm her mission once more.
+He set the communications system to auto, then called SAF headquarters using a headset mic. STC, the tactical computer in HQ, linked up to Yukikaze’s central computer. Major Booker reissued the orders into the mic to conﬁrm the mission. STC translated his request for Yukikaze.
+Mission number, takeoﬀ time, return essentials, IDs for units participating in the operation, recon essentials, navigation support, armament restrictions, weather, and mission airspace… On and on and on. Yukikaze hadn’t looked particularly happy when he programmed the data into her before, which was a strange thought as she had no way to make any expressions. Still, from the way she displayed the conﬁrmations, it felt to Major Booker like she was telling him to hurry up and let her take oﬀ. Items scrolled down one after another, too fast for him to read.
+“Okay, Yukikaze. You can take oﬀ once I’m out of here.” Weapons master arm switch set to ON. The onboard
+arms display came on. All weapons were free to use. Yanking the headset cord from its onboard jack, the major climbed down from Yukikaze’s cockpit. Once on the ground, he plugged it back in to a jack on her body and informed the tactical computer back in HQ that all of Yukikaze’s preﬂight checks had been completed.
+
+
+Faery base’s runway control computer issued the order for Yukikaze to take oﬀ. He could tell this from the sudden increase of noise from the engines. He pulled the headset’s pin from the jack, a small panel door closing over it. The canopy automatically lowered and locked.
+Major Booker quickly moved away from Yukikaze, running back to where Rei sat. When he turned back, panting, Yukikaze had already moved out onto the taxiway.
+“Look, Rei,” the major said. “You should be riding in there. Yukikaze’s taking oﬀ without you. Doesn’t that bother you?”
+The noise of the engine was distant. Yukikaze looked small on the end of the runway. Then, just as soon as you’d noticed that the engine roar had increased, she was tearing savagely down the runway.
+She trembled like a wild animal showing its antipathy for being grounded. Then, as if thrusting her rage at the earth beneath her, suddenly she was in the air. Quickly retracting her landing gear, Yukikaze initiated a combat climb.
+Major Booker had seen all of this. It was summer at Faery base, with thick clouds hanging overhead. Yukikaze vanished into the cloudbank, leaving only the roar of her mighty engines echoing into the sky.
+“Major? Major Booker?”
+One of the nurses was calling him. When he turned, Rei’s eyes were open, but his gaze was not in the direction of Yukikaze.
+He knows, Major Booker thought ﬁercely. Rei knows. Once the sound of Yukikaze’s engines had faded, Rei closed his eyes again. But this was a good sign. The major was sure of it.
+“We’re going down. To the command center,” he said. “Come on, Rei. Let’s see how Yukikaze ﬁghts.”
+
+
+Major Booker indicated to the nurses to follow, and together with Rei he descended back underground, headed for the SAF command center where Yukikaze’s ﬂight status was being monitored.

@@ -1,0 +1,218 @@
+CHAPTER TWO - Intruder
+
+
+ By the year 2130, the Mars-based radars were discovering
+new asteroids at the rate of a dozen a day. The SPACE-
+GUARD computers automatically calculated their orbits,
+and stored away the information in their enormous mem-
+ories, so that every few months any interested astronomer
+could have a look at the accumulated statistics. These
+were now quite impressive.
+
+
+ It had taken more than a hundred and twenty years to
+collect the first thousand asteroids, since the discovery of
+Ceres, largest of these tiny worlds, on the very first day of
+the nineteenth century. Hundreds had been found and
+lost and found again; they existed in such swarms that
+one exasperated astronomer had christened them 'vermin
+of the skies'. He would have been appalled to know that
+SPACEGUARD was now keeping track of half a million.
+  
+  Only the five giants - Ceres, Pallas, Juno, Eunomia and
+Vesta - were more than two hundred kilometres in dia-
+meter; the vast majority were merely oversized boulders
+that would fit into a small park. Almost all moved in
+orbits that lay beyond Mars; only the few that came far
+enough sunwards to be a possible danger to Earth were
+the concern of SPACEGUARD. And not one in a thousand of
+these, during the entire future history of the solar system,
+would pass within a million kilometres of Earth.
+ 
+ The object first catalogued as 31/439, according to the
+year and the order of its discovery, was detected while
+still outside the orbit of Jupiter. There was nothing un-
+usual about its location; many asteroids went beyond
+Saturn before turning once more towards their distant
+master, the sun. And Thule II, most far-ranging of all,
+travelled so close to Uranus that it might well have been
+a lost moon of that planet.
+ 
+ But a first radar contact at such a distance was un-
+precedented; clearly, 31/439 must be of exceptional size.
+From the strength of the echo, the computers deduced a
+diameter of at least forty kilometres; such a giant had not
+- been discovered for a hundred years. That it had been
+overlooked for so long seemed incredible.
+
+
+ Then the orbit was calculated, and the mystery was
+resolved - to be replaced by a greater one. 31/439 was not
+travelling on a normal asteroidal path, along an ellipse
+which it retraced with clockwork precision every few
+years. It was a lonely wanderer between the stars, making
+its first and last visit to the solar system - for it was mov-
+ing so swiftly that the gravitational field of the sun could
+never capture it. It would flash inwards past the orbits of
+Jupiter, Mars, Earth, Venus and Mercury, gaining speed -
+as it did so, until it rounded the sun and headed out once
+again into the unknown.
+
+
+ It was at this point that the computers started flashing
+their 'Hi there! We have something interesting' sign,
+and for the first time 31/439 came to the attention of
+human beings. There was a brief flurry of excitement at
+SPACEGUARD Headquarters, and the interstellar vagabond
+was quickly dignified by a name instead of a mere num-
+ber. Long ago, the astronomers had exhausted Greek and
+Roman mythology; now they were working through
+the Hindu pantheon. And so 31/439 was christened
+Rama.
+
+
+ For a few days, the news media made a fuss of the
+visitor, but they were badly handicapped by the sparsity
+of information. Only two facts were known about Rama
+- its unusual orbit, and its approximate size. Even this
+was merely an educated guess, based upon the strength of
+the radar echo. Through the telescope, Rama still ap-
+peared as a faint, fifteenth magnitude star - much too
+small to show a visible disc But as it plunged in towards
+the heart of the solar system, it would grow brighter and
+larger, month by month; before it vanished for ever, the
+orbiting observatories would be able to gather more pre-
+cise information about its shape and size. There was
+plenty of time, and perhaps during the next 'few years
+some spaceship on its ordinary business might be routed
+close enough to get good photographs. An actual rendez-
+vous was most unlikely; the energy cost would be far too
+great to permit physical contact with an object cutting
+across the orbits of the planets at more than a hundred
+thousand kilometres an hour.
+
+
+ So the world soon forgot about Rama; but the as-
+tronomers did not. Their excitement grew with the pass- 
+ing months, as the new asteroid presented them with
+more and more puzzles.
+
+
+ First of all, there was the problem of Rama's light
+curve. it didn't have one.
+
+
+ All known asteroids, without exception, showed a slow
+variation in their brilliance, waxing and waning within a
+period of a few hours. It had been recognized for more
+than two centuries that this was an inevitable result of
+their spin, and their irregular shape. As they toppled end
+over end along their orbits the reflecting surfaces they
+presented to the sun were continually changing, and
+their brightness varied accordingly.
+
+
+ Rama showed no such changes. Either it was not spin-
+ning at all or it was perfectly symmetrical. Both explana-
+tions seemed equally unlikely.
+
+
+ There the matter rested for several months, because
+none of the big orbiting telescopes could be spared from
+their regular job of peering into the remote depths of
+the universe. Space astronomy was an expensive hobby,
+and time on a large instrument could easily cost a thou-
+sand dollars a minute. Dr William Stenton would never
+have been able to grab the Farside two-hundred-metre
+reflector for a full quarter of an hour, if a more impor-
+tant programme had not been temporarily derailed by
+the failure of a fifty cent capacitor. One astronomer's bad
+luck was his good fortune.
+
+
+ Bill Stenton did not know what he had caught until
+the next day, when he was able to get computer time to
+process his results. Even when they were finally flashed on
+his display screen, it took him several minutes to under-
+stand what they meant.
+
+
+ The sunlight reflected from Rama was not, after all,
+absolutely constant in its intensity. There was a very
+small variation - hard to detect, but quite unmistakable,
+and extremely regular. Like all the other asteroids, Rama
+was indeed spinning. But whereas the normal 'day' for an
+asteroid was several hours, Rama's was only four minutes.
+
+
+ Dr Stenton did some quick calculations, and found it
+hard to believe the results. At its equator, this tiny world
+must be spinning at more than a thousand kilometres an
+hour; it would be rather unhealthy to attempt a landing
+anywhere except at the poles. The centrifugal force at
+Rama's equator must be powerful enough to flick any
+loose objects away from it at an acceleration of almost one
+gravity. Rama was a rolling stone that could never have
+gathered any cosmic moss; it was surprising that such a
+body had managed to hold itself together, and- had not
+long ago shattered into a million fragments.
+
+
+ An object forty kilometres across, with a rotation period
+of only four minutes - where did that fit into the astro-
+nomical scheme of things? Dr Stenton was a somewhat
+imaginative man, a little too prone to jump to conclusions.
+He now jumped to one which gave him a very uncom-
+fortable few minutes indeed.
+
+
+ The only specimen of the celestial zoo that fitted this
+description was a collapsed star. Perhaps Rama was a
+dead sun - a madly spinning sphere of neutronium, every
+cubic centimetre weighing billions of tons...
+ 
+ At this point, there flashed briefly through Dr Stenton's
+horrified mind the memory of that timeless classic, H. G.
+Wells's The Star. He had first read it as a very small boy,
+and it had helped to spark his interest in astronomy.
+Across more than two centuries of time, it had lost none
+of its magic and terror. He would never forget the images
+of hurricanes and tidal waves, of cities sliding into the
+sea, as that other visitor from the stars smashed into
+Jupiter and then fell sunwards past the Earth. True, the
+star that old Wells described was not cold, but incandes-
+cent, and wrought much of its destruction by heat. That
+scarcely mattered; even if Rama was a cold body, reflect-
+ing only the light of the sun, it could kill by gravity as
+easily as by fire.
+
+
+ Any stellar mass intruding into the solar system would
+completely distort the orbits of the planets. The Earth
+had only to move a few million kilometres sunwards - or
+starwards - for the delicate balance of climate to be
+destroyed. The Antarctic icecap could melt and flood all
+:low4ying land; or the oceans could freeze and the whole
+world be locked in an eternal winter. Just a nudge in
+either direction would be enough
+
+
+ Then Dr Stenton relaxed and breathed a sigh of relief.
+This was all nonsense; he should be ashamed of himself.
+
+
+ Rama could not possibly be made of condensed matter.
+No star-sized mass could penetrate so deeply into the
+solar system without producing disturbances which
+would have betrayed it long ago. The orbits of all the
+planets would have been affected; that, after all, was how
+Neptune, Pluto and Persephone had been discovered.
+No, it was utterly impossible for an object as massive as a
+dead sun to sneak up unobserved.
+
+
+ In a way, it was a pity. An encounter with a dark star
+would have been quite exciting.
+
+
+ While it lasted...
