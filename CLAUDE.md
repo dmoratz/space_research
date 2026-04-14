@@ -4,16 +4,20 @@
 
 This project analyzes sci-fi book chapters to study how outer space is portrayed.
 Each chapter is read and evaluated against a set of structured research questions
-with predefined answer options. Results are appended to a single CSV file.
+with predefined answer options. Each book gets its own CSV file in `data/results/`.
 
 ## File Layout
 
 ```
 project/
 ├── CLAUDE.md              ← you are here
+├── combine_results.py     ← merges per-book CSVs into one
 ├── data/
 │   ├── questions.json     ← research questions + valid answer options
-│   └── nlp_analysis_results.csv  ← output (appended to, never overwritten)
+│   └── results/           ← one CSV per book (never conflicts on merge)
+│       ├── US_Leviathan_Wakes.csv
+│       ├── US_The_Martian.csv
+│       └── ...
 ├── books/
 │   └── <CountryCode>/
 │       └── <BookTitle>/
@@ -80,7 +84,11 @@ For each chapter file:
 
 ### 4. Output Format
 
-The CSV file (`data/nlp_analysis_results.csv`) uses wide format — one row per chapter:
+Each book gets its own CSV file in `data/results/`, named
+`<CountryCode>_<BookTitle>.csv` (spaces replaced with underscores).
+Create the `data/results/` directory if it doesn't exist.
+
+The CSV uses wide format — one row per chapter:
 
 ```
 country,book,chapter,q1,q2,...,qN,q1_justification,q2_justification,...,qN_justification
@@ -104,6 +112,10 @@ Always write the CSV using a script like this:
 
 ```python
 import csv
+import os
+
+csv_path = f"data/results/{country}_{book_title.replace(' ', '_')}.csv"
+os.makedirs("data/results", exist_ok=True)
 
 fieldnames = ["country", "book", "chapter"]
 for q in questions:
@@ -123,15 +135,11 @@ with open(csv_path, "a", newline="", encoding="utf-8") as f:
 Do NOT write CSV rows by manually joining strings with commas. The `csv`
 module handles quoting fields that contain commas, newlines, or quotes.
 
-When appending, check if the CSV already exists:
-- If it exists: read the header, append the new row (do NOT rewrite the header).
-- If it doesn't exist: write the header first, then the row.
-
 ### 5. Resume Support
 
-Before analyzing a chapter, check if a row with the same (country, book, chapter)
-triple already exists in the CSV. If so, skip it and print a message. This lets
-the user safely re-run after an interruption.
+Before analyzing a chapter, check if a row with the same chapter label
+already exists in this book's CSV. If so, skip it and print a message. This
+lets the user safely re-run after an interruption.
 
 ### 6. After All Chapters
 

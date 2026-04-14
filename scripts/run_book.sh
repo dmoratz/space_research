@@ -58,9 +58,9 @@ PROMPT="Analyze the book \"${BOOK_TITLE}\" (country: ${COUNTRY}).
 
 The chapter files are in: ${CHAPTERS_DIR}
 
-Follow the instructions in CLAUDE.md. Process each chapter file in that directory, answer all questions from data/questions.json, and append results to data/nlp_analysis_results.csv.
+Follow the instructions in CLAUDE.md. Process each chapter file in that directory, answer all questions from data/questions.json, and write results to data/results/${COUNTRY}_${BOOK_TITLE// /_}.csv.
 
-Use resume mode — skip any chapters already recorded in the CSV for this country/book combination."
+Use resume mode — skip any chapters already recorded in the CSV."
 
 # Run Claude Code
 echo "Starting Claude Code..."
