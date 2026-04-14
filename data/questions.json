@@ -1,0 +1,159 @@
+[
+  {
+    "number": 1,
+    "criteria": "is space something to be contested (is there conflict)",
+    "criteria_short": "is space something to be contested",
+    "answer_options": [
+      "No contestation",
+      "Low contestation (minor competition, little open conflict)",
+      "Moderate contestation (ongoing rivalry/disputes)",
+      "High contestation (frequent conflict or strategic struggle)",
+      "Total war / constant conflict",
+      "Other / Unsure"
+    ]
+  },
+  {
+    "number": 2,
+    "criteria": "can you inhabit and hold territory in space",
+    "criteria_short": "can you inhabit and hold territory in space",
+    "answer_options": [
+      "Cannot inhabit or hold territory",
+      "Visiting / Temporary presence only (stations, missions, outposts)",
+      "Limited settlement (small colonies, hard to sustain/control)",
+      "Habitable and governable (permanent settlements can hold territory)",
+      "Extensive territorial occupation (many settled worlds/regions held like states or empires)",
+      "Other / Unsure"
+    ]
+  },
+  {
+    "number": 3,
+    "criteria": "how long is journey / how  far from earth",
+    "criteria_short": "how long is journey / how  far from earth",
+    "answer_options": [
+      "Near-Earth / very short journey",
+      "Short interplanetary journey",
+      "Moderate journey (months/meaningful separation)",
+      "Long-distance journey (years, major separation from Earth)",
+      "Extreme / effectively unreachable (generational, completely separate, or one-way-feeling distance)",
+      "Other / Unsure"
+    ]
+  },
+  {
+    "number": 4,
+    "criteria": "how culturally different is space from earth? (is it basically earth society but in space? or totally different/unique culture?)",
+    "criteria_short": "how culturally different is space from earth?",
+    "answer_options": [
+      "Basically Earth society in space",
+      "Mostly Earth-like with minor adaptations",
+      "Mixed / hybrid culture",
+      "Distinct space culture",
+      "Radically different / alien social order",
+      "Other / Unsure"
+    ]
+  },
+  {
+    "number": 5,
+    "criteria": "do you speak same language on earth vs space (how diff / foreign is it) (is there a different language that everyone speaks, a universal translator? do they speak english)",
+    "criteria_short": "do you speak same language on earth vs space ?",
+    "answer_options": [
+      "Same languages as Earth",
+      "Mostly same, with dialect/slang differences",
+      "Shared lingua franca plus local variation",
+      "Distinct space language(s)",
+      "Translation-mediated communication (universal translator / communication tech makes language difference irrelevant)",
+      "Other / Unsure"
+    ]
+  },
+  {
+    "number": 6,
+    "criteria": "is it hostile (is it hard to survive out there? Not because of other actors, but just because of conditions…e.g, the Martian space is hostile, but there’s no one trying to kill Matt Damon)",
+    "criteria_short": "is it hostile / hard to survive (bc of natural conditions)",
+    "answer_options": [
+      "Benign / easily survivable",
+      "Manageable but risky",
+      "Harsh and resource-intensive",
+      "Extremely hostile (constant survival pressure)",
+      "Nearly uninhabitable / lethal without major intervention",
+      "Other / Unsure"
+    ]
+  },
+  {
+    "number": 7,
+    "criteria": "how common is living in space (e.g. is it 1 person journeying to space, or does everyone live in space)",
+    "criteria_short": "how common is it for humans to live in space",
+    "answer_options": [
+      "Exceptionally rare (few astronauts/explorers)",
+      "Uncommon (small specialist population)",
+      "Moderately common (noticeable settlements/populations)",
+      "Common (many people live/work there)",
+      "Normalized / widespread (space habitation is ordinary for humanity)",
+      "Other / Unsure"
+    ]
+  },
+  {
+    "number": 8,
+    "criteria": "are there different countries in space? Or just one?",
+    "criteria_short": "are there different countries in space? Or just one?",
+    "answer_options": [
+      "No political order / ungoverned",
+      "Single unified authority",
+      "Earth nation-states extend into space",
+      "Multiple distinct space polities",
+      "Highly fragmented political landscape (multipolar with many factions, corporations, colonies, microstates)",
+      "Other / Unsure"
+    ]
+  },
+  {
+    "number": 9,
+    "criteria": "genre of the book (e.g, horror, drama, comedy, fantasy…)",
+    "criteria_short": "genre of the book",
+    "answer_options": [
+      "Adventure / exploration",
+      "Drama",
+      "Political / diplomatic",
+      "Military / war",
+      "Thriller / Horror / Survival",
+      "Comedy / satire",
+      "Other / Unsure"
+    ]
+  },
+  {
+    "number": 10,
+    "criteria": "is space a military or civilian domain / is the book military or civilian?",
+    "criteria_short": "is space a military or civilian domain / is the book military or civilian?",
+    "answer_options": [
+      "Entirely civilian",
+      "Mostly civilian with some military presence",
+      "Mixed civilian-military domain",
+      "Mostly military",
+      "Entirely military / war-focused",
+      "Other / Unsure"
+    ]
+  },
+  {
+    "number": 11,
+    "criteria": "Is space characterized like another domain? (e.g ocean/navies with leaders as admirals, etc.; air/ airforces; or totally unique)",
+    "criteria_short": "Is space characterized like another military domain?",
+    "answer_options": [
+      "Totally unique domain",
+      "Like the ocean / naval",
+      "Like the air / airpower",
+      "Like the frontier / colonial expansion",
+      "Like cyberspace / networked or abstract domain",
+      "Other / Unsure"
+    ]
+  },
+  {
+    "number": 12,
+    "criteria": "how physically different is space from earth?",
+    "criteria_short": "how physically different is space from earth?",
+    "answer_options": [
+      "Almost Earth-like",
+      "Somewhat different (manageable environmental differences)",
+      "Moderately different (regular adaptation needed)",
+      "Very different (human bodies/technology constantly challenged)",
+      "Radically non-Earth-like (physics/environment fundamentally unlike Earth experience)",
+      "Other / Unsure"
+    ]
+  }
+]
