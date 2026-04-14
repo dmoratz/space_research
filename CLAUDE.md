@@ -83,14 +83,45 @@ For each chapter file:
 The CSV file (`data/nlp_analysis_results.csv`) uses wide format — one row per chapter:
 
 ```
-country, book, chapter, q1, q2, ..., qN, q1_justification, q2_justification, ..., qN_justification
+country,book,chapter,q1,q2,...,qN,q1_justification,q2_justification,...,qN_justification
 ```
 
 - `country` — country code provided by the user (e.g., "US", "UK", "JP")
 - `book` — book title provided by the user
-- `chapter` — the chapter file stem (e.g., "ch01", "ch02")
+- `chapter` — a clean chapter label derived from the filename. Strip the file
+  extension, remove the book title if it appears in the filename, and normalize
+  casing. For example, a file named `Chapter 3_ The Martian.txt` should become
+  `Chapter 3`, not `Chapter 3_ The Martian`. A file named `ch03.txt` becomes
+  `ch03`.
 - `q1` through `qN` — the validated answer for each question
 - `q1_justification` through `qN_justification` — the justification text
+
+**CRITICAL: Use Python's `csv` module to write the CSV.** Many answer options
+and justifications contain commas (e.g., "stations, missions, outposts").
+Writing raw comma-separated strings will break the column alignment.
+
+Always write the CSV using a script like this:
+
+```python
+import csv
+
+fieldnames = ["country", "book", "chapter"]
+for q in questions:
+    fieldnames.append(f"q{q['number']}")
+for q in questions:
+    fieldnames.append(f"q{q['number']}_justification")
+
+file_exists = os.path.exists(csv_path) and os.path.getsize(csv_path) > 0
+
+with open(csv_path, "a", newline="", encoding="utf-8") as f:
+    writer = csv.DictWriter(f, fieldnames=fieldnames)
+    if not file_exists:
+        writer.writeheader()
+    writer.writerow(row_dict)
+```
+
+Do NOT write CSV rows by manually joining strings with commas. The `csv`
+module handles quoting fields that contain commas, newlines, or quotes.
 
 When appending, check if the CSV already exists:
 - If it exists: read the header, append the new row (do NOT rewrite the header).
