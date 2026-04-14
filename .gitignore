@@ -11,5 +11,3 @@ __pycache__/
 # API keys
 api/
 
-# Analysis outputs (regenerable)
-data/nlp_analysis_results.csv
