@@ -670,6 +670,7 @@ EXCLUDE_BOOKS = {
     "Roadside Picnic",
     "The Three Body Problem_cleaned",
     "Quantum Thief",
+    "Dune",
     # Too short to split — send to Gemini as-is
     "The Village Schoolteacher by Liu Cixin",
     "The Ouroboros Wave",

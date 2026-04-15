@@ -37,6 +37,7 @@ SPLITTERS = [
     "split_roadside_picnic.py",
     "split_three_body.py",
     "split_quantum_thief.py",
+    "split_dune.py",
 ]
 
 
