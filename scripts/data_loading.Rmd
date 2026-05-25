@@ -1,12 +1,592 @@
 ---
-title: "data_loading"
-output: html_document
+title: "Data Loading: Space Sci-Fi Chapter Codings"
+author: "Donald Moratz"
 date: "2026-05-25"
+output:
+  html_document:
+    toc: true
+    toc_depth: 3
+    number_sections: true
+    df_print: paged
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+```{r setup, include = FALSE}
 
-# Load shared setup
-source("00_setup.R")
+knitr::opts_chunk$set(
+    echo    = TRUE,
+    message = FALSE,
+    warning = FALSE
+)
+
+# Wipe the environment so every knit / run starts from a known state.
+rm(list = ls())
+
+# Load shared setup: packages, paths, constants, helper functions.
+# source.R lives alongside this .Rmd in scripts/.
+source("source.R")
+
+```
+
+
+# Purpose
+
+This script merges the 46 per-book CSVs produced by the Claude-coding
+pipeline into a single tidy dataset suitable for analysis.  The output is
+written both wide (one row per chapter, q1..q12 as columns) and long (one
+row per chapter x question), in both .rds (preserves types) and .csv
+(human-readable) formats, under `data/processed/`.
+
+Decisions encoded here are documented in `PROJECT_TASKS.md` §2.  The major
+ones are:
+
+* **Drop paratext rows** matching `paratext_regex` (front matter, intros,
+  prefaces, forewords, marked essays, afterwords, appendices).  Prologues
+  and epilogues are **kept** as narrative content.
+* **Drop one file**: `US_Enders_Game.csv` is superseded by the newer
+  `US_Human_Split_Enders_Game.csv`.
+* **Override eight book titles** via `book_rename_map` to resolve
+  duplicates (Three-Body Problem, Ender's Game, Hyperion, Hitchhiker's
+  Omnibus) and normalize cosmetic title-case for four Japanese books.
+
+The entire pipeline is small enough to run in a few seconds on a laptop.
+
+---
+
+# Inputs
+
+## Load the research questions
+
+The questions live in `data/questions.json` and define the canonical answer
+options used for validation.  We read them as a list-of-lists (no
+auto-simplification) so that nested `answer_options` arrays survive intact.
+
+```{r load-questions}
+
+questions <- jsonlite::read_json(
+    QUESTIONS_JSON,
+    simplifyVector = FALSE
+)
+
+# Convenience vectors for downstream code.
+question_numbers <- purrr::map_int(questions, "number")
+question_ids     <- paste0("q", question_numbers)
+
+cat("Loaded", length(questions), "questions:\n")
+for (q in questions) {
+    cat(sprintf("  q%-2d  %s\n", q$number, q$criteria_short))
+}
+
+```
+
+
+## Discover per-book CSV files
+
+We list every `.csv` in `data/results/`, then drop any file in
+`file_drop_list` (see §4b of `source.R`).  The remaining files are the
+inputs to the rest of the pipeline.
+
+```{r discover-files}
+
+all_csv_paths <- list.files(
+    RESULTS_DIR,
+    pattern    = "\\.csv$",
+    full.names = TRUE
+)
+
+kept_csv_paths <- all_csv_paths[
+    !basename(all_csv_paths) %in% file_drop_list
+]
+
+dropped_files <- setdiff(basename(all_csv_paths), basename(kept_csv_paths))
+
+cat("Total CSV files in data/results/:", length(all_csv_paths), "\n")
+cat("Dropped via file_drop_list:     ", length(dropped_files),  "\n")
+cat("Files to load:                  ", length(kept_csv_paths), "\n")
+
+if (length(dropped_files) > 0) {
+    cat("\nDropped:\n")
+    cat(paste0("  ", dropped_files, "\n"), sep = "")
+}
+
+```
+
+
+# Load and combine
+
+## Read every per-book CSV
+
+`load_results_csv()` (defined in `source.R`) reads one CSV and attaches
+`source_file` and `file_stem` provenance columns.  All `q*` and
+`q*_justification` columns are coerced to character so that readr doesn't
+silently guess logical/numeric for low-cardinality columns.
+
+```{r read-all-files}
+
+raw_list <- purrr::map(kept_csv_paths, load_results_csv)
+
+# Sanity-check that every file produced a non-empty tibble.
+empty_files <- kept_csv_paths[purrr::map_lgl(raw_list, ~ nrow(.x) == 0)]
+if (length(empty_files) > 0) {
+    warning(
+        "Some CSV files contained no rows: ",
+        paste(basename(empty_files), collapse = ", ")
+    )
+}
+
+cat("Files loaded:        ", length(raw_list), "\n")
+cat("Total rows (raw):    ", sum(purrr::map_int(raw_list, nrow)), "\n")
+
+```
+
+
+## Combine into a single wide tibble
+
+`dplyr::bind_rows()` aligns columns by name.  All per-book CSVs share the
+same schema (`country`, `book`, `chapter`, `q1..q12`, `q1_justification..
+q12_justification`), so the combined frame has no NA columns from schema
+mismatch.
+
+```{r bind-rows}
+
+raw_wide <- dplyr::bind_rows(raw_list)
+
+cat("Combined rows:   ", nrow(raw_wide), "\n")
+cat("Combined columns:", ncol(raw_wide), "\n")
+
+# Quick visual sanity check that the schema is what we expect.
+cat("\nColumn names:\n")
+print(names(raw_wide))
+
+```
+
+
+## Apply book-title overrides
+
+For each row we look up its `file_stem` in `book_rename_map` (see §4c of
+`source.R`).  If the stem is in the map we use the override; otherwise we
+keep the `book` column value from the CSV.  `clean_book_name()` is scalar,
+so we apply it rowwise (it's run on 45 books worth of rows -- still fast).
+
+```{r normalize-book-names}
+
+renamed_wide <- raw_wide %>%
+    dplyr::mutate(
+        book = purrr::map2_chr(file_stem, book, clean_book_name)
+    )
+
+# Show every (file_stem, final book name) pair so reviewers can spot any
+# unintended renames at a glance.
+rename_audit <- renamed_wide %>%
+    dplyr::distinct(file_stem, book) %>%
+    dplyr::arrange(file_stem)
+
+cat("Distinct (file_stem -> book) mappings after rename:\n\n")
+print(rename_audit, n = nrow(rename_audit))
+
+```
+
+
+# Clean
+
+## Drop paratext rows
+
+`drop_paratext()` filters out any row whose `chapter` label starts with
+front_matter / Introduction / Preface / Foreword / "Essay -" / Afterword /
+Appendix (case-insensitive, leading whitespace ignored).  We record before-
+and-after counts per book so we can audit the drop rate in the verification
+section below.
+
+```{r drop-paratext}
+
+pre_counts <- renamed_wide %>%
+    dplyr::count(country, book, name = "rows_before")
+
+clean_wide <- drop_paratext(renamed_wide)
+
+post_counts <- clean_wide %>%
+    dplyr::count(country, book, name = "rows_after")
+
+paratext_summary <- pre_counts %>%
+    dplyr::left_join(post_counts, by = c("country", "book")) %>%
+    dplyr::mutate(
+        rows_after   = tidyr::replace_na(rows_after, 0L),
+        rows_dropped = rows_before - rows_after
+    ) %>%
+    dplyr::arrange(dplyr::desc(rows_dropped), country, book)
+
+cat("Total rows before drop:", nrow(renamed_wide), "\n")
+cat("Total rows after drop: ", nrow(clean_wide),   "\n")
+cat("Rows dropped:          ", nrow(renamed_wide) - nrow(clean_wide), "\n")
+
+```
+
+
+## Derive chapter_position and part_position
+
+`parse_chapter_position()` (see §5b of `source.R`) returns a one-row
+tibble with `part_position` and `chapter_position`.  We map it over every
+chapter label, then `tidyr::unnest_wider()` the two integer columns into
+the main frame.
+
+For verification we also keep a list of any labels the parser failed to
+recognize -- expected to be empty for the current corpus.
+
+```{r parse-chapter-positions}
+
+clean_wide <- clean_wide %>%
+    dplyr::mutate(
+        parsed_pos = purrr::map(chapter, parse_chapter_position)
+    ) %>%
+    tidyr::unnest_wider(parsed_pos)
+
+unparseable_labels <- clean_wide %>%
+    dplyr::filter(is.na(chapter_position)) %>%
+    dplyr::distinct(country, book, chapter) %>%
+    dplyr::arrange(country, book, chapter)
+
+cat("Total chapters parsed:        ", nrow(clean_wide), "\n")
+cat(
+    "Chapter labels with NA position:",
+    nrow(unparseable_labels),
+    sprintf(
+        "(%.1f%%)\n",
+        100 * nrow(unparseable_labels) / nrow(clean_wide)
+    )
+)
+
+if (nrow(unparseable_labels) > 0) {
+    cat("\nDistinct unparseable labels:\n")
+    print(unparseable_labels, n = nrow(unparseable_labels))
+}
+
+```
+
+
+# Validate
+
+## Check every answer against the canonical option list
+
+`validate_answers()` walks `questions.json` and flags any cell whose
+recorded answer is NOT in that question's `answer_options` list.  An empty
+return means every cell is canonical.  This catches typos, off-by-one
+edits, and unintended free-text in the coder output.
+
+```{r validate-answers}
+
+answer_issues <- validate_answers(clean_wide, questions)
+
+cat("Answer-validation mismatches:", nrow(answer_issues), "\n")
+
+if (nrow(answer_issues) > 0) {
+    cat("\nMismatched rows (showing up to 20):\n")
+    print(utils::head(answer_issues, 20))
+} else {
+    cat("All answers match the canonical option lists. \n")
+}
+
+```
+
+
+# Reshape
+
+## Pivot the clean wide frame to long format
+
+For most analyses (computing per-question response distributions,
+intercoder reliability, regressions over question-level outcomes) it is
+easier to work with one row per chapter x question.  `pivot_to_long()`
+also joins `criteria_short` from `questions.json` so plots can label
+panels by the human-readable question text.
+
+```{r pivot-long}
+
+clean_long <- pivot_to_long(clean_wide, questions)
+
+cat("Wide frame:", nrow(clean_wide), "rows x", ncol(clean_wide), "cols\n")
+cat("Long frame:", nrow(clean_long), "rows x", ncol(clean_long), "cols\n")
+cat(
+    "Expected long rows (wide rows x", length(questions), "questions):",
+    nrow(clean_wide) * length(questions), "\n"
+)
+
+# Glimpse the long frame to confirm column types are sensible.
+dplyr::glimpse(clean_long)
+
+```
+
+
+# Save outputs
+
+## Write .rds and .csv versions of both shapes
+
+We save four files into `data/processed/`:
+
+* `space_chapters_wide.rds` / `.csv` -- one row per chapter, q1..q12
+  columns, plus their justifications.
+* `space_chapters_long.rds`  / `.csv` -- one row per chapter x question.
+
+`.rds` is the canonical format (preserves integer / character types
+exactly).  `.csv` is included for quick inspection in Excel or `head` and
+for handoff to non-R collaborators.
+
+```{r save-outputs}
+
+wide_rds <- file.path(PROCESSED_DIR, "space_chapters_wide.rds")
+wide_csv <- file.path(PROCESSED_DIR, "space_chapters_wide.csv")
+long_rds <- file.path(PROCESSED_DIR, "space_chapters_long.rds")
+long_csv <- file.path(PROCESSED_DIR, "space_chapters_long.csv")
+
+saveRDS(clean_wide, wide_rds)
+saveRDS(clean_long, long_rds)
+
+readr::write_csv(clean_wide, wide_csv)
+readr::write_csv(clean_long, long_csv)
+
+cat("Wrote:\n")
+cat(" ", wide_rds, "\n")
+cat(" ", wide_csv, "\n")
+cat(" ", long_rds, "\n")
+cat(" ", long_csv, "\n")
+
+```
+
+
+# Verification
+
+## Invariants that must hold
+
+These `stopifnot()` calls fail loudly if anything in the pipeline is
+malformed.  Run them every knit so regressions are caught immediately.
+
+```{r assertions}
+
+# (1) No NA in the structural identifier columns.
+stopifnot(all(!is.na(clean_wide$country)))
+stopifnot(all(!is.na(clean_wide$book)))
+stopifnot(all(!is.na(clean_wide$chapter)))
+
+# (2) Every q1..q12 column is present.
+missing_q_cols <- setdiff(question_ids, names(clean_wide))
+stopifnot(length(missing_q_cols) == 0)
+
+# (3) Every q1_justification..q12_justification column is present.
+just_ids <- paste0(question_ids, "_justification")
+missing_just_cols <- setdiff(just_ids, names(clean_wide))
+stopifnot(length(missing_just_cols) == 0)
+
+# (4) Answer validation must be empty (canonical answers only).
+stopifnot(nrow(answer_issues) == 0)
+
+# (5) Long frame row count equals wide rows x number of questions.
+stopifnot(nrow(clean_long) == nrow(clean_wide) * length(questions))
+
+# (6) The expected 45 books loaded (46 files - 1 dropped via file_drop_list).
+expected_books <- length(kept_csv_paths)
+loaded_books   <- dplyr::n_distinct(clean_wide$file_stem)
+stopifnot(expected_books == loaded_books)
+
+cat("All assertions passed.\n")
+
+```
+
+
+## Per-book chapter counts (pre and post paratext drop)
+
+A `gt` table showing how many rows each book contributed before and after
+the paratext drop.  Books with non-zero `rows_dropped` are highlighted so a
+human reviewer can sanity-check that the drop rule fired only on genuine
+front-matter / appendix / essay rows.
+
+```{r per-book-counts-table}
+
+# Use max(..., 1) so the color scale's domain is always non-degenerate,
+# even on the (unlikely) corpus where nothing is dropped.
+max_dropped <- max(paratext_summary$rows_dropped, 1L, na.rm = TRUE)
+
+per_book_counts_table <- paratext_summary %>%
+    gt::gt() %>%
+    gt::tab_header(
+        title    = "Per-book chapter counts before and after paratext drop",
+        subtitle = sprintf(
+            "%d books loaded, %d rows dropped overall",
+            dplyr::n_distinct(paratext_summary$book),
+            sum(paratext_summary$rows_dropped)
+        )
+    ) %>%
+    gt::cols_label(
+        country      = "Country",
+        book         = "Book",
+        rows_before  = "Rows (before)",
+        rows_after   = "Rows (after)",
+        rows_dropped = "Dropped"
+    ) %>%
+    gt::data_color(
+        columns = rows_dropped,
+        fn      = scales::col_numeric(
+            palette = c("white", "tomato"),
+            domain  = c(0, max_dropped)
+        )
+    )
+
+per_book_counts_table
+
+```
+
+
+## Distinct labels that were dropped as paratext
+
+A flat list of every chapter label that the drop rule filtered out, with
+counts.  Reviewers should scan this to confirm that every line really is
+paratext and not a misclassified narrative chapter.
+
+```{r dropped-labels-audit}
+
+dropped_labels <- renamed_wide %>%
+    dplyr::filter(stringr::str_detect(chapter, paratext_regex)) %>%
+    dplyr::count(country, book, chapter, sort = TRUE)
+
+if (nrow(dropped_labels) == 0) {
+    cat("No rows were dropped by paratext_regex.\n")
+} else {
+    cat(
+        "Dropped",
+        sum(dropped_labels$n),
+        "rows across",
+        nrow(dropped_labels),
+        "(country, book, label) groups:\n\n"
+    )
+    print(dropped_labels, n = nrow(dropped_labels))
+}
+
+```
+
+
+## Chapter-position parser coverage
+
+Parser coverage by book.  A book with `pct_parsed == 100` has every
+chapter slotted into a sortable integer position.  Books below 100% are
+candidates for adding a new strategy to `parse_chapter_position()`.
+
+```{r parser-coverage}
+
+parser_coverage <- clean_wide %>%
+    dplyr::group_by(country, book) %>%
+    dplyr::summarise(
+        n_chapters     = dplyr::n(),
+        n_parsed       = sum(!is.na(chapter_position)),
+        pct_parsed     = round(100 * n_parsed / n_chapters, 1),
+        .groups        = "drop"
+    ) %>%
+    dplyr::arrange(pct_parsed, country, book)
+
+parser_coverage %>%
+    gt::gt() %>%
+    gt::tab_header(
+        title    = "Chapter-position parser coverage by book",
+        subtitle = "Books with <100% have at least one label the parser couldn't slot"
+    ) %>%
+    gt::cols_label(
+        country    = "Country",
+        book       = "Book",
+        n_chapters = "Chapters",
+        n_parsed   = "Parsed",
+        pct_parsed = "Parsed (%)"
+    )
+
+```
+
+
+# Human-readable load report
+
+## Write `data/processed/load_report.md`
+
+A standalone markdown summary that a reviewer (or co-author) can read
+without launching R.  The report captures everything a human needs to
+verify the load succeeded: counts of files, rows, books, drops, parser
+coverage, validation status.
+
+```{r write-load-report}
+
+report_path <- file.path(PROCESSED_DIR, "load_report.md")
+
+report_lines <- c(
+
+    "# Data Load Report",
+    "",
+    sprintf("Generated: %s", format(Sys.time(), "%Y-%m-%d %H:%M:%S %Z")),
+    sprintf("Script:    scripts/data_loading.Rmd"),
+    "",
+
+    "## Files",
+    "",
+    sprintf("- Total CSVs found:        %d", length(all_csv_paths)),
+    sprintf("- Files dropped (skip list): %d", length(dropped_files)),
+    sprintf("- Files loaded:            %d", length(kept_csv_paths)),
+    "",
+    if (length(dropped_files) > 0) {
+        c("Dropped files:", "", paste0("- `", dropped_files, "`"), "")
+    } else {
+        c("No files were skipped via `file_drop_list`.", "")
+    },
+
+    "## Rows",
+    "",
+    sprintf("- Raw rows (after file load):     %d", nrow(renamed_wide)),
+    sprintf("- Paratext rows dropped:          %d",
+            nrow(renamed_wide) - nrow(clean_wide)),
+    sprintf("- Clean wide rows:                %d", nrow(clean_wide)),
+    sprintf("- Long-format rows (wide x %d Qs): %d",
+            length(questions), nrow(clean_long)),
+    "",
+
+    "## Books",
+    "",
+    sprintf("- Distinct books in clean frame: %d",
+            dplyr::n_distinct(clean_wide$book)),
+    sprintf("- Distinct countries:            %d",
+            dplyr::n_distinct(clean_wide$country)),
+    "",
+
+    "Per-country book counts:",
+    "",
+    paste0(
+        "- ",
+        clean_wide %>%
+            dplyr::distinct(country, book) %>%
+            dplyr::count(country) %>%
+            dplyr::arrange(country) %>%
+            { sprintf("%s: %d books", .$country, .$n) }
+    ),
+    "",
+
+    "## Validation",
+    "",
+    sprintf("- Answer-validation mismatches: %d", nrow(answer_issues)),
+    sprintf("- Unparseable chapter labels:   %d", nrow(unparseable_labels)),
+    "",
+
+    "## Outputs",
+    "",
+    "Files written to `data/processed/`:",
+    "",
+    "- `space_chapters_wide.rds`",
+    "- `space_chapters_wide.csv`",
+    "- `space_chapters_long.rds`",
+    "- `space_chapters_long.csv`",
+    "- `load_report.md` (this file)",
+    ""
+)
+
+writeLines(report_lines, report_path)
+
+cat("Wrote ", report_path, "\n", sep = "")
+
+```
+
+
+# Session info
+
+```{r session-info}
+
+sessionInfo()
+
 ```
