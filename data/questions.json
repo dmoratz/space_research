@@ -66,7 +66,7 @@
   },
   {
     "number": 6,
-    "criteria": "is it hostile (is it hard to survive out there? Not because of other actors, but just because of conditions…e.g, the Martian space is hostile, but there’s no one trying to kill Matt Damon)",
+    "criteria": "is it hostile (is it hard to survive out there? Not because of other actors, but just because of conditions e.g, the Martian space is hostile, but theres no one trying to kill Matt Damon)",
     "criteria_short": "is it hostile / hard to survive (bc of natural conditions)",
     "answer_options": [
       "Benign / easily survivable",
@@ -105,7 +105,7 @@
   },
   {
     "number": 9,
-    "criteria": "genre of the book (e.g, horror, drama, comedy, fantasy…)",
+    "criteria": "genre of the book(e.g, horror, drama, comedy, fantasy)",
     "criteria_short": "genre of the book",
     "answer_options": [
       "Adventure / exploration",
