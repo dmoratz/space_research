@@ -1,0 +1,311 @@
+import json, csv, os
+
+chapters_data = [
+    {
+        "chapter": "front_matter",
+        "q1": "Other / Unsure",
+        "q1_justification": "Front matter contains only publisher info, copyright notice, and DRM statement. No narrative content depicting space.",
+        "q2": "Other / Unsure",
+        "q2_justification": "No narrative content. Publisher/copyright information only.",
+        "q3": "Other / Unsure",
+        "q3_justification": "No narrative content depicting any journey or distance.",
+        "q4": "Other / Unsure",
+        "q4_justification": "No narrative content depicting any society.",
+        "q5": "Other / Unsure",
+        "q5_justification": "No narrative content depicting language or communication.",
+        "q6": "Other / Unsure",
+        "q6_justification": "No narrative content depicting any environment.",
+        "q7": "Other / Unsure",
+        "q7_justification": "No narrative content depicting space habitation.",
+        "q8": "Other / Unsure",
+        "q8_justification": "No narrative content depicting political order.",
+        "q9": "Other / Unsure",
+        "q9_justification": "Front matter with no narrative content; not classifiable by genre.",
+        "q10": "Other / Unsure",
+        "q10_justification": "No narrative content depicting civilian or military activity.",
+        "q11": "Other / Unsure",
+        "q11_justification": "No narrative content providing any domain analogy.",
+        "q12": "Other / Unsure",
+        "q12_justification": "No narrative content depicting any physical environment."
+    },
+    {
+        "chapter": "Time Enough for Love",
+        "q1": "Other / Unsure",
+        "q1_justification": "Nonfiction essay by Liu Cixin about his personal journey as a sci-fi writer. No fictional narrative depicting space contestation.",
+        "q2": "Other / Unsure",
+        "q2_justification": "Essay about the author's writing career and Chinese sci-fi. No narrative depiction of space habitation.",
+        "q3": "Other / Unsure",
+        "q3_justification": "No narrative depicting any space journey or distance.",
+        "q4": "Other / Unsure",
+        "q4_justification": "No narrative depicting space society; discusses real-world literary community.",
+        "q5": "Other / Unsure",
+        "q5_justification": "No narrative depicting space language or communication.",
+        "q6": "Other / Unsure",
+        "q6_justification": "No narrative depicting space environmental conditions.",
+        "q7": "Other / Unsure",
+        "q7_justification": "No narrative depicting space habitation prevalence.",
+        "q8": "Other / Unsure",
+        "q8_justification": "No narrative depicting space political order.",
+        "q9": "Other / Unsure",
+        "q9_justification": "Nonfiction personal essay about writing sci-fi; not a narrative with a classifiable genre.",
+        "q10": "Other / Unsure",
+        "q10_justification": "No narrative depicting civilian or military space activity.",
+        "q11": "Other / Unsure",
+        "q11_justification": "No narrative providing a space domain analogy.",
+        "q12": "Other / Unsure",
+        "q12_justification": "No narrative depicting space physical conditions."
+    },
+    {
+        "chapter": "Whale Song",
+        "q1": "Other / Unsure",
+        "q1_justification": "Story is set entirely on Earth's ocean, involving a drug lord using a mind-controlled whale for smuggling. No space setting or contestation.",
+        "q2": "Other / Unsure",
+        "q2_justification": "No space setting. The story takes place on the ocean between a yacht and Miami.",
+        "q3": "Other / Unsure",
+        "q3_justification": "No space journey depicted. All travel is by sea.",
+        "q4": "Other / Unsure",
+        "q4_justification": "No space society depicted. Characters are Earth-based drug smugglers and a marine biologist.",
+        "q5": "Other / Unsure",
+        "q5_justification": "No space language depicted. Communication is normal Earth language.",
+        "q6": "Other / Unsure",
+        "q6_justification": "No space environment depicted. Setting is the ocean.",
+        "q7": "Other / Unsure",
+        "q7_justification": "No space habitation depicted.",
+        "q8": "Other / Unsure",
+        "q8_justification": "No space political order depicted.",
+        "q9": "Thriller / Horror / Survival",
+        "q9_justification": "A drug-smuggling thriller involving a mind-controlled whale. Uncle Warner and Hopkins use the whale Poseidon to smuggle heroin, and are killed when a whaler attacks on the return trip.",
+        "q10": "Other / Unsure",
+        "q10_justification": "No space domain depicted. Story is Earth-bound criminal activity on the ocean.",
+        "q11": "Other / Unsure",
+        "q11_justification": "No space domain to draw an analogy for.",
+        "q12": "Other / Unsure",
+        "q12_justification": "No space physical environment depicted."
+    },
+    {
+        "chapter": "A Journey in Search of Home",
+        "q1": "Other / Unsure",
+        "q1_justification": "Nonfiction essay about writing 'The Wandering Earth,' discussing scientific rigor vs literary aesthetics. No narrative depicting space.",
+        "q2": "Other / Unsure",
+        "q2_justification": "Essay discussing the tension between science and literature in writing. No space habitation depicted.",
+        "q3": "Other / Unsure",
+        "q3_justification": "No space journey depicted in this essay about the writing process.",
+        "q4": "Other / Unsure",
+        "q4_justification": "No space society depicted; discusses literary themes.",
+        "q5": "Other / Unsure",
+        "q5_justification": "No space language or communication depicted.",
+        "q6": "Other / Unsure",
+        "q6_justification": "No space environmental conditions depicted.",
+        "q7": "Other / Unsure",
+        "q7_justification": "No space habitation depicted.",
+        "q8": "Other / Unsure",
+        "q8_justification": "No space political order depicted.",
+        "q9": "Other / Unsure",
+        "q9_justification": "Nonfiction essay about literary craft; not a narrative with classifiable genre.",
+        "q10": "Other / Unsure",
+        "q10_justification": "No space domain activity depicted.",
+        "q11": "Other / Unsure",
+        "q11_justification": "No space domain analogy provided.",
+        "q12": "Other / Unsure",
+        "q12_justification": "No space physical environment depicted."
+    },
+    {
+        "chapter": "The Messenger",
+        "q1": "Other / Unsure",
+        "q1_justification": "Story is set entirely on Earth: a time traveler visits Einstein in 1950s Princeton. No space setting or contestation.",
+        "q2": "Other / Unsure",
+        "q2_justification": "No space habitation depicted. The story takes place in Einstein's home on Earth.",
+        "q3": "Other / Unsure",
+        "q3_justification": "No space journey. The visitor travels through time, not space. His departure involves remaining stationary in absolute space-time while Earth moves.",
+        "q4": "Other / Unsure",
+        "q4_justification": "No space society depicted. The visitor is from the future but describes no space-based society.",
+        "q5": "Other / Unsure",
+        "q5_justification": "No space language barriers. The time traveler communicates normally with Einstein.",
+        "q6": "Other / Unsure",
+        "q6_justification": "No space environment depicted.",
+        "q7": "Other / Unsure",
+        "q7_justification": "No space habitation depicted.",
+        "q8": "Other / Unsure",
+        "q8_justification": "No space political order depicted.",
+        "q9": "Drama",
+        "q9_justification": "A philosophical drama in which a time traveler visits Einstein to deliver two messages: humanity survives and God does play dice. Emotional exchange centered on physics and human destiny.",
+        "q10": "Other / Unsure",
+        "q10_justification": "No space domain depicted.",
+        "q11": "Other / Unsure",
+        "q11_justification": "No space domain analogy.",
+        "q12": "Other / Unsure",
+        "q12_justification": "No space physical environment depicted."
+    },
+    {
+        "chapter": "Butterfly",
+        "q1": "Other / Unsure",
+        "q1_justification": "Set entirely on Earth during the 1999 NATO bombing of Yugoslavia. No space setting or contestation.",
+        "q2": "Other / Unsure",
+        "q2_justification": "No space habitation. Story involves weather manipulation on Earth.",
+        "q3": "Other / Unsure",
+        "q3_justification": "No space journey. Aleksandar travels to Mauritania, Okinawa, and Antarctica on Earth.",
+        "q4": "Other / Unsure",
+        "q4_justification": "No space society depicted.",
+        "q5": "Other / Unsure",
+        "q5_justification": "No space language depicted.",
+        "q6": "Other / Unsure",
+        "q6_justification": "No space environment depicted.",
+        "q7": "Other / Unsure",
+        "q7_justification": "No space habitation depicted.",
+        "q8": "Other / Unsure",
+        "q8_justification": "No space political order depicted.",
+        "q9": "Military / war",
+        "q9_justification": "Set during the NATO bombing of Yugoslavia, Aleksandar uses chaos theory and atmospheric sensitivity points to create cloud cover protecting against aerial bombing. His wife is killed by a missile.",
+        "q10": "Other / Unsure",
+        "q10_justification": "No space domain depicted. Military activity is entirely atmospheric/terrestrial.",
+        "q11": "Other / Unsure",
+        "q11_justification": "No space domain to draw an analogy for.",
+        "q12": "Other / Unsure",
+        "q12_justification": "No space physical environment depicted."
+    },
+    {
+        "chapter": "One and One Hundred Thousand Earths",
+        "q1": "Other / Unsure",
+        "q1_justification": "Nonfiction essay arguing space development is as important as environmental protection. No narrative depicting space contestation.",
+        "q2": "Other / Unsure",
+        "q2_justification": "Essay discusses the resource potential of the solar system conceptually but provides no narrative depiction of space habitation.",
+        "q3": "Other / Unsure",
+        "q3_justification": "No narrative depicting a space journey.",
+        "q4": "Other / Unsure",
+        "q4_justification": "No narrative depicting space society.",
+        "q5": "Other / Unsure",
+        "q5_justification": "No narrative depicting space communication.",
+        "q6": "Other / Unsure",
+        "q6_justification": "No narrative depicting space environmental conditions.",
+        "q7": "Other / Unsure",
+        "q7_justification": "No narrative depicting space habitation.",
+        "q8": "Other / Unsure",
+        "q8_justification": "No narrative depicting space political order.",
+        "q9": "Other / Unsure",
+        "q9_justification": "Nonfiction essay about space development policy; not a narrative with classifiable genre.",
+        "q10": "Other / Unsure",
+        "q10_justification": "No narrative depicting civilian or military space activity.",
+        "q11": "Other / Unsure",
+        "q11_justification": "No narrative providing a space domain analogy.",
+        "q12": "Other / Unsure",
+        "q12_justification": "No narrative depicting space physical conditions."
+    },
+    {
+        "chapter": "Thirty Years of Making Magic Out of Ordinariness",
+        "q1": "Other / Unsure",
+        "q1_justification": "Nonfiction essay celebrating Science Fiction World magazine's 30th anniversary. No narrative content depicting space.",
+        "q2": "Other / Unsure",
+        "q2_justification": "Essay about the Chinese sci-fi literary community. No space habitation depicted.",
+        "q3": "Other / Unsure",
+        "q3_justification": "No space journey depicted.",
+        "q4": "Other / Unsure",
+        "q4_justification": "No space society depicted.",
+        "q5": "Other / Unsure",
+        "q5_justification": "No space language depicted.",
+        "q6": "Other / Unsure",
+        "q6_justification": "No space environment depicted.",
+        "q7": "Other / Unsure",
+        "q7_justification": "No space habitation depicted.",
+        "q8": "Other / Unsure",
+        "q8_justification": "No space political order depicted.",
+        "q9": "Other / Unsure",
+        "q9_justification": "Nonfiction commemorative essay; not a narrative with classifiable genre.",
+        "q10": "Other / Unsure",
+        "q10_justification": "No space domain activity depicted.",
+        "q11": "Other / Unsure",
+        "q11_justification": "No space domain analogy provided.",
+        "q12": "Other / Unsure",
+        "q12_justification": "No space physical environment depicted."
+    },
+    {
+        "chapter": "On Finishing Deaths End",
+        "q1": "Other / Unsure",
+        "q1_justification": "Nonfiction blog post about completing the Remembrance of Earth's Past trilogy. No narrative depicting space.",
+        "q2": "Other / Unsure",
+        "q2_justification": "Brief personal reflection on writing speed. No space habitation depicted.",
+        "q3": "Other / Unsure",
+        "q3_justification": "No space journey depicted.",
+        "q4": "Other / Unsure",
+        "q4_justification": "No space society depicted.",
+        "q5": "Other / Unsure",
+        "q5_justification": "No space language depicted.",
+        "q6": "Other / Unsure",
+        "q6_justification": "No space environment depicted.",
+        "q7": "Other / Unsure",
+        "q7_justification": "No space habitation depicted.",
+        "q8": "Other / Unsure",
+        "q8_justification": "No space political order depicted.",
+        "q9": "Other / Unsure",
+        "q9_justification": "Nonfiction blog post; not a narrative with classifiable genre.",
+        "q10": "Other / Unsure",
+        "q10_justification": "No space domain activity depicted.",
+        "q11": "Other / Unsure",
+        "q11_justification": "No space domain analogy provided.",
+        "q12": "Other / Unsure",
+        "q12_justification": "No space physical environment depicted."
+    },
+    {
+        "chapter": "End of the Microcosmos",
+        "q1": "Other / Unsure",
+        "q1_justification": "Story is set at a particle accelerator in Lop Nor, China. No space-based contestation; the conflict is about a physics experiment on Earth.",
+        "q2": "Other / Unsure",
+        "q2_justification": "No space habitation depicted. All action takes place at an Earth-based particle accelerator.",
+        "q3": "Other / Unsure",
+        "q3_justification": "No space journey depicted. The cosmic effects (sky inversion) happen on Earth.",
+        "q4": "Other / Unsure",
+        "q4_justification": "No space society depicted. Characters are Earth-based physicists.",
+        "q5": "Other / Unsure",
+        "q5_justification": "No space language depicted. Scientists communicate normally.",
+        "q6": "Other / Unsure",
+        "q6_justification": "No space environment experienced by characters. The universe inverts visually but characters remain on Earth.",
+        "q7": "Other / Unsure",
+        "q7_justification": "No space habitation depicted.",
+        "q8": "Other / Unsure",
+        "q8_justification": "No space political order depicted.",
+        "q9": "Adventure / exploration",
+        "q9_justification": "Scientists at a particle accelerator make a groundbreaking discovery by splitting a quark, causing the universe to invert. The story centers on scientific exploration and its unexpected cosmic consequences.",
+        "q10": "Other / Unsure",
+        "q10_justification": "No space domain depicted. Activity is Earth-based scientific research.",
+        "q11": "Other / Unsure",
+        "q11_justification": "No space domain analogy; the story deals with particle physics on Earth.",
+        "q12": "Other / Unsure",
+        "q12_justification": "No space physical environment experienced. The visual inversion of the sky is observed from Earth."
+    },
+]
+
+country = 'China'
+book_title = 'A View from the Stars'
+csv_path = 'data/results/China_A_View_from_the_Stars.csv'
+questions = [{'number': i} for i in range(1, 13)]
+fieldnames = ['country', 'book', 'chapter']
+for q in questions:
+    fieldnames.append('q' + str(q['number']))
+for q in questions:
+    fieldnames.append('q' + str(q['number']) + '_justification')
+
+existing_chapters = set()
+if os.path.exists(csv_path) and os.path.getsize(csv_path) > 0:
+    with open(csv_path, 'r', encoding='utf-8') as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            existing_chapters.add(row['chapter'])
+
+for ch_data in chapters_data:
+    chapter = ch_data['chapter']
+    if chapter in existing_chapters:
+        print('Skipped (already exists): ' + chapter)
+        continue
+    row_dict = {'country': country, 'book': book_title, 'chapter': chapter}
+    for q in questions:
+        n = q['number']
+        row_dict['q' + str(n)] = ch_data['q' + str(n)]
+        row_dict['q' + str(n) + '_justification'] = ch_data['q' + str(n) + '_justification']
+    file_exists = os.path.exists(csv_path) and os.path.getsize(csv_path) > 0
+    with open(csv_path, 'a', newline='', encoding='utf-8') as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        if not file_exists:
+            writer.writeheader()
+        writer.writerow(row_dict)
+    print('Written: ' + chapter)
+
+print('Done with batch 1.')

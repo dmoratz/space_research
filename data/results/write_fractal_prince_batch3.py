@@ -1,0 +1,341 @@
+import json, csv, os
+
+chapters_data = [
+    {
+        "chapter": "Chapter 21",
+        "q1": "Moderate contestation (ongoing rivalry/disputes)",
+        "q1_justification": "Tawaddud navigates tensions between Sirr factions, the Sobornost, and desert jinni. The Axolotl reveals that a muhtasib (Abu Nuwas) conspired with Sobornost against Sirr, and jinn insurgents (masrurs) fight Sobornost machines in the desert.",
+        "q2": "Extensive territorial occupation (many settled worlds/regions held like states or empires)",
+        "q2_justification": "The chapter references Sobornost machines across the desert, the Station above Sirr, and the broader System. The Sobornost seeks to upload Earth while Sirr maintains its own territory, indicating extensive occupation across regions.",
+        "q3": "Moderate journey (months/meaningful separation)",
+        "q3_justification": "Tawaddud mentions the possibility of being taken to the Station for cleaning up, and the Sobornost operates from orbital infrastructure, suggesting meaningful but not extreme separation between Earth and space.",
+        "q4": "Radically different / alien social order",
+        "q4_justification": "Sirr's culture revolves around Secret Names, entwinement with jinni, wildcode deserts, and body thieves. The Sobornost represents uploaded consciousness collectives. Both are fundamentally unlike any Earth society.",
+        "q5": "Shared lingua franca plus local variation",
+        "q5_justification": "Characters from Sirr and Sobornost communicate directly, but Sirr has unique terminology (Secret Names, athar, sobors, Seals) and the desert voices speak in languages Tawaddud does not understand.",
+        "q6": "Harsh and resource-intensive",
+        "q6_justification": "Tawaddud must expose herself to wildcode to reach the Axolotl, requiring protective jinni and strong Seals. The wildcode desert is dangerous with predatory jinni, and survival requires constant protective measures.",
+        "q7": "Normalized / widespread (space habitation is ordinary for humanity)",
+        "q7_justification": "The Sobornost operates vast orbital infrastructure, and uploaded minds inhabit digital spaces throughout the System. Living in space or in uploaded form is ordinary for this civilization.",
+        "q8": "Highly fragmented political landscape (multipolar with many factions, corporations, colonies, microstates)",
+        "q8_justification": "This chapter features Sirr's muhtasib families, the Sobornost branches (hsien-kus), desert jinni factions (masrurs), the Aun, and independent actors like Abu Nuwas, all competing for influence.",
+        "q9": "Thriller / Horror / Survival",
+        "q9_justification": "Tawaddud undergoes a harrowing immersion in wildcode to contact the Axolotl, is attacked by wild jinni, and then is ambushed and betrayed by Abu Nuwas and Kafur. The chapter is driven by tension and danger.",
+        "q10": "Mostly civilian with some military presence",
+        "q10_justification": "The chapter focuses on civilian power struggles, gogol trade, and personal relationships. While Sobornost has military capability, the immediate action involves civilian actors like merchants, muhtasibs, and body thieves.",
+        "q11": "Like cyberspace / networked or abstract domain",
+        "q11_justification": "Tawaddud enters a networked wildcode realm to communicate telepathically with the Axolotl, navigating a galaxy-like spiderweb of light. Space and the digital domain are deeply intertwined through athar and entwinement.",
+        "q12": "Radically non-Earth-like (physics/environment fundamentally unlike Earth experience)",
+        "q12_justification": "The wildcode desert is a nanotechnology-saturated environment where minds can be transmitted as stories, jinni exist as digital entities in physical substrates, and the boundary between physical and virtual reality is dissolved."
+    },
+    {
+        "chapter": "Chapter 22",
+        "q1": "High contestation (frequent conflict or strategic struggle)",
+        "q1_justification": "The Pellegrini and Chen discuss internal Sobornost conflict. Anton and Hsien are trying to kill Pellegrini, Chen refuses to intervene to avoid civil war, and the zoku are watching for weakness. Strategic struggle pervades the entire conversation.",
+        "q2": "Extensive territorial occupation (many settled worlds/regions held like states or empires)",
+        "q2_justification": "Chen is described as the Prime, the voice of a billion gogols, keeper of the Plan, with guberniyas and massive infrastructure. The Sobornost holds territory across the System like an empire.",
+        "q3": "Extreme / effectively unreachable (generational, completely separate, or one-way-feeling distance)",
+        "q3_justification": "The conversation takes place in virtual reality spaces (virs) between entities separated across vast distances in the solar system. The scale of the Sobornost spans the entire System.",
+        "q4": "Radically different / alien social order",
+        "q4_justification": "The Sobornost Founders are god-like uploaded beings who exist as billions of gogol copies, communicate through virtual reality temples, and pursue the Great Common Task of conquering death. This is utterly alien to Earth society.",
+        "q5": "Translation-mediated communication (universal translator / communication tech makes language difference irrelevant)",
+        "q5_justification": "The Pellegrini and Chen communicate through virtual reality interfaces across vast distances. Their interaction is entirely mediated by technology, making physical language irrelevant.",
+        "q6": "Manageable but risky",
+        "q6_justification": "For the Sobornost Founders, space is manageable through their vast technology, but internal political threats and the zoku make survival risky. The Pellegrini faces assassination by rival branches.",
+        "q7": "Normalized / widespread (space habitation is ordinary for humanity)",
+        "q7_justification": "Billions of gogols inhabit virtual spaces throughout the System. Space habitation in digital form is completely normalized for the Sobornost civilization.",
+        "q8": "Highly fragmented political landscape (multipolar with many factions, corporations, colonies, microstates)",
+        "q8_justification": "The chapter reveals internal Sobornost factions (Pellegrini, Chen, Anton, Hsien), the independent zoku civilization, and references to the Kaminari. Multiple competing powers exist.",
+        "q9": "Political / diplomatic",
+        "q9_justification": "The entire chapter is a political negotiation between two Sobornost Founders, discussing alliances, betrayals, civil war risks, and strategic positioning against the zoku.",
+        "q10": "Mixed civilian-military domain",
+        "q10_justification": "The Sobornost combines civilian governance with military capability. Chen discusses sacrificing gogols and managing threats from the zoku, blending civilian administration with strategic military considerations.",
+        "q11": "Like cyberspace / networked or abstract domain",
+        "q11_justification": "The entire interaction occurs in virtual reality spaces (virs). The Sobornost operates as networked consciousness across the System, and power is exercised through digital infrastructure.",
+        "q12": "Radically non-Earth-like (physics/environment fundamentally unlike Earth experience)",
+        "q12_justification": "The Founders exist as uploaded minds in virtual environments, viewing the firmament from god-views, inhabiting memory-constructed virs. Physical reality is entirely transcended."
+    },
+    {
+        "chapter": "Chapter 23",
+        "q1": "High contestation (frequent conflict or strategic struggle)",
+        "q1_justification": "Abu Nuwas betrays Tawaddud, the hsien-ku faction moves to obtain the Chen gogol for blackmail, Jean le Flambeur plays multiple sides, and violent conflict erupts when Tawaddud uses a Secret Name to kill the hsien-ku embodiment.",
+        "q2": "Extensive territorial occupation (many settled worlds/regions held like states or empires)",
+        "q2_justification": "The hsien-ku discusses plans to make Earth theirs, deal with their sister (Pellegrini), and use the chen gogol as currency. The Sobornost holds territory across the System.",
+        "q3": "Moderate journey (months/meaningful separation)",
+        "q3_justification": "Jean le Flambeur transmits himself from Sirr to orbit via the Gourd communication systems in a burst of modulated neutrinos, then is in his old body in the main cabin. The separation between Earth and orbit is meaningful but bridgeable.",
+        "q4": "Radically different / alien social order",
+        "q4_justification": "Mind surgery on captured gogols, body theft via Secret Names, uploading consciousness through scan beams, and the entwinement between human and jinn minds represent a completely alien social order.",
+        "q5": "Shared lingua franca plus local variation",
+        "q5_justification": "Characters from Sirr, Sobornost, and the thief all communicate, but Sirr uses unique Secret Names with transformative power, and Sobornost has its own terminology for mind operations.",
+        "q6": "Harsh and resource-intensive",
+        "q6_justification": "The wildcode desert threatens anyone who ventures out, mind surgery is used as torture, and survival requires navigating between multiple hostile factions. The environment is dangerous for both body and mind.",
+        "q7": "Normalized / widespread (space habitation is ordinary for humanity)",
+        "q7_justification": "Jean transmits himself to orbit casually, the Sobornost operates vast orbital infrastructure, and gogol existence in digital spaces is routine throughout the System.",
+        "q8": "Highly fragmented political landscape (multipolar with many factions, corporations, colonies, microstates)",
+        "q8_justification": "The hsien-ku branch, the Pellegrini, Abu Nuwas as independent agent, Sirr's muhtasib families, the vasilevs, and the Engineer's Hunter all represent competing factions with different agendas.",
+        "q9": "Thriller / Horror / Survival",
+        "q9_justification": "The chapter features betrayal, torture of the Axolotl gogol causing Tawaddud agony through entwinement, violent killing of the hsien-ku, a desperate escape through a shattered window, and Tawaddud holding a gun to her own head.",
+        "q10": "Mixed civilian-military domain",
+        "q10_justification": "The chapter mixes civilian intrigue (gogol trade, political manipulation) with military elements (barakah guns, mercenaries, the Hunter). Both civilian and military actors drive the conflict.",
+        "q11": "Like cyberspace / networked or abstract domain",
+        "q11_justification": "Mind surgery on gogols, consciousness transmission via neutrinos, entwinement between minds, and Secret Names that reprogram brains all characterize space and conflict as operating in a networked, abstract domain.",
+        "q12": "Radically non-Earth-like (physics/environment fundamentally unlike Earth experience)",
+        "q12_justification": "Minds are transmitted as neutrino bursts, Secret Names can overwrite consciousness, and the boundary between physical and digital existence is fluid. The environment is fundamentally unlike Earth."
+    },
+    {
+        "chapter": "Chapter 24",
+        "q1": "High contestation (frequent conflict or strategic struggle)",
+        "q1_justification": "Mieli fights jinn storms and chimera creatures protecting a soul train, her comrade Stanka is body-thieved and attacks her, and the chapter ends with mercenary companies being recruited by Abu Nuwas for a military campaign into the desert.",
+        "q2": "Extensive territorial occupation (many settled worlds/regions held like states or empires)",
+        "q2_justification": "The Sobornost Gourd orbits above, mercenary companies operate from bases near Sirr, the wildcode desert contains fallen Sobornost oblasts now overgrown, and references to the Belt and Oort indicate widespread occupation.",
+        "q3": "Moderate journey (months/meaningful separation)",
+        "q3_justification": "Mieli communicates with Perhonen through a neutrino link from Earth's surface to orbit, and the thief is in orbit. The separation is meaningful but communication is possible, though difficult in the desert.",
+        "q4": "Radically different / alien social order",
+        "q4_justification": "Mercenary companies with posthuman warriors, ursomorph bear-women, Fast Ones as scouts, soul trains carrying harvested consciousness, and gogol trade represent a completely alien social order.",
+        "q5": "Shared lingua franca plus local variation",
+        "q5_justification": "Mieli (from Oort), Stanka (from the Belt), Abu Nuwas (from Sirr), and Odyne (from the Belt) all communicate, but each brings distinct cultural terminology and Sirr has its own Secret Names and athar language.",
+        "q6": "Extremely hostile (constant survival pressure)",
+        "q6_justification": "The wildcode desert infects technology, body thieves can overwrite minds through written messages, jinn storms attack convoys, and chimera creatures swarm. Stanka is body-thieved and Mieli must kill her to survive.",
+        "q7": "Normalized / widespread (space habitation is ordinary for humanity)",
+        "q7_justification": "Mieli is from Oort, Stanka from the Belt, mercenaries come from across the System. Living in space habitats, on asteroids, and in orbital structures is completely ordinary.",
+        "q8": "Highly fragmented political landscape (multipolar with many factions, corporations, colonies, microstates)",
+        "q8_justification": "Mercenary companies (Teddy Bears and ten others), muhtasib families of Sirr, Sobornost branches, Abu Nuwas's independent fleet, and desert jinni factions all operate as separate political entities.",
+        "q9": "Military / war",
+        "q9_justification": "The chapter is dominated by military action: protecting soul trains, combat against chimera and jinn storms, mercenary operations, and the mustering of a massive mercenary fleet for Abu Nuwas's campaign.",
+        "q10": "Mixed civilian-military domain",
+        "q10_justification": "Mercenary companies protect civilian soul trade, Abu Nuwas is a civilian merchant commanding military forces, and Mieli operates as a warrior while Perhonen handles civilian negotiations with the Pellegrini.",
+        "q11": "Like the frontier / colonial expansion",
+        "q11_justification": "The wildcode desert is treated like a frontier with soul trains, mercenary escorts, and resource extraction from hidden jannahs. The language of the desert, convoys, and armed companies evokes colonial frontier expansion.",
+        "q12": "Radically non-Earth-like (physics/environment fundamentally unlike Earth experience)",
+        "q12_justification": "The wildcode desert assembles matter into unnatural configurations, creates smiling faces from sand grains, and infects all technology. Fallen Sobornost craft are overgrown with strange twisted vegetation. The environment is fundamentally alien."
+    },
+    {
+        "chapter": "Chapter 25",
+        "q1": "High contestation (frequent conflict or strategic struggle)",
+        "q1_justification": "Tawaddud faces a Council trial for murder, Abu Nuwas commands a mercenary army heading to the Lost Jannah, and the hsien-ku threaten total annexation of Earth. The entire chapter is about strategic struggle for Sirr's survival.",
+        "q2": "Extensive territorial occupation (many settled worlds/regions held like states or empires)",
+        "q2_justification": "The Sobornost is described as having the full might to end Sirr in hours or minutes, operating from orbital infrastructure. Sirr itself holds territory through its Shards and desert, and references to Supra City indicate widespread settlement.",
+        "q3": "Moderate journey (months/meaningful separation)",
+        "q3_justification": "The Sobornost operates from orbital infrastructure above Earth while Sirr exists on the surface. The separation is meaningful enough that the hsien-ku previously dealt through intermediaries rather than direct force.",
+        "q4": "Radically different / alien social order",
+        "q4_justification": "Sirr's Council governs through muhtasib families, qarin jinni grafted to children, Secret Names embedded in financial systems, and the Aun as story-beings in the desert. This is utterly unlike any Earth society.",
+        "q5": "Shared lingua franca plus local variation",
+        "q5_justification": "Council members, muhtasibs, and references to Sobornost and zoku all share communication, but Sirr's unique vocabulary of sobors, Seals, athar, and Secret Names represents significant local variation.",
+        "q6": "Harsh and resource-intensive",
+        "q6_justification": "Sirr survives by trading souls to Sobornost, the wildcode desert is deadly, and the city requires constant muhtasib vigilance. Dunyazad describes the muhtasib system as monstrous but necessary for survival.",
+        "q7": "Normalized / widespread (space habitation is ordinary for humanity)",
+        "q7_justification": "References to Supra City (zoku), the Sobornost's System-wide presence, and the Gourd infrastructure indicate that space habitation is completely normalized across human civilization.",
+        "q8": "Highly fragmented political landscape (multipolar with many factions, corporations, colonies, microstates)",
+        "q8_justification": "The Council itself contains competing houses (Gomelez, Soarez, Ugarte, Uzeda), plus external factions including the zoku (Supra City), multiple Sobornost branches, and Abu Nuwas's mercenary force.",
+        "q9": "Political / diplomatic",
+        "q9_justification": "The chapter centers on Tawaddud's trial before the Council, Dunyazad's political maneuvering for a zoku alliance, and the revelation of Abu Nuwas's conspiracy embedded in Sirr's financial system.",
+        "q10": "Mostly civilian with some military presence",
+        "q10_justification": "The chapter is dominated by civilian political proceedings: a Council trial, family politics, and diplomatic strategy. Military elements are referenced (Abu Nuwas's mercenaries) but are offstage.",
+        "q11": "Like cyberspace / networked or abstract domain",
+        "q11_justification": "Abu Nuwas's conspiracy was embedded in the financial flow of the city's athar network, visible only to muhtasibs who perceive the digital layer. Power operates through networked systems of Seals and sobors.",
+        "q12": "Radically non-Earth-like (physics/environment fundamentally unlike Earth experience)",
+        "q12_justification": "The wildcode desert is visible as a Sun-like surface of aerovore formations in athar view, Secret Names can be embedded in economic systems, and muhtasibs perceive reality through a dual physical-digital existence."
+    },
+    {
+        "chapter": "Chapter 26",
+        "q1": "Total war / constant conflict",
+        "q1_justification": "Mieli commands an army of her own copies that falls from orbit, destroys Abu Nuwas's mercenary fleet, fights through the wildcode desert's defenses, and storms the Lost Jannah. Hundreds of her copies die in constant combat.",
+        "q2": "Extensive territorial occupation (many settled worlds/regions held like states or empires)",
+        "q2_justification": "The Pellegrini has inserted herself into the Gourd systems, the hsien-ku built gogol factories throughout orbital infrastructure, and Mieli claims the jannah in the name of the Pellegrini. Territory is held across orbital and planetary scales.",
+        "q3": "Moderate journey (months/meaningful separation)",
+        "q3_justification": "Mieli's copies descend from orbit to Earth's surface, entering the atmosphere in thousands. The Gourd orbital infrastructure is close enough for an orbital hook extraction, indicating meaningful but bridgeable distance.",
+        "q4": "Radically different / alien social order",
+        "q4_justification": "Mieli multiplies herself into thousands of copies who fight and die willingly, the Aun appear as story-beings (Chimney Princess, Green Soldier, lightkraken), and the jannah contains an ancient uploaded child-consciousness of Matjek Chen.",
+        "q5": "Shared lingua franca plus local variation",
+        "q5_justification": "Mieli, Abu Nuwas, the Pellegrini, and Perhonen all communicate, but Mieli sings songs of Oort, the Aun speak in their own mythic register, and Sirr's Secret Names have unique power.",
+        "q6": "Extremely hostile (constant survival pressure)",
+        "q6_justification": "The wildcode desert kills Mieli's copies through infection, chimera beasts tear them apart, the jannah's towers become nightmare worms, and some copies self-destruct before wildcode turns them against their sisters.",
+        "q7": "Normalized / widespread (space habitation is ordinary for humanity)",
+        "q7_justification": "The Pellegrini operates from orbital temples, Mieli's copies are manufactured in orbital Gourd facilities, and the entire conflict spans orbital and planetary domains as routine infrastructure.",
+        "q8": "Highly fragmented political landscape (multipolar with many factions, corporations, colonies, microstates)",
+        "q8_justification": "The Pellegrini seizes hsien-ku infrastructure, Abu Nuwas commands an independent mercenary fleet, the Aun guard the jannah, and multiple Sobornost branches compete. Power is deeply fragmented.",
+        "q9": "Military / war",
+        "q9_justification": "The chapter is an extended battle sequence: thousands of Mieli copies descend from orbit, destroy the mercenary fleet, fight through desert defenses, and storm the jannah. It is pure military action.",
+        "q10": "Mostly military",
+        "q10_justification": "The entire chapter is a military operation: orbital assault, fleet destruction, ground combat through the jannah city, and extraction via orbital hook. Every scene involves combat or military planning.",
+        "q11": "Like the air / airpower",
+        "q11_justification": "Mieli's army descends from orbit like an airborne assault, the fractal angel storm cuts through the mercenary fleet from above, and the battle is characterized by aerial superiority and descent from the sky.",
+        "q12": "Radically non-Earth-like (physics/environment fundamentally unlike Earth experience)",
+        "q12_justification": "The wildcode desert's towers transform into worm-creatures, chimera beasts have sapphire carapaces, and the jannah contains an ancient vir where a boy plays on a beach inside a buried facility a kilometre underground."
+    },
+    {
+        "chapter": "Chapter 27",
+        "q1": "Total war / constant conflict",
+        "q1_justification": "A chen guberniya approaches Earth with a Hawking drive, the Pellegrini's copies battle hsien-kus throughout the Gourd, the Hunter attacks Perhonen, and Jean and the ship are destroyed diving into Earth's atmosphere.",
+        "q2": "Extensive territorial occupation (many settled worlds/regions held like states or empires)",
+        "q2_justification": "A guberniya (major Sobornost megastructure) surrounded by countless raions and oblasts approaches Earth. The Gourd boils with conflict. The scale of territorial occupation spans the entire solar system.",
+        "q3": "Extreme / effectively unreachable (generational, completely separate, or one-way-feeling distance)",
+        "q3_justification": "The guberniya has been approaching for days using a Hawking drive, lighting up half the solar system. The scale of the approaching megastructure and the System-wide conflict suggest extreme distances.",
+        "q4": "Radically different / alien social order",
+        "q4_justification": "Jean argues with Mieli about the ethics of implanting himself into Chen's consciousness, the Pellegrini controls Mieli through pain, and Perhonen sacrifices itself. The social dynamics of uploaded minds, enslaved warriors, and sentient ships are completely alien.",
+        "q5": "Translation-mediated communication (universal translator / communication tech makes language difference irrelevant)",
+        "q5_justification": "Jean, Mieli, Perhonen, and the Pellegrini all communicate through neural links and metacortex interfaces. The ship communicates telepathically. All communication is technology-mediated.",
+        "q6": "Extremely hostile (constant survival pressure)",
+        "q6_justification": "The Hunter tears Perhonen apart, wildcode infects everything entering the atmosphere, and Jean and Perhonen are destroyed. Mieli is ejected into vacuum. Survival pressure is constant and lethal.",
+        "q7": "Normalized / widespread (space habitation is ordinary for humanity)",
+        "q7_justification": "The conflict spans orbital space, the Gourd, and Earth's atmosphere. Guberniyas house millions, and the characters live in space as a matter of course.",
+        "q8": "Highly fragmented political landscape (multipolar with many factions, corporations, colonies, microstates)",
+        "q8_justification": "The Pellegrini fights the hsien-kus, the vasilevs are allied against her, Chen approaches with his guberniya, the Hunter operates independently, and the zoku remain a separate power. The landscape is deeply fragmented.",
+        "q9": "Thriller / Horror / Survival",
+        "q9_justification": "The chapter builds intense tension as Jean and Mieli argue about ethics while doom approaches, then the Hunter attacks and destroys Perhonen. The chapter ends with Jean being burned alive atom by atom.",
+        "q10": "Mostly military",
+        "q10_justification": "The Gourd is consumed by conflict, the Hunter attacks as a weapon, Perhonen uses antimatter engines in a desperate escape, and the entire chapter is framed by approaching military megastructures.",
+        "q11": "Like cyberspace / networked or abstract domain",
+        "q11_justification": "The Pellegrini's copies fight through the Gourd's digital infrastructure, Jean's mind contains hidden programs (the All-Defector), and the conflict operates simultaneously in physical and virtual domains.",
+        "q12": "Radically non-Earth-like (physics/environment fundamentally unlike Earth experience)",
+        "q12_justification": "A guberniya megastructure lights up half the solar system with its Hawking drive, the Hunter uses knife-things and beams of light, and wildcode transforms everything entering the atmosphere."
+    },
+    {
+        "chapter": "Chapter 28",
+        "q1": "High contestation (frequent conflict or strategic struggle)",
+        "q1_justification": "The All-Defector is revealed inside Jean's mind, consuming Matjek Chen's consciousness. Chen has sent Dragons to eat Earth, and the Pellegrini and Chen engage in a strategic battle of wits over the Kaminari jewel.",
+        "q2": "Extensive territorial occupation (many settled worlds/regions held like states or empires)",
+        "q2_justification": "Chen's guberniya surrounds them, he commands billions of gogols, and Earth is shown ablaze with white fire and the Gourd torn apart. The Sobornost's territorial control is vast and empire-like.",
+        "q3": "Extreme / effectively unreachable (generational, completely separate, or one-way-feeling distance)",
+        "q3_justification": "The dream vir shows Earth ablaze and the guberniya's huge diamond eye in the sky. Chen's childhood backstory takes place in a pre-Collapse Earth that is effectively a different world entirely from the current setting.",
+        "q4": "Radically different / alien social order",
+        "q4_justification": "Chen created the Aun and the Dragons, exists as a Prime consciousness commanding billions of copies, and his childhood involved imaginary friends that became real entities. The social order is utterly transhuman.",
+        "q5": "Shared lingua franca plus local variation",
+        "q5_justification": "Jean, Matjek, and Joséphine communicate in a shared vir, but the backstory reveals beemee technology, watsons, and imaginary friends as cultural concepts unique to the pre-Collapse world.",
+        "q6": "Extremely hostile (constant survival pressure)",
+        "q6_justification": "Chen sends Dragons to eat Earth, the guberniya tears the Gourd apart, and the All-Defector consumes Chen's mind. The environment is existentially hostile on a planetary scale.",
+        "q7": "Normalized / widespread (space habitation is ordinary for humanity)",
+        "q7_justification": "The guberniya is a massive space habitat, the characters exist in virtual environments within it, and Chen's pre-Collapse Earth already had orbital space stations for beemee stunts.",
+        "q8": "Highly fragmented political landscape (multipolar with many factions, corporations, colonies, microstates)",
+        "q8_justification": "Chen, the Pellegrini, the zoku (via the Kaminari jewel), the Aun, and the All-Defector all represent distinct factions. Even within Sobornost, the Founders are at odds.",
+        "q9": "Drama",
+        "q9_justification": "The chapter combines Chen's emotional backstory about childhood loss and the desire to conquer death with the dramatic revelation of the All-Defector hidden inside Jean. It is character-driven drama about identity and mortality.",
+        "q10": "Mixed civilian-military domain",
+        "q10_justification": "Chen deploys Dragons as weapons while the chapter focuses on personal histories and psychological manipulation. The military action (Dragons eating Earth) serves a civilian objective (obtaining his past self).",
+        "q11": "Like cyberspace / networked or abstract domain",
+        "q11_justification": "The entire chapter takes place in nested virtual realities (vir within a vir within a vir), the All-Defector operates as a hidden program within Jean's mind, and Chen's power operates through digital consciousness networks.",
+        "q12": "Radically non-Earth-like (physics/environment fundamentally unlike Earth experience)",
+        "q12_justification": "Nested virtual realities, consciousness-consuming entities (Dragons and All-Defector), and a guberniya megastructure that makes Earth burn with white fire represent an environment fundamentally unlike Earth."
+    },
+    {
+        "chapter": "Chapter 29",
+        "q1": "Total war / constant conflict",
+        "q1_justification": "Meteors rain from the sky, Chen's guberniya looms larger than the moon, Dragons are eating the Aun and wildcode, and the earth shakes from orbital bombardment. This is total war against Earth.",
+        "q2": "Extensive territorial occupation (many settled worlds/regions held like states or empires)",
+        "q2_justification": "Chen's guberniya dominates the sky, the Sobornost controls vast orbital infrastructure, and Sirr's desert territory is being consumed. The scale of territorial occupation is imperial.",
+        "q3": "Moderate journey (months/meaningful separation)",
+        "q3_justification": "The guberniya is now visible in Earth's sky, having arrived from across the system. The chapter focuses on Earth's surface and the immediate threat from orbit, with meaningful but now-closed separation.",
+        "q4": "Radically different / alien social order",
+        "q4_justification": "The Gomelez family's secret involves a pact with the Aun (story-beings), muhtasibs carry grafted qarin jinni from childhood, and Cassar confesses his family's worship of ancient narrative entities. This is completely alien.",
+        "q5": "Shared lingua franca plus local variation",
+        "q5_justification": "Tawaddud, Cassar, Dunyazad, and the Aun all communicate, but the Aun require true stories as payment and speak in mythic register. Secret Names have literal power in their shared language.",
+        "q6": "Nearly uninhabitable / lethal without major intervention",
+        "q6_justification": "Dragons rain from the sky consuming everything, the Aun say they are being eaten and are powerless, and the earth shakes from orbital forces. Earth itself is becoming uninhabitable.",
+        "q7": "Normalized / widespread (space habitation is ordinary for humanity)",
+        "q7_justification": "The guberniya in orbit houses a civilization, and the broader System supports widespread habitation. Even as Earth is destroyed, space habitation continues as normal elsewhere.",
+        "q8": "Highly fragmented political landscape (multipolar with many factions, corporations, colonies, microstates)",
+        "q8_justification": "The Gomelez family, other Council houses, the Aun, the Sobornost under Chen, and the arriving man in the dark suit (Jean le Flambeur) all represent separate factions in this crisis.",
+        "q9": "Thriller / Horror / Survival",
+        "q9_justification": "The chapter depicts an apocalyptic crisis as Dragons consume Earth, the Aun despair, and Tawaddud desperately bargains for her city's survival. Hot winds and falling meteors create an atmosphere of horror and urgency.",
+        "q10": "Mostly civilian with some military presence",
+        "q10_justification": "Tawaddud, Cassar, and Dunyazad go to the desert as civilians to negotiate with the Aun. The military threat (Chen's Dragons) is external and offstage while the focus is on civilian diplomacy.",
+        "q11": "Like cyberspace / networked or abstract domain",
+        "q11_justification": "The Aun exist as story-beings woven into wildcode networks, and their power operates through narrative and consciousness rather than physical force. The domain of conflict is fundamentally abstract.",
+        "q12": "Radically non-Earth-like (physics/environment fundamentally unlike Earth experience)",
+        "q12_justification": "A guberniya larger than the moon hangs in the sky, Dragons (von Neumann machines) rain down consuming matter, and the Aun manifest as story-beings visible in the air. The environment is apocalyptically alien."
+    },
+    {
+        "chapter": "Chapter 30",
+        "q1": "Total war / constant conflict",
+        "q1_justification": "Jean and Perhonen crash through wildcode and Hunter attacks, Chen's Dragons consume Earth, and the resolution involves launching the people of Sirr in a nuclear-propelled spacecraft to escape total destruction.",
+        "q2": "Extensive territorial occupation (many settled worlds/regions held like states or empires)",
+        "q2_justification": "The conflict spans Earth's surface, orbit, and the broader System. Jean references the coming war between Sobornost and zokus, and the resolution involves fleeing towards Saturn, indicating System-wide occupation.",
+        "q3": "Extreme / effectively unreachable (generational, completely separate, or one-way-feeling distance)",
+        "q3_justification": "Jean launches the ship of stories towards Saturn via the Highway at ten times escape velocity. Mieli is lost somewhere in space. The distances are extreme and the journey feels one-way.",
+        "q4": "Radically different / alien social order",
+        "q4_justification": "The people of Sirr are transformed into stories compressed into narrative seeds, living inside a vir that is a bookshop within a nuclear-propelled projectile. Jean is revealed to be part Aun, born from a book and a desert god.",
+        "q5": "Shared lingua franca plus local variation",
+        "q5_justification": "Jean communicates with Tawaddud and the Aun, but the Aun speak as his siblings in a mythic register. Perhonen's last words come through butterfly avatars. Multiple modes of communication coexist.",
+        "q6": "Nearly uninhabitable / lethal without major intervention",
+        "q6_justification": "Perhonen burns up entering the atmosphere, wildcode twists Jean's hands into sapphire claws, and the only salvation is converting everyone into stories and launching them in a nuclear cannon. Earth is being consumed.",
+        "q7": "Normalized / widespread (space habitation is ordinary for humanity)",
+        "q7_justification": "The resolution involves launching minds into space in a projectile, and Jean plans to seek help at Saturn. Space habitation and travel remain normalized even amid catastrophe.",
+        "q8": "Highly fragmented political landscape (multipolar with many factions, corporations, colonies, microstates)",
+        "q8_justification": "Jean references the coming conflict between Sobornost and zokus, the Aun operate independently, Sirr's people become refugees, and Jean seeks friends elsewhere. The political landscape remains deeply fragmented.",
+        "q9": "Adventure / exploration",
+        "q9_justification": "The chapter resolves with Jean and little Matjek steering the ship of stories towards Saturn, seeking friends and planning to rescue Mieli. It ends on a note of adventure and forward momentum.",
+        "q10": "Mixed civilian-military domain",
+        "q10_justification": "The destruction is military (Dragons, the Hunter) but the resolution is civilian: saving people by transforming them into stories and launching them to safety. Both domains are fully intertwined.",
+        "q11": "Like cyberspace / networked or abstract domain",
+        "q11_justification": "The people of Sirr are compressed into stories, a narrative form of existence. Jean is revealed as part of the Aun network of story-beings. The domain of action is fundamentally abstract and narrative.",
+        "q12": "Radically non-Earth-like (physics/environment fundamentally unlike Earth experience)",
+        "q12_justification": "Earth is consumed by Dragons, minds are compressed into narrative seeds, and the escape vessel is a 3000-ton nuclear-propelled projectile containing a vir bookshop. The physical environment is completely unlike Earth."
+    },
+    {
+        "chapter": "Epilogue",
+        "q1": "High contestation (frequent conflict or strategic struggle)",
+        "q1_justification": "The All-Defector consumes Chen's identity, the Pellegrini is manipulated by Jean's hidden calling card, Chen's guberniya eats Earth, and Mieli is left stranded in space with the Pellegrini raging inside her head.",
+        "q2": "Extensive territorial occupation (many settled worlds/regions held like states or empires)",
+        "q2_justification": "Chen's guberniya orbits Earth, its tidal forces tear the Gourd apart, and it rains von Neumann machines onto the planet. A dark shell spreads over Earth's surface. The Sobornost occupies territory on a planetary scale.",
+        "q3": "Extreme / effectively unreachable (generational, completely separate, or one-way-feeling distance)",
+        "q3_justification": "Mieli is alone in the dark vacuum of space watching Earth being consumed. She is rescued by a zoku ship that arrives after what feels like an eternity, emphasizing the vast, isolating distances.",
+        "q4": "Radically different / alien social order",
+        "q4_justification": "The All-Defector wears Chen's childlike shape with infinite hunger, the Kaminari jewel is a zoku artifact of space-time, and Mieli is rescued by zoku beings described as glittering wheels with faces like angels or tarot figures.",
+        "q5": "Translation-mediated communication (universal translator / communication tech makes language difference irrelevant)",
+        "q5_justification": "Mieli communicates with the zoku jewel through thought alone, and the Pellegrini speaks inside her head. All communication is technology-mediated through neural interfaces and jewel technology.",
+        "q6": "Nearly uninhabitable / lethal without major intervention",
+        "q6_justification": "Mieli floats alone in vacuum, Earth is being consumed by von Neumann machines, continents change shape, and survival requires rescue by an alien zoku ship. The environment is lethal without intervention.",
+        "q7": "Normalized / widespread (space habitation is ordinary for humanity)",
+        "q7_justification": "The zoku ship arrives to rescue Mieli, indicating that space-faring civilizations operate routinely. The guberniya, Gourd, and zoku vessels all represent normalized space habitation.",
+        "q8": "Highly fragmented political landscape (multipolar with many factions, corporations, colonies, microstates)",
+        "q8_justification": "The All-Defector, the Pellegrini, the zoku rescuers, and Chen's guberniya all represent distinct factions. Jean's calling card hints at his continued independence. The landscape remains deeply fragmented.",
+        "q9": "Thriller / Horror / Survival",
+        "q9_justification": "Mieli watches helplessly as Earth is consumed, the Pellegrini threatens eternal torment, and Mieli floats alone in vacuum facing death. The atmosphere is one of horror and desperate survival before the zoku rescue.",
+        "q10": "Mixed civilian-military domain",
+        "q10_justification": "Chen's military destruction of Earth contrasts with Mieli's personal survival and the zoku's apparently civilian rescue. The Pellegrini threatens Mieli while the All-Defector pursues its own agenda.",
+        "q11": "Like cyberspace / networked or abstract domain",
+        "q11_justification": "The Kaminari jewel operates as an abstract key to Planck locks, the All-Defector is a consciousness-consuming program, and Jean's calling card dissolves like a dream. Power operates in abstract, information-based domains.",
+        "q12": "Radically non-Earth-like (physics/environment fundamentally unlike Earth experience)",
+        "q12_justification": "A guberniya's tidal forces tear apart orbital infrastructure, von Neumann machines reshape continents, and the zoku appear as glittering wheels with faces like miniature solar systems. The environment is utterly alien."
+    }
+]
+
+country = 'Finland'
+book_title = 'The Fractal Prince'
+csv_path = 'data/results/Finland_The_Fractal_Prince.csv'
+
+with open('data/questions.json', 'r', encoding='utf-8-sig', errors='replace') as f:
+    questions = json.load(f)
+
+fieldnames = ['country', 'book', 'chapter']
+for q in questions:
+    fieldnames.append('q' + str(q['number']))
+for q in questions:
+    fieldnames.append('q' + str(q['number']) + '_justification')
+
+existing_chapters = set()
+if os.path.exists(csv_path) and os.path.getsize(csv_path) > 0:
+    with open(csv_path, 'r', encoding='utf-8') as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            existing_chapters.add(row['chapter'])
+
+for ch_data in chapters_data:
+    chapter = ch_data['chapter']
+    if chapter in existing_chapters:
+        print('Skipped (already exists): ' + chapter)
+        continue
+    row_dict = {'country': country, 'book': book_title, 'chapter': chapter}
+    for q in questions:
+        n = q['number']
+        row_dict['q' + str(n)] = ch_data['q' + str(n)]
+        row_dict['q' + str(n) + '_justification'] = ch_data['q' + str(n) + '_justification']
+    file_exists = os.path.exists(csv_path) and os.path.getsize(csv_path) > 0
+    with open(csv_path, 'a', newline='', encoding='utf-8') as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        if not file_exists:
+            writer.writeheader()
+        writer.writerow(row_dict)
+    print('Written: ' + chapter)
+
+print('Done with batch 3.')

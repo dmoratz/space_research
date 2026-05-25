@@ -1,0 +1,311 @@
+import json, csv, os
+
+chapters_data = [
+    {
+        "chapter": "The Battle Between Sci-Fi and Fantasy",
+        "q1": "Other / Unsure",
+        "q1_justification": "Nonfiction essay comparing science fiction and fantasy genres. No narrative depicting space contestation.",
+        "q2": "Other / Unsure",
+        "q2_justification": "Essay about genre distinctions. No space habitation depicted.",
+        "q3": "Other / Unsure",
+        "q3_justification": "No space journey depicted.",
+        "q4": "Other / Unsure",
+        "q4_justification": "No space society depicted.",
+        "q5": "Other / Unsure",
+        "q5_justification": "No space language depicted.",
+        "q6": "Other / Unsure",
+        "q6_justification": "No space environment depicted.",
+        "q7": "Other / Unsure",
+        "q7_justification": "No space habitation depicted.",
+        "q8": "Other / Unsure",
+        "q8_justification": "No space political order depicted.",
+        "q9": "Other / Unsure",
+        "q9_justification": "Nonfiction essay about genre theory; not a narrative with classifiable genre.",
+        "q10": "Other / Unsure",
+        "q10_justification": "No space domain activity depicted.",
+        "q11": "Other / Unsure",
+        "q11_justification": "No space domain analogy provided.",
+        "q12": "Other / Unsure",
+        "q12_justification": "No space physical environment depicted."
+    },
+    {
+        "chapter": "The Church of Sci-Fi",
+        "q1": "Other / Unsure",
+        "q1_justification": "Nonfiction essay about depictions of the universe in sci-fi and the lack of 'religious feeling' in Chinese sci-fi. No narrative depicting space.",
+        "q2": "Other / Unsure",
+        "q2_justification": "Essay discussing other works' depictions of space conceptually. No narrative space habitation.",
+        "q3": "Other / Unsure",
+        "q3_justification": "No narrative space journey depicted.",
+        "q4": "Other / Unsure",
+        "q4_justification": "No narrative space society depicted.",
+        "q5": "Other / Unsure",
+        "q5_justification": "No narrative space language depicted.",
+        "q6": "Other / Unsure",
+        "q6_justification": "No narrative space environment depicted.",
+        "q7": "Other / Unsure",
+        "q7_justification": "No narrative space habitation depicted.",
+        "q8": "Other / Unsure",
+        "q8_justification": "No narrative space political order depicted.",
+        "q9": "Other / Unsure",
+        "q9_justification": "Nonfiction literary criticism essay; not a narrative with classifiable genre.",
+        "q10": "Other / Unsure",
+        "q10_justification": "No space domain activity depicted.",
+        "q11": "Other / Unsure",
+        "q11_justification": "No space domain analogy provided.",
+        "q12": "Other / Unsure",
+        "q12_justification": "No space physical environment depicted."
+    },
+    {
+        "chapter": "Civilizations Expansion in Reverse",
+        "q1": "Other / Unsure",
+        "q1_justification": "Nonfiction essay arguing for miniaturization of civilization as an alternative to space expansion. Discusses concepts but contains no narrative depicting space.",
+        "q2": "Other / Unsure",
+        "q2_justification": "Essay discusses interstellar expansion conceptually and quotes from 'The Micro-Era,' but itself contains no narrative of space habitation.",
+        "q3": "Other / Unsure",
+        "q3_justification": "Discusses interstellar distances and speed-of-light barriers conceptually. No narrative journey depicted.",
+        "q4": "Other / Unsure",
+        "q4_justification": "Discusses hypothetical micro-civilizations conceptually. No narrative space society depicted.",
+        "q5": "Other / Unsure",
+        "q5_justification": "No narrative space communication depicted.",
+        "q6": "Other / Unsure",
+        "q6_justification": "No narrative space environment depicted.",
+        "q7": "Other / Unsure",
+        "q7_justification": "No narrative space habitation depicted.",
+        "q8": "Other / Unsure",
+        "q8_justification": "No narrative space political order depicted.",
+        "q9": "Other / Unsure",
+        "q9_justification": "Nonfiction speculative essay; not a narrative with classifiable genre.",
+        "q10": "Other / Unsure",
+        "q10_justification": "No narrative space domain activity depicted.",
+        "q11": "Other / Unsure",
+        "q11_justification": "No narrative space domain analogy.",
+        "q12": "Other / Unsure",
+        "q12_justification": "No narrative space physical environment depicted."
+    },
+    {
+        "chapter": "Poetic Science Fiction",
+        "q1": "Other / Unsure",
+        "q1_justification": "Nonfiction essay about Ken Liu's literary works, discussing literary and sci-fi poeticness. No narrative depicting space.",
+        "q2": "Other / Unsure",
+        "q2_justification": "Literary criticism essay. No space habitation depicted.",
+        "q3": "Other / Unsure",
+        "q3_justification": "No space journey depicted.",
+        "q4": "Other / Unsure",
+        "q4_justification": "No space society depicted.",
+        "q5": "Other / Unsure",
+        "q5_justification": "No space language depicted.",
+        "q6": "Other / Unsure",
+        "q6_justification": "No space environment depicted.",
+        "q7": "Other / Unsure",
+        "q7_justification": "No space habitation depicted.",
+        "q8": "Other / Unsure",
+        "q8_justification": "No space political order depicted.",
+        "q9": "Other / Unsure",
+        "q9_justification": "Nonfiction literary essay about another author's works; not a narrative with classifiable genre.",
+        "q10": "Other / Unsure",
+        "q10_justification": "No space domain activity depicted.",
+        "q11": "Other / Unsure",
+        "q11_justification": "No space domain analogy provided.",
+        "q12": "Other / Unsure",
+        "q12_justification": "No space physical environment depicted."
+    },
+    {
+        "chapter": "Destiny",
+        "q1": "No contestation",
+        "q1_justification": "Space is depicted as a peaceful domain for tourism. The couple's honeymoon cruise encounters no competition or conflict in space. The conflict arises only on the alternate Earth where dinosaurs are dominant.",
+        "q2": "Visiting / Temporary presence only (stations, missions, outposts)",
+        "q2_justification": "The couple tours 'synchronously orbiting Space City' and Luna as tourists. Space is a place for visits and tourism, not permanent large-scale settlement. Interstellar travel exists via space-time jumps but habitation is presented as temporary/visiting.",
+        "q3": "Short interplanetary journey",
+        "q3_justification": "The couple is 1.8 million kilometers from Earth on a honeymoon cruise, having visited Space City and Luna. The journey is near-Earth, interplanetary in scale.",
+        "q4": "Basically Earth society in space",
+        "q4_justification": "The space setting is simply Earth people on a chartered honeymoon cruise. There is no distinct space culture; it is ordinary Earth tourism transplanted to space.",
+        "q5": "Same languages as Earth",
+        "q5_justification": "The couple communicates normally in space. The only language issue arises on the alternate Earth, where the computer translates a Latin-like language spoken by primitive humans.",
+        "q6": "Manageable but risky",
+        "q6_justification": "Space cruising is comfortable enough for a honeymoon, but losing an engine strands the couple. The environment is traversable with proper technology but carries inherent risks.",
+        "q7": "Moderately common (noticeable settlements/populations)",
+        "q7_justification": "Space City exists in orbit, Luna is visited, and space-time jump flights enable interstellar travel. Space tourism is available to civilians who can charter ships, suggesting moderate commonality.",
+        "q8": "Earth nation-states extend into space",
+        "q8_justification": "Earth governments have strict ordinances about wormhole travel, requiring ships to return or self-destruct if they cannot. Political authority over space activity extends from Earth governments.",
+        "q9": "Adventure / exploration",
+        "q9_justification": "A time-travel adventure where a honeymooning couple accidentally diverts the dinosaur-killing asteroid, returns to find dinosaurs evolved into the dominant civilization, and must use proof of their deed to negotiate survival.",
+        "q10": "Entirely civilian",
+        "q10_justification": "The space setting involves only civilian activity: a honeymoon cruise on a chartered ship. No military presence in space is depicted.",
+        "q11": "Like the ocean / naval",
+        "q11_justification": "Space travel is described with nautical metaphors: chartering a small ship, cruising. The alternate Earth features an ocean-going vessel with a captain and crew, reinforcing the naval analogy.",
+        "q12": "Somewhat different (manageable environmental differences)",
+        "q12_justification": "Space is traversable by small chartered ships. The couple cruises comfortably, though they face danger when stranded. The environment is different from Earth but manageable with technology."
+    },
+    {
+        "chapter": "The Dark Forest Theory",
+        "q1": "Other / Unsure",
+        "q1_justification": "Nonfiction essay explaining the Dark Forest theory from the Three-Body Problem series. Discusses cosmic civilization relationships conceptually but contains no narrative.",
+        "q2": "Other / Unsure",
+        "q2_justification": "Essay discusses cosmic civilizations as abstract concepts. No narrative space habitation depicted.",
+        "q3": "Other / Unsure",
+        "q3_justification": "No narrative space journey depicted.",
+        "q4": "Other / Unsure",
+        "q4_justification": "Discusses alien civilizations theoretically but no narrative society is depicted.",
+        "q5": "Other / Unsure",
+        "q5_justification": "Discusses communication difficulties between civilizations conceptually. No narrative depiction.",
+        "q6": "Other / Unsure",
+        "q6_justification": "No narrative space environment depicted.",
+        "q7": "Other / Unsure",
+        "q7_justification": "No narrative space habitation depicted.",
+        "q8": "Other / Unsure",
+        "q8_justification": "Discusses cosmic political dynamics theoretically. No narrative depiction.",
+        "q9": "Other / Unsure",
+        "q9_justification": "Nonfiction essay about worldbuilding theory; not a narrative with classifiable genre.",
+        "q10": "Other / Unsure",
+        "q10_justification": "No narrative space domain activity depicted.",
+        "q11": "Other / Unsure",
+        "q11_justification": "No narrative space domain analogy.",
+        "q12": "Other / Unsure",
+        "q12_justification": "No narrative space physical environment depicted."
+    },
+    {
+        "chapter": "The World in Fifty Years",
+        "q1": "Other / Unsure",
+        "q1_justification": "Nonfiction futurological essay speculating about energy, transportation, war, life sciences, and digital living over the next 50 years. No narrative depicting space.",
+        "q2": "Other / Unsure",
+        "q2_justification": "Discusses future technology conceptually. No narrative space habitation depicted.",
+        "q3": "Other / Unsure",
+        "q3_justification": "No narrative space journey depicted.",
+        "q4": "Other / Unsure",
+        "q4_justification": "No narrative space society depicted.",
+        "q5": "Other / Unsure",
+        "q5_justification": "No narrative space language depicted.",
+        "q6": "Other / Unsure",
+        "q6_justification": "No narrative space environment depicted.",
+        "q7": "Other / Unsure",
+        "q7_justification": "No narrative space habitation depicted.",
+        "q8": "Other / Unsure",
+        "q8_justification": "No narrative space political order depicted.",
+        "q9": "Other / Unsure",
+        "q9_justification": "Nonfiction speculative essay about future technology; not a narrative with classifiable genre.",
+        "q10": "Other / Unsure",
+        "q10_justification": "No narrative space domain activity depicted.",
+        "q11": "Other / Unsure",
+        "q11_justification": "No narrative space domain analogy.",
+        "q12": "Other / Unsure",
+        "q12_justification": "No narrative space physical environment depicted."
+    },
+    {
+        "chapter": "Heard It in the Morning",
+        "q1": "No contestation",
+        "q1_justification": "The cosmic order described is peaceful and governed. The dehazardification officer maintains universal safety without conflict. The nebulae civilization cooperated unanimously. No space-based rivalry or disputes.",
+        "q2": "Other / Unsure",
+        "q2_justification": "Humans do not inhabit space in this story. The entire setting is the Earth-based Einstein equator accelerator and surrounding desert. The alien dehaz officer visits Earth.",
+        "q3": "Other / Unsure",
+        "q3_justification": "No space journey is depicted. The trip around the world is through the accelerator tube on Earth's surface. The dehaz officer's travel is instantaneous and not described as a journey.",
+        "q4": "Radically different / alien social order",
+        "q4_justification": "The dehaz officer describes civilizations fundamentally unlike humanity: the ancient nebulae civilization was made of tornado-like gas beings who transformed their bodies into accelerator parts. The cosmic governance system is radically different from any human social order.",
+        "q5": "Same languages as Earth",
+        "q5_justification": "The dehaz officer speaks standard English to communicate with the scientists. No translation technology or language barriers are encountered in space communication.",
+        "q6": "Other / Unsure",
+        "q6_justification": "No space environment is directly experienced by characters. The story is set entirely on Earth. Cosmic conditions are discussed abstractly (vacuum decay, nebulae) but not experienced.",
+        "q7": "Other / Unsure",
+        "q7_justification": "Human space habitation is not depicted. The story takes place on Earth with an alien visitor. The accelerator trip is terrestrial.",
+        "q8": "Single unified authority",
+        "q8_justification": "The universe is governed by a single dehazardification system that monitors all civilizations and prevents dangerous high-energy experiments. This represents a unified cosmic authority.",
+        "q9": "Drama",
+        "q9_justification": "A philosophical and emotional drama about the pursuit of ultimate cosmic truth. Scientists sacrifice their lives for knowledge on the altar of truth, with wrenching family scenes (Ding Yi leaving his daughter, Matsuda and Motoko). Hawking's unanswered final question provides the poignant conclusion.",
+        "q10": "Entirely civilian",
+        "q10_justification": "All characters are civilian scientists, their families, and heads of state. No military presence. The Einstein equator is a scientific instrument, not a military installation.",
+        "q11": "Other / Unsure",
+        "q11_justification": "Space is not depicted as a domain humans operate in. The cosmic setting is discussed abstractly through the dehaz officer's exposition but not analogized to any familiar domain.",
+        "q12": "Other / Unsure",
+        "q12_justification": "No space physical environment is directly experienced. The cosmic conditions described (vacuum energy, nebulae, the void) are abstract concepts discussed by the dehaz officer, not environments characters inhabit."
+    },
+    {
+        "chapter": "On Ball Lightning",
+        "q1": "Other / Unsure",
+        "q1_justification": "Nonfiction interview with Liu Cixin about writing the novel Ball Lightning. No narrative depicting space.",
+        "q2": "Other / Unsure",
+        "q2_justification": "Interview about a novel's writing process. No space habitation depicted.",
+        "q3": "Other / Unsure",
+        "q3_justification": "No space journey depicted.",
+        "q4": "Other / Unsure",
+        "q4_justification": "No space society depicted.",
+        "q5": "Other / Unsure",
+        "q5_justification": "No space language depicted.",
+        "q6": "Other / Unsure",
+        "q6_justification": "No space environment depicted.",
+        "q7": "Other / Unsure",
+        "q7_justification": "No space habitation depicted.",
+        "q8": "Other / Unsure",
+        "q8_justification": "No space political order depicted.",
+        "q9": "Other / Unsure",
+        "q9_justification": "Nonfiction author interview; not a narrative with classifiable genre.",
+        "q10": "Other / Unsure",
+        "q10_justification": "No space domain activity depicted.",
+        "q11": "Other / Unsure",
+        "q11_justification": "No space domain analogy provided.",
+        "q12": "Other / Unsure",
+        "q12_justification": "No space physical environment depicted."
+    },
+    {
+        "chapter": "Were Sci-Fi Fans",
+        "q1": "Other / Unsure",
+        "q1_justification": "Nonfiction essay about Chinese sci-fi fandom followed by promotional blurbs for the Three-Body Problem trilogy. No original narrative depicting space.",
+        "q2": "Other / Unsure",
+        "q2_justification": "Essay about fandom culture. No narrative space habitation depicted.",
+        "q3": "Other / Unsure",
+        "q3_justification": "No narrative space journey depicted.",
+        "q4": "Other / Unsure",
+        "q4_justification": "No narrative space society depicted.",
+        "q5": "Other / Unsure",
+        "q5_justification": "No narrative space language depicted.",
+        "q6": "Other / Unsure",
+        "q6_justification": "No narrative space environment depicted.",
+        "q7": "Other / Unsure",
+        "q7_justification": "No narrative space habitation depicted.",
+        "q8": "Other / Unsure",
+        "q8_justification": "No narrative space political order depicted.",
+        "q9": "Other / Unsure",
+        "q9_justification": "Nonfiction essay about sci-fi fandom plus promotional blurbs; not an original narrative with classifiable genre.",
+        "q10": "Other / Unsure",
+        "q10_justification": "No narrative space domain activity depicted.",
+        "q11": "Other / Unsure",
+        "q11_justification": "No narrative space domain analogy.",
+        "q12": "Other / Unsure",
+        "q12_justification": "No narrative space physical environment depicted."
+    },
+]
+
+country = 'China'
+book_title = 'A View from the Stars'
+csv_path = 'data/results/China_A_View_from_the_Stars.csv'
+questions = [{'number': i} for i in range(1, 13)]
+fieldnames = ['country', 'book', 'chapter']
+for q in questions:
+    fieldnames.append('q' + str(q['number']))
+for q in questions:
+    fieldnames.append('q' + str(q['number']) + '_justification')
+
+existing_chapters = set()
+if os.path.exists(csv_path) and os.path.getsize(csv_path) > 0:
+    with open(csv_path, 'r', encoding='utf-8') as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            existing_chapters.add(row['chapter'])
+
+for ch_data in chapters_data:
+    chapter = ch_data['chapter']
+    if chapter in existing_chapters:
+        print('Skipped (already exists): ' + chapter)
+        continue
+    row_dict = {'country': country, 'book': book_title, 'chapter': chapter}
+    for q in questions:
+        n = q['number']
+        row_dict['q' + str(n)] = ch_data['q' + str(n)]
+        row_dict['q' + str(n) + '_justification'] = ch_data['q' + str(n) + '_justification']
+    file_exists = os.path.exists(csv_path) and os.path.getsize(csv_path) > 0
+    with open(csv_path, 'a', newline='', encoding='utf-8') as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        if not file_exists:
+            writer.writeheader()
+        writer.writerow(row_dict)
+    print('Written: ' + chapter)
+
+print('Done with batch 2.')

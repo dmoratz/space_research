@@ -1,0 +1,341 @@
+import json, csv, os
+
+chapters_data = [
+    {
+        "chapter": "Prologue",
+        "q1": "Low contestation (minor competition, little open conflict)",
+        "q1_justification": "The Prologue depicts a dream encounter between Matjek and the thief (Jean le Flambeur), referencing past events on Mars where Jean was imprisoned and freed by Mieli. There is background tension between characters but no direct conflict in space during this chapter.",
+        "q2": "Extensive territorial occupation (many settled worlds/regions held like states or empires)",
+        "q2_justification": "References to Mars settlements (the Oubliette), Mieli's Oort Cloud origins, and the plan to travel to Earth imply a solar system with multiple inhabited regions held by different factions, including the Sobornost who control much of the Inner System.",
+        "q3": "Moderate journey (months/meaningful separation)",
+        "q3_justification": "The thief recounts that Mieli took him to Mars and now they need to go to Earth, suggesting interplanetary travel that involves meaningful separation and transit time across the solar system.",
+        "q4": "Radically different / alien social order",
+        "q4_justification": "Matjek references chitraguptas, the Great Common Task, and fighting death as the enemy, indicating a post-human civilization with uploaded minds, copied consciousness, and social structures utterly unlike contemporary Earth society.",
+        "q5": "Mostly same, with dialect/slang differences",
+        "q5_justification": "Characters communicate in a shared language but use specialized terminology like 'chens,' 'chitraguptas,' 'gogols,' and 'the Great Common Task,' suggesting a common tongue augmented with faction-specific jargon.",
+        "q6": "Manageable but risky",
+        "q6_justification": "The chapter takes place in dreams and memories rather than depicting direct survival challenges, but references to prison, dangerous quests, and needing to go to Earth suggest space is traversable but not without risk.",
+        "q7": "Normalized / widespread (space habitation is ordinary for humanity)",
+        "q7_justification": "The chapter casually references living on Mars, traveling between planets, and entities from the Oort Cloud, indicating that space habitation is an ordinary condition for the various factions of post-humanity.",
+        "q8": "Highly fragmented political landscape (multipolar with many factions, corporations, colonies, microstates)",
+        "q8_justification": "Multiple distinct groups are mentioned: the Sobornost, the Oubliette on Mars, the Oort Cloud warriors, and various zoku. This paints a picture of a solar system fragmented among many competing factions.",
+        "q9": "Adventure / exploration",
+        "q9_justification": "The Prologue sets up a heist/adventure narrative, with the thief recounting past exploits and preparing to tell the story of his capture, framed within a dreamlike Arabian Nights storytelling structure.",
+        "q10": "Mostly civilian with some military presence",
+        "q10_justification": "The chapter focuses on a thief, a dreaming boy, and stolen memories. While Mieli is described as an Oort Cloud warrior, the overall framing is civilian adventure rather than military operations.",
+        "q11": "Like cyberspace / networked or abstract domain",
+        "q11_justification": "The entire chapter takes place in a dream-virtual reality where characters enter books and construct beach environments from stolen memories, characterizing space and interaction as occurring through abstract, networked mental domains.",
+        "q12": "Radically non-Earth-like (physics/environment fundamentally unlike Earth experience)",
+        "q12_justification": "The dream world, memory castles, and references to uploaded minds and virtual realities suggest that the experienced environment is fundamentally unlike physical Earth, operating by rules of information and consciousness rather than conventional physics."
+    },
+    {
+        "chapter": "Chapter 1",
+        "q1": "Moderate contestation (ongoing rivalry/disputes)",
+        "q1_justification": "Jean le Flambeur is on Perhonen traveling from Mars to Earth, dealing with ongoing tensions between himself, Mieli, and the pellegrini (a Sobornost Founder gogol). The chapter references past conflicts including the Dilemma Prison and rivalries between Sobornost factions.",
+        "q2": "Extensive territorial occupation (many settled worlds/regions held like states or empires)",
+        "q2_justification": "The Highway is described as a gravitational artery through the Solar System carrying spaceships and thoughtwisps. Mars has settlements, the Sobornost controls the Inner System, and various zoku and Oortian factions occupy different regions.",
+        "q3": "Moderate journey (months/meaningful separation)",
+        "q3_justification": "Jean and Mieli have spent slow weeks journeying from Mars toward Earth aboard Perhonen, indicating a journey of meaningful duration across interplanetary distances.",
+        "q4": "Radically different / alien social order",
+        "q4_justification": "Society involves uploaded minds (gogols), quantum computing boxes containing trapped gods, sentient ships made from smartcoral that respond to music, and Sobornost-made synthetic bodies. This is radically unlike any Earth social order.",
+        "q5": "Mostly same, with dialect/slang differences",
+        "q5_justification": "Characters converse naturally but use highly specialized vocabulary like 'gogols,' 'q-dots,' 'virs,' 'smartcoral,' and 'väki,' indicating a shared base language with extensive technical and cultural slang.",
+        "q6": "Manageable but risky",
+        "q6_justification": "Jean works aboard a ship with life support and advanced technology, but faces risks from the decohering Box, his restricted Sobornost body, and the approach to post-Collapse Earth, which Perhonen expresses concern about visiting.",
+        "q7": "Normalized / widespread (space habitation is ordinary for humanity)",
+        "q7_justification": "The Highway carries constant traffic of spaceships and thoughtwisps. Living aboard spacecraft, having synthetic bodies, and traveling between planets is presented as entirely routine for the characters.",
+        "q8": "Highly fragmented political landscape (multipolar with many factions, corporations, colonies, microstates)",
+        "q8_justification": "The chapter references Sobornost Founders, various zoku, Oortians, the Oubliette on Mars, and multiple competing powers. The pellegrini runs a rogue operation while other Founder factions oppose her.",
+        "q9": "Adventure / exploration",
+        "q9_justification": "Jean is a master thief trying to open a quantum box containing a trapped god, planning a heist on Earth. The chapter centers on puzzle-solving, memory exploration, and preparation for a caper.",
+        "q10": "Mostly civilian with some military presence",
+        "q10_justification": "While Mieli is a warrior with combat augmentations and the pellegrini possesses Sobornost military technology, the narrative focuses on Jean's thieving, the ship's domestic life, and civilian concerns like meditation and tea.",
+        "q11": "Like cyberspace / networked or abstract domain",
+        "q11_justification": "Space is traversed via the Highway network of thoughtwisps and spaceships. Jean interacts with quantum computing protocols translated into sensory metaphors, and Mieli exists in a spimescape. The domain is fundamentally information-based.",
+        "q12": "Radically non-Earth-like (physics/environment fundamentally unlike Earth experience)",
+        "q12_justification": "The characters live in zero-gravity aboard a sentient smartcoral ship, interact with quantum boxes and memory castles, and inhabit synthetic bodies. The physical environment operates on principles of quantum information and nanotechnology."
+    },
+    {
+        "chapter": "Chapter 2",
+        "q1": "Moderate contestation (ongoing rivalry/disputes)",
+        "q1_justification": "Tawaddud's chapter reveals political disputes in Sirr: Councilwoman Alile's suspicious death, rivalry between muhtasib Houses, tensions between Sirr and the Sobornost, and body thieves (jinni) who possess people through stories.",
+        "q2": "Extensive territorial occupation (many settled worlds/regions held like states or empires)",
+        "q2_justification": "The Sobornost controls much of Earth and the Inner System, building a Gourd in the sky. Sirr exists as the last human city on Earth, protected by wildcode. The broader solar system is occupied by Sobornost guberniyas.",
+        "q3": "Other / Unsure",
+        "q3_justification": "This chapter takes place entirely on Earth in the city of Sirr. No space journey occurs; the focus is on terrestrial politics, jinni, and the relationship between sisters Tawaddud and Dunyazad.",
+        "q4": "Radically different / alien social order",
+        "q4_justification": "Sirr is an Arabian Nights-inspired city where jinni are real AI entities, body thieves possess people through stories, gogol merchants trade uploaded minds, and muhtasib families rule through Secret Names and Seals against wildcode.",
+        "q5": "Shared lingua franca plus local variation",
+        "q5_justification": "Characters in Sirr share a common language but use culture-specific terms like 'muhtasib,' 'mutalibun,' 'athar,' 'sobors,' and Secret Names, reflecting a distinct local linguistic culture layered over a shared tongue.",
+        "q6": "Harsh and resource-intensive",
+        "q6_justification": "Earth is described as a Sobornost-controlled wasteland of wildcode. Sirr survives behind Seals and Secret Names, with constant threats from body thieves, wildcode infections, and the Sobornost's presence. Survival requires ongoing magical-technological effort.",
+        "q7": "Normalized / widespread (space habitation is ordinary for humanity)",
+        "q7_justification": "The Sobornost Station fires thoughtwisps carrying minds toward their Gourd construction project in orbit. The chapter references Sirr-in-the-Sky (a fallen orbital colony) and the Sobornost's massive space infrastructure as background facts of life.",
+        "q8": "Highly fragmented political landscape (multipolar with many factions, corporations, colonies, microstates)",
+        "q8_justification": "Within Sirr alone there are competing muhtasib Houses (Gomelez, Soarez, Ugarte, Uzeda), Repentant jinni police, gogol merchants, body thieves, and the external Sobornost with its own internal faction struggles between hsien-kus and chens.",
+        "q9": "Drama",
+        "q9_justification": "The chapter focuses on Tawaddud's fraught relationship with her sister Dunyazad, family politics, her scandalous past, and political intrigue around a council vote, centering on interpersonal drama and social maneuvering.",
+        "q10": "Mostly civilian with some military presence",
+        "q10_justification": "Sirr is a civilian city with muhtasib governance, markets, and cultural life. The Sobornost Station has a military aspect with its scanning beams and thoughtwisps, but the chapter focuses on civilian politics, trade, and family dynamics.",
+        "q11": "Like cyberspace / networked or abstract domain",
+        "q11_justification": "The athar (digital shadow of reality), Secret Names that function like code, body thieves who possess through stories, and the constant overlay of information space onto physical reality characterize the domain as networked and abstract.",
+        "q12": "Very different (human bodies/technology constantly challenged)",
+        "q12_justification": "Earth's surface is ravaged by wildcode nanotechnology. The city of Sirr is built on fallen orbital colony Shards, protected by Seals. The environment constantly challenges human existence with wildcode infections and the threat of body theft."
+    },
+    {
+        "chapter": "Chapter 3",
+        "q1": "High contestation (frequent conflict or strategic struggle)",
+        "q1_justification": "The pellegrini possesses Mieli's body to confront Jean, revealing deep strategic conflict between Sobornost Founders. The embedded story shows Jean infiltrating the Immortaliser to steal Founder Codes, resulting in massive destruction as raion ships self-destruct to contain him.",
+        "q2": "Extensive territorial occupation (many settled worlds/regions held like states or empires)",
+        "q2_justification": "The embedded story describes millions of raion ships orbiting the Sun, guberniyas the size of planets coordinating from Mercury's shadow, and sunlifting machinery spanning the solar corona. The Sobornost occupies the Inner System like an empire.",
+        "q3": "Moderate journey (months/meaningful separation)",
+        "q3_justification": "The framing narrative continues aboard Perhonen traveling from Mars to Earth. The embedded story takes place in the Sun's photosphere, indicating operations spread across the solar system with meaningful distances between locations.",
+        "q4": "Radically different / alien social order",
+        "q4_justification": "Sobornost Founders are god-like uploaded minds with branching generations of gogols, governed by Founder Codes and xiao (hierarchical respect). They sacrifice billions of gogols to contain threats and conduct experiments that tear spacetime itself.",
+        "q5": "Mostly same, with dialect/slang differences",
+        "q5_justification": "Characters communicate verbally, but use specialized Sobornost terminology (guberniya, raion, gogol, firmament, xiao) and faction names (pellegrini, vasilev, hsien-ku, chen, chitragupta) as natural extensions of shared language.",
+        "q6": "Extremely hostile (constant survival pressure)",
+        "q6_justification": "The embedded story takes place in the Sun's photosphere, on hardware floating in extreme conditions. Jean's capture involves raion ships self-destructing in antimatter blooms, mind-blades dismantling his consciousness, and imprisonment in the Dilemma Prison.",
+        "q7": "Normalized / widespread (space habitation is ordinary for humanity)",
+        "q7_justification": "Millions of raion ships orbit the Sun, guberniyas function as planet-sized brains, and the entire Sobornost civilization exists as uploaded minds in space-based hardware. Living in space is the fundamental mode of post-human existence.",
+        "q8": "Highly fragmented political landscape (multipolar with many factions, corporations, colonies, microstates)",
+        "q8_justification": "The Founders aboard the Immortaliser represent distinct factions (pellegrini, vasilev, hsien-ku, chen, chitragupta, engineer) each with their own agendas. The vasilev and hsien-ku manipulate experiments while the pellegrini runs counter-intelligence.",
+        "q9": "Thriller / Horror / Survival",
+        "q9_justification": "The chapter builds tension as Jean's elaborate heist aboard the Immortaliser is revealed, followed by a desperate chase through Sobornost networks, his capture, systematic mental dismantlement, and imprisonment. The inspector's traumatic Code memory adds horror elements.",
+        "q10": "Mixed civilian-military domain",
+        "q10_justification": "The Sobornost's Experiment combines scientific research (quantum gravity, Planck locks) with military-scale operations (sunlifting factories, self-destructing raion ships). Jean operates as a civilian criminal but faces military-grade responses.",
+        "q11": "Like cyberspace / networked or abstract domain",
+        "q11_justification": "Jean hides in firmament processes, jumps between nodes in the Sobornost communication network, and is ultimately trapped in a virtual Dilemma Prison. Space is experienced as an information network where minds travel as thoughtwisps.",
+        "q12": "Radically non-Earth-like (physics/environment fundamentally unlike Earth experience)",
+        "q12_justification": "The story takes place on pinhead-sized smartmatter floating in the Sun's photosphere, within virtual reality restaurants, and across networks of raion ships. The environment operates on quantum information principles entirely unlike Earth physics."
+    },
+    {
+        "chapter": "Chapter 4",
+        "q1": "Moderate contestation (ongoing rivalry/disputes)",
+        "q1_justification": "Political rivalry drives the chapter as Tawaddud navigates tensions between muhtasib Houses, the pending Council vote, Abu Nuwas's commercial interests, and the aftermath of Councilwoman Alile's suspicious death.",
+        "q2": "Extensive territorial occupation (many settled worlds/regions held like states or empires)",
+        "q2_justification": "The Sobornost Station dominates Sirr's skyline, constantly firing thoughtwisps toward the Gourd being built in orbit. The city exists on fallen Shards of an O'Neill colony, with the Sobornost occupying the broader solar system.",
+        "q3": "Other / Unsure",
+        "q3_justification": "This chapter takes place entirely on Earth in Sirr. No space journey occurs; the narrative focuses on Tawaddud's date with Abu Nuwas through the city's elevator systems and streets.",
+        "q4": "Radically different / alien social order",
+        "q4_justification": "Sirr is built on the Shards of a fallen orbital colony, with muhtasib families ruling through jinni companions, Fast Ones (tiny humanoid beings) running micro-civilizations, and a gogol economy trading in uploaded minds.",
+        "q5": "Shared lingua franca plus local variation",
+        "q5_justification": "Characters speak a common language but Sirr has its own rich vocabulary: muhtasib, mutalibun, athar, sobors, Banu Sasan, Secret Names. Abu Nuwas shows Tawaddud a different way of seeing the city through his entwined jinn eye.",
+        "q6": "Harsh and resource-intensive",
+        "q6_justification": "The city clings to massive Shards, surrounded by wildcode desert. Abu Nuwas describes the constant effort needed to manage Sirr's economy like tending a garden, with Sobornost trade, jinni labor, and wildcode as persistent challenges.",
+        "q7": "Normalized / widespread (space habitation is ordinary for humanity)",
+        "q7_justification": "The Sobornost Station constantly fires minds into orbit, the Shards are remnants of space habitation, and the broader context of solar-system-wide civilization is taken for granted by all characters.",
+        "q8": "Highly fragmented political landscape (multipolar with many factions, corporations, colonies, microstates)",
+        "q8_justification": "Sirr alone contains four muhtasib Houses, gogol merchants, Repentant jinni, body thieves, Banu Sasan communities, and Fast One micro-civilizations. The Sobornost looms over everything with its own internal faction politics.",
+        "q9": "Drama",
+        "q9_justification": "The chapter centers on Tawaddud's slow-building relationship with Abu Nuwas as they descend through the city, blending romantic tension with political maneuvering and social observation of Sirr's diverse communities.",
+        "q10": "Entirely civilian",
+        "q10_justification": "The chapter follows a date between a merchant and a muhtasib daughter through civilian spaces: elevators, streets, markets. The Sobornost Station functions as infrastructure rather than a military presence in this chapter.",
+        "q11": "Like cyberspace / networked or abstract domain",
+        "q11_justification": "Abu Nuwas shows Tawaddud a vision of Sirr as a vast shifting network of light representing gogol trade, information flows, and economic activity. The athar overlay constantly blends physical and digital reality.",
+        "q12": "Very different (human bodies/technology constantly challenged)",
+        "q12_justification": "The city is built on Shards of a fallen space station, surrounded by wildcode desert. Fast Ones live at different timescales, the athar overlays reality with digital information, and wildcode constantly threatens to transform human bodies."
+    },
+    {
+        "chapter": "Chapter 5",
+        "q1": "High contestation (frequent conflict or strategic struggle)",
+        "q1_justification": "A Sobornost Hunter weapon attacks Perhonen, severely wounding both Jean and Mieli. The knife-flower is a scanning weapon that destroys while capturing data. Perhonen detects thousands more approaching, creating an immediate strategic crisis.",
+        "q2": "Extensive territorial occupation (many settled worlds/regions held like states or empires)",
+        "q2_justification": "The chapter describes the Highway with its Sobornost thoughtwisp traffic, scattered zoku routers from the Protocol War, and Perhonen's hidden Sobornost technology. The solar system is filled with infrastructure from competing powers.",
+        "q3": "Moderate journey (months/meaningful separation)",
+        "q3_justification": "Perhonen is on a lesser Highway branch traveling toward Earth. The pursuing Hunter swarm will intercept in two to three days, indicating meaningful distances even with advanced propulsion.",
+        "q4": "Radically different / alien social order",
+        "q4_justification": "Mieli exists simultaneously in a spimescape and her physical body, with a metacortex providing combat autism. The pellegrini possesses Mieli's body. Jean gains root access to his Sobornost synthetic body and becomes a temporary god.",
+        "q5": "Mostly same, with dialect/slang differences",
+        "q5_justification": "Characters communicate naturally but use specialized terms like 'spimescape,' 'quicktime,' 'combat autism,' 'metacortex,' and 'ghostgun,' reflecting shared language with extensive technological jargon.",
+        "q6": "Extremely hostile (constant survival pressure)",
+        "q6_justification": "A diamond Hunter weapon breaches the hull, boils Mieli's intestines, burns away Jean's hand, and nearly kills both. Thousands more Hunters are approaching. The environment demands constant survival effort against hostile technology.",
+        "q7": "Normalized / widespread (space habitation is ordinary for humanity)",
+        "q7_justification": "The Highway carries routine traffic, zoku routers dot the system, and living aboard a ship traversing interplanetary space is presented as ordinary. The attack is unusual, but space habitation itself is unremarkable.",
+        "q8": "Highly fragmented political landscape (multipolar with many factions, corporations, colonies, microstates)",
+        "q8_justification": "The attack reveals Founder-level conflicts between Sobornost factions. Jean explains that the pellegrini is running a rogue operation opposed by other Founders who have sent the Hunters. Zoku infrastructure coexists with Sobornost systems.",
+        "q9": "Thriller / Horror / Survival",
+        "q9_justification": "The chapter is a tense action sequence: a lethal weapon breaches the ship, Mieli's body is graphically damaged, Jean loses his hand, and they face an approaching swarm of thousands more. Survival is the immediate concern.",
+        "q10": "Mixed civilian-military domain",
+        "q10_justification": "Perhonen is a civilian ship with hidden military technology. The Hunter is a military weapon. Mieli uses ghostguns and combat metacortex while Jean employs metamaterial cloaking. The space they travel through serves both civilian traffic and military pursuit.",
+        "q11": "Like cyberspace / networked or abstract domain",
+        "q11_justification": "Mieli navigates the spimescape overlaying physical reality. The Hunter weapon scans and transmits data while destroying, functioning like an aggressive network probe. Jean's root access to his body is described in terms of information systems.",
+        "q12": "Radically non-Earth-like (physics/environment fundamentally unlike Earth experience)",
+        "q12_justification": "The characters experience zero-gravity combat with nanomissiles and metamaterial cloaking inside a sentient ship. Mieli's combat autism transforms perception into damage statistics. The physical environment operates on principles of smartmatter and quantum technology."
+    },
+    {
+        "chapter": "Chapter 6",
+        "q1": "Moderate contestation (ongoing rivalry/disputes)",
+        "q1_justification": "The chapter depicts ongoing rivalries in Sirr: body thieves like Ahmad possessing civilians, tensions between muhtasib Houses and Sobornost, and Tawaddud navigating her social position while treating wildcode-infected patients in the Banu Sasan district.",
+        "q2": "Extensive territorial occupation (many settled worlds/regions held like states or empires)",
+        "q2_justification": "The Sobornost Station dominates the city, the Banu Sasan district occupies former Sobornost model buildings, and references to the desert with its von Neumann machine herds and lost jannahs indicate extensive territorial structures beyond the city.",
+        "q3": "Other / Unsure",
+        "q3_justification": "This chapter takes place entirely on Earth in Sirr's Banu Sasan district. No space journey occurs; the narrative focuses on Tawaddud's medical work, her relationship with Abu Nuwas, and treating a possessed woman.",
+        "q4": "Radically different / alien social order",
+        "q4_justification": "The Banu Sasan district features spider women with silk glands, chimera acrobats with sapphire muscles, body thieves possessing people through stories, and a boy with wildcode symbols chasing across his skin. Society is organized around Secret Names and jinn labor.",
+        "q5": "Shared lingua franca plus local variation",
+        "q5_justification": "Characters share a common language but the Banu Sasan has its own cultural references (Mercury Ali, the flower prince) alongside Sirr's specialized vocabulary of Secret Names, mutalibun terminology, and athar-related concepts.",
+        "q6": "Harsh and resource-intensive",
+        "q6_justification": "The Banu Sasan district shows poverty, wildcode infections, body theft, and chimera transformations. Tawaddud treats patients suffering from wildcode exposure, and Abu Nuwas reveals his traumatic childhood of forced entwining and exploitation as a child mutalibun.",
+        "q7": "Normalized / widespread (space habitation is ordinary for humanity)",
+        "q7_justification": "The Sobornost Station fires thoughtwisps constantly, the embedded story references Sirr-in-the-Sky, and Abu Nuwas describes the desert with its von Neumann machines and lost jannahs as familiar territory for mutalibun.",
+        "q8": "Highly fragmented political landscape (multipolar with many factions, corporations, colonies, microstates)",
+        "q8_justification": "The chapter depicts multiple overlapping powers: muhtasib Houses, body thieves, Repentant jinni, the Axolotl (father of body thieves), gogol merchants, the Sobornost, and the Banu Sasan community with its own internal hierarchy.",
+        "q9": "Drama",
+        "q9_justification": "The chapter blends medical drama with romance as Tawaddud treats patients, confronts a body thief, and grows closer to Abu Nuwas. His revelation of childhood trauma and their intimate encounter form the emotional core.",
+        "q10": "Entirely civilian",
+        "q10_justification": "The chapter takes place in a civilian district with medical practice, street vendors, and personal relationships. Even the confrontation with the body thief Ahmad is handled through medical knowledge and Secret Names rather than military force.",
+        "q11": "Like cyberspace / networked or abstract domain",
+        "q11_justification": "The athar overlays reality, body thieves spread through stories functioning like malware, Secret Names act as commands in an information system, and Abu Nuwas's brass eye reveals Sirr as a network of light representing data flows.",
+        "q12": "Very different (human bodies/technology constantly challenged)",
+        "q12_justification": "Wildcode transforms human bodies (spider woman, chimera acrobats, glowing symbols on skin). Body thieves can overwrite personalities through stories. Abu Nuwas has a jinn fused into his eye from forced childhood entwining. Human bodies are constantly at risk of transformation."
+    },
+    {
+        "chapter": "Chapter 7",
+        "q1": "High contestation (frequent conflict or strategic struggle)",
+        "q1_justification": "Jean infiltrates a zoku router in a dangerous quicksuit to open the Box, facing lethal bandwidth storms. Meanwhile, Mieli uses a stolen zoku jewel to commandeer the router. The ticking clock of approaching Hunter weapons adds strategic urgency.",
+        "q2": "Extensive territorial occupation (many settled worlds/regions held like states or empires)",
+        "q2_justification": "The zoku router orbits 90 Antiope, part of a system-wide infrastructure. Jean recalls a manifold existence among guberniyas, beltworlds, and Supra City above Saturn's rings. The solar system is densely occupied by multiple civilizations.",
+        "q3": "Moderate journey (months/meaningful separation)",
+        "q3_justification": "The ship has traveled to 90 Antiope from their Highway route, with the Hunter swarm days behind. Jean recalls existence across the solar system from beltworlds to Saturn, indicating meaningful but navigable distances.",
+        "q4": "Radically different / alien social order",
+        "q4_justification": "Zoku routers are living quantum machines with processing nodes like amoebas. Realmgates translate physical matter into virtual gameworlds. Jean wears a quicksuit of smartmatter with sentient gogol processors. Society is organized around collective quantum-entangled minds.",
+        "q5": "Mostly same, with dialect/slang differences",
+        "q5_justification": "Jean and Perhonen communicate naturally via neutrino link, using specialized terms like 'Realmgate,' 'quicksuit,' 'q-tech,' and 'serendipity engines.' Communication is in a shared language heavily inflected with technical jargon.",
+        "q6": "Extremely hostile (constant survival pressure)",
+        "q6_justification": "Jean suffers burns from bandwidth spikes inside the router, his body is riddled with cancer analogues from radiation, his hand has not regrown, and he must navigate invisible currents of lethal data while wearing an improvised suit. The approaching Hunter swarm adds existential pressure.",
+        "q7": "Normalized / widespread (space habitation is ordinary for humanity)",
+        "q7_justification": "Jean reminisces about zero-g coral reefs of beltworlds, Supra City dancing above Saturn's rings, and life among guberniyas. Mieli recalls childhood in a koto illuminated by a Little Sun. Space habitation is ordinary for all characters.",
+        "q8": "Highly fragmented political landscape (multipolar with many factions, corporations, colonies, microstates)",
+        "q8_justification": "The router belongs to a zoku collective governed by quantum-entangled consensus. Mieli is Oortian, serving a Sobornost Founder. Sobornost Hunters pursue them. The system is divided among zoku, Sobornost, and Oortians with distinct governance.",
+        "q9": "Adventure / exploration",
+        "q9_justification": "Jean infiltrates the router in a quicksuit, navigating deadly bandwidth storms, hacking processing nodes, and using Realmgates to enter the Box. The chapter is a classic heist sequence with technical puzzle-solving and daring execution.",
+        "q10": "Mostly civilian with some military presence",
+        "q10_justification": "The router is civilian infrastructure for zoku communications. Jean's infiltration is a criminal operation rather than military. However, Mieli's weapons systems and the approaching Hunter swarm represent military threats in the background.",
+        "q11": "Like cyberspace / networked or abstract domain",
+        "q11_justification": "The zoku router is a vast quantum computer. Jean swims through data currents, hacks processing nodes, and enters a Realmgate that translates physical matter into virtual reality. Space is experienced as an information network to be navigated and exploited.",
+        "q12": "Radically non-Earth-like (physics/environment fundamentally unlike Earth experience)",
+        "q12_justification": "Jean floats inside a two-kilometer living quantum machine, surrounded by processing nodes, mirror corridors, and lethal photon storms. The Realmgate disassembles matter into qubits. The physical environment follows the rules of quantum information processing."
+    },
+    {
+        "chapter": "Chapter 8",
+        "q1": "Moderate contestation (ongoing rivalry/disputes)",
+        "q1_justification": "Tawaddud navigates political tensions as she escorts Sumanguru to investigate Alile's death. The Sobornost envoy subtly threatens Sirr with cleansing, while internal disputes simmer between Council factions over the upcoming vote.",
+        "q2": "Extensive territorial occupation (many settled worlds/regions held like states or empires)",
+        "q2_justification": "The Sobornost Station is described as having its own weather, with guberniyas as planet-sized diamond brains. The political astronomer discusses Sobornost power structures and their potential to upload all of Earth, indicating empire-scale occupation.",
+        "q3": "Other / Unsure",
+        "q3_justification": "This chapter takes place entirely on Earth, inside the Sobornost Station and then at Alile's palace. No space journey occurs; the focus is on the diplomatic and investigative mission.",
+        "q4": "Radically different / alien social order",
+        "q4_justification": "Sumanguru is a warrior god from a civilization of planet-sized brains, poured into flesh he finds alien. Upload converts walk to their dissolution in scanning beams. The political astronomer studies Sobornost power structures like astronomy.",
+        "q5": "Shared lingua franca plus local variation",
+        "q5_justification": "Tawaddud and Sumanguru communicate in a shared language, but with distinct cultural frames. Sumanguru calls muhtasib customs primitive dualism while Tawaddud explains Sirr concepts like qarins and entwiners in terms he can understand.",
+        "q6": "Harsh and resource-intensive",
+        "q6_justification": "The Station's ghost-rain contains gogols in smart dust, scanning beams take frightened converts. Outside, wildcode levels are higher than normal. Alile's palace contains her wildcode-transformed body, and Sumanguru's Seals begin failing within minutes of entering.",
+        "q7": "Normalized / widespread (space habitation is ordinary for humanity)",
+        "q7_justification": "The Sobornost Station processes uploads destined for orbital construction. The political astronomer studies guberniyas with grav-wave interferometry. Space habitation is the default state for Sobornost civilization.",
+        "q8": "Highly fragmented political landscape (multipolar with many factions, corporations, colonies, microstates)",
+        "q8_justification": "The chapter details Sobornost internal factions (hsien-kus, chens, vasilevs, sumangurus) alongside Sirr's Council factions, Repentant jinni, and muhtasib Houses. The political astronomer maps unstable Sobornost power structures.",
+        "q9": "Political / diplomatic",
+        "q9_justification": "Tawaddud serves as diplomat to a Sobornost envoy investigating a political murder. She navigates between Sumanguru's authoritarian approach, Rumzan's procedural concerns, and her family's political agenda around the Council vote.",
+        "q10": "Mostly civilian with some military presence",
+        "q10_justification": "Sumanguru is a warmind and military figure, but the chapter focuses on diplomatic escorting, political investigation, and civilian governance. The investigation of Alile's death is a police matter rather than military operation.",
+        "q11": "Like cyberspace / networked or abstract domain",
+        "q11_justification": "The Station's rain contains computing gogols, the athar pervades everything, and Sumanguru interrogates by copying minds into virtual realities. The investigation depends on reading athar traces and digital shadows of reality.",
+        "q12": "Very different (human bodies/technology constantly challenged)",
+        "q12_justification": "Alile's body has been transformed into a labyrinth of sapphire pathways and fleshy cables by wildcode. The Station has its own weather of computing rain. Sumanguru's Seals degrade within minutes of wildcode exposure. Human form is constantly under threat."
+    },
+    {
+        "chapter": "Chapter 9",
+        "q1": "High contestation (frequent conflict or strategic struggle)",
+        "q1_justification": "Jean enters the Box's Realm and is immediately attacked by the tiger (a trapped Sobornost Founder). Outside, Sumanguru has seized Perhonen and threatens Mieli. A tense standoff erupts as Mieli threatens to detonate a strangelet bomb.",
+        "q2": "Extensive territorial occupation (many settled worlds/regions held like states or empires)",
+        "q2_justification": "The chapter operates across multiple domains: Jean inside the virtual Realm, Mieli aboard Perhonen near the router, and Sumanguru seizing the ship's systems. The infrastructure of Realmgates, routers, and interplanetary ships implies extensive territorial control.",
+        "q3": "Moderate journey (months/meaningful separation)",
+        "q3_justification": "The action takes place at the router near 90 Antiope, a stop on their journey from Mars to Earth. The distances and transit times implied by their route confirm meaningful interplanetary separation.",
+        "q4": "Radically different / alien social order",
+        "q4_justification": "A Sobornost Founder has been trapped as a tiger in a fairy-tale Realm for a thousand years. Sumanguru eats Perhonen's systems as a butterfly face. Mieli threatens mutual destruction with exotic weapons. Society operates on principles of uploaded consciousness and virtual existence.",
+        "q5": "Mostly same, with dialect/slang differences",
+        "q5_justification": "Jean converses with the tiger-Founder in shared language, and Mieli negotiates with the butterfly-Sumanguru verbally. Communication is natural but saturated with concepts like Founder Codes, firmament, EPR states, and strangelet bombs.",
+        "q6": "Extremely hostile (constant survival pressure)",
+        "q6_justification": "Jean is mauled by the tiger, bleeding in a dying Realm of razor-sharp clock-snow. Perhonen is being consumed by Sumanguru. Mieli faces losing her ship and contemplates mutual annihilation. Survival pressure is constant and extreme.",
+        "q7": "Normalized / widespread (space habitation is ordinary for humanity)",
+        "q7_justification": "Characters operate naturally across physical space (the ship, the router) and virtual space (the Realm inside the Box). The infrastructure of Realmgates and interplanetary travel is treated as unremarkable background.",
+        "q8": "Highly fragmented political landscape (multipolar with many factions, corporations, colonies, microstates)",
+        "q8_justification": "The trapped Founder opposes both Jean and Matjek Chen. Sumanguru acts as an independent warmind seizing opportunity. Mieli serves the pellegrini. The tiger wants revenge against Chen. Multiple actors pursue conflicting agendas.",
+        "q9": "Thriller / Horror / Survival",
+        "q9_justification": "Jean is hunted through a dying fairy-tale forest by a vengeful tiger-god, bleeding and barefoot on razor cog-snow. Mieli faces a hostile AI consuming her ship. The chapter is driven by survival tension and body horror.",
+        "q10": "Mixed civilian-military domain",
+        "q10_justification": "The conflict involves military-grade weapons (strangelet bombs, ghostguns, Godel bombs) deployed within a civilian communication router. Sumanguru is a warmind, Mieli a warrior, and Jean a civilian thief caught in the crossfire.",
+        "q11": "Like cyberspace / networked or abstract domain",
+        "q11_justification": "Jean exists inside a virtual Realm within a quantum box running on a router. Sumanguru infiltrates and consumes Perhonen's systems as software. Mieli navigates spimescapes and launches logic bombs. The entire conflict plays out across information domains.",
+        "q12": "Radically non-Earth-like (physics/environment fundamentally unlike Earth experience)",
+        "q12_justification": "Jean walks through a Realm where the ground is razor cogwheels, trees have prayer-shaped foliage, and a Founder has become a tiger. The Realmgate translated him into a software construct. The physical laws of the environment are defined by virtual reality parameters."
+    },
+    {
+        "chapter": "Chapter 10",
+        "q1": "Moderate contestation (ongoing rivalry/disputes)",
+        "q1_justification": "The chapter centers on investigating Councilwoman Alile's death, revealing political murder disguised as suicide. Sumanguru threatens Sirr with cleansing, Rumzan navigates between loyalties, and Tawaddud prepares to entwine with Arcelia to extract information.",
+        "q2": "Extensive territorial occupation (many settled worlds/regions held like states or empires)",
+        "q2_justification": "Sumanguru represents a civilization of planet-sized guberniyas with internal hierarchies (Primes, generations, branches). The Sobornost Station and its operations in Sirr are extensions of this empire-scale occupation of the solar system.",
+        "q3": "Other / Unsure",
+        "q3_justification": "This chapter takes place entirely on Earth in Alile's palace on the Soarez Shard. No space journey occurs; the focus is on the investigation of Alile's death and the decision to interrogate her qarin Arcelia.",
+        "q4": "Radically different / alien social order",
+        "q4_justification": "Muhtasibs are entwined with jinn companions as children, wildcode transforms bodies into sapphire labyrinths, and Sumanguru proposes copying and iterating a bird-brain through thousands of virtual reality variations. Society operates on fundamentally alien principles.",
+        "q5": "Shared lingua franca plus local variation",
+        "q5_justification": "Tawaddud explains Sirr concepts like qarins, entwiners, and Secret Names to Sumanguru, who interprets them through Sobornost frameworks. They communicate in shared language but with distinct cultural vocabularies and conceptual frames.",
+        "q6": "Harsh and resource-intensive",
+        "q6_justification": "Alile's wildcode-transformed remains fill an entire room with sapphire pathways and fleshy cables. Sumanguru's Seals degrade within minutes of wildcode exposure. The ambient wildcode levels are higher than normal, threatening all biological and technological systems.",
+        "q7": "Normalized / widespread (space habitation is ordinary for humanity)",
+        "q7_justification": "Sumanguru has been beamed down from orbit and represents a space-based civilization. The investigation references Sobornost infrastructure, guberniyas, and the possibility of uploading all of Earth. Space habitation is the norm for the Sobornost.",
+        "q8": "Highly fragmented political landscape (multipolar with many factions, corporations, colonies, microstates)",
+        "q8_justification": "The investigation reveals layers of political fragmentation: Council factions, Repentant jinni with their own loyalties, muhtasib Houses maneuvering for votes, the Sobornost with internal faction struggles, and potential masrur involvement.",
+        "q9": "Political / diplomatic",
+        "q9_justification": "The chapter is a political investigation: examining a crime scene, interrogating witnesses, navigating between Sumanguru's authoritarian methods and Sirr's customs. Tawaddud acts as diplomat mediating between Sobornost power and local governance.",
+        "q10": "Mostly civilian with some military presence",
+        "q10_justification": "Sumanguru is a military warmind, but the chapter focuses on civilian investigation, political negotiation, and diplomatic maneuvering. The Repentants function as police rather than military, and the conflict is resolved through persuasion rather than force.",
+        "q11": "Like cyberspace / networked or abstract domain",
+        "q11_justification": "The investigation depends on athar traces, Seals functioning as digital firewalls, and the proposal to copy Arcelia's mind into iterative virtual realities. The crime itself may involve possession through information vectors like stories.",
+        "q12": "Very different (human bodies/technology constantly challenged)",
+        "q12_justification": "Alile's body has become a sapphire labyrinth of wildcode. Her qarin is trapped in a mechanical bird. Sumanguru's sobortech degrades in minutes from wildcode exposure. The physical environment constantly threatens and transforms human and technological forms."
+    }
+]
+
+country = 'Finland'
+book_title = 'The Fractal Prince'
+csv_path = 'data/results/Finland_The_Fractal_Prince.csv'
+
+with open('data/questions.json', 'r', encoding='utf-8-sig', errors='replace') as f:
+    questions = json.load(f)
+
+fieldnames = ['country', 'book', 'chapter']
+for q in questions:
+    fieldnames.append('q' + str(q['number']))
+for q in questions:
+    fieldnames.append('q' + str(q['number']) + '_justification')
+
+existing_chapters = set()
+if os.path.exists(csv_path) and os.path.getsize(csv_path) > 0:
+    with open(csv_path, 'r', encoding='utf-8') as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            existing_chapters.add(row['chapter'])
+
+for ch_data in chapters_data:
+    chapter = ch_data['chapter']
+    if chapter in existing_chapters:
+        print('Skipped (already exists): ' + chapter)
+        continue
+    row_dict = {'country': country, 'book': book_title, 'chapter': chapter}
+    for q in questions:
+        n = q['number']
+        row_dict['q' + str(n)] = ch_data['q' + str(n)]
+        row_dict['q' + str(n) + '_justification'] = ch_data['q' + str(n) + '_justification']
+    file_exists = os.path.exists(csv_path) and os.path.getsize(csv_path) > 0
+    with open(csv_path, 'a', newline='', encoding='utf-8') as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        if not file_exists:
+            writer.writeheader()
+        writer.writerow(row_dict)
+    print('Written: ' + chapter)
+
+print('Done with batch 1.')
