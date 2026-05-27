@@ -1,6 +1,6 @@
 # Intercoder Reliability Report
 
-_Generated: 2026-05-25 18:11:33_
+_Generated: 2026-05-27 11:41:14_
 
 ## Inputs
 
@@ -22,9 +22,9 @@ _Generated: 2026-05-25 18:11:33_
 
 ## Corpus-wide pooled summary
 
-| n_cells| pooled_exact_agreement| mean_kappa| mean_kappa_weighted| mean_alpha| pooled_alpha|
-|-------:|----------------------:|----------:|-------------------:|----------:|------------:|
-|    1440|                  0.403|      0.225|               0.499|      0.718|        0.388|
+| n_cells| n_one_other| n_cells_excl_one_other| pooled_exact_agreement| mean_kappa| mean_kappa_weighted| mean_alpha| pooled_alpha_all| pooled_alpha_excl_one_other|
+|-------:|-----------:|----------------------:|----------------------:|----------:|-------------------:|----------:|----------------:|---------------------------:|
+|    1440|         555|                    885|                  0.403|      0.225|               0.499|      0.718|            0.388|                       0.647|
 
 ## Pooled-by-question results
 

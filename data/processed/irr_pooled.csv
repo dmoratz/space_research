@@ -1,2 +1,2 @@
-n_cells,pooled_exact_agreement,mean_kappa,mean_kappa_weighted,mean_alpha,pooled_alpha
-1440,0.40347222222222223,0.22507448773969846,0.4993812756609536,0.7175547683943179,0.3884958456822146
+n_cells,n_one_other,n_cells_excl_one_other,pooled_exact_agreement,mean_kappa,mean_kappa_weighted,mean_alpha,pooled_alpha_all,pooled_alpha_excl_one_other
+1440,555,885,0.40347222222222223,0.22507448773969846,0.4993812756609536,0.7175547683943179,0.3884958456822146,0.6474136393676503
