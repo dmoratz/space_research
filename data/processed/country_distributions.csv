@@ -1,0 +1,496 @@
+country,question_number,question_id,criteria_short,scale,answer,weight_sum,book_count_unweighted,proportion,aggregation
+China,1,q1,is space something to be contested,ordinal,High contestation (frequent conflict or strategic struggle),3,3,0.375,mode
+China,1,q1,is space something to be contested,ordinal,"Low contestation (minor competition, little open conflict)",1,1,0.125,mode
+China,1,q1,is space something to be contested,ordinal,Moderate contestation (ongoing rivalry/disputes),1,1,0.125,mode
+China,1,q1,is space something to be contested,ordinal,No contestation,0.16776315789473684,3,0.020970394736842105,mode
+China,1,q1,is space something to be contested,ordinal,Other / Unsure,1.832236842105263,32,0.22902960526315788,mode
+China,1,q1,is space something to be contested,ordinal,Total war / constant conflict,1,1,0.125,mode
+China,2,q2,can you inhabit and hold territory in space,ordinal,Extensive territorial occupation (many settled worlds/regions held like states or empires),1.0625,2,0.1328125,mode
+China,2,q2,can you inhabit and hold territory in space,ordinal,Habitable and governable (permanent settlements can hold territory),2,2,0.25,mode
+China,2,q2,can you inhabit and hold territory in space,ordinal,Other / Unsure,1.8848684210526314,33,0.23560855263157893,mode
+China,2,q2,can you inhabit and hold territory in space,ordinal,"Visiting / Temporary presence only (stations, missions, outposts)",3.0526315789473686,4,0.3815789473684211,mode
+China,3,q3,how long is journey / how  far from earth,ordinal,"Extreme / effectively unreachable (generational, completely separate, or one-way-feeling distance)",5.125,7,0.640625,mode
+China,3,q3,how long is journey / how  far from earth,ordinal,Moderate journey (months/meaningful separation),1,1,0.125,mode
+China,3,q3,how long is journey / how  far from earth,ordinal,Other / Unsure,1.8223684210526314,32,0.22779605263157893,mode
+China,3,q3,how long is journey / how  far from earth,ordinal,Short interplanetary journey,0.05263157894736842,1,0.006578947368421052,mode
+China,4,q4,how culturally different is space from earth?,ordinal,Basically Earth society in space,1.0526315789473684,2,0.13157894736842105,mode
+China,4,q4,how culturally different is space from earth?,ordinal,Distinct space culture,3,3,0.375,mode
+China,4,q4,how culturally different is space from earth?,ordinal,Other / Unsure,1.832236842105263,32,0.22902960526315788,mode
+China,4,q4,how culturally different is space from earth?,ordinal,Radically different / alien social order,2.1151315789473686,4,0.2643914473684211,mode
+China,5,q5,do you speak same language on earth vs space ?,ordinal,Other / Unsure,1.832236842105263,32,0.22902960526315788,mode
+China,5,q5,do you speak same language on earth vs space ?,ordinal,Same languages as Earth,4.105263157894737,6,0.5131578947368421,mode
+China,5,q5,do you speak same language on earth vs space ?,ordinal,Translation-mediated communication (universal translator / communication tech makes language difference irrelevant),2.0625,3,0.2578125,mode
+China,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Benign / easily survivable,0.0625,1,0.0078125,mode
+China,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Extremely hostile (constant survival pressure),1.0625,2,0.1328125,mode
+China,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Harsh and resource-intensive,2,2,0.25,mode
+China,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Manageable but risky,0.05263157894736842,1,0.006578947368421052,mode
+China,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Nearly uninhabitable / lethal without major intervention,3,3,0.375,mode
+China,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Other / Unsure,1.8223684210526314,32,0.22779605263157893,mode
+China,7,q7,how common is it for humans to live in space,ordinal,Common (many people live/work there),1,1,0.125,mode
+China,7,q7,how common is it for humans to live in space,ordinal,Exceptionally rare (few astronauts/explorers),3.0625,4,0.3828125,mode
+China,7,q7,how common is it for humans to live in space,ordinal,Moderately common (noticeable settlements/populations),0.05263157894736842,1,0.006578947368421052,mode
+China,7,q7,how common is it for humans to live in space,ordinal,Normalized / widespread (space habitation is ordinary for humanity),2.0625,3,0.2578125,mode
+China,7,q7,how common is it for humans to live in space,ordinal,Other / Unsure,1.8223684210526314,32,0.22779605263157893,mode
+China,8,q8,are there different countries in space? Or just one?,ordinal,Earth nation-states extend into space,1.0526315789473684,2,0.13157894736842105,mode
+China,8,q8,are there different countries in space? Or just one?,ordinal,Multiple distinct space polities,1.0625,2,0.1328125,mode
+China,8,q8,are there different countries in space? Or just one?,ordinal,Other / Unsure,1.832236842105263,32,0.22902960526315788,mode
+China,8,q8,are there different countries in space? Or just one?,ordinal,Single unified authority,4.052631578947368,5,0.506578947368421,mode
+China,9,q9,genre of the book,nominal,Adventure / exploration,0.29276315789473684,5,0.036595394736842105,mode
+China,9,q9,genre of the book,nominal,Comedy / satire,0.1875,3,0.0234375,mode
+China,9,q9,genre of the book,nominal,Drama,5.605263157894737,15,0.7006578947368421,mode
+China,9,q9,genre of the book,nominal,Military / war,0.05263157894736842,1,0.006578947368421052,mode
+China,9,q9,genre of the book,nominal,Other / Unsure,0.7467105263157894,14,0.09333881578947367,mode
+China,9,q9,genre of the book,nominal,Thriller / Horror / Survival,1.1151315789473684,3,0.13939144736842105,mode
+China,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Entirely civilian,1.1677631578947367,4,0.1459703947368421,mode
+China,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Mostly civilian with some military presence,2,2,0.25,mode
+China,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Mostly military,3,3,0.375,mode
+China,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Other / Unsure,1.832236842105263,32,0.22902960526315788,mode
+China,11,q11,Is space characterized like another military domain?,nominal,Like cyberspace / networked or abstract domain,1,1,0.125,mode
+China,11,q11,Is space characterized like another military domain?,nominal,Like the frontier / colonial expansion,2,2,0.25,mode
+China,11,q11,Is space characterized like another military domain?,nominal,Like the ocean / naval,2.0526315789473686,3,0.2565789473684211,mode
+China,11,q11,Is space characterized like another military domain?,nominal,Other / Unsure,1.9473684210526314,34,0.24342105263157893,mode
+China,11,q11,Is space characterized like another military domain?,nominal,Totally unique domain,1,1,0.125,mode
+China,12,q12,how physically different is space from earth?,ordinal,Other / Unsure,1.8223684210526314,32,0.22779605263157893,mode
+China,12,q12,how physically different is space from earth?,ordinal,Radically non-Earth-like (physics/environment fundamentally unlike Earth experience),4.0625,5,0.5078125,mode
+China,12,q12,how physically different is space from earth?,ordinal,Somewhat different (manageable environmental differences),0.05263157894736842,1,0.006578947368421052,mode
+China,12,q12,how physically different is space from earth?,ordinal,Very different (human bodies/technology constantly challenged),2.0625,3,0.2578125,mode
+Finland,1,q1,is space something to be contested,ordinal,High contestation (frequent conflict or strategic struggle),2,2,0.5,mode
+Finland,1,q1,is space something to be contested,ordinal,"Low contestation (minor competition, little open conflict)",1,1,0.25,mode
+Finland,1,q1,is space something to be contested,ordinal,No contestation,1,1,0.25,mode
+Finland,2,q2,can you inhabit and hold territory in space,ordinal,Extensive territorial occupation (many settled worlds/regions held like states or empires),2,2,0.5,mode
+Finland,2,q2,can you inhabit and hold territory in space,ordinal,Habitable and governable (permanent settlements can hold territory),1,1,0.25,mode
+Finland,2,q2,can you inhabit and hold territory in space,ordinal,"Visiting / Temporary presence only (stations, missions, outposts)",1,1,0.25,mode
+Finland,3,q3,how long is journey / how  far from earth,ordinal,"Extreme / effectively unreachable (generational, completely separate, or one-way-feeling distance)",3,3,0.75,mode
+Finland,3,q3,how long is journey / how  far from earth,ordinal,Moderate journey (months/meaningful separation),1,1,0.25,mode
+Finland,4,q4,how culturally different is space from earth?,ordinal,Radically different / alien social order,4,4,1,mode
+Finland,5,q5,do you speak same language on earth vs space ?,ordinal,"Mostly same, with dialect/slang differences",2,2,0.5,mode
+Finland,5,q5,do you speak same language on earth vs space ?,ordinal,Shared lingua franca plus local variation,1,1,0.25,mode
+Finland,5,q5,do you speak same language on earth vs space ?,ordinal,Translation-mediated communication (universal translator / communication tech makes language difference irrelevant),1,1,0.25,mode
+Finland,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Harsh and resource-intensive,1,1,0.25,mode
+Finland,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Manageable but risky,3,3,0.75,mode
+Finland,7,q7,how common is it for humans to live in space,ordinal,Exceptionally rare (few astronauts/explorers),1,1,0.25,mode
+Finland,7,q7,how common is it for humans to live in space,ordinal,Normalized / widespread (space habitation is ordinary for humanity),3,3,0.75,mode
+Finland,8,q8,are there different countries in space? Or just one?,ordinal,"Highly fragmented political landscape (multipolar with many factions, corporations, colonies, microstates)",3,3,0.75,mode
+Finland,8,q8,are there different countries in space? Or just one?,ordinal,Single unified authority,1,1,0.25,mode
+Finland,9,q9,genre of the book,nominal,Adventure / exploration,2,2,0.5,mode
+Finland,9,q9,genre of the book,nominal,Drama,1,1,0.25,mode
+Finland,9,q9,genre of the book,nominal,Thriller / Horror / Survival,1,1,0.25,mode
+Finland,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Entirely civilian,1,1,0.25,mode
+Finland,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Mixed civilian-military domain,1,1,0.25,mode
+Finland,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Mostly civilian with some military presence,2,2,0.5,mode
+Finland,11,q11,Is space characterized like another military domain?,nominal,Like cyberspace / networked or abstract domain,3,3,0.75,mode
+Finland,11,q11,Is space characterized like another military domain?,nominal,Like the frontier / colonial expansion,1,1,0.25,mode
+Finland,12,q12,how physically different is space from earth?,ordinal,Radically non-Earth-like (physics/environment fundamentally unlike Earth experience),2,2,0.5,mode
+Finland,12,q12,how physically different is space from earth?,ordinal,Very different (human bodies/technology constantly challenged),2,2,0.5,mode
+France,1,q1,is space something to be contested,ordinal,High contestation (frequent conflict or strategic struggle),2,2,0.3333333333333333,mode
+France,1,q1,is space something to be contested,ordinal,No contestation,4,4,0.6666666666666666,mode
+France,2,q2,can you inhabit and hold territory in space,ordinal,Cannot inhabit or hold territory,1,1,0.16666666666666666,mode
+France,2,q2,can you inhabit and hold territory in space,ordinal,Extensive territorial occupation (many settled worlds/regions held like states or empires),1,1,0.16666666666666666,mode
+France,2,q2,can you inhabit and hold territory in space,ordinal,Habitable and governable (permanent settlements can hold territory),1,1,0.16666666666666666,mode
+France,2,q2,can you inhabit and hold territory in space,ordinal,"Limited settlement (small colonies, hard to sustain/control)",1,1,0.16666666666666666,mode
+France,2,q2,can you inhabit and hold territory in space,ordinal,"Visiting / Temporary presence only (stations, missions, outposts)",2,2,0.3333333333333333,mode
+France,3,q3,how long is journey / how  far from earth,ordinal,"Extreme / effectively unreachable (generational, completely separate, or one-way-feeling distance)",2,2,0.3333333333333333,mode
+France,3,q3,how long is journey / how  far from earth,ordinal,"Long-distance journey (years, major separation from Earth)",3,3,0.5,mode
+France,3,q3,how long is journey / how  far from earth,ordinal,Short interplanetary journey,1,1,0.16666666666666666,mode
+France,4,q4,how culturally different is space from earth?,ordinal,Basically Earth society in space,2,2,0.3333333333333333,mode
+France,4,q4,how culturally different is space from earth?,ordinal,Distinct space culture,2,2,0.3333333333333333,mode
+France,4,q4,how culturally different is space from earth?,ordinal,Radically different / alien social order,2,2,0.3333333333333333,mode
+France,5,q5,do you speak same language on earth vs space ?,ordinal,Distinct space language(s),2,2,0.3333333333333333,mode
+France,5,q5,do you speak same language on earth vs space ?,ordinal,"Mostly same, with dialect/slang differences",1,1,0.16666666666666666,mode
+France,5,q5,do you speak same language on earth vs space ?,ordinal,Same languages as Earth,2,2,0.3333333333333333,mode
+France,5,q5,do you speak same language on earth vs space ?,ordinal,Shared lingua franca plus local variation,1,1,0.16666666666666666,mode
+France,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Benign / easily survivable,1,1,0.16666666666666666,mode
+France,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Harsh and resource-intensive,3,3,0.5,mode
+France,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Manageable but risky,2,2,0.3333333333333333,mode
+France,7,q7,how common is it for humans to live in space,ordinal,Common (many people live/work there),1,1,0.16666666666666666,mode
+France,7,q7,how common is it for humans to live in space,ordinal,Exceptionally rare (few astronauts/explorers),4,4,0.6666666666666666,mode
+France,7,q7,how common is it for humans to live in space,ordinal,Normalized / widespread (space habitation is ordinary for humanity),1,1,0.16666666666666666,mode
+France,8,q8,are there different countries in space? Or just one?,ordinal,Multiple distinct space polities,1,1,0.16666666666666666,mode
+France,8,q8,are there different countries in space? Or just one?,ordinal,No political order / ungoverned,1,1,0.16666666666666666,mode
+France,8,q8,are there different countries in space? Or just one?,ordinal,Other / Unsure,1,1,0.16666666666666666,mode
+France,8,q8,are there different countries in space? Or just one?,ordinal,Single unified authority,3,3,0.5,mode
+France,9,q9,genre of the book,nominal,Adventure / exploration,3,3,0.5,mode
+France,9,q9,genre of the book,nominal,Drama,1,1,0.16666666666666666,mode
+France,9,q9,genre of the book,nominal,Political / diplomatic,2,2,0.3333333333333333,mode
+France,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Entirely civilian,4,4,0.6666666666666666,mode
+France,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Mixed civilian-military domain,1,1,0.16666666666666666,mode
+France,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Mostly civilian with some military presence,1,1,0.16666666666666666,mode
+France,11,q11,Is space characterized like another military domain?,nominal,Like cyberspace / networked or abstract domain,1,1,0.16666666666666666,mode
+France,11,q11,Is space characterized like another military domain?,nominal,Like the frontier / colonial expansion,5,5,0.8333333333333334,mode
+France,12,q12,how physically different is space from earth?,ordinal,Almost Earth-like,1,1,0.16666666666666666,mode
+France,12,q12,how physically different is space from earth?,ordinal,Somewhat different (manageable environmental differences),2,2,0.3333333333333333,mode
+France,12,q12,how physically different is space from earth?,ordinal,Very different (human bodies/technology constantly challenged),3,3,0.5,mode
+Japan,1,q1,is space something to be contested,ordinal,High contestation (frequent conflict or strategic struggle),3.25,4,0.3611111111111111,mode
+Japan,1,q1,is space something to be contested,ordinal,"Low contestation (minor competition, little open conflict)",1.5,3,0.16666666666666666,mode
+Japan,1,q1,is space something to be contested,ordinal,No contestation,1,1,0.1111111111111111,mode
+Japan,1,q1,is space something to be contested,ordinal,Total war / constant conflict,3.25,4,0.3611111111111111,mode
+Japan,2,q2,can you inhabit and hold territory in space,ordinal,Cannot inhabit or hold territory,1,1,0.1111111111111111,mode
+Japan,2,q2,can you inhabit and hold territory in space,ordinal,Habitable and governable (permanent settlements can hold territory),3.5,5,0.3888888888888889,mode
+Japan,2,q2,can you inhabit and hold territory in space,ordinal,"Limited settlement (small colonies, hard to sustain/control)",0.5,2,0.05555555555555555,mode
+Japan,2,q2,can you inhabit and hold territory in space,ordinal,Other / Unsure,1,1,0.1111111111111111,mode
+Japan,2,q2,can you inhabit and hold territory in space,ordinal,"Visiting / Temporary presence only (stations, missions, outposts)",3,3,0.3333333333333333,mode
+Japan,3,q3,how long is journey / how  far from earth,ordinal,"Extreme / effectively unreachable (generational, completely separate, or one-way-feeling distance)",1,1,0.1111111111111111,mode
+Japan,3,q3,how long is journey / how  far from earth,ordinal,"Long-distance journey (years, major separation from Earth)",2,5,0.2222222222222222,mode
+Japan,3,q3,how long is journey / how  far from earth,ordinal,Moderate journey (months/meaningful separation),1,1,0.1111111111111111,mode
+Japan,3,q3,how long is journey / how  far from earth,ordinal,Near-Earth / very short journey,3,3,0.3333333333333333,mode
+Japan,3,q3,how long is journey / how  far from earth,ordinal,Other / Unsure,1,1,0.1111111111111111,mode
+Japan,3,q3,how long is journey / how  far from earth,ordinal,Short interplanetary journey,1,1,0.1111111111111111,mode
+Japan,4,q4,how culturally different is space from earth?,ordinal,Basically Earth society in space,4,4,0.4444444444444444,mode
+Japan,4,q4,how culturally different is space from earth?,ordinal,Distinct space culture,1,1,0.1111111111111111,mode
+Japan,4,q4,how culturally different is space from earth?,ordinal,Mixed / hybrid culture,0.75,3,0.08333333333333333,mode
+Japan,4,q4,how culturally different is space from earth?,ordinal,Mostly Earth-like with minor adaptations,0.25,1,0.027777777777777776,mode
+Japan,4,q4,how culturally different is space from earth?,ordinal,Other / Unsure,1,1,0.1111111111111111,mode
+Japan,4,q4,how culturally different is space from earth?,ordinal,Radically different / alien social order,2,2,0.2222222222222222,mode
+Japan,5,q5,do you speak same language on earth vs space ?,ordinal,"Mostly same, with dialect/slang differences",1,1,0.1111111111111111,mode
+Japan,5,q5,do you speak same language on earth vs space ?,ordinal,Same languages as Earth,4.25,5,0.4722222222222222,mode
+Japan,5,q5,do you speak same language on earth vs space ?,ordinal,Shared lingua franca plus local variation,2,2,0.2222222222222222,mode
+Japan,5,q5,do you speak same language on earth vs space ?,ordinal,Translation-mediated communication (universal translator / communication tech makes language difference irrelevant),1.75,4,0.19444444444444445,mode
+Japan,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Benign / easily survivable,0.25,1,0.027777777777777776,mode
+Japan,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Extremely hostile (constant survival pressure),1,1,0.1111111111111111,mode
+Japan,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Harsh and resource-intensive,5.25,6,0.5833333333333334,mode
+Japan,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Manageable but risky,0.5,2,0.05555555555555555,mode
+Japan,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Nearly uninhabitable / lethal without major intervention,1,1,0.1111111111111111,mode
+Japan,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Other / Unsure,1,1,0.1111111111111111,mode
+Japan,7,q7,how common is it for humans to live in space,ordinal,Common (many people live/work there),1.25,2,0.1388888888888889,mode
+Japan,7,q7,how common is it for humans to live in space,ordinal,Exceptionally rare (few astronauts/explorers),4,4,0.4444444444444444,mode
+Japan,7,q7,how common is it for humans to live in space,ordinal,Moderately common (noticeable settlements/populations),1.25,2,0.1388888888888889,mode
+Japan,7,q7,how common is it for humans to live in space,ordinal,Other / Unsure,1,1,0.1111111111111111,mode
+Japan,7,q7,how common is it for humans to live in space,ordinal,Uncommon (small specialist population),1.5,3,0.16666666666666666,mode
+Japan,8,q8,are there different countries in space? Or just one?,ordinal,Earth nation-states extend into space,3,3,0.3333333333333333,mode
+Japan,8,q8,are there different countries in space? Or just one?,ordinal,Other / Unsure,1,1,0.1111111111111111,mode
+Japan,8,q8,are there different countries in space? Or just one?,ordinal,Single unified authority,5,8,0.5555555555555556,mode
+Japan,9,q9,genre of the book,nominal,Adventure / exploration,2,2,0.2222222222222222,mode
+Japan,9,q9,genre of the book,nominal,Comedy / satire,1,1,0.1111111111111111,mode
+Japan,9,q9,genre of the book,nominal,Drama,2.75,5,0.3055555555555556,mode
+Japan,9,q9,genre of the book,nominal,Military / war,2,2,0.2222222222222222,mode
+Japan,9,q9,genre of the book,nominal,Political / diplomatic,0.25,1,0.027777777777777776,mode
+Japan,9,q9,genre of the book,nominal,Thriller / Horror / Survival,1,1,0.1111111111111111,mode
+Japan,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Entirely civilian,2,2,0.2222222222222222,mode
+Japan,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Entirely military / war-focused,2,2,0.2222222222222222,mode
+Japan,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Mixed civilian-military domain,1.25,2,0.1388888888888889,mode
+Japan,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Mostly civilian with some military presence,0.75,3,0.08333333333333333,mode
+Japan,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Mostly military,3,3,0.3333333333333333,mode
+Japan,11,q11,Is space characterized like another military domain?,nominal,Like cyberspace / networked or abstract domain,1,1,0.1111111111111111,mode
+Japan,11,q11,Is space characterized like another military domain?,nominal,Like the air / airpower,1,1,0.1111111111111111,mode
+Japan,11,q11,Is space characterized like another military domain?,nominal,Like the frontier / colonial expansion,2,5,0.2222222222222222,mode
+Japan,11,q11,Is space characterized like another military domain?,nominal,Like the ocean / naval,3,3,0.3333333333333333,mode
+Japan,11,q11,Is space characterized like another military domain?,nominal,Other / Unsure,1,1,0.1111111111111111,mode
+Japan,11,q11,Is space characterized like another military domain?,nominal,Totally unique domain,1,1,0.1111111111111111,mode
+Japan,12,q12,how physically different is space from earth?,ordinal,Almost Earth-like,0.25,1,0.027777777777777776,mode
+Japan,12,q12,how physically different is space from earth?,ordinal,Moderately different (regular adaptation needed),2,2,0.2222222222222222,mode
+Japan,12,q12,how physically different is space from earth?,ordinal,Other / Unsure,1,1,0.1111111111111111,mode
+Japan,12,q12,how physically different is space from earth?,ordinal,Radically non-Earth-like (physics/environment fundamentally unlike Earth experience),2,2,0.2222222222222222,mode
+Japan,12,q12,how physically different is space from earth?,ordinal,Somewhat different (manageable environmental differences),0.5,2,0.05555555555555555,mode
+Japan,12,q12,how physically different is space from earth?,ordinal,Very different (human bodies/technology constantly challenged),3.25,4,0.3611111111111111,mode
+Russia,1,q1,is space something to be contested,ordinal,Moderate contestation (ongoing rivalry/disputes),1,1,0.125,mode
+Russia,1,q1,is space something to be contested,ordinal,No contestation,6,6,0.75,mode
+Russia,1,q1,is space something to be contested,ordinal,Other / Unsure,1,1,0.125,mode
+Russia,2,q2,can you inhabit and hold territory in space,ordinal,Other / Unsure,2,2,0.25,mode
+Russia,2,q2,can you inhabit and hold territory in space,ordinal,"Visiting / Temporary presence only (stations, missions, outposts)",6,6,0.75,mode
+Russia,3,q3,how long is journey / how  far from earth,ordinal,"Extreme / effectively unreachable (generational, completely separate, or one-way-feeling distance)",1,1,0.125,mode
+Russia,3,q3,how long is journey / how  far from earth,ordinal,"Long-distance journey (years, major separation from Earth)",4,4,0.5,mode
+Russia,3,q3,how long is journey / how  far from earth,ordinal,Other / Unsure,2,2,0.25,mode
+Russia,3,q3,how long is journey / how  far from earth,ordinal,Short interplanetary journey,1,1,0.125,mode
+Russia,4,q4,how culturally different is space from earth?,ordinal,Basically Earth society in space,2,2,0.25,mode
+Russia,4,q4,how culturally different is space from earth?,ordinal,Mostly Earth-like with minor adaptations,1,1,0.125,mode
+Russia,4,q4,how culturally different is space from earth?,ordinal,Other / Unsure,2,2,0.25,mode
+Russia,4,q4,how culturally different is space from earth?,ordinal,Radically different / alien social order,3,3,0.375,mode
+Russia,5,q5,do you speak same language on earth vs space ?,ordinal,Distinct space language(s),3,3,0.375,mode
+Russia,5,q5,do you speak same language on earth vs space ?,ordinal,Other / Unsure,2,2,0.25,mode
+Russia,5,q5,do you speak same language on earth vs space ?,ordinal,Same languages as Earth,3,3,0.375,mode
+Russia,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Benign / easily survivable,1,1,0.125,mode
+Russia,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Extremely hostile (constant survival pressure),1,1,0.125,mode
+Russia,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Harsh and resource-intensive,2,2,0.25,mode
+Russia,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Manageable but risky,2,2,0.25,mode
+Russia,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Nearly uninhabitable / lethal without major intervention,1,1,0.125,mode
+Russia,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Other / Unsure,1,1,0.125,mode
+Russia,7,q7,how common is it for humans to live in space,ordinal,Exceptionally rare (few astronauts/explorers),4,4,0.5,mode
+Russia,7,q7,how common is it for humans to live in space,ordinal,Other / Unsure,2,2,0.25,mode
+Russia,7,q7,how common is it for humans to live in space,ordinal,Uncommon (small specialist population),2,2,0.25,mode
+Russia,8,q8,are there different countries in space? Or just one?,ordinal,Multiple distinct space polities,2,2,0.25,mode
+Russia,8,q8,are there different countries in space? Or just one?,ordinal,Other / Unsure,2,2,0.25,mode
+Russia,8,q8,are there different countries in space? Or just one?,ordinal,Single unified authority,4,4,0.5,mode
+Russia,9,q9,genre of the book,nominal,Adventure / exploration,1,1,0.125,mode
+Russia,9,q9,genre of the book,nominal,Drama,3,3,0.375,mode
+Russia,9,q9,genre of the book,nominal,Political / diplomatic,1,1,0.125,mode
+Russia,9,q9,genre of the book,nominal,Thriller / Horror / Survival,3,3,0.375,mode
+Russia,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Entirely civilian,5,5,0.625,mode
+Russia,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Mixed civilian-military domain,2,2,0.25,mode
+Russia,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Other / Unsure,1,1,0.125,mode
+Russia,11,q11,Is space characterized like another military domain?,nominal,Like the frontier / colonial expansion,6,6,0.75,mode
+Russia,11,q11,Is space characterized like another military domain?,nominal,Other / Unsure,1,1,0.125,mode
+Russia,11,q11,Is space characterized like another military domain?,nominal,Totally unique domain,1,1,0.125,mode
+Russia,12,q12,how physically different is space from earth?,ordinal,Almost Earth-like,1,1,0.125,mode
+Russia,12,q12,how physically different is space from earth?,ordinal,Moderately different (regular adaptation needed),1,1,0.125,mode
+Russia,12,q12,how physically different is space from earth?,ordinal,Other / Unsure,1,1,0.125,mode
+Russia,12,q12,how physically different is space from earth?,ordinal,Radically non-Earth-like (physics/environment fundamentally unlike Earth experience),3,3,0.375,mode
+Russia,12,q12,how physically different is space from earth?,ordinal,Somewhat different (manageable environmental differences),1,1,0.125,mode
+Russia,12,q12,how physically different is space from earth?,ordinal,Very different (human bodies/technology constantly challenged),1,1,0.125,mode
+US,1,q1,is space something to be contested,ordinal,High contestation (frequent conflict or strategic struggle),3.08,5,0.28,mode
+US,1,q1,is space something to be contested,ordinal,"Low contestation (minor competition, little open conflict)",2.16,6,0.19636363636363638,mode
+US,1,q1,is space something to be contested,ordinal,Moderate contestation (ongoing rivalry/disputes),1.16,5,0.10545454545454545,mode
+US,1,q1,is space something to be contested,ordinal,No contestation,3.52,16,0.32,mode
+US,1,q1,is space something to be contested,ordinal,Total war / constant conflict,1.08,3,0.09818181818181819,mode
+US,2,q2,can you inhabit and hold territory in space,ordinal,Cannot inhabit or hold territory,0.08,2,0.007272727272727273,mode
+US,2,q2,can you inhabit and hold territory in space,ordinal,Extensive territorial occupation (many settled worlds/regions held like states or empires),4,4,0.36363636363636365,mode
+US,2,q2,can you inhabit and hold territory in space,ordinal,Habitable and governable (permanent settlements can hold territory),1.44,12,0.1309090909090909,mode
+US,2,q2,can you inhabit and hold territory in space,ordinal,"Limited settlement (small colonies, hard to sustain/control)",0.24,6,0.021818181818181816,mode
+US,2,q2,can you inhabit and hold territory in space,ordinal,Other / Unsure,0.04,1,0.0036363636363636364,mode
+US,2,q2,can you inhabit and hold territory in space,ordinal,"Visiting / Temporary presence only (stations, missions, outposts)",5.2,10,0.4727272727272727,mode
+US,3,q3,how long is journey / how  far from earth,ordinal,"Extreme / effectively unreachable (generational, completely separate, or one-way-feeling distance)",6,6,0.5454545454545454,mode
+US,3,q3,how long is journey / how  far from earth,ordinal,"Long-distance journey (years, major separation from Earth)",2.04,3,0.18545454545454546,mode
+US,3,q3,how long is journey / how  far from earth,ordinal,Moderate journey (months/meaningful separation),1.04,2,0.09454545454545454,mode
+US,3,q3,how long is journey / how  far from earth,ordinal,Other / Unsure,0.04,1,0.0036363636363636364,mode
+US,3,q3,how long is journey / how  far from earth,ordinal,Short interplanetary journey,1.8800000000000001,23,0.17090909090909093,mode
+US,4,q4,how culturally different is space from earth?,ordinal,Basically Earth society in space,2.56,16,0.23272727272727273,mode
+US,4,q4,how culturally different is space from earth?,ordinal,Distinct space culture,1.04,2,0.09454545454545454,mode
+US,4,q4,how culturally different is space from earth?,ordinal,Mixed / hybrid culture,1.2,6,0.10909090909090909,mode
+US,4,q4,how culturally different is space from earth?,ordinal,Mostly Earth-like with minor adaptations,2,2,0.18181818181818182,mode
+US,4,q4,how culturally different is space from earth?,ordinal,Other / Unsure,0.04,1,0.0036363636363636364,mode
+US,4,q4,how culturally different is space from earth?,ordinal,Radically different / alien social order,4.16,8,0.3781818181818182,mode
+US,5,q5,do you speak same language on earth vs space ?,ordinal,Distinct space language(s),1.12,4,0.10181818181818182,mode
+US,5,q5,do you speak same language on earth vs space ?,ordinal,"Mostly same, with dialect/slang differences",1,1,0.09090909090909091,mode
+US,5,q5,do you speak same language on earth vs space ?,ordinal,Other / Unsure,0.04,1,0.0036363636363636364,mode
+US,5,q5,do you speak same language on earth vs space ?,ordinal,Same languages as Earth,5.68,22,0.5163636363636364,mode
+US,5,q5,do you speak same language on earth vs space ?,ordinal,Shared lingua franca plus local variation,2,2,0.18181818181818182,mode
+US,5,q5,do you speak same language on earth vs space ?,ordinal,Translation-mediated communication (universal translator / communication tech makes language difference irrelevant),1.16,5,0.10545454545454545,mode
+US,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Extremely hostile (constant survival pressure),2.04,3,0.18545454545454546,mode
+US,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Harsh and resource-intensive,3.2,8,0.29090909090909095,mode
+US,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Manageable but risky,4.6,19,0.41818181818181815,mode
+US,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Nearly uninhabitable / lethal without major intervention,1.04,2,0.09454545454545454,mode
+US,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Other / Unsure,0.12,3,0.010909090909090908,mode
+US,7,q7,how common is it for humans to live in space,ordinal,Common (many people live/work there),1.24,7,0.11272727272727273,mode
+US,7,q7,how common is it for humans to live in space,ordinal,Exceptionally rare (few astronauts/explorers),3.4,13,0.3090909090909091,mode
+US,7,q7,how common is it for humans to live in space,ordinal,Moderately common (noticeable settlements/populations),0.16,4,0.014545454545454545,mode
+US,7,q7,how common is it for humans to live in space,ordinal,Normalized / widespread (space habitation is ordinary for humanity),4,4,0.36363636363636365,mode
+US,7,q7,how common is it for humans to live in space,ordinal,Other / Unsure,0.04,1,0.0036363636363636364,mode
+US,7,q7,how common is it for humans to live in space,ordinal,Uncommon (small specialist population),2.16,6,0.19636363636363638,mode
+US,8,q8,are there different countries in space? Or just one?,ordinal,Earth nation-states extend into space,1.52,14,0.13818181818181818,mode
+US,8,q8,are there different countries in space? Or just one?,ordinal,Multiple distinct space polities,6,6,0.5454545454545454,mode
+US,8,q8,are there different countries in space? Or just one?,ordinal,No political order / ungoverned,0.16,4,0.014545454545454545,mode
+US,8,q8,are there different countries in space? Or just one?,ordinal,Other / Unsure,0.28,7,0.025454545454545455,mode
+US,8,q8,are there different countries in space? Or just one?,ordinal,Single unified authority,3.04,4,0.27636363636363637,mode
+US,9,q9,genre of the book,nominal,Adventure / exploration,2.08,4,0.1890909090909091,mode
+US,9,q9,genre of the book,nominal,Comedy / satire,1.08,3,0.09818181818181819,mode
+US,9,q9,genre of the book,nominal,Drama,1.6400000000000001,17,0.1490909090909091,mode
+US,9,q9,genre of the book,nominal,Military / war,1,1,0.09090909090909091,mode
+US,9,q9,genre of the book,nominal,Political / diplomatic,3,3,0.2727272727272727,mode
+US,9,q9,genre of the book,nominal,Thriller / Horror / Survival,2.2,7,0.2,mode
+US,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Entirely civilian,5.76,24,0.5236363636363636,mode
+US,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Entirely military / war-focused,1,1,0.09090909090909091,mode
+US,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Mixed civilian-military domain,3,3,0.2727272727272727,mode
+US,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Mostly civilian with some military presence,1.12,4,0.10181818181818182,mode
+US,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Other / Unsure,0.12,3,0.010909090909090908,mode
+US,11,q11,Is space characterized like another military domain?,nominal,Like the frontier / colonial expansion,6.92,29,0.629090909090909,mode
+US,11,q11,Is space characterized like another military domain?,nominal,Like the ocean / naval,2,2,0.18181818181818182,mode
+US,11,q11,Is space characterized like another military domain?,nominal,Other / Unsure,0.08,2,0.007272727272727273,mode
+US,11,q11,Is space characterized like another military domain?,nominal,Totally unique domain,2,2,0.18181818181818182,mode
+US,12,q12,how physically different is space from earth?,ordinal,Almost Earth-like,1,1,0.09090909090909091,mode
+US,12,q12,how physically different is space from earth?,ordinal,Moderately different (regular adaptation needed),1.2,6,0.10909090909090909,mode
+US,12,q12,how physically different is space from earth?,ordinal,Other / Unsure,0.16,4,0.014545454545454545,mode
+US,12,q12,how physically different is space from earth?,ordinal,Radically non-Earth-like (physics/environment fundamentally unlike Earth experience),2,2,0.18181818181818182,mode
+US,12,q12,how physically different is space from earth?,ordinal,Somewhat different (manageable environmental differences),1.48,13,0.13454545454545455,mode
+US,12,q12,how physically different is space from earth?,ordinal,Very different (human bodies/technology constantly challenged),5.16,9,0.4690909090909091,mode
+China,1,q1,is space something to be contested,ordinal,High contestation (frequent conflict or strategic struggle),1,1,0.16213333333333332,peak
+China,1,q1,is space something to be contested,ordinal,No contestation,0.16776315789473684,3,0.0272,peak
+China,1,q1,is space something to be contested,ordinal,Total war / constant conflict,5,5,0.8106666666666666,peak
+China,2,q2,can you inhabit and hold territory in space,ordinal,Extensive territorial occupation (many settled worlds/regions held like states or empires),2.0625,3,0.33727810650887574,peak
+China,2,q2,can you inhabit and hold territory in space,ordinal,Habitable and governable (permanent settlements can hold territory),2,2,0.32705755782678864,peak
+China,2,q2,can you inhabit and hold territory in space,ordinal,"Limited settlement (small colonies, hard to sustain/control)",1,1,0.16352877891339432,peak
+China,2,q2,can you inhabit and hold territory in space,ordinal,"Visiting / Temporary presence only (stations, missions, outposts)",1.0526315789473684,2,0.17213555675094136,peak
+China,3,q3,how long is journey / how  far from earth,ordinal,"Extreme / effectively unreachable (generational, completely separate, or one-way-feeling distance)",5.125,7,0.8296059637912674,peak
+China,3,q3,how long is journey / how  far from earth,ordinal,"Long-distance journey (years, major separation from Earth)",1,1,0.16187433439829607,peak
+China,3,q3,how long is journey / how  far from earth,ordinal,Short interplanetary journey,0.05263157894736842,1,0.008519701810436634,peak
+China,4,q4,how culturally different is space from earth?,ordinal,Basically Earth society in space,0.05263157894736842,1,0.008533333333333332,peak
+China,4,q4,how culturally different is space from earth?,ordinal,Distinct space culture,2,2,0.32426666666666665,peak
+China,4,q4,how culturally different is space from earth?,ordinal,Radically different / alien social order,4.115131578947368,6,0.6671999999999999,peak
+China,5,q5,do you speak same language on earth vs space ?,ordinal,Same languages as Earth,2.1052631578947367,4,0.3413333333333333,peak
+China,5,q5,do you speak same language on earth vs space ?,ordinal,Translation-mediated communication (universal translator / communication tech makes language difference irrelevant),4.0625,5,0.6586666666666666,peak
+China,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Benign / easily survivable,0.0625,1,0.010117145899893504,peak
+China,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Extremely hostile (constant survival pressure),1.0625,2,0.17199148029818956,peak
+China,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Manageable but risky,0.05263157894736842,1,0.008519701810436634,peak
+China,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Nearly uninhabitable / lethal without major intervention,5,5,0.8093716719914803,peak
+China,7,q7,how common is it for humans to live in space,ordinal,Common (many people live/work there),1,1,0.16187433439829607,peak
+China,7,q7,how common is it for humans to live in space,ordinal,Exceptionally rare (few astronauts/explorers),1.0625,2,0.17199148029818956,peak
+China,7,q7,how common is it for humans to live in space,ordinal,Moderately common (noticeable settlements/populations),1.0526315789473684,2,0.1703940362087327,peak
+China,7,q7,how common is it for humans to live in space,ordinal,Normalized / widespread (space habitation is ordinary for humanity),3.0625,4,0.4957401490947817,peak
+China,8,q8,are there different countries in space? Or just one?,ordinal,Earth nation-states extend into space,0.05263157894736842,1,0.008533333333333332,peak
+China,8,q8,are there different countries in space? Or just one?,ordinal,Multiple distinct space polities,3.0625,4,0.4965333333333333,peak
+China,8,q8,are there different countries in space? Or just one?,ordinal,Single unified authority,3.0526315789473686,4,0.49493333333333334,peak
+China,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Entirely civilian,0.16776315789473684,3,0.0272,peak
+China,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Entirely military / war-focused,1,1,0.16213333333333332,peak
+China,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Mostly military,5,5,0.8106666666666666,peak
+China,12,q12,how physically different is space from earth?,ordinal,Radically non-Earth-like (physics/environment fundamentally unlike Earth experience),5.0625,6,0.8194888178913738,peak
+China,12,q12,how physically different is space from earth?,ordinal,Somewhat different (manageable environmental differences),0.05263157894736842,1,0.008519701810436634,peak
+China,12,q12,how physically different is space from earth?,ordinal,Very different (human bodies/technology constantly challenged),1.0625,2,0.17199148029818956,peak
+Finland,1,q1,is space something to be contested,ordinal,"Low contestation (minor competition, little open conflict)",1,1,0.25,peak
+Finland,1,q1,is space something to be contested,ordinal,Total war / constant conflict,3,3,0.75,peak
+Finland,2,q2,can you inhabit and hold territory in space,ordinal,Extensive territorial occupation (many settled worlds/regions held like states or empires),3,3,0.75,peak
+Finland,2,q2,can you inhabit and hold territory in space,ordinal,Habitable and governable (permanent settlements can hold territory),1,1,0.25,peak
+Finland,3,q3,how long is journey / how  far from earth,ordinal,"Extreme / effectively unreachable (generational, completely separate, or one-way-feeling distance)",4,4,1,peak
+Finland,4,q4,how culturally different is space from earth?,ordinal,Radically different / alien social order,4,4,1,peak
+Finland,5,q5,do you speak same language on earth vs space ?,ordinal,Distinct space language(s),1,1,0.25,peak
+Finland,5,q5,do you speak same language on earth vs space ?,ordinal,"Mostly same, with dialect/slang differences",1,1,0.25,peak
+Finland,5,q5,do you speak same language on earth vs space ?,ordinal,Translation-mediated communication (universal translator / communication tech makes language difference irrelevant),2,2,0.5,peak
+Finland,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Extremely hostile (constant survival pressure),1,1,0.25,peak
+Finland,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Harsh and resource-intensive,1,1,0.25,peak
+Finland,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Nearly uninhabitable / lethal without major intervention,2,2,0.5,peak
+Finland,7,q7,how common is it for humans to live in space,ordinal,Exceptionally rare (few astronauts/explorers),1,1,0.25,peak
+Finland,7,q7,how common is it for humans to live in space,ordinal,Normalized / widespread (space habitation is ordinary for humanity),3,3,0.75,peak
+Finland,8,q8,are there different countries in space? Or just one?,ordinal,"Highly fragmented political landscape (multipolar with many factions, corporations, colonies, microstates)",3,3,0.75,peak
+Finland,8,q8,are there different countries in space? Or just one?,ordinal,Single unified authority,1,1,0.25,peak
+Finland,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Entirely civilian,1,1,0.25,peak
+Finland,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Entirely military / war-focused,1,1,0.25,peak
+Finland,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Mixed civilian-military domain,1,1,0.25,peak
+Finland,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Mostly military,1,1,0.25,peak
+Finland,12,q12,how physically different is space from earth?,ordinal,Radically non-Earth-like (physics/environment fundamentally unlike Earth experience),4,4,1,peak
+France,1,q1,is space something to be contested,ordinal,High contestation (frequent conflict or strategic struggle),1,1,0.16666666666666666,peak
+France,1,q1,is space something to be contested,ordinal,Moderate contestation (ongoing rivalry/disputes),1,1,0.16666666666666666,peak
+France,1,q1,is space something to be contested,ordinal,No contestation,1,1,0.16666666666666666,peak
+France,1,q1,is space something to be contested,ordinal,Total war / constant conflict,3,3,0.5,peak
+France,2,q2,can you inhabit and hold territory in space,ordinal,Extensive territorial occupation (many settled worlds/regions held like states or empires),1,1,0.16666666666666666,peak
+France,2,q2,can you inhabit and hold territory in space,ordinal,Habitable and governable (permanent settlements can hold territory),3,3,0.5,peak
+France,2,q2,can you inhabit and hold territory in space,ordinal,"Limited settlement (small colonies, hard to sustain/control)",1,1,0.16666666666666666,peak
+France,2,q2,can you inhabit and hold territory in space,ordinal,"Visiting / Temporary presence only (stations, missions, outposts)",1,1,0.16666666666666666,peak
+France,3,q3,how long is journey / how  far from earth,ordinal,"Extreme / effectively unreachable (generational, completely separate, or one-way-feeling distance)",3,3,0.5,peak
+France,3,q3,how long is journey / how  far from earth,ordinal,"Long-distance journey (years, major separation from Earth)",2,2,0.3333333333333333,peak
+France,3,q3,how long is journey / how  far from earth,ordinal,Moderate journey (months/meaningful separation),1,1,0.16666666666666666,peak
+France,4,q4,how culturally different is space from earth?,ordinal,Basically Earth society in space,1,1,0.16666666666666666,peak
+France,4,q4,how culturally different is space from earth?,ordinal,Mostly Earth-like with minor adaptations,1,1,0.16666666666666666,peak
+France,4,q4,how culturally different is space from earth?,ordinal,Radically different / alien social order,4,4,0.6666666666666666,peak
+France,5,q5,do you speak same language on earth vs space ?,ordinal,Distinct space language(s),2,2,0.3333333333333333,peak
+France,5,q5,do you speak same language on earth vs space ?,ordinal,"Mostly same, with dialect/slang differences",1,1,0.16666666666666666,peak
+France,5,q5,do you speak same language on earth vs space ?,ordinal,Same languages as Earth,1,1,0.16666666666666666,peak
+France,5,q5,do you speak same language on earth vs space ?,ordinal,Shared lingua franca plus local variation,2,2,0.3333333333333333,peak
+France,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Extremely hostile (constant survival pressure),4,4,0.6666666666666666,peak
+France,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Nearly uninhabitable / lethal without major intervention,2,2,0.3333333333333333,peak
+France,7,q7,how common is it for humans to live in space,ordinal,Exceptionally rare (few astronauts/explorers),2,2,0.3333333333333333,peak
+France,7,q7,how common is it for humans to live in space,ordinal,Normalized / widespread (space habitation is ordinary for humanity),3,3,0.5,peak
+France,7,q7,how common is it for humans to live in space,ordinal,Uncommon (small specialist population),1,1,0.16666666666666666,peak
+France,8,q8,are there different countries in space? Or just one?,ordinal,Earth nation-states extend into space,1,1,0.2,peak
+France,8,q8,are there different countries in space? Or just one?,ordinal,"Highly fragmented political landscape (multipolar with many factions, corporations, colonies, microstates)",1,1,0.2,peak
+France,8,q8,are there different countries in space? Or just one?,ordinal,Multiple distinct space polities,1,1,0.2,peak
+France,8,q8,are there different countries in space? Or just one?,ordinal,Single unified authority,2,2,0.4,peak
+France,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Entirely civilian,1,1,0.16666666666666666,peak
+France,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Entirely military / war-focused,1,1,0.16666666666666666,peak
+France,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Mixed civilian-military domain,2,2,0.3333333333333333,peak
+France,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Mostly civilian with some military presence,2,2,0.3333333333333333,peak
+France,12,q12,how physically different is space from earth?,ordinal,Radically non-Earth-like (physics/environment fundamentally unlike Earth experience),4,4,0.6666666666666666,peak
+France,12,q12,how physically different is space from earth?,ordinal,Very different (human bodies/technology constantly challenged),2,2,0.3333333333333333,peak
+Japan,1,q1,is space something to be contested,ordinal,High contestation (frequent conflict or strategic struggle),1.25,2,0.1388888888888889,peak
+Japan,1,q1,is space something to be contested,ordinal,"Low contestation (minor competition, little open conflict)",0.5,2,0.05555555555555555,peak
+Japan,1,q1,is space something to be contested,ordinal,Moderate contestation (ongoing rivalry/disputes),1,1,0.1111111111111111,peak
+Japan,1,q1,is space something to be contested,ordinal,Total war / constant conflict,6.25,7,0.6944444444444444,peak
+Japan,2,q2,can you inhabit and hold territory in space,ordinal,Extensive territorial occupation (many settled worlds/regions held like states or empires),1,1,0.125,peak
+Japan,2,q2,can you inhabit and hold territory in space,ordinal,Habitable and governable (permanent settlements can hold territory),4.5,6,0.5625,peak
+Japan,2,q2,can you inhabit and hold territory in space,ordinal,"Limited settlement (small colonies, hard to sustain/control)",0.5,2,0.0625,peak
+Japan,2,q2,can you inhabit and hold territory in space,ordinal,"Visiting / Temporary presence only (stations, missions, outposts)",2,2,0.25,peak
+Japan,3,q3,how long is journey / how  far from earth,ordinal,"Extreme / effectively unreachable (generational, completely separate, or one-way-feeling distance)",3,3,0.375,peak
+Japan,3,q3,how long is journey / how  far from earth,ordinal,"Long-distance journey (years, major separation from Earth)",2,5,0.25,peak
+Japan,3,q3,how long is journey / how  far from earth,ordinal,Near-Earth / very short journey,3,3,0.375,peak
+Japan,4,q4,how culturally different is space from earth?,ordinal,Basically Earth society in space,3,3,0.375,peak
+Japan,4,q4,how culturally different is space from earth?,ordinal,Distinct space culture,2,2,0.25,peak
+Japan,4,q4,how culturally different is space from earth?,ordinal,Mixed / hybrid culture,0.75,3,0.09375,peak
+Japan,4,q4,how culturally different is space from earth?,ordinal,Mostly Earth-like with minor adaptations,0.25,1,0.03125,peak
+Japan,4,q4,how culturally different is space from earth?,ordinal,Radically different / alien social order,2,2,0.25,peak
+Japan,5,q5,do you speak same language on earth vs space ?,ordinal,Same languages as Earth,2.25,3,0.25,peak
+Japan,5,q5,do you speak same language on earth vs space ?,ordinal,Shared lingua franca plus local variation,4,4,0.4444444444444444,peak
+Japan,5,q5,do you speak same language on earth vs space ?,ordinal,Translation-mediated communication (universal translator / communication tech makes language difference irrelevant),2.75,5,0.3055555555555556,peak
+Japan,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Benign / easily survivable,0.25,1,0.03125,peak
+Japan,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Extremely hostile (constant survival pressure),2,2,0.25,peak
+Japan,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Harsh and resource-intensive,2.25,3,0.28125,peak
+Japan,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Manageable but risky,0.5,2,0.0625,peak
+Japan,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Nearly uninhabitable / lethal without major intervention,3,3,0.375,peak
+Japan,7,q7,how common is it for humans to live in space,ordinal,Common (many people live/work there),2.25,3,0.28125,peak
+Japan,7,q7,how common is it for humans to live in space,ordinal,Exceptionally rare (few astronauts/explorers),1,1,0.125,peak
+Japan,7,q7,how common is it for humans to live in space,ordinal,Moderately common (noticeable settlements/populations),0.25,1,0.03125,peak
+Japan,7,q7,how common is it for humans to live in space,ordinal,Normalized / widespread (space habitation is ordinary for humanity),1,1,0.125,peak
+Japan,7,q7,how common is it for humans to live in space,ordinal,Uncommon (small specialist population),3.5,5,0.4375,peak
+Japan,8,q8,are there different countries in space? Or just one?,ordinal,Earth nation-states extend into space,4,4,0.5,peak
+Japan,8,q8,are there different countries in space? Or just one?,ordinal,Multiple distinct space polities,1,1,0.125,peak
+Japan,8,q8,are there different countries in space? Or just one?,ordinal,Single unified authority,3,6,0.375,peak
+Japan,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Entirely civilian,1,1,0.1111111111111111,peak
+Japan,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Entirely military / war-focused,2,2,0.2222222222222222,peak
+Japan,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Mixed civilian-military domain,0.25,1,0.027777777777777776,peak
+Japan,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Mostly civilian with some military presence,1.75,4,0.19444444444444445,peak
+Japan,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Mostly military,4,4,0.4444444444444444,peak
+Japan,12,q12,how physically different is space from earth?,ordinal,Almost Earth-like,0.25,1,0.03125,peak
+Japan,12,q12,how physically different is space from earth?,ordinal,Radically non-Earth-like (physics/environment fundamentally unlike Earth experience),2,2,0.25,peak
+Japan,12,q12,how physically different is space from earth?,ordinal,Somewhat different (manageable environmental differences),0.5,2,0.0625,peak
+Japan,12,q12,how physically different is space from earth?,ordinal,Very different (human bodies/technology constantly challenged),5.25,6,0.65625,peak
+Russia,1,q1,is space something to be contested,ordinal,Moderate contestation (ongoing rivalry/disputes),1,1,0.14285714285714285,peak
+Russia,1,q1,is space something to be contested,ordinal,No contestation,5,5,0.7142857142857143,peak
+Russia,1,q1,is space something to be contested,ordinal,Total war / constant conflict,1,1,0.14285714285714285,peak
+Russia,2,q2,can you inhabit and hold territory in space,ordinal,Habitable and governable (permanent settlements can hold territory),1,1,0.16666666666666666,peak
+Russia,2,q2,can you inhabit and hold territory in space,ordinal,"Visiting / Temporary presence only (stations, missions, outposts)",5,5,0.8333333333333334,peak
+Russia,3,q3,how long is journey / how  far from earth,ordinal,"Extreme / effectively unreachable (generational, completely separate, or one-way-feeling distance)",2,2,0.3333333333333333,peak
+Russia,3,q3,how long is journey / how  far from earth,ordinal,"Long-distance journey (years, major separation from Earth)",3,3,0.5,peak
+Russia,3,q3,how long is journey / how  far from earth,ordinal,Short interplanetary journey,1,1,0.16666666666666666,peak
+Russia,4,q4,how culturally different is space from earth?,ordinal,Basically Earth society in space,2,2,0.3333333333333333,peak
+Russia,4,q4,how culturally different is space from earth?,ordinal,Mostly Earth-like with minor adaptations,1,1,0.16666666666666666,peak
+Russia,4,q4,how culturally different is space from earth?,ordinal,Radically different / alien social order,3,3,0.5,peak
+Russia,5,q5,do you speak same language on earth vs space ?,ordinal,Distinct space language(s),3,3,0.5,peak
+Russia,5,q5,do you speak same language on earth vs space ?,ordinal,Same languages as Earth,2,2,0.3333333333333333,peak
+Russia,5,q5,do you speak same language on earth vs space ?,ordinal,Translation-mediated communication (universal translator / communication tech makes language difference irrelevant),1,1,0.16666666666666666,peak
+Russia,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Benign / easily survivable,1,1,0.14285714285714285,peak
+Russia,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Extremely hostile (constant survival pressure),2,2,0.2857142857142857,peak
+Russia,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Harsh and resource-intensive,1,1,0.14285714285714285,peak
+Russia,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Nearly uninhabitable / lethal without major intervention,3,3,0.42857142857142855,peak
+Russia,7,q7,how common is it for humans to live in space,ordinal,Common (many people live/work there),1,1,0.16666666666666666,peak
+Russia,7,q7,how common is it for humans to live in space,ordinal,Exceptionally rare (few astronauts/explorers),3,3,0.5,peak
+Russia,7,q7,how common is it for humans to live in space,ordinal,Uncommon (small specialist population),2,2,0.3333333333333333,peak
+Russia,8,q8,are there different countries in space? Or just one?,ordinal,Multiple distinct space polities,2,2,0.3333333333333333,peak
+Russia,8,q8,are there different countries in space? Or just one?,ordinal,Single unified authority,4,4,0.6666666666666666,peak
+Russia,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Entirely civilian,4,4,0.5714285714285714,peak
+Russia,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Entirely military / war-focused,1,1,0.14285714285714285,peak
+Russia,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Mixed civilian-military domain,1,1,0.14285714285714285,peak
+Russia,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Mostly military,1,1,0.14285714285714285,peak
+Russia,12,q12,how physically different is space from earth?,ordinal,Almost Earth-like,1,1,0.14285714285714285,peak
+Russia,12,q12,how physically different is space from earth?,ordinal,Radically non-Earth-like (physics/environment fundamentally unlike Earth experience),5,5,0.7142857142857143,peak
+Russia,12,q12,how physically different is space from earth?,ordinal,Very different (human bodies/technology constantly challenged),1,1,0.14285714285714285,peak
+US,1,q1,is space something to be contested,ordinal,High contestation (frequent conflict or strategic struggle),3.08,5,0.28,peak
+US,1,q1,is space something to be contested,ordinal,"Low contestation (minor competition, little open conflict)",0.16,4,0.014545454545454545,peak
+US,1,q1,is space something to be contested,ordinal,Moderate contestation (ongoing rivalry/disputes),1.16,5,0.10545454545454545,peak
+US,1,q1,is space something to be contested,ordinal,No contestation,1.52,14,0.13818181818181818,peak
+US,1,q1,is space something to be contested,ordinal,Total war / constant conflict,5.08,7,0.46181818181818185,peak
+US,2,q2,can you inhabit and hold territory in space,ordinal,Cannot inhabit or hold territory,0.08,2,0.0072992700729927005,peak
+US,2,q2,can you inhabit and hold territory in space,ordinal,Extensive territorial occupation (many settled worlds/regions held like states or empires),4,4,0.36496350364963503,peak
+US,2,q2,can you inhabit and hold territory in space,ordinal,Habitable and governable (permanent settlements can hold territory),2.44,13,0.22262773722627735,peak
+US,2,q2,can you inhabit and hold territory in space,ordinal,"Limited settlement (small colonies, hard to sustain/control)",2.24,8,0.20437956204379562,peak
+US,2,q2,can you inhabit and hold territory in space,ordinal,"Visiting / Temporary presence only (stations, missions, outposts)",2.2,7,0.20072992700729927,peak
+US,3,q3,how long is journey / how  far from earth,ordinal,"Extreme / effectively unreachable (generational, completely separate, or one-way-feeling distance)",9,9,0.8211678832116788,peak
+US,3,q3,how long is journey / how  far from earth,ordinal,"Long-distance journey (years, major separation from Earth)",0.04,1,0.0036496350364963502,peak
+US,3,q3,how long is journey / how  far from earth,ordinal,Moderate journey (months/meaningful separation),1.04,2,0.0948905109489051,peak
+US,3,q3,how long is journey / how  far from earth,ordinal,Short interplanetary journey,0.88,22,0.08029197080291971,peak
+US,4,q4,how culturally different is space from earth?,ordinal,Basically Earth society in space,1.56,15,0.14233576642335766,peak
+US,4,q4,how culturally different is space from earth?,ordinal,Distinct space culture,1.04,2,0.0948905109489051,peak
+US,4,q4,how culturally different is space from earth?,ordinal,Mixed / hybrid culture,3.2,8,0.291970802919708,peak
+US,4,q4,how culturally different is space from earth?,ordinal,Radically different / alien social order,5.16,9,0.4708029197080292,peak
+US,5,q5,do you speak same language on earth vs space ?,ordinal,Distinct space language(s),3.12,6,0.2846715328467153,peak
+US,5,q5,do you speak same language on earth vs space ?,ordinal,"Mostly same, with dialect/slang differences",2,2,0.18248175182481752,peak
+US,5,q5,do you speak same language on earth vs space ?,ordinal,Same languages as Earth,3.68,20,0.3357664233576642,peak
+US,5,q5,do you speak same language on earth vs space ?,ordinal,Shared lingua franca plus local variation,1,1,0.09124087591240876,peak
+US,5,q5,do you speak same language on earth vs space ?,ordinal,Translation-mediated communication (universal translator / communication tech makes language difference irrelevant),1.16,5,0.10583941605839414,peak
+US,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Extremely hostile (constant survival pressure),4.04,5,0.37132352941176466,peak
+US,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Harsh and resource-intensive,1.2,6,0.1102941176470588,peak
+US,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Manageable but risky,0.6,15,0.0551470588235294,peak
+US,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Nearly uninhabitable / lethal without major intervention,5.04,6,0.463235294117647,peak
+US,7,q7,how common is it for humans to live in space,ordinal,Common (many people live/work there),2.24,8,0.20437956204379562,peak
+US,7,q7,how common is it for humans to live in space,ordinal,Exceptionally rare (few astronauts/explorers),2.4,12,0.218978102189781,peak
+US,7,q7,how common is it for humans to live in space,ordinal,Moderately common (noticeable settlements/populations),1.16,5,0.10583941605839414,peak
+US,7,q7,how common is it for humans to live in space,ordinal,Normalized / widespread (space habitation is ordinary for humanity),4,4,0.36496350364963503,peak
+US,7,q7,how common is it for humans to live in space,ordinal,Uncommon (small specialist population),1.16,5,0.10583941605839414,peak
+US,8,q8,are there different countries in space? Or just one?,ordinal,Earth nation-states extend into space,2.52,15,0.23507462686567163,peak
+US,8,q8,are there different countries in space? Or just one?,ordinal,"Highly fragmented political landscape (multipolar with many factions, corporations, colonies, microstates)",3,3,0.2798507462686567,peak
+US,8,q8,are there different countries in space? Or just one?,ordinal,Multiple distinct space polities,5,5,0.46641791044776115,peak
+US,8,q8,are there different countries in space? Or just one?,ordinal,No political order / ungoverned,0.16,4,0.014925373134328358,peak
+US,8,q8,are there different countries in space? Or just one?,ordinal,Single unified authority,0.04,1,0.0037313432835820895,peak
+US,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Entirely civilian,1.76,20,0.16176470588235292,peak
+US,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Entirely military / war-focused,3,3,0.275735294117647,peak
+US,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Mixed civilian-military domain,2,2,0.1838235294117647,peak
+US,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Mostly civilian with some military presence,1.12,4,0.10294117647058824,peak
+US,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Mostly military,3,3,0.275735294117647,peak
+US,12,q12,how physically different is space from earth?,ordinal,Moderately different (regular adaptation needed),1.2,6,0.11070110701107011,peak
+US,12,q12,how physically different is space from earth?,ordinal,Radically non-Earth-like (physics/environment fundamentally unlike Earth experience),6,6,0.5535055350553506,peak
+US,12,q12,how physically different is space from earth?,ordinal,Somewhat different (manageable environmental differences),0.48,12,0.04428044280442804,peak
+US,12,q12,how physically different is space from earth?,ordinal,Very different (human bodies/technology constantly challenged),3.16,7,0.2915129151291513,peak
