@@ -1,0 +1,47 @@
+book,country,classification,is_collection,n_stories,story_chapter_mapping,uncertain,agent_notes
+A View from the Stars,China,collection,TRUE,19,one-per-chapter,FALSE,Liu Cixin mixed collection of standalone short stories and essays; each chapter file is an independent piece.
+Broken Stars,China,anthology,TRUE,16,one-per-chapter,FALSE,Multi-author Chinese SF anthology edited by Ken Liu; Claude coded 16 story files (essays/introduction excluded).
+Death's End,China,novel,FALSE,NA,novel,FALSE,Third volume of the Three-Body trilogy; single continuous Cheng Xin narrative across 6 parts.
+The Dark Forest,China,novel,FALSE,NA,novel,FALSE,Second Three-Body novel; one continuous plot following Luo Ji across prologue + 3 parts.
+The Redemption of Time,China,novel,FALSE,NA,novel,FALSE,Baoshu fan-novel sequel to Three-Body; single continuous narrative.
+The Three-Body Problem,China,novel,FALSE,NA,novel,FALSE,Single coherent novel; chapter files cover one continuous Ye Wenjie / Wang Miao plot.
+The Wandering Earth,China,novel,FALSE,NA,novel,FALSE,"In this corpus only the title novella is included (4 chapters, single first-person narrator), not the full short-story collection."
+Vagabonds,China,novel,FALSE,NA,novel,FALSE,"Hao Jingfang novel with named POV sections; one continuous Luoying / Mars-Earth plot, not independent stories."
+Tainaron: Mail from Another City,Finland,novel,FALSE,NA,novel,FALSE,Leena Krohn epistolary book of 30 letters with framing piece. Agent initially flagged as collection-of-letters; Donald reviewed (2026-05-25) and confirmed treatment as a single novel-in-letters.
+The Causal Angel,Finland,novel,FALSE,NA,novel,FALSE,Third Jean le Flambeur novel by Rajaniemi; single continuous plot.
+The Fractal Prince,Finland,novel,FALSE,NA,novel,FALSE,Second Jean le Flambeur novel; single continuous plot.
+The Quantum Thief,Finland,novel,FALSE,NA,novel,FALSE,"First Jean le Flambeur novel; single continuous plot (Thief/Detective chapter alternation is POV-switching, not separate stories)."
+Around the Moon,France,novel,FALSE,NA,novel,FALSE,Jules Verne sequel to From the Earth to the Moon; single continuous voyage narrative.
+La Zone du Dehors,France,novel,FALSE,NA,novel,FALSE,Damasio dystopian novel; single continuous narrative.
+Les Guerriers du Silence,France,novel,FALSE,NA,novel,FALSE,Bordage space opera; single continuous narrative.
+Off on a Comet,France,novel,FALSE,NA,novel,FALSE,Jules Verne novel (Hector Servadac); single continuous comet-voyage plot across two parts.
+Planet of the Apes,France,novel,FALSE,NA,novel,FALSE,Pierre Boulle novel; single continuous Ulysse Merou narrative.
+Voyage To Venus,France,novel,FALSE,NA,novel,FALSE,C. S. Lewis Perelandra (cataloged here under France in the corpus); single continuous Ransom narrative.
+Administrator,Japan,collection,TRUE,4,one-per-chapter,FALSE,Taku Mayumura linked novella collection (Shisei series); four independent administrator stories sharing a universe but with different protagonists.
+All You Need is Kill,Japan,novel,FALSE,NA,novel,FALSE,Hiroshi Sakurazaka novel; single continuous Keiji Kiriya time-loop narrative.
+"Good Luck, Yukikaze",Japan,fix_up,FALSE,NA,novel,FALSE,Chohei Kambayashi sequel novel composed of linked Yukikaze episodes with continuous protagonist (Rei Fukai). Donald reviewed (2026-05-25) and confirmed fix_up; treated as a single novel in the analysis (per locked-in rule that fix_ups are not split).
+Orbital Cloud,Japan,novel,FALSE,NA,novel,FALSE,Taiyo Fujii technothriller; single continuous multi-POV plot.
+Rocket Girls,Japan,novel,FALSE,NA,novel,FALSE,Housuke Nojiri novel; single continuous Yukari Morita narrative.
+Ten Billion Days and One Hundred Billion Nights,Japan,novel,FALSE,NA,novel,FALSE,"Ryu Mitsuse epic spans eras (Plato, Siddhartha, Jesus, far future) with recurring figures. Donald reviewed (2026-05-25) and confirmed treatment as a single novel."
+The Lord of the Sands of Time,Japan,novel,FALSE,NA,novel,FALSE,Issui Ogawa novel; single continuous Messenger O / Miyo time-war plot.
+The Next Continent,Japan,novel,FALSE,NA,novel,FALSE,Issui Ogawa novel; single continuous lunar-base construction plot.
+Usurper of the Sun,Japan,novel,FALSE,NA,novel,FALSE,Housuke Nojiri novel; single continuous Aki Shiraishi first-contact narrative across 5 parts.
+Aelita,Russia,novel,FALSE,NA,novel,FALSE,"Alexei Tolstoy novel; single continuous Los/Gusev Mars expedition plot (chapter files are titled scenes, not separate stories)."
+Hard to Be a God,Russia,novel,FALSE,NA,novel,FALSE,Strugatsky novel; single continuous Anton/Rumata Arkanar narrative.
+Noon: 22nd Century,Russia,fix_up,FALSE,20,one-per-chapter,FALSE,"Strugatsky fix-up novel: linked stand-alone stories sharing the Noon Universe and a recurring cast (Gorbovsky, Kondratev). Donald may want to treat as collection; classified as fix_up because it is published as a novel."
+One Billion Years to the End of the World (Definitely Maybe),Russia,novel,FALSE,NA,novel,FALSE,Strugatsky novella; single continuous Malyanov narrative.
+Prisoners of Power,Russia,novel,FALSE,NA,novel,FALSE,Strugatsky novel (Inhabited Island); single continuous Maxim Kammerer narrative.
+Roadside Picnic,Russia,novel,FALSE,NA,novel,FALSE,"Strugatsky novel; four chapter files are time-jumps in a single Redrick Schuhart arc, not independent stories."
+Solaris,Russia,novel,FALSE,NA,novel,FALSE,Stanislaw Lem novel (cataloged here under Russia); single continuous Kelvin narrative.
+The Andromeda Nebula,Russia,novel,FALSE,NA,novel,FALSE,Ivan Yefremov novel; single continuous Tantra expedition / Earth narrative.
+2001 - A Space Odyssey,US,novel,FALSE,NA,novel,FALSE,Arthur C. Clarke novel; single continuous Moon-Watcher / Bowman narrative across three movements.
+A Fire Upon The Deep,US,novel,FALSE,NA,novel,FALSE,Vernor Vinge novel; single continuous Tines/Out Of Band II narrative.
+Dune,US,novel,FALSE,NA,novel,FALSE,Frank Herbert novel; single continuous Paul Atreides narrative across three books.
+Ender's Game,US,novel,FALSE,NA,novel,FALSE,Orson Scott Card novel; single continuous Ender Wiggin narrative.
+Foundation,US,fix_up,FALSE,5,spans-multiple,FALSE,"Asimov fix-up of five originally separate stories (The Psychohistorians, The Encyclopedists, The Mayors, The Traders, The Merchant Princes). Claude coded chapters within each part, not the parts as wholes (49 chapter rows across 5 stories)."
+Hyperion,US,fix_up,FALSE,6,one-per-chapter,FALSE,"Dan Simmons fix-up; six pilgrim tales bookended by prologue and epilogue (8 chapter files, of which 6 are the independent tales)."
+Rendezvous with Rama,US,novel,FALSE,NA,novel,FALSE,Arthur C. Clarke novel; single continuous Endeavour/Rama exploration.
+"The Hitchhiker's Guide to the Galaxy (Omnibus, Parts 1–3)",US,fix_up,FALSE,NA,novel,FALSE,Douglas Adams omnibus of the first three Hitchhiker novels. Donald reviewed (2026-05-25) and confirmed fix_up; treated as a single novel in the analysis (per locked-in rule that fix_ups are not split).
+The Left Hand of Darkness,US,novel,FALSE,NA,novel,FALSE,"Ursula K. Le Guin novel; single continuous Genly Ai / Estraven narrative (myth interpolations are framing, not separate stories)."
+The Martian,US,novel,FALSE,NA,novel,FALSE,Andy Weir novel; single continuous Mark Watney survival narrative.
+The Martian Chronicles,US,collection,TRUE,25,one-per-chapter,FALSE,"Ray Bradbury linked collection; 25 dated story-files form a future history with no single protagonist (e.g., Ylla, The Earth Men, The Third Expedition)."

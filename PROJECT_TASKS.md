@@ -176,72 +176,183 @@ Deferred to the start of Task 3 (`analysis.Rmd`). For now the cleaned data uses 
 
 ## 4. Task 2 — `intercoder_reliability.Rmd`
 
-**Status:** not started. Must complete and pass before Task 3.
+**Status:** scripts/source_irr.R and scripts/intercoder_reliability.Rmd
+written 2026-05-25; ready to knit. Decisions below are locked in.
 
 **Purpose:** Establish that Claude's coding of the science-fiction corpus is
 reliable enough to support the descriptive and hypothesis-generation work
 downstream. Compare Claude's per-chapter answers against the human-coded
-subset for the four books that have both.
+subset for the five books that have both.
 
-**Human-coded subset (`data/human_coded/`, 4 books, 3 countries):**
+**Human-coded subset (`data/human_coded/`, 5 books, 3 countries):**
 
-| Country | Book                   | Human file                                  |
-|---------|------------------------|---------------------------------------------|
-| US      | The Martian            | `2026_Coding_Martian_updated.xlsx`          |
-| China   | The Three-Body Problem | `3_Body_problem_updated coding.xlsx`        |
-| France  | Off on a Comet         | `Off_on_a_Comet_mapped_answers.xlsx`        |
-| France  | Planet of the Apes     | `Planet_of_the_Apes_updated_Coding.xlsx`    |
+| Country | Book                   | Schema     | Human file                                  |
+|---------|------------------------|------------|---------------------------------------------|
+| US      | The Martian            | long xlsx  | `2026_Coding_Martian_updated.xlsx`          |
+| China   | The Three-Body Problem | long xlsx  | `3_Body_problem_updated coding.xlsx`        |
+| France  | Planet of the Apes     | long xlsx  | `Planet_of_the_Apes_updated_Coding.xlsx`    |
+| France  | Off on a Comet         | wide xlsx  | `Off_on_a_Comet_mapped_answers.xlsx`        |
+| US      | Ender's Game           | long csv   | `enders_game.csv`                           |
 
-**Sub-tasks (to be refined when we open the xlsx files together):**
+**Locked-in decisions (2026-05-25):**
 
-- [ ] Inspect each human-coded `.xlsx` to understand its schema (sheet
-      structure, column names, chapter ID format, answer encoding).
-- [ ] Build a loader that reads the human sheets into the same long format
-      as Claude's coding (one row per chapter × question).
-- [ ] Map human chapter labels to Claude chapter labels (this may require a
-      small per-book lookup if naming differs).
-- [ ] Confirm both codings draw from the same answer options listed in
-      `data/questions.json`. Flag any human answers that don't match the
-      canonical option set.
-- [ ] Join human and Claude codings on (book, chapter, question).
-- [ ] Compute per-question reliability statistics:
-    - Cohen's kappa (or weighted kappa for ordinal questions Q1–Q8, Q10, Q12).
-    - Krippendorff's alpha as a robustness check (`irr::kripp.alpha`).
-    - Exact-agreement rate.
-    - For ordinal questions, mean absolute distance between scale positions.
-- [ ] Compute overall agreement and a per-book breakdown.
-- [ ] Produce a disagreement audit table: every chapter × question where
-      Claude and the human differ, with both answers and Claude's
-      justification, so disagreements can be inspected qualitatively.
-- [ ] Write `data/processed/intercoder_reliability_report.md` summarizing
-      reliability levels, which questions are weakest, and a go/no-go
-      recommendation for Task 3.
-- [ ] Walk through the report with Donald and decide whether any questions
-      should be flagged with caveats, re-coded, or excluded from Task 3.
+- Ender's Game: Donald canonicalized the `answer` column and embedded a
+  shorthand reference block at columns 5..12.  176 / 180 cells match
+  canonical labels; 4 mechanical fixes baked into the corrections table
+  (`human_mapped_answer_corrections` in `source_irr.R`).  The shorthand
+  block is encoded as `answer_options_short_lookup` in `source.R` for
+  reuse in Task 3 plot labels.
+- Mapped Answer cleaning: approved correction table (mechanical fixes for
+  trailing semicolons, "Civilian" -> "Entirely civilian", 4 Ender's Game
+  fixes) is applied first; remaining non-canonical values are coerced to
+  "Other / Unsure".
+- NA / blank coercion: human NaN -> "Other / Unsure".
+- Per-book coverage overrides (also in `source_irr.R`):
+    - Off on a Comet: drop the "General notes" row (criteria row 12);
+      move Q4 -> Q12 (the rater used Q12's option list in the Q4 slot).
+    - Planet of the Apes: accept Q12 as not covered.
+- Chapter alignment: per-book lookup table (`chapter_alignment_rules`).
+  Four of the five books are trivially `human N -> "Chapter N"`; Ender's
+  Game uses a prefix match against `"Chapter N -"`; Off on a Comet uses
+  `human N -> "Book 1 - Chapter N"` for N in 1..10.
+- Metrics: all three -- Cohen's kappa (nominal), Cohen's weighted kappa
+  with squared weights (ordinal questions only: Q1-Q8, Q10, Q12),
+  Krippendorff's alpha (ordinal for ordinal questions, nominal else),
+  plus exact-agreement rate.
+- "Other / Unsure": kept as a real category (both-Other -> agreement).
+- Thresholds: kappa >= 0.60, alpha >= 0.667.
 
-**Methodological notes (parked, to discuss when we start):**
+**Sub-tasks:**
 
-- Whether to treat "Other / Unsure" as agreement-when-matched or as a
-  separate category (defaults will likely follow standard IRR conventions
-  but worth confirming).
-- Whether to compute reliability on the full overlapping chapter set per
-  book or on a chapter sample (depends on completeness of human coding).
-- Threshold for acceptable agreement (commonly κ ≥ 0.60 / α ≥ 0.667 for
-  ordinal coding; we may justify a different threshold given the inherent
-  interpretive latitude of literary criticism).
+- [x] Inspect each human-coded file to understand schema (Python probes
+      in /sessions/.../probe_human_mapped_answers.py,
+      probe_chapter_alignment.py, probe_eg_updated.py, inspect_deeper.py).
+- [x] Confirm both codings draw from the same answer options in
+      `data/questions.json`. Surface mismatches in
+      `data/processed/human_mapped_answer_proposals.md` and get Donald's
+      approval on each.
+- [x] Build schema-specific loaders for the three formats
+      (`load_human_long_xlsx`, `load_human_wide_xlsx_ooc`,
+      `load_human_csv_eg`) in `scripts/source_irr.R`.
+- [x] Map human chapter labels to Claude chapter labels via
+      `chapter_alignment_rules` (per-book closure).
+- [x] Encode shorthand label map from Ender's Game CSV as
+      `answer_options_short_lookup` in `source.R` (with `get_answer_short()`
+      helper for downstream plotting).
+- [x] Join human and Claude codings on (book, chapter, question) via
+      `load_all_human_coded()`.
+- [x] Implement per-question reliability via `compute_irr_per_question()`
+      and pooled-by-question via `compute_irr_overall()`.
+- [x] Implement `format_irr_table()` for gt rendering with threshold
+      pass/fail color coding.
+- [ ] Knit `scripts/intercoder_reliability.Rmd` and walk through results
+      with Donald.
+- [ ] Produce a disagreement audit table for the qualitative review
+      (chapter x question where Claude and human differ, with both
+      answers and Claude's justification).
+- [ ] Decide whether any questions should be flagged with caveats,
+      re-coded, or excluded from Task 3.
 
 ---
 
 ## 5. Task 3 — `analysis.Rmd`
 
-**Status:** not started. Planned outline (to be refined when we get there):
+**Status:** in progress as of 2026-05-26.  Locked-in design below; code in
+`scripts/source.R` (additions), `scripts/source_analysis.R` (new), and
+`scripts/analysis.Rmd` (rewrite).
 
-- Country-level distributions of each question's answers (proportion bar charts, faceted by question).
-- Book-level fingerprints (heatmaps across the 12 dimensions).
-- Possible ordinal coding for Q1–Q8, Q10, Q12 (decision deferred — see §2.6).
-- Comparative summary: which countries diverge most from the cross-country average on which dimensions?
-- Within-book trajectories using `chapter_position`.
-- Carry forward any caveats from the Task 2 reliability report (e.g., questions where Claude/human disagreement was high should be presented with appropriate humility).
+**Purpose:** Descriptive analysis of how each country's sci-fi corpus
+portrays outer space, rolling up Claude's per-chapter codings to book and
+country levels.  Explicitly hypothesis-generating, not hypothesis-testing
+(no inferential tests).
+
+### 5.1 Aggregation pipeline (chapter -> book -> country)
+
+**Chapter -> Book** (per (book, question)):
+
+- **Mode** (primary book-level coding): majoritarian vote among non-
+  "Other / Unsure" chapters; book gets "Other / Unsure" only when 100%
+  of chapters are Other / Unsure (Donald's "big reveal" rule, locked
+  2026-05-25).
+- **Median, mean, peak, end**: alternative summaries available alongside.
+  Median is robust central tendency for ordinal Qs.  Mean uses ordinal
+  positions.  Peak = max ordinal position any chapter reached.  End =
+  last chapter's coding (by `chapter_position`).
+- **Tie-breaking** (when mode is multi-modal):
+  - Ordinal Qs (Q1-Q8, Q10, Q12): use median of tied positions
+  - Nominal Qs (Q9, Q11): pick the lower-index canonical option
+- **Collection split**: books with `is_collection = TRUE` in
+  `data/collection_metadata.csv` (currently 3 single-author collections
+  + 1 anthology = 4 books) are split into separate book rows, one per
+  story.  Fix-up novels (5 of them) stay as single books.
+
+**Book -> Country**: distributions of book codings per category, plus
+country-level mode/median/mean/peak/end aggregated over books.  Apply
+`collection_weight_mode` (set in `analysis.Rmd`):
+
+- `"weighted"` (default): each story in an N-story collection contributes
+  1/N of a book's weight in country aggregates.
+- `"equal"`: each story counts as a full book.
+- `"merged"`: collections stay as one book row (no split).
+
+### 5.2 Visualizations (Donald wants ALL of these)
+
+- **Book fingerprint heatmaps × 2** — one for `mode_answer`, one for
+  `peak_answer`.  Books × 12 questions; cells colored by answer using
+  `answer_options_short_lookup` for labels.
+- **Country distribution stacked bars × 2** — faceted by question;
+  country on x-axis; color = answer.  Mode and peak versions side-by-side.
+- **Cross-country divergence summary × 2** — table or radar showing
+  which countries diverge most from the corpus average on which
+  dimensions.
+- **Per-book trajectories (46 figures)** — one figure per book, 12
+  small-multiples panels (one per question), `chapter_position` on x,
+  answer on y (ordinal as line, nominal as strip plot below).
+- **Per-question trajectories (12 figures)** — one figure per question,
+  one panel per book, same axes.  Useful for spotting cross-book arc
+  patterns.
+
+Total: 58 trajectory figures plus 6 summary visualizations.
+
+### 5.3 Sub-tasks
+
+- [x] Spawn Agent to classify books and produce `data/collection_metadata.csv`.
+- [x] Donald reviews collection metadata (final: 42 novels/fix-ups + 4
+      collections totaling 64 stories).
+- [ ] Add to `source.R`: `answer_options_ordinal_lookup`, `to_ordinal()`,
+      `add_ordinal_position()`, `load_collection_metadata()`,
+      `ordinal_question_numbers` / `nominal_question_numbers` constants.
+- [ ] Create `scripts/source_analysis.R`:
+      - `split_collections()` — expand collection rows
+      - `aggregate_chapter_to_book()` — mode + median + mean + peak + end
+      - `aggregate_book_to_country()` — apply `collection_weight_mode`
+      - Plot helpers: `plot_book_fingerprint()`,
+        `plot_country_distribution()`, `plot_trajectory_per_book()`,
+        `plot_trajectory_per_question()`,
+        `plot_country_divergence()`.
+- [ ] Rewrite `scripts/analysis.Rmd`:
+      - Setup chunk sets `collection_weight_mode`
+      - Build book-level + country-level frames
+      - Render heatmaps + distributions + divergence + 58 trajectories
+      - Save outputs to `data/processed/`
+      - Auto-generate `analysis_report.md`
+- [ ] Carry forward Task 2 caveats (Q9 / Q11 IRR weak; ordinal signal
+      strong; flag in report).
+- [ ] Donald knits and we walk through the figures together.
+
+### 5.4 Locked-in design decisions (2026-05-25 / 2026-05-26)
+
+- Ordinal coding adopted: Q1-Q8, Q10, Q12 mapped to integers 1-5 from
+  canonical answer_options order; "Other / Unsure" -> NA for ordinal-
+  only operations.
+- Both mode AND peak versions of every chart, side-by-side (no per-
+  question pre-commit to which is "right"; trajectories make the arc
+  visible so we revisit per question after seeing data).
+- Hypothesis testing skipped (purely descriptive; the Nature submission
+  is hypothesis-generating).
+- Fix-up novels (Foundation, Hyperion, Noon: 22nd Century, Hitchhiker's
+  Omnibus, Good Luck Yukikaze) treated as single books, NOT split into
+  stories.  Logged in metadata for future reference.
 
 ---
 
