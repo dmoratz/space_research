@@ -1,72 +1,72 @@
 country,question_number,question_id,criteria_short,scale,total_weight,n_books,n_books_committed,mean_position,median_position,mean_peak_position,mean_end_position
 China,1,q1,is space something to be contested,ordinal,8,41,9,3.594133333333333,4,4.729066666666666,3.25
-China,2,q2,can you inhabit and hold territory in space,ordinal,8,41,8,3.1753630984400214,4,3.829478214093599,4.25
+China,2,q2,can you inhabit and hold territory in space,ordinal,8,41,8,3.1753630984400214,4,3.64228079612695,1.75
 China,3,q3,how long is journey / how  far from earth,ordinal,8,41,9,4.650692225772098,5,4.812566560170394,5
 China,4,q4,how culturally different is space from earth?,ordinal,8,41,9,3.830933333333333,4,4.6415999999999995,4.25
 China,5,q5,do you speak same language on earth vs space ?,ordinal,8,41,9,2.3375999999999997,1,3.6346666666666665,2
 China,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,8,41,9,4.114483493077742,4,4.761980830670927,3.75
-China,7,q7,how common is it for humans to live in space,ordinal,8,41,9,2.838125665601704,3,3.8093716719914807,4.5
-China,8,q8,are there different countries in space? Or just one?,ordinal,8,41,9,2.5152,2,3.0016,3
+China,7,q7,how common is it for humans to live in space,ordinal,8,41,9,2.838125665601704,3,3.8093716719914807,1.5
+China,8,q8,are there different countries in space? Or just one?,ordinal,8,41,9,2.5152,2,2.0016,2
 China,9,q9,genre of the book,nominal,8,41,14,7,7,NA,NA
 China,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,8,41,9,2.7834666666666665,2,4.080533333333333,2.5
 China,11,q11,Is space characterized like another military domain?,nominal,8,41,34,6.000000000000001,6,NA,NA
 China,12,q12,how physically different is space from earth?,ordinal,8,41,9,4.640575079872205,5,4.802449414270501,4
 Finland,1,q1,is space something to be contested,ordinal,4,4,4,2.75,2,4.25,3.25
-Finland,2,q2,can you inhabit and hold territory in space,ordinal,4,4,4,4,4,4.75,4
+Finland,2,q2,can you inhabit and hold territory in space,ordinal,4,4,4,4,4,2.25,2
 Finland,3,q3,how long is journey / how  far from earth,ordinal,4,4,4,4.5,5,5,5
 Finland,4,q4,how culturally different is space from earth?,ordinal,4,4,4,5,5,5,5
 Finland,5,q5,do you speak same language on earth vs space ?,ordinal,4,4,4,3,2,4,2.75
 Finland,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,4,4,4,2.25,2,4.25,3.75
-Finland,7,q7,how common is it for humans to live in space,ordinal,4,4,4,4,5,4,4
-Finland,8,q8,are there different countries in space? Or just one?,ordinal,4,4,4,4.25,5,4.25,4.25
+Finland,7,q7,how common is it for humans to live in space,ordinal,4,4,4,4,5,2,2
+Finland,8,q8,are there different countries in space? Or just one?,ordinal,4,4,4,4.25,5,3.25,3.25
 Finland,9,q9,genre of the book,nominal,4,4,0,NA,NA,NA,NA
 Finland,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,4,4,4,2,2,3.25,2
 Finland,11,q11,Is space characterized like another military domain?,nominal,4,4,0,NA,NA,NA,NA
 Finland,12,q12,how physically different is space from earth?,ordinal,4,4,4,4.5,4,5,4.75
 France,1,q1,is space something to be contested,ordinal,6,6,6,2,1,3.8333333333333335,1.8333333333333333
-France,2,q2,can you inhabit and hold territory in space,ordinal,6,6,6,2.8333333333333335,2,3.6666666666666665,3.3333333333333335
+France,2,q2,can you inhabit and hold territory in space,ordinal,6,6,6,2.8333333333333335,2,3.5,2.6666666666666665
 France,3,q3,how long is journey / how  far from earth,ordinal,6,6,6,4,4,4.333333333333333,4
 France,4,q4,how culturally different is space from earth?,ordinal,6,6,6,3.3333333333333335,4,3.8333333333333335,3.5
 France,5,q5,do you speak same language on earth vs space ?,ordinal,6,6,6,2.5,2,2.8333333333333335,2.3333333333333335
 France,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,6,6,6,2.3333333333333335,2,4.333333333333333,2.1666666666666665
-France,7,q7,how common is it for humans to live in space,ordinal,6,6,6,2.1666666666666665,1,3.1666666666666665,2.6666666666666665
-France,8,q8,are there different countries in space? Or just one?,ordinal,6,6,5,2.2,2,3.2,2.5
+France,7,q7,how common is it for humans to live in space,ordinal,6,6,6,2.1666666666666665,1,3.8333333333333335,3.3333333333333335
+France,8,q8,are there different countries in space? Or just one?,ordinal,6,6,5,2.2,2,3.6,1.5
 France,9,q9,genre of the book,nominal,6,6,0,NA,NA,NA,NA
 France,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,6,6,6,1.5,1,2.6666666666666665,1.5
 France,11,q11,Is space characterized like another military domain?,nominal,6,6,0,NA,NA,NA,NA
 France,12,q12,how physically different is space from earth?,ordinal,6,6,6,2.8333333333333335,2,4.666666666666667,3.8333333333333335
 Japan,1,q1,is space something to be contested,ordinal,9,12,12,3.6944444444444446,4,4.472222222222222,3.125
-Japan,2,q2,can you inhabit and hold territory in space,ordinal,9,12,11,2.8125,2,3.5625,3.1666666666666665
+Japan,2,q2,can you inhabit and hold territory in space,ordinal,9,12,11,2.8125,2,3.5625,2.8333333333333335
 Japan,3,q3,how long is journey / how  far from earth,ordinal,9,12,11,2.625,2,3.25,2.4
 Japan,4,q4,how culturally different is space from earth?,ordinal,9,12,11,2.59375,1,2.96875,2.1666666666666665
 Japan,5,q5,do you speak same language on earth vs space ?,ordinal,9,12,12,2.3333333333333335,2,3.111111111111111,2.5
 Japan,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,9,12,11,3.25,3,3.875,3.6
-Japan,7,q7,how common is it for humans to live in space,ordinal,9,12,11,1.96875,1,2.84375,1.8
-Japan,8,q8,are there different countries in space? Or just one?,ordinal,9,12,11,2.375,2,2.75,2.5
+Japan,7,q7,how common is it for humans to live in space,ordinal,9,12,11,1.96875,1,4.15625,4.2
+Japan,8,q8,are there different countries in space? Or just one?,ordinal,9,12,11,2.375,2,2,1.5
 Japan,9,q9,genre of the book,nominal,9,12,0,NA,NA,NA,NA
 Japan,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,9,12,12,3.25,4,3.4722222222222223,2.7142857142857144
 Japan,11,q11,Is space characterized like another military domain?,nominal,9,12,1,6,6,NA,NA
 Japan,12,q12,how physically different is space from earth?,ordinal,9,12,11,3.78125,4,4.03125,3.8
 Russia,1,q1,is space something to be contested,ordinal,8,8,7,1.2857142857142858,1,1.8571428571428572,1.3333333333333333
-Russia,2,q2,can you inhabit and hold territory in space,ordinal,8,8,6,2,2,2.3333333333333335,2.4
+Russia,2,q2,can you inhabit and hold territory in space,ordinal,8,8,6,2,2,4.166666666666667,3.6
 Russia,3,q3,how long is journey / how  far from earth,ordinal,8,8,6,3.8333333333333335,4,4,4.4
 Russia,4,q4,how culturally different is space from earth?,ordinal,8,8,6,3.1666666666666665,2,3.1666666666666665,2.8
 Russia,5,q5,do you speak same language on earth vs space ?,ordinal,8,8,6,2.5,1,3.1666666666666665,2.8
 Russia,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,8,8,7,2.857142857142857,3,3.857142857142857,3
-Russia,7,q7,how common is it for humans to live in space,ordinal,8,8,6,1.3333333333333333,1,1.8333333333333333,2
-Russia,8,q8,are there different countries in space? Or just one?,ordinal,8,8,6,2.6666666666666665,2,2.6666666666666665,2.8
+Russia,7,q7,how common is it for humans to live in space,ordinal,8,8,6,1.3333333333333333,1,5,4
+Russia,8,q8,are there different countries in space? Or just one?,ordinal,8,8,6,2.6666666666666665,2,2.3333333333333335,1.8
 Russia,9,q9,genre of the book,nominal,8,8,0,NA,NA,NA,NA
 Russia,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,8,8,7,1.5714285714285714,1,2.2857142857142856,1.3333333333333333
 Russia,11,q11,Is space characterized like another military domain?,nominal,8,8,1,6,6,NA,NA
 Russia,12,q12,how physically different is space from earth?,ordinal,8,8,7,3.5714285714285716,4,4.285714285714286,3.75
 US,1,q1,is space something to be contested,ordinal,11,35,35,2.64,2,3.9127272727272726,2.7039999999999997
-US,2,q2,can you inhabit and hold territory in space,ordinal,11,35,34,3.3722627737226274,3,3.7372262773722627,3.455357142857143
+US,2,q2,can you inhabit and hold territory in space,ordinal,11,35,34,3.3722627737226274,3,3.0839416058394153,2.5446428571428568
 US,3,q3,how long is journey / how  far from earth,ordinal,11,35,34,4.10948905109489,5,4.565693430656934,4.022321428571428
 US,4,q4,how culturally different is space from earth?,ordinal,11,35,34,3.204379562043795,3,3.751824817518248,3.626506024096385
 US,5,q5,do you speak same language on earth vs space ?,ordinal,11,35,34,2.1861313868613137,1,2.6423357664233573,2.5625
 US,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,11,35,32,2.9558823529411757,3,4.242647058823529,3.058558558558558
-US,7,q7,how common is it for humans to live in space,ordinal,11,35,34,3.025547445255474,2,3.390510948905109,2.726907630522088
-US,8,q8,are there different countries in space? Or just one?,ordinal,11,35,28,3.2462686567164174,4,3.9925373134328352,3.761467889908256
+US,7,q7,how common is it for humans to live in space,ordinal,11,35,34,3.025547445255474,2,3.6131386861313866,3.2730923694779115
+US,8,q8,are there different countries in space? Or just one?,ordinal,11,35,28,3.2462686567164174,4,3.16044776119403,2.8532110091743115
 US,9,q9,genre of the book,nominal,11,35,0,NA,NA,NA,NA
 US,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,11,35,32,2.0220588235294117,1,3.4007352941176467,1.8018018018018016
 US,11,q11,Is space characterized like another military domain?,nominal,11,35,2,6,6,NA,NA

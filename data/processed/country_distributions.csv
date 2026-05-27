@@ -294,10 +294,10 @@ US,12,q12,how physically different is space from earth?,ordinal,Very different (
 China,1,q1,is space something to be contested,ordinal,High contestation (frequent conflict or strategic struggle),1,1,0.16213333333333332,peak
 China,1,q1,is space something to be contested,ordinal,No contestation,0.16776315789473684,3,0.0272,peak
 China,1,q1,is space something to be contested,ordinal,Total war / constant conflict,5,5,0.8106666666666666,peak
-China,2,q2,can you inhabit and hold territory in space,ordinal,Extensive territorial occupation (many settled worlds/regions held like states or empires),2.0625,3,0.33727810650887574,peak
-China,2,q2,can you inhabit and hold territory in space,ordinal,Habitable and governable (permanent settlements can hold territory),2,2,0.32705755782678864,peak
-China,2,q2,can you inhabit and hold territory in space,ordinal,"Limited settlement (small colonies, hard to sustain/control)",1,1,0.16352877891339432,peak
-China,2,q2,can you inhabit and hold territory in space,ordinal,"Visiting / Temporary presence only (stations, missions, outposts)",1.0526315789473684,2,0.17213555675094136,peak
+China,2,q2,can you inhabit and hold territory in space,ordinal,Cannot inhabit or hold territory,0.0625,1,0.010220548682087145,peak
+China,2,q2,can you inhabit and hold territory in space,ordinal,Extensive territorial occupation (many settled worlds/regions held like states or empires),2,2,0.32705755782678864,peak
+China,2,q2,can you inhabit and hold territory in space,ordinal,Habitable and governable (permanent settlements can hold territory),2.0526315789473686,3,0.33566433566433573,peak
+China,2,q2,can you inhabit and hold territory in space,ordinal,"Visiting / Temporary presence only (stations, missions, outposts)",2,2,0.32705755782678864,peak
 China,3,q3,how long is journey / how  far from earth,ordinal,"Extreme / effectively unreachable (generational, completely separate, or one-way-feeling distance)",5.125,7,0.8296059637912674,peak
 China,3,q3,how long is journey / how  far from earth,ordinal,"Long-distance journey (years, major separation from Earth)",1,1,0.16187433439829607,peak
 China,3,q3,how long is journey / how  far from earth,ordinal,Short interplanetary journey,0.05263157894736842,1,0.008519701810436634,peak
@@ -310,13 +310,13 @@ China,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Be
 China,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Extremely hostile (constant survival pressure),1.0625,2,0.17199148029818956,peak
 China,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Manageable but risky,0.05263157894736842,1,0.008519701810436634,peak
 China,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Nearly uninhabitable / lethal without major intervention,5,5,0.8093716719914803,peak
-China,7,q7,how common is it for humans to live in space,ordinal,Common (many people live/work there),1,1,0.16187433439829607,peak
 China,7,q7,how common is it for humans to live in space,ordinal,Exceptionally rare (few astronauts/explorers),1.0625,2,0.17199148029818956,peak
-China,7,q7,how common is it for humans to live in space,ordinal,Moderately common (noticeable settlements/populations),1.0526315789473684,2,0.1703940362087327,peak
-China,7,q7,how common is it for humans to live in space,ordinal,Normalized / widespread (space habitation is ordinary for humanity),3.0625,4,0.4957401490947817,peak
-China,8,q8,are there different countries in space? Or just one?,ordinal,Earth nation-states extend into space,0.05263157894736842,1,0.008533333333333332,peak
-China,8,q8,are there different countries in space? Or just one?,ordinal,Multiple distinct space polities,3.0625,4,0.4965333333333333,peak
-China,8,q8,are there different countries in space? Or just one?,ordinal,Single unified authority,3.0526315789473686,4,0.49493333333333334,peak
+China,7,q7,how common is it for humans to live in space,ordinal,Moderately common (noticeable settlements/populations),0.05263157894736842,1,0.008519701810436634,peak
+China,7,q7,how common is it for humans to live in space,ordinal,Normalized / widespread (space habitation is ordinary for humanity),4.0625,5,0.6576144834930777,peak
+China,7,q7,how common is it for humans to live in space,ordinal,Uncommon (small specialist population),1,1,0.16187433439829607,peak
+China,8,q8,are there different countries in space? Or just one?,ordinal,Earth nation-states extend into space,3.0625,4,0.4965333333333333,peak
+China,8,q8,are there different countries in space? Or just one?,ordinal,No political order / ungoverned,3.0526315789473686,4,0.49493333333333334,peak
+China,8,q8,are there different countries in space? Or just one?,ordinal,Single unified authority,0.05263157894736842,1,0.008533333333333332,peak
 China,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Entirely civilian,0.16776315789473684,3,0.0272,peak
 China,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Entirely military / war-focused,1,1,0.16213333333333332,peak
 China,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Mostly military,5,5,0.8106666666666666,peak
@@ -325,8 +325,9 @@ China,12,q12,how physically different is space from earth?,ordinal,Somewhat diff
 China,12,q12,how physically different is space from earth?,ordinal,Very different (human bodies/technology constantly challenged),1.0625,2,0.17199148029818956,peak
 Finland,1,q1,is space something to be contested,ordinal,"Low contestation (minor competition, little open conflict)",1,1,0.25,peak
 Finland,1,q1,is space something to be contested,ordinal,Total war / constant conflict,3,3,0.75,peak
-Finland,2,q2,can you inhabit and hold territory in space,ordinal,Extensive territorial occupation (many settled worlds/regions held like states or empires),3,3,0.75,peak
+Finland,2,q2,can you inhabit and hold territory in space,ordinal,Cannot inhabit or hold territory,1,1,0.25,peak
 Finland,2,q2,can you inhabit and hold territory in space,ordinal,Habitable and governable (permanent settlements can hold territory),1,1,0.25,peak
+Finland,2,q2,can you inhabit and hold territory in space,ordinal,"Visiting / Temporary presence only (stations, missions, outposts)",2,2,0.5,peak
 Finland,3,q3,how long is journey / how  far from earth,ordinal,"Extreme / effectively unreachable (generational, completely separate, or one-way-feeling distance)",4,4,1,peak
 Finland,4,q4,how culturally different is space from earth?,ordinal,Radically different / alien social order,4,4,1,peak
 Finland,5,q5,do you speak same language on earth vs space ?,ordinal,Distinct space language(s),1,1,0.25,peak
@@ -335,10 +336,10 @@ Finland,5,q5,do you speak same language on earth vs space ?,ordinal,Translation-
 Finland,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Extremely hostile (constant survival pressure),1,1,0.25,peak
 Finland,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Harsh and resource-intensive,1,1,0.25,peak
 Finland,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Nearly uninhabitable / lethal without major intervention,2,2,0.5,peak
-Finland,7,q7,how common is it for humans to live in space,ordinal,Exceptionally rare (few astronauts/explorers),1,1,0.25,peak
-Finland,7,q7,how common is it for humans to live in space,ordinal,Normalized / widespread (space habitation is ordinary for humanity),3,3,0.75,peak
-Finland,8,q8,are there different countries in space? Or just one?,ordinal,"Highly fragmented political landscape (multipolar with many factions, corporations, colonies, microstates)",3,3,0.75,peak
-Finland,8,q8,are there different countries in space? Or just one?,ordinal,Single unified authority,1,1,0.25,peak
+Finland,7,q7,how common is it for humans to live in space,ordinal,Exceptionally rare (few astronauts/explorers),3,3,0.75,peak
+Finland,7,q7,how common is it for humans to live in space,ordinal,Normalized / widespread (space habitation is ordinary for humanity),1,1,0.25,peak
+Finland,8,q8,are there different countries in space? Or just one?,ordinal,Multiple distinct space polities,3,3,0.75,peak
+Finland,8,q8,are there different countries in space? Or just one?,ordinal,No political order / ungoverned,1,1,0.25,peak
 Finland,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Entirely civilian,1,1,0.25,peak
 Finland,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Entirely military / war-focused,1,1,0.25,peak
 Finland,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Mixed civilian-military domain,1,1,0.25,peak
@@ -348,9 +349,9 @@ France,1,q1,is space something to be contested,ordinal,High contestation (freque
 France,1,q1,is space something to be contested,ordinal,Moderate contestation (ongoing rivalry/disputes),1,1,0.16666666666666666,peak
 France,1,q1,is space something to be contested,ordinal,No contestation,1,1,0.16666666666666666,peak
 France,1,q1,is space something to be contested,ordinal,Total war / constant conflict,3,3,0.5,peak
-France,2,q2,can you inhabit and hold territory in space,ordinal,Extensive territorial occupation (many settled worlds/regions held like states or empires),1,1,0.16666666666666666,peak
-France,2,q2,can you inhabit and hold territory in space,ordinal,Habitable and governable (permanent settlements can hold territory),3,3,0.5,peak
-France,2,q2,can you inhabit and hold territory in space,ordinal,"Limited settlement (small colonies, hard to sustain/control)",1,1,0.16666666666666666,peak
+France,2,q2,can you inhabit and hold territory in space,ordinal,Cannot inhabit or hold territory,1,1,0.16666666666666666,peak
+France,2,q2,can you inhabit and hold territory in space,ordinal,Extensive territorial occupation (many settled worlds/regions held like states or empires),2,2,0.3333333333333333,peak
+France,2,q2,can you inhabit and hold territory in space,ordinal,Habitable and governable (permanent settlements can hold territory),2,2,0.3333333333333333,peak
 France,2,q2,can you inhabit and hold territory in space,ordinal,"Visiting / Temporary presence only (stations, missions, outposts)",1,1,0.16666666666666666,peak
 France,3,q3,how long is journey / how  far from earth,ordinal,"Extreme / effectively unreachable (generational, completely separate, or one-way-feeling distance)",3,3,0.5,peak
 France,3,q3,how long is journey / how  far from earth,ordinal,"Long-distance journey (years, major separation from Earth)",2,2,0.3333333333333333,peak
@@ -364,13 +365,13 @@ France,5,q5,do you speak same language on earth vs space ?,ordinal,Same language
 France,5,q5,do you speak same language on earth vs space ?,ordinal,Shared lingua franca plus local variation,2,2,0.3333333333333333,peak
 France,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Extremely hostile (constant survival pressure),4,4,0.6666666666666666,peak
 France,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Nearly uninhabitable / lethal without major intervention,2,2,0.3333333333333333,peak
-France,7,q7,how common is it for humans to live in space,ordinal,Exceptionally rare (few astronauts/explorers),2,2,0.3333333333333333,peak
-France,7,q7,how common is it for humans to live in space,ordinal,Normalized / widespread (space habitation is ordinary for humanity),3,3,0.5,peak
+France,7,q7,how common is it for humans to live in space,ordinal,Exceptionally rare (few astronauts/explorers),1,1,0.16666666666666666,peak
+France,7,q7,how common is it for humans to live in space,ordinal,Normalized / widespread (space habitation is ordinary for humanity),4,4,0.6666666666666666,peak
 France,7,q7,how common is it for humans to live in space,ordinal,Uncommon (small specialist population),1,1,0.16666666666666666,peak
 France,8,q8,are there different countries in space? Or just one?,ordinal,Earth nation-states extend into space,1,1,0.2,peak
-France,8,q8,are there different countries in space? Or just one?,ordinal,"Highly fragmented political landscape (multipolar with many factions, corporations, colonies, microstates)",1,1,0.2,peak
+France,8,q8,are there different countries in space? Or just one?,ordinal,"Highly fragmented political landscape (multipolar with many factions, corporations, colonies, microstates)",2,2,0.4,peak
 France,8,q8,are there different countries in space? Or just one?,ordinal,Multiple distinct space polities,1,1,0.2,peak
-France,8,q8,are there different countries in space? Or just one?,ordinal,Single unified authority,2,2,0.4,peak
+France,8,q8,are there different countries in space? Or just one?,ordinal,No political order / ungoverned,1,1,0.2,peak
 France,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Entirely civilian,1,1,0.16666666666666666,peak
 France,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Entirely military / war-focused,1,1,0.16666666666666666,peak
 France,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Mixed civilian-military domain,2,2,0.3333333333333333,peak
@@ -382,9 +383,9 @@ Japan,1,q1,is space something to be contested,ordinal,"Low contestation (minor c
 Japan,1,q1,is space something to be contested,ordinal,Moderate contestation (ongoing rivalry/disputes),1,1,0.1111111111111111,peak
 Japan,1,q1,is space something to be contested,ordinal,Total war / constant conflict,6.25,7,0.6944444444444444,peak
 Japan,2,q2,can you inhabit and hold territory in space,ordinal,Extensive territorial occupation (many settled worlds/regions held like states or empires),1,1,0.125,peak
-Japan,2,q2,can you inhabit and hold territory in space,ordinal,Habitable and governable (permanent settlements can hold territory),4.5,6,0.5625,peak
-Japan,2,q2,can you inhabit and hold territory in space,ordinal,"Limited settlement (small colonies, hard to sustain/control)",0.5,2,0.0625,peak
-Japan,2,q2,can you inhabit and hold territory in space,ordinal,"Visiting / Temporary presence only (stations, missions, outposts)",2,2,0.25,peak
+Japan,2,q2,can you inhabit and hold territory in space,ordinal,Habitable and governable (permanent settlements can hold territory),4,4,0.5,peak
+Japan,2,q2,can you inhabit and hold territory in space,ordinal,"Limited settlement (small colonies, hard to sustain/control)",1.5,3,0.1875,peak
+Japan,2,q2,can you inhabit and hold territory in space,ordinal,"Visiting / Temporary presence only (stations, missions, outposts)",1.5,3,0.1875,peak
 Japan,3,q3,how long is journey / how  far from earth,ordinal,"Extreme / effectively unreachable (generational, completely separate, or one-way-feeling distance)",3,3,0.375,peak
 Japan,3,q3,how long is journey / how  far from earth,ordinal,"Long-distance journey (years, major separation from Earth)",2,5,0.25,peak
 Japan,3,q3,how long is journey / how  far from earth,ordinal,Near-Earth / very short journey,3,3,0.375,peak
@@ -401,14 +402,13 @@ Japan,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Ex
 Japan,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Harsh and resource-intensive,2.25,3,0.28125,peak
 Japan,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Manageable but risky,0.5,2,0.0625,peak
 Japan,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Nearly uninhabitable / lethal without major intervention,3,3,0.375,peak
-Japan,7,q7,how common is it for humans to live in space,ordinal,Common (many people live/work there),2.25,3,0.28125,peak
-Japan,7,q7,how common is it for humans to live in space,ordinal,Exceptionally rare (few astronauts/explorers),1,1,0.125,peak
-Japan,7,q7,how common is it for humans to live in space,ordinal,Moderately common (noticeable settlements/populations),0.25,1,0.03125,peak
-Japan,7,q7,how common is it for humans to live in space,ordinal,Normalized / widespread (space habitation is ordinary for humanity),1,1,0.125,peak
-Japan,7,q7,how common is it for humans to live in space,ordinal,Uncommon (small specialist population),3.5,5,0.4375,peak
-Japan,8,q8,are there different countries in space? Or just one?,ordinal,Earth nation-states extend into space,4,4,0.5,peak
-Japan,8,q8,are there different countries in space? Or just one?,ordinal,Multiple distinct space polities,1,1,0.125,peak
-Japan,8,q8,are there different countries in space? Or just one?,ordinal,Single unified authority,3,6,0.375,peak
+Japan,7,q7,how common is it for humans to live in space,ordinal,Common (many people live/work there),0.5,2,0.0625,peak
+Japan,7,q7,how common is it for humans to live in space,ordinal,Moderately common (noticeable settlements/populations),1.25,2,0.15625,peak
+Japan,7,q7,how common is it for humans to live in space,ordinal,Normalized / widespread (space habitation is ordinary for humanity),5,5,0.625,peak
+Japan,7,q7,how common is it for humans to live in space,ordinal,Uncommon (small specialist population),1.25,2,0.15625,peak
+Japan,8,q8,are there different countries in space? Or just one?,ordinal,"Highly fragmented political landscape (multipolar with many factions, corporations, colonies, microstates)",1,1,0.125,peak
+Japan,8,q8,are there different countries in space? Or just one?,ordinal,No political order / ungoverned,3,6,0.375,peak
+Japan,8,q8,are there different countries in space? Or just one?,ordinal,Single unified authority,4,4,0.5,peak
 Japan,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Entirely civilian,1,1,0.1111111111111111,peak
 Japan,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Entirely military / war-focused,2,2,0.2222222222222222,peak
 Japan,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Mixed civilian-military domain,0.25,1,0.027777777777777776,peak
@@ -421,8 +421,8 @@ Japan,12,q12,how physically different is space from earth?,ordinal,Very differen
 Russia,1,q1,is space something to be contested,ordinal,Moderate contestation (ongoing rivalry/disputes),1,1,0.14285714285714285,peak
 Russia,1,q1,is space something to be contested,ordinal,No contestation,5,5,0.7142857142857143,peak
 Russia,1,q1,is space something to be contested,ordinal,Total war / constant conflict,1,1,0.14285714285714285,peak
-Russia,2,q2,can you inhabit and hold territory in space,ordinal,Habitable and governable (permanent settlements can hold territory),1,1,0.16666666666666666,peak
-Russia,2,q2,can you inhabit and hold territory in space,ordinal,"Visiting / Temporary presence only (stations, missions, outposts)",5,5,0.8333333333333334,peak
+Russia,2,q2,can you inhabit and hold territory in space,ordinal,Extensive territorial occupation (many settled worlds/regions held like states or empires),1,1,0.16666666666666666,peak
+Russia,2,q2,can you inhabit and hold territory in space,ordinal,Habitable and governable (permanent settlements can hold territory),5,5,0.8333333333333334,peak
 Russia,3,q3,how long is journey / how  far from earth,ordinal,"Extreme / effectively unreachable (generational, completely separate, or one-way-feeling distance)",2,2,0.3333333333333333,peak
 Russia,3,q3,how long is journey / how  far from earth,ordinal,"Long-distance journey (years, major separation from Earth)",3,3,0.5,peak
 Russia,3,q3,how long is journey / how  far from earth,ordinal,Short interplanetary journey,1,1,0.16666666666666666,peak
@@ -436,11 +436,10 @@ Russia,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,B
 Russia,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Extremely hostile (constant survival pressure),2,2,0.2857142857142857,peak
 Russia,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Harsh and resource-intensive,1,1,0.14285714285714285,peak
 Russia,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Nearly uninhabitable / lethal without major intervention,3,3,0.42857142857142855,peak
-Russia,7,q7,how common is it for humans to live in space,ordinal,Common (many people live/work there),1,1,0.16666666666666666,peak
-Russia,7,q7,how common is it for humans to live in space,ordinal,Exceptionally rare (few astronauts/explorers),3,3,0.5,peak
-Russia,7,q7,how common is it for humans to live in space,ordinal,Uncommon (small specialist population),2,2,0.3333333333333333,peak
-Russia,8,q8,are there different countries in space? Or just one?,ordinal,Multiple distinct space polities,2,2,0.3333333333333333,peak
-Russia,8,q8,are there different countries in space? Or just one?,ordinal,Single unified authority,4,4,0.6666666666666666,peak
+Russia,7,q7,how common is it for humans to live in space,ordinal,Normalized / widespread (space habitation is ordinary for humanity),6,6,1,peak
+Russia,8,q8,are there different countries in space? Or just one?,ordinal,Earth nation-states extend into space,2,2,0.3333333333333333,peak
+Russia,8,q8,are there different countries in space? Or just one?,ordinal,"Highly fragmented political landscape (multipolar with many factions, corporations, colonies, microstates)",1,1,0.16666666666666666,peak
+Russia,8,q8,are there different countries in space? Or just one?,ordinal,No political order / ungoverned,3,3,0.5,peak
 Russia,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Entirely civilian,4,4,0.5714285714285714,peak
 Russia,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Entirely military / war-focused,1,1,0.14285714285714285,peak
 Russia,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Mixed civilian-military domain,1,1,0.14285714285714285,peak
@@ -453,11 +452,11 @@ US,1,q1,is space something to be contested,ordinal,"Low contestation (minor comp
 US,1,q1,is space something to be contested,ordinal,Moderate contestation (ongoing rivalry/disputes),1.16,5,0.10545454545454545,peak
 US,1,q1,is space something to be contested,ordinal,No contestation,1.52,14,0.13818181818181818,peak
 US,1,q1,is space something to be contested,ordinal,Total war / constant conflict,5.08,7,0.46181818181818185,peak
-US,2,q2,can you inhabit and hold territory in space,ordinal,Cannot inhabit or hold territory,0.08,2,0.0072992700729927005,peak
-US,2,q2,can you inhabit and hold territory in space,ordinal,Extensive territorial occupation (many settled worlds/regions held like states or empires),4,4,0.36496350364963503,peak
-US,2,q2,can you inhabit and hold territory in space,ordinal,Habitable and governable (permanent settlements can hold territory),2.44,13,0.22262773722627735,peak
-US,2,q2,can you inhabit and hold territory in space,ordinal,"Limited settlement (small colonies, hard to sustain/control)",2.24,8,0.20437956204379562,peak
-US,2,q2,can you inhabit and hold territory in space,ordinal,"Visiting / Temporary presence only (stations, missions, outposts)",2.2,7,0.20072992700729927,peak
+US,2,q2,can you inhabit and hold territory in space,ordinal,Cannot inhabit or hold territory,3,3,0.2737226277372263,peak
+US,2,q2,can you inhabit and hold territory in space,ordinal,Extensive territorial occupation (many settled worlds/regions held like states or empires),2.08,4,0.1897810218978102,peak
+US,2,q2,can you inhabit and hold territory in space,ordinal,Habitable and governable (permanent settlements can hold territory),4.2,9,0.38321167883211676,peak
+US,2,q2,can you inhabit and hold territory in space,ordinal,"Limited settlement (small colonies, hard to sustain/control)",0.24,6,0.0218978102189781,peak
+US,2,q2,can you inhabit and hold territory in space,ordinal,"Visiting / Temporary presence only (stations, missions, outposts)",1.44,12,0.1313868613138686,peak
 US,3,q3,how long is journey / how  far from earth,ordinal,"Extreme / effectively unreachable (generational, completely separate, or one-way-feeling distance)",9,9,0.8211678832116788,peak
 US,3,q3,how long is journey / how  far from earth,ordinal,"Long-distance journey (years, major separation from Earth)",0.04,1,0.0036496350364963502,peak
 US,3,q3,how long is journey / how  far from earth,ordinal,Moderate journey (months/meaningful separation),1.04,2,0.0948905109489051,peak
@@ -475,16 +474,16 @@ US,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Extre
 US,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Harsh and resource-intensive,1.2,6,0.1102941176470588,peak
 US,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Manageable but risky,0.6,15,0.0551470588235294,peak
 US,6,q6,is it hostile / hard to survive (bc of natural conditions),ordinal,Nearly uninhabitable / lethal without major intervention,5.04,6,0.463235294117647,peak
-US,7,q7,how common is it for humans to live in space,ordinal,Common (many people live/work there),2.24,8,0.20437956204379562,peak
-US,7,q7,how common is it for humans to live in space,ordinal,Exceptionally rare (few astronauts/explorers),2.4,12,0.218978102189781,peak
-US,7,q7,how common is it for humans to live in space,ordinal,Moderately common (noticeable settlements/populations),1.16,5,0.10583941605839414,peak
-US,7,q7,how common is it for humans to live in space,ordinal,Normalized / widespread (space habitation is ordinary for humanity),4,4,0.36496350364963503,peak
-US,7,q7,how common is it for humans to live in space,ordinal,Uncommon (small specialist population),1.16,5,0.10583941605839414,peak
-US,8,q8,are there different countries in space? Or just one?,ordinal,Earth nation-states extend into space,2.52,15,0.23507462686567163,peak
-US,8,q8,are there different countries in space? Or just one?,ordinal,"Highly fragmented political landscape (multipolar with many factions, corporations, colonies, microstates)",3,3,0.2798507462686567,peak
-US,8,q8,are there different countries in space? Or just one?,ordinal,Multiple distinct space polities,5,5,0.46641791044776115,peak
-US,8,q8,are there different countries in space? Or just one?,ordinal,No political order / ungoverned,0.16,4,0.014925373134328358,peak
-US,8,q8,are there different countries in space? Or just one?,ordinal,Single unified authority,0.04,1,0.0037313432835820895,peak
+US,7,q7,how common is it for humans to live in space,ordinal,Common (many people live/work there),2.16,6,0.19708029197080293,peak
+US,7,q7,how common is it for humans to live in space,ordinal,Exceptionally rare (few astronauts/explorers),3,3,0.2737226277372263,peak
+US,7,q7,how common is it for humans to live in space,ordinal,Moderately common (noticeable settlements/populations),0.16,4,0.014598540145985401,peak
+US,7,q7,how common is it for humans to live in space,ordinal,Normalized / widespread (space habitation is ordinary for humanity),5.4,15,0.4927007299270073,peak
+US,7,q7,how common is it for humans to live in space,ordinal,Uncommon (small specialist population),0.24,6,0.0218978102189781,peak
+US,8,q8,are there different countries in space? Or just one?,ordinal,Earth nation-states extend into space,5,5,0.46641791044776115,peak
+US,8,q8,are there different countries in space? Or just one?,ordinal,"Highly fragmented political landscape (multipolar with many factions, corporations, colonies, microstates)",1.16,5,0.10820895522388058,peak
+US,8,q8,are there different countries in space? Or just one?,ordinal,Multiple distinct space polities,2,2,0.18656716417910446,peak
+US,8,q8,are there different countries in space? Or just one?,ordinal,No political order / ungoverned,0.04,1,0.0037313432835820895,peak
+US,8,q8,are there different countries in space? Or just one?,ordinal,Single unified authority,2.52,15,0.23507462686567163,peak
 US,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Entirely civilian,1.76,20,0.16176470588235292,peak
 US,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Entirely military / war-focused,3,3,0.275735294117647,peak
 US,10,q10,is space a military or civilian domain / is the book military or civilian?,ordinal,Mixed civilian-military domain,2,2,0.1838235294117647,peak

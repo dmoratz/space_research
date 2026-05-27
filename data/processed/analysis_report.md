@@ -1,6 +1,6 @@
 # Analysis Report
 
-_Generated: 2026-05-27 10:46:36_
+_Generated: 2026-05-27 11:45:23_
 
 ## Configuration
 
@@ -11,17 +11,17 @@ _Generated: 2026-05-27 10:46:36_
 
 ## Book-level coding statistics
 
-- Total book-level (book x question) rows: 1272
-- Rows requiring tie-breaking: 20
-- Books coded Other / Unsure (all chapters were Other / Unsure): 419
-- Ordinal books where peak != mode: 171
+- Total book-level (book x question) rows: 552
+- Rows requiring tie-breaking: 27
+- Books coded Other / Unsure (all chapters were Other / Unsure): 27
+- Ordinal books where peak != mode: 255
 
 ## Outputs
 
 - `data/processed/book_level.{rds,csv}`
 - `data/processed/country_distributions.{rds,csv}`
 - `data/processed/country_aggregates.{rds,csv}`
-- `data/processed/figures/` (64 files)
+- `data/processed/figures/` (78 files)
 
 ## Carry-forward IRR caveats from Task 2
 
