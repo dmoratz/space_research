@@ -1,14 +1,449 @@
 ---
-title: "Analysis"
-output: html_document
-date: "2026-05-25"
+title: "Analysis: Cross-Country Portrayal of Outer Space in Sci-Fi"
+author: "Donald Moratz"
+date: "2026-05-26"
+output:
+  html_document:
+    toc: true
+    toc_depth: 3
+    number_sections: true
+    df_print: paged
+    fig_width: 10
+    fig_height: 7
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+```{r setup, include = FALSE}
 
-# Load shared setup: packages, paths, constants, helper functions.
-# source.R lives alongside this .Rmd in scripts/.
+knitr::opts_chunk$set(
+    echo    = TRUE,
+    message = FALSE,
+    warning = FALSE
+)
+
+# Wipe the environment so every knit / run starts from a known state.
+rm(list = ls())
+
+# Load shared setup (packages, paths, helpers) plus analysis-specific
+# helpers.  Both files live alongside this .Rmd in scripts/.
 source("source.R")
+source("source_analysis.R")
+
 ```
 
+
+# Purpose
+
+Descriptive, hypothesis-generating analysis of how sci-fi novels from
+six countries (China, Finland, France, Japan, Russia, US) portray outer
+space.  The pipeline rolls Claude's per-chapter codings up to the book
+and country level using the rules locked in for Task 3
+(PROJECT_TASKS.md §5):
+
+* **Chapter -> Book**: majoritarian (mode) coding with the "any non-
+  Other / Unsure chapter wins" rule.  Computed in parallel: mode,
+  median, mean, peak, end.  Tie-breaking via median-of-tied-positions
+  for ordinal questions, lower-index canonical option for nominal
+  questions.
+* **Book -> Country**: weighted aggregation that lets collection-heavy
+  countries fairly contribute.  Each story in an N-story collection
+  contributes 1/N of a book's weight by default; flip
+  `collection_weight_mode` below to change.
+* **No inferential testing** -- this is explicitly hypothesis-
+  generating analysis for a Nature submission.  Distributions, modes,
+  divergences, and trajectories are shown directly.
+
+---
+
+# Analysis configuration
+
+The two main analytical levers sit here so collaborators can change
+them without editing `source.R`.
+
+```{r analysis-config}
+
+# Which book -> country aggregation mode to use.  Locked-in default is
+# "weighted"; flip to "equal" to treat every story as a full book, or
+# to "merged" to pool collection chapters back into single books.
+collection_weight_mode <- "weighted"
+
+# Where trajectory + heatmap PNGs get written for downstream use.
+FIGURE_DIR <- file.path(PROCESSED_DIR, "figures")
+if (!dir.exists(FIGURE_DIR)) dir.create(FIGURE_DIR, recursive = TRUE)
+
+cat("collection_weight_mode:", collection_weight_mode, "\n")
+cat("FIGURE_DIR:            ", FIGURE_DIR, "\n")
+
+```
+
+
+# Inputs
+
+## Load questions, Claude long frame, and collection metadata
+
+```{r load-inputs}
+
+questions <- jsonlite::read_json(QUESTIONS_JSON, simplifyVector = FALSE)
+claude_long <- readRDS(file.path(PROCESSED_DIR, "space_chapters_long.rds"))
+collection_meta <- load_collection_metadata()
+
+cat("Questions:        ", length(questions), "\n")
+cat("Claude long rows: ", nrow(claude_long), "\n")
+cat("Distinct books:   ", dplyr::n_distinct(claude_long$book), "\n")
+cat("Distinct countries:", dplyr::n_distinct(claude_long$country), "\n")
+
+cat("\nCollection metadata summary:\n")
+collection_meta %>%
+    dplyr::count(classification, is_collection) %>%
+    knitr::kable()
+
+```
+
+
+## Attach ordinal positions
+
+```{r add-ordinal}
+
+claude_long <- add_ordinal_position(claude_long, questions)
+
+# Quick sanity check: every committed ordinal answer should have an
+# ordinal_position; every Other / Unsure should have NA.
+claude_long %>%
+    dplyr::filter(question_number %in% ordinal_question_numbers) %>%
+    dplyr::count(has_pos = !is.na(ordinal_position),
+                 is_other = answer == "Other / Unsure") %>%
+    knitr::kable(caption = "Ordinal-position attachment sanity check (ordinal Qs only)")
+
+```
+
+
+## Apply collection split
+
+```{r split-collections}
+
+claude_long_split <- split_collections(claude_long, collection_meta,
+                                       mode = collection_weight_mode)
+
+cat("Rows after split:        ", nrow(claude_long_split), "\n")
+cat("Distinct books after split:",
+    dplyr::n_distinct(claude_long_split$book), "\n")
+
+claude_long_split %>%
+    dplyr::filter(!is.na(parent_book)) %>%
+    dplyr::distinct(country, parent_book, book) %>%
+    dplyr::count(country, parent_book, name = "n_stories") %>%
+    knitr::kable(caption = "Stories per split collection")
+
+```
+
+
+# Chapter -> Book aggregation
+
+```{r aggregate-books}
+
+book_level <- aggregate_chapter_to_book(claude_long_split, questions)
+
+cat("Book-level rows:", nrow(book_level), "\n")
+cat("Distinct books :", dplyr::n_distinct(book_level$book), "\n")
+
+book_level %>%
+    dplyr::count(tie_broken, name = "n") %>%
+    knitr::kable(caption = "Tie-broken book codings (low count is good)")
+
+book_level %>%
+    dplyr::count(all_other_unsure, name = "n") %>%
+    knitr::kable(caption = "Book codings that fell back to Other / Unsure (all chapters were Other / Unsure)")
+
+```
+
+
+## Where do mode and peak diverge?
+
+Cases where `mode_answer != peak_answer` for ordinal questions are
+exactly the books where Donald's "single peak chapter pulls memory"
+intuition could matter most.
+
+```{r mode-peak-divergence}
+
+book_level %>%
+    dplyr::filter(scale == "ordinal",
+                  !is.na(mode_answer), !is.na(peak_answer),
+                  mode_answer != peak_answer) %>%
+    dplyr::transmute(
+        country, book, question_number,
+        mode_short = get_answer_short(question_number, mode_answer),
+        peak_short = get_answer_short(question_number, peak_answer),
+        peak_minus_mode = peak_position - mode_position
+    ) %>%
+    dplyr::arrange(dplyr::desc(peak_minus_mode)) %>%
+    head(40) %>%
+    knitr::kable(caption = "Top 40 mode-vs-peak divergences (ordinal Qs)")
+
+```
+
+
+# Book -> Country aggregation
+
+```{r aggregate-countries}
+
+country_agg <- aggregate_book_to_country(
+    book_level,
+    collection_meta,
+    weight_mode = collection_weight_mode
+)
+
+country_distributions <- country_agg$distributions
+country_aggregates    <- country_agg$aggregates
+
+cat("Country distribution rows:", nrow(country_distributions), "\n")
+cat("Country aggregate rows:   ", nrow(country_aggregates), "\n")
+
+country_aggregates %>%
+    dplyr::filter(scale == "ordinal") %>%
+    dplyr::select(country, question_number, n_books, total_weight,
+                  mean_position, median_position, mean_peak_position) %>%
+    dplyr::mutate(dplyr::across(c(mean_position, median_position,
+                                   mean_peak_position),
+                                ~ round(.x, 2))) %>%
+    head(30) %>%
+    knitr::kable(caption = "Country-level ordinal aggregates (first 30 rows)")
+
+```
+
+
+# Visualizations
+
+## Book fingerprint heatmaps (mode + peak)
+
+With 4 collections split into stories, the fingerprint has 106 book-
+rows.  The figure is tall by design; collection rows for the same
+parent (e.g., 25 Martian Chronicles stories) appear together because
+the y-axis is sorted by country then book name.
+
+```{r book-fingerprint, fig.width = 11, fig.height = 22}
+
+p_fp_mode <- plot_book_fingerprint(book_level, questions,
+                                   use_field = "mode_answer")
+print(p_fp_mode)
+
+ggplot2::ggsave(file.path(FIGURE_DIR, "book_fingerprint_mode.png"),
+                p_fp_mode, width = 11, height = 22, dpi = 120)
+
+```
+
+```{r book-fingerprint-peak, fig.width = 11, fig.height = 22}
+
+p_fp_peak <- plot_book_fingerprint(book_level, questions,
+                                   use_field = "peak_answer")
+print(p_fp_peak)
+
+ggplot2::ggsave(file.path(FIGURE_DIR, "book_fingerprint_peak.png"),
+                p_fp_peak, width = 11, height = 22, dpi = 120)
+
+```
+
+
+## Country distribution stacked bars (mode + peak)
+
+```{r country-distribution-mode, fig.width = 12, fig.height = 11}
+
+p_dist_mode <- plot_country_distribution(country_distributions, questions,
+                                         use_field = "mode")
+print(p_dist_mode)
+
+ggplot2::ggsave(file.path(FIGURE_DIR, "country_distribution_mode.png"),
+                p_dist_mode, width = 12, height = 11, dpi = 120)
+
+```
+
+```{r country-distribution-peak, fig.width = 12, fig.height = 11}
+
+p_dist_peak <- plot_country_distribution(country_distributions, questions,
+                                         use_field = "peak")
+print(p_dist_peak)
+
+ggplot2::ggsave(file.path(FIGURE_DIR, "country_distribution_peak.png"),
+                p_dist_peak, width = 12, height = 11, dpi = 120)
+
+```
+
+
+## Country divergence heatmaps (mode + peak)
+
+```{r country-divergence-mode, fig.width = 10, fig.height = 5}
+
+p_div_mode <- plot_country_divergence(country_aggregates, questions,
+                                      use_field = "mean_position")
+print(p_div_mode)
+
+ggplot2::ggsave(file.path(FIGURE_DIR, "country_divergence_mode.png"),
+                p_div_mode, width = 10, height = 5, dpi = 120)
+
+```
+
+```{r country-divergence-peak, fig.width = 10, fig.height = 5}
+
+p_div_peak <- plot_country_divergence(country_aggregates, questions,
+                                      use_field = "mean_peak_position")
+print(p_div_peak)
+
+ggplot2::ggsave(file.path(FIGURE_DIR, "country_divergence_peak.png"),
+                p_div_peak, width = 10, height = 5, dpi = 120)
+
+```
+
+
+# Trajectories
+
+## Per-book trajectories (46 figures)
+
+For each book in the corpus, a 12-panel figure showing how its
+chapter-level codings evolve over the course of the narrative.
+Collection rows are merged back to parent books for the trajectory
+view -- a collection's trajectory is its full sequence of stories.
+
+```{r trajectory-books, fig.width = 11, fig.height = 9, results = "asis"}
+
+# For trajectories we want the ORIGINAL claude_long (not split), so each
+# collection shows as one book with its full chapter sequence.
+trajectory_books <- claude_long %>%
+    dplyr::distinct(country, book) %>%
+    dplyr::arrange(country, book)
+
+for (i in seq_len(nrow(trajectory_books))) {
+
+    b <- trajectory_books$book[i]
+    c <- trajectory_books$country[i]
+
+    cat("\n\n### ", c, " - ", b, "\n\n", sep = "")
+
+    p <- plot_trajectory_per_book(claude_long, b, questions)
+    print(p)
+
+    safe_name <- gsub("[^A-Za-z0-9]+", "_", b)
+    ggplot2::ggsave(
+        file.path(FIGURE_DIR, paste0("trajectory_book_", safe_name, ".png")),
+        p, width = 11, height = 9, dpi = 100
+    )
+}
+
+```
+
+
+## Per-question trajectories (12 figures)
+
+For each question, one figure with a small panel per book showing how
+the answer evolves.  Useful for spotting cross-book arc patterns
+(e.g., are contestation trajectories systematically escalating in war-
+focused books?).
+
+```{r trajectory-questions, fig.width = 14, fig.height = 16, results = "asis"}
+
+for (q in questions) {
+
+    qn <- q$number
+
+    cat("\n\n### Q", qn, ": ", q$criteria_short, "\n\n", sep = "")
+
+    p <- plot_trajectory_per_question(claude_long, qn, questions)
+    print(p)
+
+    ggplot2::ggsave(
+        file.path(FIGURE_DIR, paste0("trajectory_q", qn, ".png")),
+        p, width = 14, height = 16, dpi = 100
+    )
+}
+
+```
+
+
+# Save outputs
+
+```{r save-outputs}
+
+saveRDS(book_level,
+        file.path(PROCESSED_DIR, "book_level.rds"))
+saveRDS(country_distributions,
+        file.path(PROCESSED_DIR, "country_distributions.rds"))
+saveRDS(country_aggregates,
+        file.path(PROCESSED_DIR, "country_aggregates.rds"))
+
+readr::write_csv(book_level,
+                 file.path(PROCESSED_DIR, "book_level.csv"))
+readr::write_csv(country_distributions,
+                 file.path(PROCESSED_DIR, "country_distributions.csv"))
+readr::write_csv(country_aggregates,
+                 file.path(PROCESSED_DIR, "country_aggregates.csv"))
+
+cat("Wrote analysis outputs to", PROCESSED_DIR, "\n")
+cat("Wrote", length(list.files(FIGURE_DIR)),
+    "figure files to", FIGURE_DIR, "\n")
+
+```
+
+
+## Generate analysis_report.md
+
+```{r write-report}
+
+report_lines <- c(
+    "# Analysis Report",
+    "",
+    paste0("_Generated: ", format(Sys.time(), "%Y-%m-%d %H:%M:%S"), "_"),
+    "",
+    "## Configuration",
+    "",
+    paste0("- `collection_weight_mode`: ", collection_weight_mode),
+    paste0("- Books in corpus (pre-split): ",
+           dplyr::n_distinct(claude_long$book)),
+    paste0("- Books in corpus (post-split): ",
+           dplyr::n_distinct(claude_long_split$book)),
+    paste0("- Countries: ",
+           paste(sort(unique(claude_long$country)), collapse = ", ")),
+    "",
+    "## Book-level coding statistics",
+    "",
+    paste0("- Total book-level (book x question) rows: ",
+           nrow(book_level)),
+    paste0("- Rows requiring tie-breaking: ",
+           sum(book_level$tie_broken, na.rm = TRUE)),
+    paste0("- Books coded Other / Unsure (all chapters were Other / Unsure): ",
+           sum(book_level$all_other_unsure, na.rm = TRUE)),
+    paste0("- Ordinal books where peak != mode: ",
+           sum(book_level$scale == "ordinal" &
+                   !is.na(book_level$mode_answer) &
+                   !is.na(book_level$peak_answer) &
+                   book_level$mode_answer != book_level$peak_answer,
+               na.rm = TRUE)),
+    "",
+    "## Outputs",
+    "",
+    "- `data/processed/book_level.{rds,csv}`",
+    "- `data/processed/country_distributions.{rds,csv}`",
+    "- `data/processed/country_aggregates.{rds,csv}`",
+    paste0("- `data/processed/figures/` (",
+           length(list.files(FIGURE_DIR)), " files)"),
+    "",
+    "## Carry-forward IRR caveats from Task 2",
+    "",
+    "- Mean per-question weighted kappa across the 5 IRR books: 0.857 (ordinal questions).",
+    "- Mean per-question alpha across the 5 IRR books: 0.703.",
+    "- Where both Claude and the human committed to ordinal answers, agreement is strong; pooled nominal agreement is weaker (pooled alpha = 0.389 with all cells, 0.636 excluding one-sided Other / Unsure).",
+    "- Q9 (genre) and Q11 (nearest-neighbor metaphor) have weak chapter-level reliability (kappa ~ 0.03-0.06); present their distributions with this caveat.",
+    "- Planet of the Apes had heavy human hedging (68% Other / Unsure); the Claude-only analysis here is unaffected but cross-book comparisons that hinge on Apes should be noted."
+)
+
+writeLines(
+    report_lines,
+    file.path(PROCESSED_DIR, "analysis_report.md")
+)
+
+cat("Wrote analysis_report.md to", PROCESSED_DIR, "\n")
+
+```
+
+
+# Session info
+
+```{r session-info}
+sessionInfo()
+```
