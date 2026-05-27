@@ -671,17 +671,31 @@ build_color_lookup <- function() {
 
 
 # 3c. q_label_short(n) / q_label_long(n, questions)
-#     Build zero-padded question labels for display.  "Q01" ... "Q12"
-#     for the short form; "Q01: <criteria_short>" for the long form.
+#     Build zero-padded question labels for display.  Both are
+#     vectorized over `n` so they can be used inside dplyr::mutate().
+#     "Q01" ... "Q12" for the short form; "Q01: <criteria_short>" for
+#     the long form.
 q_label_short <- function(n) {
     sprintf("Q%02d", as.integer(n))
 }
 
 q_label_long <- function(n, questions) {
-    q <- purrr::detect(questions,
-                       ~ identical(as.integer(.x$number), as.integer(n)))
-    if (is.null(q)) return(q_label_short(n))
-    sprintf("Q%02d: %s", as.integer(n), q$criteria_short)
+
+    n <- as.integer(n)
+
+    # Build a once-per-call lookup so vectorized n still works.  Prior
+    # version called purrr::detect() with a vector and silently fell
+    # back to short labels, which then mismatched factor levels in
+    # plot_country_distribution() and collapsed all facets to NA.
+    short_lookup <- vapply(questions,
+                           function(q) q$criteria_short,
+                           character(1))
+    names(short_lookup) <- vapply(questions,
+                                  function(q) as.character(q$number),
+                                  character(1))
+
+    shorts <- unname(short_lookup[as.character(n)])
+    sprintf("Q%02d: %s", n, shorts)
 }
 
 
