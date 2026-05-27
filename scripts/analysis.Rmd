@@ -318,7 +318,7 @@ p_div_mode <- plot_country_divergence(country_aggregates, questions,
                                       use_field = "mean_position")
 print(p_div_mode)
 
-ggplot2::ggsave(file.path(FIGURE_DIR, "country_divergence_mode.png"),
+ggplot2::ggsave(file.path(FIGURE_DIR, "country_divergence_mode_heatmap.png"),
                 p_div_mode, width = 10, height = 5, dpi = 120)
 
 ```
@@ -329,7 +329,7 @@ p_div_peak <- plot_country_divergence(country_aggregates, questions,
                                       use_field = "mean_peak_position")
 print(p_div_peak)
 
-ggplot2::ggsave(file.path(FIGURE_DIR, "country_divergence_peak.png"),
+ggplot2::ggsave(file.path(FIGURE_DIR, "country_divergence_peak_heatmap.png"),
                 p_div_peak, width = 10, height = 5, dpi = 120)
 
 ```
