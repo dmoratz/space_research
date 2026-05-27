@@ -180,6 +180,128 @@ book_rename_map <- c(
 )
 
 
+# 4d. Short labels for the canonical answer_options.
+#
+# Source: the right-side reference block in
+# data/human_coded/enders_game.csv (rows 1..12, cols 5..12), authored by
+# Donald on 2026-05-25 and tidied up here (Q5 spelling fix
+# `france -> franca`; Q7 typo fix `moderatecommon -> moderately common`;
+# Q7 5th level interpolated `Common -> common`, `Normalized -> widespread`).
+#
+# Use case: plot axis labels, gt table cells, and IRR per-question facets
+# where the full canonical text ("High contestation (frequent conflict or
+# strategic struggle)") is too long.
+#
+# Shape: a long tibble with three columns:
+#   question_number  -- integer 1..12
+#   answer           -- the canonical text (exact match to questions.json)
+#   answer_short     -- the abbreviated label for display
+#
+# Helper get_answer_short(q, a) below wraps a join-free lookup.
+answer_options_short_lookup <- tibble::tribble(
+    ~question_number, ~answer,                                                                                              ~answer_short,
+    # Q1 -- contestation
+    1L, "No contestation",                                                                                                  "no contestation",
+    1L, "Low contestation (minor competition, little open conflict)",                                                       "low contestation",
+    1L, "Moderate contestation (ongoing rivalry/disputes)",                                                                 "moderate contestation",
+    1L, "High contestation (frequent conflict or strategic struggle)",                                                      "high contestation",
+    1L, "Total war / constant conflict",                                                                                    "total war",
+    1L, "Other / Unsure",                                                                                                   "Other / Unsure",
+    # Q2 -- inhabitable
+    2L, "Cannot inhabit or hold territory",                                                                                 "cannot inhabit",
+    2L, "Visiting / Temporary presence only (stations, missions, outposts)",                                                "visiting/temporary only",
+    2L, "Limited settlement (small colonies, hard to sustain/control)",                                                     "limited settlement",
+    2L, "Habitable and governable (permanent settlements can hold territory)",                                              "habitable and governable",
+    2L, "Extensive territorial occupation (many settled worlds/regions held like states or empires)",                       "extensive occupation",
+    2L, "Other / Unsure",                                                                                                   "Other / Unsure",
+    # Q3 -- journey distance
+    3L, "Near-Earth / very short journey",                                                                                  "near-earth/very short",
+    3L, "Short interplanetary journey",                                                                                     "short journey",
+    3L, "Moderate journey (months/meaningful separation)",                                                                  "moderate journey",
+    3L, "Long-distance journey (years, major separation from Earth)",                                                       "long-distance journey",
+    3L, "Extreme / effectively unreachable (generational, completely separate, or one-way-feeling distance)",               "extreme/unreachable",
+    3L, "Other / Unsure",                                                                                                   "Other / Unsure",
+    # Q4 -- cultural difference
+    4L, "Basically Earth society in space",                                                                                 "earth in space",
+    4L, "Mostly Earth-like with minor adaptations",                                                                         "earth-like",
+    4L, "Mixed / hybrid culture",                                                                                           "hybrid culture",
+    4L, "Distinct space culture",                                                                                           "distinct space culture",
+    4L, "Radically different / alien social order",                                                                         "radically different culture",
+    4L, "Other / Unsure",                                                                                                   "Other / Unsure",
+    # Q5 -- language
+    5L, "Same languages as Earth",                                                                                          "earth language",
+    5L, "Mostly same, with dialect/slang differences",                                                                      "dialect differences",
+    5L, "Shared lingua franca plus local variation",                                                                        "shared lingua franca + local variation",
+    5L, "Distinct space language(s)",                                                                                       "distinct languages",
+    5L, "Translation-mediated communication (universal translator / communication tech makes language difference irrelevant)", "translation-mediated",
+    5L, "Other / Unsure",                                                                                                   "Other / Unsure",
+    # Q6 -- geographic hostility
+    6L, "Benign / easily survivable",                                                                                       "benign",
+    6L, "Manageable but risky",                                                                                             "risky",
+    6L, "Harsh and resource-intensive",                                                                                     "harsh",
+    6L, "Extremely hostile (constant survival pressure)",                                                                   "hostile",
+    6L, "Nearly uninhabitable / lethal without major intervention",                                                         "uninhabitable/lethal",
+    6L, "Other / Unsure",                                                                                                   "Other / Unsure",
+    # Q7 -- common experience
+    7L, "Exceptionally rare (few astronauts/explorers)",                                                                    "rare",
+    7L, "Uncommon (small specialist population)",                                                                           "uncommon",
+    7L, "Moderately common (noticeable settlements/populations)",                                                           "moderately common",
+    7L, "Common (many people live/work there)",                                                                             "common",
+    7L, "Normalized / widespread (space habitation is ordinary for humanity)",                                              "widespread",
+    7L, "Other / Unsure",                                                                                                   "Other / Unsure",
+    # Q8 -- different countries
+    8L, "No political order / ungoverned",                                                                                  "ungoverned",
+    8L, "Single unified authority",                                                                                         "single authority",
+    8L, "Earth nation-states extend into space",                                                                            "Earth nation-states extend into space",
+    8L, "Multiple distinct space polities",                                                                                 "distinct polities",
+    8L, "Highly fragmented political landscape (multipolar with many factions, corporations, colonies, microstates)",      "high fragmentation",
+    8L, "Other / Unsure",                                                                                                   "Other / Unsure",
+    # Q9 -- genre
+    9L, "Adventure / exploration",                                                                                          "adventure",
+    9L, "Drama",                                                                                                            "drama",
+    9L, "Political / diplomatic",                                                                                           "political",
+    9L, "Military / war",                                                                                                   "military/war",
+    9L, "Thriller / Horror / Survival",                                                                                     "thriller/horror",
+    9L, "Comedy / satire",                                                                                                  "comedy",
+    9L, "Other / Unsure",                                                                                                   "Other / Unsure",
+    # Q10 -- military or civilian domain
+    10L, "Entirely civilian",                                                                                               "civilian",
+    10L, "Mostly civilian with some military presence",                                                                     "mostly civilian",
+    10L, "Mixed civilian-military domain",                                                                                  "mixed",
+    10L, "Mostly military",                                                                                                 "mostly military",
+    10L, "Entirely military / war-focused",                                                                                 "military",
+    10L, "Other / Unsure",                                                                                                  "Other / Unsure",
+    # Q11 -- nearest neighbor
+    11L, "Totally unique domain",                                                                                           "unique",
+    11L, "Like the ocean / naval",                                                                                          "ocean/naval",
+    11L, "Like the air / airpower",                                                                                         "air/airpower",
+    11L, "Like the frontier / colonial expansion",                                                                          "frontier/colonial",
+    11L, "Like cyberspace / networked or abstract domain",                                                                  "cyberspace",
+    11L, "Other / Unsure",                                                                                                  "Other / Unsure",
+    # Q12 -- physical differences
+    12L, "Almost Earth-like",                                                                                               "earth-like",
+    12L, "Somewhat different (manageable environmental differences)",                                                       "minor differences",
+    12L, "Moderately different (regular adaptation needed)",                                                                "moderately different",
+    12L, "Very different (human bodies/technology constantly challenged)",                                                  "very different",
+    12L, "Radically non-Earth-like (physics/environment fundamentally unlike Earth experience)",                            "radically different environment",
+    12L, "Other / Unsure",                                                                                                  "Other / Unsure"
+)
+
+
+# 4e. Ordinal vs nominal question identifiers.
+#
+# The 10 ordinal questions get integer codes 1..5 from each question's
+# canonical `answer_options` order (which is already low->high in
+# questions.json), with "Other / Unsure" -> NA for any ordinal-only
+# operation (mean, median, peak, alpha-ordinal).
+#
+# The 2 nominal questions (Q9 genre, Q11 nearest-neighbor metaphor) get
+# NA for ordinal_position regardless of answer.  See PROJECT_TASKS §2.6
+# and §5.4.
+ordinal_question_numbers <- c(1L, 2L, 3L, 4L, 5L, 6L, 7L, 8L, 10L, 12L)
+nominal_question_numbers <- c(9L, 11L)
+
+
 # -----------------------------------------------------------------------------
 # 5. Helper functions
 # -----------------------------------------------------------------------------
@@ -572,4 +694,133 @@ pivot_to_long <- function(df_wide, questions) {
           answer, justification,
           dplyr::any_of(c("source_file", "file_stem"))
       )
+}
+
+
+# 5h. get_answer_short(question_number, answer)
+#     question_number: integer vector of question IDs (1..12).
+#     answer:          character vector of canonical answer texts (must
+#                      match `questions.json$answer_options` exactly).
+#     Returns:         character vector of short labels from
+#                      answer_options_short_lookup, same length as inputs.
+#                      Returns NA where no short label is known and emits
+#                      a warning listing the offending (q, a) pairs so
+#                      typos surface immediately at the plot/table layer.
+get_answer_short <- function(question_number, answer) {
+
+    stopifnot(length(question_number) == length(answer))
+
+    keys <- tibble::tibble(
+        question_number = as.integer(question_number),
+        answer          = as.character(answer)
+    )
+
+    out <- keys %>%
+        dplyr::left_join(answer_options_short_lookup,
+                         by = c("question_number", "answer"))
+
+    missing <- out %>%
+        dplyr::filter(!is.na(answer), is.na(answer_short)) %>%
+        dplyr::distinct(question_number, answer)
+
+    if (nrow(missing) > 0) {
+        warning(
+            "get_answer_short(): no short label for ", nrow(missing),
+            " (question, answer) pair(s).  First few: ",
+            paste(
+                head(paste0("Q", missing$question_number, " ",
+                            sQuote(missing$answer)), 5),
+                collapse = " | "
+            ),
+            call. = FALSE
+        )
+    }
+
+    out$answer_short
+}
+
+
+# 5i. build_ordinal_lookup(questions)
+#     Build a long-format tibble mapping (question_number, answer) to
+#     an integer ordinal_position in 1..5 for ordinal questions, NA
+#     otherwise (Other / Unsure, and all answers to nominal questions).
+#     `questions` is the parsed contents of data/questions.json.
+build_ordinal_lookup <- function(questions) {
+
+    purrr::map_dfr(questions, function(q) {
+
+        qn   <- q$number
+        opts <- unlist(q$answer_options)
+        # Strip Other / Unsure from the substantive position assignment;
+        # it always maps to NA.
+        substantive <- setdiff(opts, "Other / Unsure")
+
+        positions <- if (qn %in% ordinal_question_numbers) {
+            as.integer(seq_along(substantive))
+        } else {
+            rep(NA_integer_, length(substantive))
+        }
+
+        tibble::tibble(
+            question_number  = as.integer(qn),
+            answer           = c(substantive, "Other / Unsure"),
+            ordinal_position = c(positions, NA_integer_)
+        )
+    })
+}
+
+
+# 5j. add_ordinal_position(df, questions)
+#     Take a long-format tibble with `question_number` and `answer`
+#     columns and add an `ordinal_position` column via left-join against
+#     build_ordinal_lookup(questions).  Surfaces any (question, answer)
+#     pair that isn't in the lookup as a warning.
+add_ordinal_position <- function(df, questions) {
+
+    lookup <- build_ordinal_lookup(questions)
+
+    out <- df %>%
+        dplyr::left_join(lookup,
+                         by = c("question_number", "answer"))
+
+    # Sanity check: every non-NA answer should have matched.
+    miss <- out %>%
+        dplyr::filter(!is.na(answer), is.na(ordinal_position),
+                      question_number %in% ordinal_question_numbers) %>%
+        dplyr::distinct(question_number, answer)
+
+    # Note: NA ordinal_position for Other / Unsure is EXPECTED, so we
+    # only warn if a non-Other answer to an ordinal question failed to
+    # match.
+    miss <- miss %>% dplyr::filter(answer != "Other / Unsure")
+    if (nrow(miss) > 0) {
+        warning(
+            "add_ordinal_position(): ", nrow(miss),
+            " ordinal (q, answer) pair(s) failed to match.  First few: ",
+            paste(
+                head(paste0("Q", miss$question_number, " ",
+                            sQuote(miss$answer)), 5),
+                collapse = " | "
+            ),
+            call. = FALSE
+        )
+    }
+
+    out
+}
+
+
+# 5k. load_collection_metadata(path)
+#     Read data/collection_metadata.csv (or another path) and return a
+#     tibble with columns: book, country, classification, is_collection,
+#     n_stories, story_chapter_mapping, uncertain, agent_notes.
+#     `book` is canonical and matches Claude's wide/long frames.
+load_collection_metadata <- function(path = file.path(
+                                         DATA_DIR,
+                                         "collection_metadata.csv")) {
+    readr::read_csv(
+        path,
+        show_col_types = FALSE,
+        progress       = FALSE
+    )
 }
