@@ -138,20 +138,35 @@ claude_long_split %>%
 
 # Chapter -> Book aggregation
 
+We produce two book-level frames:
+
+* **`book_level_split`** -- 106 rows.  Each chapter of a collection is
+  its own book row (with `parent_book` set).  This is what the country-
+  level aggregation uses so the collection-weighting parameter works.
+* **`book_level`** (headline) -- 46 rows, one per parent book.  Built
+  by collapsing collection rows in `book_level_split` via
+  `collapse_collections_to_books()`, which applies the mode-of-per-
+  story-modes rule with the same tie-breaking we use at the chapter ->
+  book layer.
+
 ```{r aggregate-books}
 
-book_level <- aggregate_chapter_to_book(claude_long_split, questions)
+book_level_split <- aggregate_chapter_to_book(claude_long_split, questions)
 
-cat("Book-level rows:", nrow(book_level), "\n")
-cat("Distinct books :", dplyr::n_distinct(book_level$book), "\n")
+book_level <- collapse_collections_to_books(book_level_split, questions)
+
+cat("Split book-level rows:    ", nrow(book_level_split), "\n")
+cat("Distinct books (split):   ", dplyr::n_distinct(book_level_split$book), "\n")
+cat("Collapsed book-level rows:", nrow(book_level), "\n")
+cat("Distinct books (headline):", dplyr::n_distinct(book_level$book), "\n")
 
 book_level %>%
     dplyr::count(tie_broken, name = "n") %>%
-    knitr::kable(caption = "Tie-broken book codings (low count is good)")
+    knitr::kable(caption = "Tie-broken book codings in the headline frame (low count is good)")
 
 book_level %>%
     dplyr::count(all_other_unsure, name = "n") %>%
-    knitr::kable(caption = "Book codings that fell back to Other / Unsure (all chapters were Other / Unsure)")
+    knitr::kable(caption = "Headline books that fell back to Other / Unsure (all chapters / stories were Other / Unsure)")
 
 ```
 
@@ -169,7 +184,8 @@ book_level %>%
                   !is.na(mode_answer), !is.na(peak_answer),
                   mode_answer != peak_answer) %>%
     dplyr::transmute(
-        country, book, question_number,
+        country, book,
+        q_label = q_label_short(question_number),
         mode_short = get_answer_short(question_number, mode_answer),
         peak_short = get_answer_short(question_number, peak_answer),
         peak_minus_mode = peak_position - mode_position
@@ -183,10 +199,15 @@ book_level %>%
 
 # Book -> Country aggregation
 
+The country roll-up uses the **split** book-level frame so the
+`collection_weight_mode` parameter can apply its 1/N down-weighting per
+collection story.  The headline 46-row collapsed frame is for plotting
+only.
+
 ```{r aggregate-countries}
 
 country_agg <- aggregate_book_to_country(
-    book_level,
+    book_level_split,
     collection_meta,
     weight_mode = collection_weight_mode
 )
@@ -212,32 +233,54 @@ country_aggregates %>%
 
 # Visualizations
 
+## Reference chart (color key for all subsequent plots)
+
+All ordinal questions (Q01-Q08, Q10, Q12) use the same 5-color
+gradient, with position 1 representing "safe / familiar / orderly"
+and position 5 representing "extreme / alien / chaotic".  Q02
+(inhabitable) and Q07 (commonness) were inverted vs the original
+questions.json order, and Q08 (polities) was reordered, to make the
+gradient consistent across questions.  Q09 and Q11 are nominal; each
+category has its own color shown below.  "Other / Unsure" is grey
+everywhere.
+
+```{r reference-chart, fig.width = 13, fig.height = 9}
+
+p_ref <- plot_legend_reference(questions)
+print(p_ref)
+
+ggplot2::ggsave(file.path(FIGURE_DIR, "reference_chart.png"),
+                p_ref, width = 13, height = 9, dpi = 120)
+
+```
+
+
 ## Book fingerprint heatmaps (mode + peak)
 
-With 4 collections split into stories, the fingerprint has 106 book-
-rows.  The figure is tall by design; collection rows for the same
-parent (e.g., 25 Martian Chronicles stories) appear together because
-the y-axis is sorted by country then book name.
+Headline view: 46 rows, one per parent book.  Collections are
+collapsed via mode-of-per-story-modes.  The full per-story (106-row)
+breakouts live in the Supplementary Analysis section near the end of
+this document.
 
-```{r book-fingerprint, fig.width = 11, fig.height = 22}
+```{r book-fingerprint, fig.width = 11, fig.height = 12}
 
 p_fp_mode <- plot_book_fingerprint(book_level, questions,
                                    use_field = "mode_answer")
 print(p_fp_mode)
 
 ggplot2::ggsave(file.path(FIGURE_DIR, "book_fingerprint_mode.png"),
-                p_fp_mode, width = 11, height = 22, dpi = 120)
+                p_fp_mode, width = 11, height = 12, dpi = 120)
 
 ```
 
-```{r book-fingerprint-peak, fig.width = 11, fig.height = 22}
+```{r book-fingerprint-peak, fig.width = 11, fig.height = 12}
 
 p_fp_peak <- plot_book_fingerprint(book_level, questions,
                                    use_field = "peak_answer")
 print(p_fp_peak)
 
 ggplot2::ggsave(file.path(FIGURE_DIR, "book_fingerprint_peak.png"),
-                p_fp_peak, width = 11, height = 22, dpi = 120)
+                p_fp_peak, width = 11, height = 12, dpi = 120)
 
 ```
 
@@ -342,14 +385,52 @@ for (q in questions) {
 
     qn <- q$number
 
-    cat("\n\n### Q", qn, ": ", q$criteria_short, "\n\n", sep = "")
+    cat("\n\n### ", q_label_short(qn), ": ", q$criteria_short, "\n\n", sep = "")
 
     p <- plot_trajectory_per_question(claude_long, qn, questions)
     print(p)
 
     ggplot2::ggsave(
-        file.path(FIGURE_DIR, paste0("trajectory_q", qn, ".png")),
+        file.path(FIGURE_DIR,
+                  paste0("trajectory_", q_label_short(qn), ".png")),
         p, width = 14, height = 16, dpi = 100
+    )
+}
+
+```
+
+
+# Supplementary Analysis
+
+The headline book fingerprint above collapses each collection into a
+single row via mode-of-per-story-modes.  In this section we present
+each collection's per-story breakout as a dedicated mini-fingerprint,
+so within-collection variation is visible for the four collections /
+anthologies in the corpus.
+
+```{r supplementary-collections, fig.width = 11, fig.height = 7, results = "asis"}
+
+collection_parents <- collection_meta %>%
+    dplyr::filter(is_collection) %>%
+    dplyr::arrange(country, book) %>%
+    dplyr::pull(book)
+
+for (parent in collection_parents) {
+
+    sub <- book_level_split %>%
+        dplyr::filter(parent_book == parent)
+
+    cat("\n\n## ", parent, " (", dplyr::n_distinct(sub$book),
+        " stories)\n\n", sep = "")
+
+    p <- plot_book_fingerprint(sub, questions, use_field = "mode_answer")
+    print(p)
+
+    safe_name <- gsub("[^A-Za-z0-9]+", "_", parent)
+    ggplot2::ggsave(
+        file.path(FIGURE_DIR,
+                  paste0("supplementary_fingerprint_", safe_name, ".png")),
+        p, width = 11, height = 7, dpi = 120
     )
 }
 
@@ -362,6 +443,8 @@ for (q in questions) {
 
 saveRDS(book_level,
         file.path(PROCESSED_DIR, "book_level.rds"))
+saveRDS(book_level_split,
+        file.path(PROCESSED_DIR, "book_level_split.rds"))
 saveRDS(country_distributions,
         file.path(PROCESSED_DIR, "country_distributions.rds"))
 saveRDS(country_aggregates,
@@ -369,6 +452,8 @@ saveRDS(country_aggregates,
 
 readr::write_csv(book_level,
                  file.path(PROCESSED_DIR, "book_level.csv"))
+readr::write_csv(book_level_split,
+                 file.path(PROCESSED_DIR, "book_level_split.csv"))
 readr::write_csv(country_distributions,
                  file.path(PROCESSED_DIR, "country_distributions.csv"))
 readr::write_csv(country_aggregates,
