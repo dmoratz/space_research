@@ -1,0 +1,415 @@
+---
+title: "Intercoder Reliability: Claude vs Human Coding"
+author: "Donald Moratz"
+date: "2026-05-25"
+output:
+  html_document:
+    toc: true
+    toc_depth: 3
+    number_sections: true
+    df_print: paged
+---
+
+```{r setup, include = FALSE}
+
+knitr::opts_chunk$set(
+    echo    = TRUE,
+    message = FALSE,
+    warning = FALSE
+)
+
+# Wipe the environment so every knit / run starts from a known state.
+rm(list = ls())
+
+# Load shared setup (packages, paths, helpers) and IRR-specific helpers.
+# Both files live alongside this .Rmd in scripts/.
+source("source.R")
+source("source_irr.R")
+
+```
+
+
+# Purpose
+
+This script computes intercoder reliability (IRR) between Claude's per-
+chapter coding (from `data/results/`) and the human-coded subset in
+`data/human_coded/`.  Five books are double-coded:
+
+* The Martian (long xlsx)
+* The Three-Body Problem (long xlsx)
+* Planet of the Apes (long xlsx; Q12 not coded by the human)
+* Off on a Comet (wide xlsx; first 10 chapters only)
+* Ender's Game (long csv; canonicalized 2026-05-25 by Donald)
+
+For every (book, question) pair we report:
+
+* `n_pairs`         -- chapters with non-missing answers from BOTH coders
+* `exact_agreement` -- proportion of pairs where Claude == Human
+* `kappa`           -- Cohen's unweighted kappa (nominal)
+* `kappa (w)`       -- Cohen's squared-weighted kappa (ordinal questions
+                       only: Q1-Q8, Q10, Q12)
+* `alpha`           -- Krippendorff's alpha (ordinal level for ordinal
+                       questions, nominal otherwise)
+
+Thresholds for "acceptable" reliability (from PROJECT_TASKS.md §3):
+
+* kappa  >= `r irr_threshold_kappa`
+* alpha  >= `r irr_threshold_alpha`
+
+Both per-(book, question) and pooled-by-question summaries are rendered as
+gt tables with pass/fail color coding, and the full pipeline writes a
+markdown report to `data/processed/intercoder_reliability_report.md`.
+
+---
+
+# Inputs
+
+## Load the research questions
+
+```{r load-questions}
+
+questions <- jsonlite::read_json(
+    QUESTIONS_JSON,
+    simplifyVector = FALSE
+)
+
+question_numbers <- purrr::map_int(questions, "number")
+ordinal_label    <- ifelse(question_numbers %in% ordinal_questions,
+                           "ordinal", "nominal")
+
+cat("Loaded", length(questions), "questions",
+    "(", sum(ordinal_label == "ordinal"), "ordinal,",
+        sum(ordinal_label == "nominal"), "nominal):\n")
+for (i in seq_along(questions)) {
+    q <- questions[[i]]
+    cat(sprintf("  q%-2d  [%s]  %s\n",
+                q$number, ordinal_label[i], q$criteria_short))
+}
+
+```
+
+
+## Load Claude's processed wide and long frames
+
+```{r load-claude}
+
+claude_wide <- readRDS(file.path(PROCESSED_DIR, "space_chapters_wide.rds"))
+claude_long <- readRDS(file.path(PROCESSED_DIR, "space_chapters_long.rds"))
+
+cat("Claude wide frame:", nrow(claude_wide), "rows x",
+    ncol(claude_wide), "cols\n")
+cat("Claude long frame:", nrow(claude_long), "rows x",
+    ncol(claude_long), "cols\n")
+cat("Distinct books in Claude data:", dplyr::n_distinct(claude_wide$book),
+    "\n")
+
+```
+
+
+## Restrict Claude to the 5 IRR books
+
+```{r filter-claude-to-irr}
+
+irr_books <- human_coded_files$book
+stopifnot(all(irr_books %in% claude_wide$book))
+
+claude_wide_irr <- claude_wide %>%
+    dplyr::filter(book %in% irr_books)
+
+claude_long_irr <- claude_long %>%
+    dplyr::filter(book %in% irr_books)
+
+cat("Claude chapters across the 5 IRR books:", nrow(claude_wide_irr), "\n")
+cat("Claude (chapter x question) cells:    ", nrow(claude_long_irr), "\n")
+
+claude_wide_irr %>%
+    dplyr::count(book, name = "claude_chapters") %>%
+    knitr::kable()
+
+```
+
+
+# Human-coded loaders
+
+## Load and clean all five files
+
+`load_all_human_coded()` runs the schema-specific loader for each book,
+applies the approved correction table, coerces NA / blank / non-canonical
+values to `"Other / Unsure"`, applies the per-book chapter alignment, and
+inner-joins to Claude's per-chapter answers.
+
+```{r load-human}
+
+paired <- load_all_human_coded(claude_wide_irr, claude_long_irr, questions)
+
+cat("Paired (book, chapter, question) rows:", nrow(paired), "\n")
+
+paired %>%
+    dplyr::count(book, name = "paired_cells") %>%
+    knitr::kable()
+
+```
+
+
+## Pipeline diagnostics
+
+```{r pipeline-diagnostics}
+
+raw_attr     <- attr(paired, "raw")
+cleaned_attr <- attr(paired, "cleaned")
+aligned_attr <- attr(paired, "aligned")
+residuals    <- attr(paired, "coerced_residuals")
+
+cat("Raw rows (before cleaning):    ", nrow(raw_attr),     "\n")
+cat("After NA coercion + corrections:", nrow(cleaned_attr), "\n")
+cat("After chapter alignment:       ", nrow(aligned_attr), "\n")
+cat("After inner-join to Claude:    ", nrow(paired),       "\n")
+
+if (!is.null(residuals) && nrow(residuals) > 0) {
+    cat("\nNon-canonical values coerced to 'Other / Unsure':",
+        nrow(residuals), "rows\n")
+    residuals %>%
+        dplyr::count(book, q_number, mapped_answer,
+                     name = "n") %>%
+        dplyr::arrange(dplyr::desc(n)) %>%
+        head(25) %>%
+        knitr::kable(caption = "Top non-canonical values coerced to 'Other / Unsure'")
+} else {
+    cat("\nNo non-canonical values needed to be coerced.\n")
+}
+
+```
+
+
+## Validate that all human answers are now canonical
+
+```{r validate-human}
+
+remaining <- validate_human_answers(cleaned_attr, questions)
+
+stopifnot(
+    "validate_human_answers(): non-canonical mapped_answer remains" =
+        nrow(remaining) == 0
+)
+
+cat("All cleaned human answers are canonical: OK\n")
+
+```
+
+
+## Coverage report -- which (book, question) pairs have data?
+
+```{r coverage}
+
+coverage <- paired %>%
+    dplyr::count(book, q_number, name = "n_pairs") %>%
+    tidyr::pivot_wider(names_from = q_number, values_from = n_pairs,
+                       names_prefix = "Q")
+
+knitr::kable(
+    coverage,
+    caption = paste("Per-(book, question) coverage after cleaning.",
+                    "Empty cells indicate the question was not coded for",
+                    "that book.")
+)
+
+```
+
+
+# IRR results
+
+## Per-(book, question) metrics
+
+```{r per-book-irr}
+
+irr_per_book <- compute_irr_per_question(paired, questions)
+
+irr_per_book %>%
+    format_irr_table(
+        caption       = "IRR per (book, question)",
+        group_by_book = TRUE
+    )
+
+```
+
+
+## Pooled-by-question metrics
+
+```{r pooled-irr}
+
+irr_overall <- compute_irr_overall(paired, questions)
+
+irr_overall %>%
+    format_irr_table(
+        caption       = "IRR pooled across all five IRR books, by question",
+        group_by_book = FALSE
+    )
+
+```
+
+
+## Corpus-wide pooled summary
+
+Three complementary roll-ups across **all** books and **all** questions:
+
+* **Pooled exact agreement** -- the simple share of cells where Claude
+  == Human across all `r nrow(paired)` paired cells.
+* **Mean kappa / weighted kappa / alpha** -- arithmetic mean of the
+  per-question values from `irr_overall` (each question weighted equally
+  regardless of n).
+* **Pooled alpha** -- Krippendorff's alpha computed on the whole paired
+  frame after re-encoding every `(question_number, answer)` tuple as a
+  unique nominal integer.  Treats the whole pipeline as a single nominal
+  coding task and gives one chance-corrected number for the corpus.
+
+The one-sided "Other / Unsure" drop still applies to the ordinal
+per-question metrics that feed the mean; the pooled-alpha re-encoding
+is nominal by construction, so Other / Unsure is just another category.
+
+```{r pooled-overall}
+
+irr_pooled <- compute_irr_pooled(paired, irr_overall)
+
+irr_pooled %>%
+    format_irr_pooled_table(
+        caption = "Corpus-wide pooled IRR summary"
+    )
+
+```
+
+
+## Threshold pass/fail summary
+
+```{r threshold-summary}
+
+pass_summary <- irr_overall %>%
+    dplyr::mutate(
+        kappa_pass          = !is.na(kappa) & kappa >= irr_threshold_kappa,
+        kappa_weighted_pass = !is.na(kappa_weighted) &
+            kappa_weighted >= irr_threshold_kappa,
+        alpha_pass          = !is.na(alpha) & alpha >= irr_threshold_alpha
+    )
+
+cat("Questions passing kappa >= ", irr_threshold_kappa, ": ",
+    sum(pass_summary$kappa_pass), " / ", nrow(pass_summary), "\n", sep = "")
+cat("Questions passing weighted kappa >= ", irr_threshold_kappa,
+    " (ordinal only): ",
+    sum(pass_summary$kappa_weighted_pass), " / ",
+    sum(pass_summary$scale == "ordinal"), "\n", sep = "")
+cat("Questions passing alpha >= ", irr_threshold_alpha, ": ",
+    sum(pass_summary$alpha_pass), " / ", nrow(pass_summary), "\n", sep = "")
+
+failing <- pass_summary %>%
+    dplyr::filter(!alpha_pass | !kappa_pass) %>%
+    dplyr::select(q_number, n_pairs, exact_agreement,
+                  kappa, kappa_weighted, alpha, scale)
+
+if (nrow(failing) > 0) {
+    knitr::kable(failing, caption = "Questions BELOW threshold (review).")
+} else {
+    cat("\nAll questions pass both thresholds.\n")
+}
+
+```
+
+
+# Save outputs
+
+```{r save-outputs}
+
+saveRDS(paired,        file.path(PROCESSED_DIR, "irr_paired.rds"))
+saveRDS(irr_per_book,  file.path(PROCESSED_DIR, "irr_per_book.rds"))
+saveRDS(irr_overall,   file.path(PROCESSED_DIR, "irr_overall.rds"))
+saveRDS(irr_pooled,    file.path(PROCESSED_DIR, "irr_pooled.rds"))
+
+readr::write_csv(paired,
+                 file.path(PROCESSED_DIR, "irr_paired.csv"))
+readr::write_csv(irr_per_book,
+                 file.path(PROCESSED_DIR, "irr_per_book.csv"))
+readr::write_csv(irr_overall,
+                 file.path(PROCESSED_DIR, "irr_overall.csv"))
+readr::write_csv(irr_pooled,
+                 file.path(PROCESSED_DIR, "irr_pooled.csv"))
+
+cat("Wrote IRR outputs to", PROCESSED_DIR, "\n")
+
+```
+
+
+## Generate intercoder_reliability_report.md
+
+A human-readable companion to this knit, written even if the .Rmd is run
+non-interactively.
+
+```{r write-report}
+
+report_lines <- c(
+    "# Intercoder Reliability Report",
+    "",
+    paste0("_Generated: ", format(Sys.time(), "%Y-%m-%d %H:%M:%S"), "_"),
+    "",
+    "## Inputs",
+    "",
+    paste0("- Claude processed long frame: ",
+           nrow(claude_long), " (book x chapter x question) cells across ",
+           dplyr::n_distinct(claude_wide$book), " books"),
+    paste0("- Human-coded books (5): ",
+           paste(human_coded_files$book, collapse = "; ")),
+    paste0("- Paired (Claude + Human) (book, chapter, question) rows: ",
+           nrow(paired)),
+    "",
+    "## Cleaning summary",
+    "",
+    paste0("- Raw human-coded long rows: ", nrow(raw_attr)),
+    paste0("- After corrections + NA -> 'Other / Unsure': ",
+           nrow(cleaned_attr)),
+    paste0("- After chapter alignment to Claude: ", nrow(aligned_attr)),
+    paste0("- Non-canonical values coerced to 'Other / Unsure': ",
+           if (is.null(residuals)) 0 else nrow(residuals)),
+    "",
+    "## Thresholds",
+    "",
+    paste0("- kappa >= ", irr_threshold_kappa),
+    paste0("- alpha >= ", irr_threshold_alpha),
+    "",
+    "## Corpus-wide pooled summary",
+    "",
+    knitr::kable(
+        irr_pooled %>%
+            dplyr::mutate(dplyr::across(c(pooled_exact_agreement,
+                                          mean_kappa, mean_kappa_weighted,
+                                          mean_alpha,
+                                          pooled_alpha_all,
+                                          pooled_alpha_excl_one_other),
+                                        ~ round(.x, 3))),
+        format = "markdown"
+    ),
+    "",
+    "## Pooled-by-question results",
+    "",
+    knitr::kable(
+        irr_overall %>%
+            dplyr::select(-dplyr::any_of(c("n_both_other", "n_one_other",
+                                           "n_pairs_ordinal"))) %>%
+            dplyr::mutate(dplyr::across(c(exact_agreement, kappa,
+                                          kappa_weighted, alpha),
+                                        ~ round(.x, 3))),
+        format = "markdown"
+    )
+)
+
+writeLines(
+    report_lines,
+    file.path(PROCESSED_DIR, "intercoder_reliability_report.md")
+)
+
+cat("Wrote intercoder_reliability_report.md to", PROCESSED_DIR, "\n")
+
+```
+
+
+# Session info
+
+```{r session-info}
+sessionInfo()
+```
