@@ -740,65 +740,141 @@ get_answer_short <- function(question_number, answer) {
 }
 
 
-# 5i. build_ordinal_lookup(questions)
-#     Build a long-format tibble mapping (question_number, answer) to
-#     an integer ordinal_position in 1..5 for ordinal questions, NA
-#     otherwise (Other / Unsure, and all answers to nominal questions).
-#     `questions` is the parsed contents of data/questions.json.
-build_ordinal_lookup <- function(questions) {
-
-    purrr::map_dfr(questions, function(q) {
-
-        qn   <- q$number
-        opts <- unlist(q$answer_options)
-        # Strip Other / Unsure from the substantive position assignment;
-        # it always maps to NA.
-        substantive <- setdiff(opts, "Other / Unsure")
-
-        positions <- if (qn %in% ordinal_question_numbers) {
-            as.integer(seq_along(substantive))
-        } else {
-            rep(NA_integer_, length(substantive))
-        }
-
-        tibble::tibble(
-            question_number  = as.integer(qn),
-            answer           = c(substantive, "Other / Unsure"),
-            ordinal_position = c(positions, NA_integer_)
-        )
-    })
-}
+# 5i. answer_options_ordinal_lookup
+#
+# Static (q, answer) -> ordinal_position lookup, encoding the
+# "safe / familiar / orderly = pos 1, extreme / alien / chaotic = pos 5"
+# direction Donald locked in 2026-05-26.  Differs from questions.json
+# answer_options ORDER in three places:
+#
+#   * Q02 inhabitable:  INVERTED -- extensive occupation = pos 1,
+#                       cannot inhabit = pos 5.
+#   * Q07 commonness:   INVERTED -- normalized / widespread = pos 1,
+#                       exceptionally rare = pos 5.
+#   * Q08 polities:     REORDERED to "degree of fragmentation":
+#                         1. Single unified authority
+#                         2. Earth nation-states extend into space
+#                         3. Multiple distinct space polities
+#                         4. Highly fragmented political landscape
+#                         5. No political order / ungoverned
+#
+# Other / Unsure always maps to NA_integer_ -- it's off the ordinal
+# scale.  Nominal questions (Q09 genre, Q11 metaphor) also have NA for
+# every answer.  See PROJECT_TASKS.md §5.4 for the design rationale.
+answer_options_ordinal_lookup <- tibble::tribble(
+    ~question_number, ~answer,                                                                                                  ~ordinal_position,
+    # Q1 -- contestation (NOT inverted)
+    1L,  "No contestation",                                                                                                     1L,
+    1L,  "Low contestation (minor competition, little open conflict)",                                                          2L,
+    1L,  "Moderate contestation (ongoing rivalry/disputes)",                                                                    3L,
+    1L,  "High contestation (frequent conflict or strategic struggle)",                                                         4L,
+    1L,  "Total war / constant conflict",                                                                                       5L,
+    1L,  "Other / Unsure",                                                                                                      NA_integer_,
+    # Q2 -- inhabitable (INVERTED from questions.json order)
+    2L,  "Extensive territorial occupation (many settled worlds/regions held like states or empires)",                          1L,
+    2L,  "Habitable and governable (permanent settlements can hold territory)",                                                 2L,
+    2L,  "Limited settlement (small colonies, hard to sustain/control)",                                                        3L,
+    2L,  "Visiting / Temporary presence only (stations, missions, outposts)",                                                   4L,
+    2L,  "Cannot inhabit or hold territory",                                                                                    5L,
+    2L,  "Other / Unsure",                                                                                                      NA_integer_,
+    # Q3 -- journey distance (NOT inverted)
+    3L,  "Near-Earth / very short journey",                                                                                     1L,
+    3L,  "Short interplanetary journey",                                                                                        2L,
+    3L,  "Moderate journey (months/meaningful separation)",                                                                     3L,
+    3L,  "Long-distance journey (years, major separation from Earth)",                                                          4L,
+    3L,  "Extreme / effectively unreachable (generational, completely separate, or one-way-feeling distance)",                  5L,
+    3L,  "Other / Unsure",                                                                                                      NA_integer_,
+    # Q4 -- cultural difference (NOT inverted)
+    4L,  "Basically Earth society in space",                                                                                    1L,
+    4L,  "Mostly Earth-like with minor adaptations",                                                                            2L,
+    4L,  "Mixed / hybrid culture",                                                                                              3L,
+    4L,  "Distinct space culture",                                                                                              4L,
+    4L,  "Radically different / alien social order",                                                                            5L,
+    4L,  "Other / Unsure",                                                                                                      NA_integer_,
+    # Q5 -- language (NOT inverted)
+    5L,  "Same languages as Earth",                                                                                             1L,
+    5L,  "Mostly same, with dialect/slang differences",                                                                         2L,
+    5L,  "Shared lingua franca plus local variation",                                                                           3L,
+    5L,  "Distinct space language(s)",                                                                                          4L,
+    5L,  "Translation-mediated communication (universal translator / communication tech makes language difference irrelevant)", 5L,
+    5L,  "Other / Unsure",                                                                                                      NA_integer_,
+    # Q6 -- geographic hostility (NOT inverted)
+    6L,  "Benign / easily survivable",                                                                                          1L,
+    6L,  "Manageable but risky",                                                                                                2L,
+    6L,  "Harsh and resource-intensive",                                                                                        3L,
+    6L,  "Extremely hostile (constant survival pressure)",                                                                      4L,
+    6L,  "Nearly uninhabitable / lethal without major intervention",                                                            5L,
+    6L,  "Other / Unsure",                                                                                                      NA_integer_,
+    # Q7 -- commonness (INVERTED)
+    7L,  "Normalized / widespread (space habitation is ordinary for humanity)",                                                 1L,
+    7L,  "Common (many people live/work there)",                                                                                2L,
+    7L,  "Moderately common (noticeable settlements/populations)",                                                              3L,
+    7L,  "Uncommon (small specialist population)",                                                                              4L,
+    7L,  "Exceptionally rare (few astronauts/explorers)",                                                                       5L,
+    7L,  "Other / Unsure",                                                                                                      NA_integer_,
+    # Q8 -- different countries (REORDERED: centralized -> fragmented)
+    8L,  "Single unified authority",                                                                                            1L,
+    8L,  "Earth nation-states extend into space",                                                                               2L,
+    8L,  "Multiple distinct space polities",                                                                                    3L,
+    8L,  "Highly fragmented political landscape (multipolar with many factions, corporations, colonies, microstates)",         4L,
+    8L,  "No political order / ungoverned",                                                                                     5L,
+    8L,  "Other / Unsure",                                                                                                      NA_integer_,
+    # Q9 -- genre (NOMINAL; no ordinal position)
+    9L,  "Adventure / exploration",                                                                                             NA_integer_,
+    9L,  "Drama",                                                                                                               NA_integer_,
+    9L,  "Political / diplomatic",                                                                                              NA_integer_,
+    9L,  "Military / war",                                                                                                      NA_integer_,
+    9L,  "Thriller / Horror / Survival",                                                                                        NA_integer_,
+    9L,  "Comedy / satire",                                                                                                     NA_integer_,
+    9L,  "Other / Unsure",                                                                                                      NA_integer_,
+    # Q10 -- military or civilian domain (NOT inverted)
+    10L, "Entirely civilian",                                                                                                   1L,
+    10L, "Mostly civilian with some military presence",                                                                         2L,
+    10L, "Mixed civilian-military domain",                                                                                      3L,
+    10L, "Mostly military",                                                                                                     4L,
+    10L, "Entirely military / war-focused",                                                                                     5L,
+    10L, "Other / Unsure",                                                                                                      NA_integer_,
+    # Q11 -- nearest neighbor (NOMINAL)
+    11L, "Totally unique domain",                                                                                               NA_integer_,
+    11L, "Like the ocean / naval",                                                                                              NA_integer_,
+    11L, "Like the air / airpower",                                                                                             NA_integer_,
+    11L, "Like the frontier / colonial expansion",                                                                              NA_integer_,
+    11L, "Like cyberspace / networked or abstract domain",                                                                      NA_integer_,
+    11L, "Other / Unsure",                                                                                                      NA_integer_,
+    # Q12 -- physical differences (NOT inverted)
+    12L, "Almost Earth-like",                                                                                                   1L,
+    12L, "Somewhat different (manageable environmental differences)",                                                           2L,
+    12L, "Moderately different (regular adaptation needed)",                                                                    3L,
+    12L, "Very different (human bodies/technology constantly challenged)",                                                      4L,
+    12L, "Radically non-Earth-like (physics/environment fundamentally unlike Earth experience)",                                5L,
+    12L, "Other / Unsure",                                                                                                      NA_integer_
+)
 
 
 # 5j. add_ordinal_position(df, questions)
 #     Take a long-format tibble with `question_number` and `answer`
 #     columns and add an `ordinal_position` column via left-join against
-#     build_ordinal_lookup(questions).  Surfaces any (question, answer)
-#     pair that isn't in the lookup as a warning.
-add_ordinal_position <- function(df, questions) {
-
-    lookup <- build_ordinal_lookup(questions)
+#     answer_options_ordinal_lookup.  `questions` is accepted for
+#     backwards compatibility but no longer used.
+add_ordinal_position <- function(df, questions = NULL) {
 
     out <- df %>%
-        dplyr::left_join(lookup,
+        dplyr::left_join(answer_options_ordinal_lookup,
                          by = c("question_number", "answer"))
 
-    # Sanity check: every non-NA answer should have matched.
+    # Sanity check: every non-Other / Unsure ordinal answer should match.
     miss <- out %>%
         dplyr::filter(!is.na(answer), is.na(ordinal_position),
                       question_number %in% ordinal_question_numbers) %>%
         dplyr::distinct(question_number, answer)
 
-    # Note: NA ordinal_position for Other / Unsure is EXPECTED, so we
-    # only warn if a non-Other answer to an ordinal question failed to
-    # match.
     miss <- miss %>% dplyr::filter(answer != "Other / Unsure")
     if (nrow(miss) > 0) {
         warning(
             "add_ordinal_position(): ", nrow(miss),
             " ordinal (q, answer) pair(s) failed to match.  First few: ",
             paste(
-                head(paste0("Q", miss$question_number, " ",
+                head(paste0("Q", sprintf("%02d", miss$question_number), " ",
                             sQuote(miss$answer)), 5),
                 collapse = " | "
             ),
@@ -810,7 +886,40 @@ add_ordinal_position <- function(df, questions) {
 }
 
 
-# 5k. load_collection_metadata(path)
+# 5k. get_factor_levels(qn, questions)
+#     Return the canonical factor levels for question `qn` in display
+#     order.  For ordinal questions we use the order in
+#     answer_options_ordinal_lookup (ordinal_position 1..5 then NA last);
+#     for nominal questions we fall back to questions.json's
+#     answer_options order (with Other / Unsure last by convention).
+#
+#     Used by:
+#       * IRR computations in source_irr.R (factor levels determine the
+#         integer codes that feed weighted kappa / ordinal alpha)
+#       * Plot color lookups in source_analysis.R (legend ordering)
+#       * Tie-breaking in book-level aggregation (canonical_levels arg)
+get_factor_levels <- function(qn, questions) {
+
+    qn <- as.integer(qn)
+
+    if (qn %in% ordinal_question_numbers) {
+        ql <- answer_options_ordinal_lookup %>%
+            dplyr::filter(question_number == qn) %>%
+            dplyr::arrange(ordinal_position, .by_group = FALSE)
+        # NA (Other / Unsure) sorts last by default in dplyr::arrange.
+        return(ql$answer)
+    }
+
+    # Nominal: questions.json order.
+    q <- purrr::detect(questions, ~ identical(as.integer(.x$number), qn))
+    if (is.null(q)) {
+        stop("get_factor_levels: question ", qn, " not found in questions")
+    }
+    unlist(q$answer_options)
+}
+
+
+# 5l. load_collection_metadata(path)
 #     Read data/collection_metadata.csv (or another path) and return a
 #     tibble with columns: book, country, classification, is_collection,
 #     n_stories, story_chapter_mapping, uncertain, agent_notes.

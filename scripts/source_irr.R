@@ -739,11 +739,27 @@ compute_irr_metrics <- function(claude_answer, human_answer, qn,
 }
 
 
+# Helper: build_irr_canonical(questions)
+#     Build the canonical-levels list used by compute_irr_metrics().
+#     For ORDINAL questions we use the order from
+#     answer_options_ordinal_lookup (which Donald reordered 2026-05-26:
+#     Q2 / Q7 inverted, Q8 reordered).  For NOMINAL questions we keep
+#     the questions.json order.  This is what gives kappa_weighted and
+#     ordinal alpha the right ordinal distances.
+build_irr_canonical <- function(questions) {
+    canonical <- list()
+    for (q in questions) {
+        qn <- as.integer(q$number)
+        canonical[[as.character(qn)]] <- get_factor_levels(qn, questions)
+    }
+    canonical
+}
+
+
 # 8b. compute_irr_per_question(): per (book, question) row of metrics.
 compute_irr_per_question <- function(paired, questions) {
 
-    canonical <- purrr::map(questions, "answer_options")
-    names(canonical) <- purrr::map_int(questions, "number")
+    canonical <- build_irr_canonical(questions)
 
     paired %>%
         dplyr::group_by(book, q_number) %>%
@@ -758,8 +774,7 @@ compute_irr_per_question <- function(paired, questions) {
 # 8c. compute_irr_overall(): pool across books, one row per question.
 compute_irr_overall <- function(paired, questions) {
 
-    canonical <- purrr::map(questions, "answer_options")
-    names(canonical) <- purrr::map_int(questions, "number")
+    canonical <- build_irr_canonical(questions)
 
     paired %>%
         dplyr::group_by(q_number) %>%
